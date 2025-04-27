@@ -30,7 +30,7 @@ const currentQuestion = ref(-1);
 
 const resetGameData = async () => {
   const languageCode = localStorage.getItem("languageCode");
-  const responseJson = await loadJson(`/sr-foodquiz/${languageCode}/content.json`);
+  const responseJson = await loadJson(`/sr-foodquizfreemode/${languageCode}/content.json`);
   const loadedQuestions = responseJson.questions;
 
   gameData.value.status = "INIT";

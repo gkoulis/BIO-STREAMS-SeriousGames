@@ -1,6 +1,11 @@
 Changelog
 ===
 
+# v0.1.2 Sunday 27 April 2025
+
+- Renamed directory sr-foodquiz to sr-foodquizfreemode
+- Minor change in Game.vue
+
 # v0.1.1 Sunday 27 April 2025
 
 - Renamed Food Quiz to Food Quiz Free Mode
