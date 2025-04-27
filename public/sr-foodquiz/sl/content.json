@@ -1,0 +1,214 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Kateri izmed naslednjih je zdrav vir beljakovin?",
+      "category": {
+        "id": "category-1",
+        "text": "Zdrava Prehrana"
+      },
+      "answers": [
+        { "id": 1, "text": "Pečena piščančja prsa", "correct": true },
+        { "id": 2, "text": "Čips", "correct": false },
+        { "id": 3, "text": "Čokoladna ploščica", "correct": false },
+        { "id": 4, "text": "Gazirana pijača", "correct": false }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Kakšna je glavna prednost uživanja listnate zelenjave?",
+      "category": {
+        "id": "category-1",
+        "text": "Zdrava Prehrana"
+      },
+      "answers": [
+        { "id": 1, "text": "Bogata je z vitamini in minerali", "correct": true },
+        { "id": 2, "text": "Vsebuje veliko sladkorja", "correct": false },
+        { "id": 3, "text": "Vsebuje nezdrave maščobe", "correct": false },
+        { "id": 4, "text": "Povečuje žejo", "correct": false }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Katera izmed teh pijač je najbolj zdrava izbira?",
+      "category": {
+        "id": "category-2",
+        "text": "Zdrave Navade"
+      },
+      "answers": [
+        { "id": 1, "text": "Voda", "correct": true },
+        { "id": 2, "text": "Gazirana pijača", "correct": false },
+        { "id": 3, "text": "Energijska pijača", "correct": false },
+        { "id": 4, "text": "Sladkana limonada", "correct": false }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Koliko telesne aktivnosti se priporoča odraslim na teden?",
+      "category": {
+        "id": "category-2",
+        "text": "Zdrave Navade"
+      },
+      "answers": [
+        { "id": 1, "text": "150 minut zmerne aktivnosti", "correct": true },
+        { "id": 2, "text": "30 minut enkrat mesečno", "correct": false },
+        { "id": 3, "text": "10 minut tedensko", "correct": false },
+        { "id": 4, "text": "Telesna dejavnost ni potrebna", "correct": false }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Katera vrsta maščobe je zdrava v zmernih količinah?",
+      "category": {
+        "id": "category-1",
+        "text": "Zdrava Prehrana"
+      },
+      "answers": [
+        { "id": 1, "text": "Nasičene maščobe", "correct": true },
+        { "id": 2, "text": "Trans maščobe", "correct": false },
+        { "id": 3, "text": "Predelane maščobe", "correct": false },
+        { "id": 4, "text": "Umetne maščobe", "correct": false }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Katera izmed naslednjih živil je bogata z omega-3 maščobnimi kislinami?",
+      "category": {
+        "id": "category-1",
+        "text": "Zdrava Prehrana"
+      },
+      "answers": [
+        { "id": 1, "text": "Losos", "correct": true },
+        { "id": 2, "text": "Beli kruh", "correct": false },
+        { "id": 3, "text": "Bonboni", "correct": false },
+        { "id": 4, "text": "Ocvrti piščanec", "correct": false }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Kateri je najboljši način za ohranjanje hidracije čez dan?",
+      "category": {
+        "id": "category-2",
+        "text": "Zdrave Navade"
+      },
+      "answers": [
+        { "id": 1, "text": "Redno pitje vode", "correct": true },
+        { "id": 2, "text": "Pitje sladkih pijač", "correct": false },
+        { "id": 3, "text": "Izogibanje tekočinam", "correct": false },
+        { "id": 4, "text": "Pitje samo kave", "correct": false }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Katera izmed naslednjih je zdrava polnozrnata žitarica?",
+      "category": {
+        "id": "category-1",
+        "text": "Zdrava Prehrana"
+      },
+      "answers": [
+        { "id": 1, "text": "Rjavi riž", "correct": true },
+        { "id": 2, "text": "Bela moka", "correct": false },
+        { "id": 3, "text": "Rafinirani sladkor", "correct": false },
+        { "id": 4, "text": "Čips", "correct": false }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Zakaj je spanec pomemben za splošno zdravje?",
+      "category": {
+        "id": "category-2",
+        "text": "Zdrave Navade"
+      },
+      "answers": [
+        { "id": 1, "text": "Pomaga telesu pri obnovi in okrevanju", "correct": true },
+        { "id": 2, "text": "Povečuje pridobivanje teže", "correct": false },
+        { "id": 3, "text": "Zmanjšuje telesno aktivnost", "correct": false },
+        { "id": 4, "text": "Povzroča utrujenost", "correct": false }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Kateri je enostaven način za zmanjšanje vnosa sladkorja v prehrani?",
+      "category": {
+        "id": "category-2",
+        "text": "Zdrave Navade"
+      },
+      "answers": [
+        { "id": 1, "text": "Pitje nesladkanih pijač", "correct": true },
+        { "id": 2, "text": "Uživanje več sladkarij", "correct": false },
+        { "id": 3, "text": "Dodajanje sladkorja v vse obroke", "correct": false },
+        { "id": 4, "text": "Izogibanje vsemu sadju", "correct": false }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Katera izmed naslednjih živil je dober vir prehranskih vlaknin?",
+      "category": {
+        "id": "category-1",
+        "text": "Zdrava Prehrana"
+      },
+      "answers": [
+        { "id": 1, "text": "Oves", "correct": true },
+        { "id": 2, "text": "Sladoled", "correct": false },
+        { "id": 3, "text": "Ocvrti krompir", "correct": false },
+        { "id": 4, "text": "Maslo", "correct": false }
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Kakšna je ena izmed prednosti redne telesne aktivnosti?",
+      "category": {
+        "id": "category-2",
+        "text": "Zdrave Navade"
+      },
+      "answers": [
+        { "id": 1, "text": "Izboljšuje zdravje srca", "correct": true },
+        { "id": 2, "text": "Povečuje stres", "correct": false },
+        { "id": 3, "text": "Zmanjšuje kakovost spanja", "correct": false },
+        { "id": 4, "text": "Slabi mišice", "correct": false }
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Katero sadje je znano po visoki vsebnosti vitamina C?",
+      "category": {
+        "id": "category-1",
+        "text": "Zdrava Prehrana"
+      },
+      "answers": [
+        { "id": 1, "text": "Pomaranče", "correct": true },
+        { "id": 2, "text": "Banane", "correct": false },
+        { "id": 3, "text": "Kruh", "correct": false },
+        { "id": 4, "text": "Čokolada", "correct": false }
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Kaj je treba narediti pred vadbo, da se preprečijo poškodbe?",
+      "category": {
+        "id": "category-2",
+        "text": "Zdrave Navade"
+      },
+      "answers": [
+        { "id": 1, "text": "Pravilno ogrevanje", "correct": true },
+        { "id": 2, "text": "Preskočiti raztezanje", "correct": false },
+        { "id": 3, "text": "Popiti kavo", "correct": false },
+        { "id": 4, "text": "Pojesti težek obrok", "correct": false }
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Katero hranilo je ključno za močne kosti?",
+      "category": {
+        "id": "category-1",
+        "text": "Zdrava Prehrana"
+      },
+      "answers": [
+        { "id": 1, "text": "Kalcij", "correct": true },
+        { "id": 2, "text": "Sladkor", "correct": false },
+        { "id": 3, "text": "Natrij", "correct": false },
+        { "id": 4, "text": "Kofein", "correct": false }
+      ]
+    }
+  ]
+}

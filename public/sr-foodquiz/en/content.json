@@ -1,0 +1,214 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is considered a healthy source of protein?",
+      "category": {
+        "id": "category-1",
+        "text": "Healthy Food"
+      },
+      "answers": [
+        { "id": 1, "text": "Grilled chicken breast", "correct": true },
+        { "id": 2, "text": "Potato chips", "correct": false },
+        { "id": 3, "text": "Candy bar", "correct": false },
+        { "id": 4, "text": "Soda", "correct": false }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What is a key benefit of eating leafy green vegetables?",
+      "category": {
+        "id": "category-1",
+        "text": "Healthy Food"
+      },
+      "answers": [
+        { "id": 1, "text": "They are rich in vitamins and minerals", "correct": true },
+        { "id": 2, "text": "They contain a lot of sugar", "correct": false },
+        { "id": 3, "text": "They are high in unhealthy fats", "correct": false },
+        { "id": 4, "text": "They increase thirst", "correct": false }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which of these drinks is the healthiest option?",
+      "category": {
+        "id": "category-2",
+        "text": "Healthy Habits"
+      },
+      "answers": [
+        { "id": 1, "text": "Water", "correct": true },
+        { "id": 2, "text": "Soda", "correct": false },
+        { "id": 3, "text": "Energy drink", "correct": false },
+        { "id": 4, "text": "Sugary lemonade", "correct": false }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "How much physical activity is recommended for adults per week?",
+      "category": {
+        "id": "category-2",
+        "text": "Healthy Habits"
+      },
+      "answers": [
+        { "id": 1, "text": "150 minutes of moderate activity", "correct": true },
+        { "id": 2, "text": "30 minutes once a month", "correct": false },
+        { "id": 3, "text": "10 minutes per week", "correct": false },
+        { "id": 4, "text": "No physical activity required", "correct": false }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What type of fat is considered healthy in moderation?",
+      "category": {
+        "id": "category-1",
+        "text": "Healthy Food"
+      },
+      "answers": [
+        { "id": 1, "text": "Unsaturated fat", "correct": true },
+        { "id": 2, "text": "Trans fat", "correct": false },
+        { "id": 3, "text": "Processed fat", "correct": false },
+        { "id": 4, "text": "Artificial fat", "correct": false }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which of the following foods is rich in omega-3 fatty acids?",
+      "category": {
+        "id": "category-1",
+        "text": "Healthy Food"
+      },
+      "answers": [
+        { "id": 1, "text": "Salmon", "correct": true },
+        { "id": 2, "text": "White bread", "correct": false },
+        { "id": 3, "text": "Candy", "correct": false },
+        { "id": 4, "text": "Fried chicken", "correct": false }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What is the best way to stay hydrated throughout the day?",
+      "category": {
+        "id": "category-2",
+        "text": "Healthy Habits"
+      },
+      "answers": [
+        { "id": 1, "text": "Drink water regularly", "correct": true },
+        { "id": 2, "text": "Drink sugary drinks", "correct": false },
+        { "id": 3, "text": "Avoid liquids", "correct": false },
+        { "id": 4, "text": "Drink only coffee", "correct": false }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is a healthy whole grain?",
+      "category": {
+        "id": "category-1",
+        "text": "Healthy Food"
+      },
+      "answers": [
+        { "id": 1, "text": "Brown rice", "correct": true },
+        { "id": 2, "text": "White flour", "correct": false },
+        { "id": 3, "text": "Refined sugar", "correct": false },
+        { "id": 4, "text": "Potato chips", "correct": false }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Why is sleep important for overall health?",
+      "category": {
+        "id": "category-2",
+        "text": "Healthy Habits"
+      },
+      "answers": [
+        { "id": 1, "text": "It helps the body recover and repair", "correct": true },
+        { "id": 2, "text": "It increases weight gain", "correct": false },
+        { "id": 3, "text": "It reduces physical activity", "correct": false },
+        { "id": 4, "text": "It causes fatigue", "correct": false }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What is a simple way to reduce sugar intake in your diet?",
+      "category": {
+        "id": "category-2",
+        "text": "Healthy Habits"
+      },
+      "answers": [
+        { "id": 1, "text": "Drink unsweetened beverages", "correct": true },
+        { "id": 2, "text": "Eat more candy", "correct": false },
+        { "id": 3, "text": "Add sugar to all meals", "correct": false },
+        { "id": 4, "text": "Avoid all fruits", "correct": false }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Which of the following foods is a good source of dietary fiber?",
+      "category": {
+        "id": "category-1",
+        "text": "Healthy Food"
+      },
+      "answers": [
+        { "id": 1, "text": "Oats", "correct": true },
+        { "id": 2, "text": "Ice cream", "correct": false },
+        { "id": 3, "text": "Fried chips", "correct": false },
+        { "id": 4, "text": "Butter", "correct": false }
+      ]
+    },
+    {
+      "id": 12,
+      "question": "What is one benefit of regular physical activity?",
+      "category": {
+        "id": "category-2",
+        "text": "Healthy Habits"
+      },
+      "answers": [
+        { "id": 1, "text": "Improves heart health", "correct": true },
+        { "id": 2, "text": "Increases stress levels", "correct": false },
+        { "id": 3, "text": "Reduces sleep quality", "correct": false },
+        { "id": 4, "text": "Weakens muscles", "correct": false }
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Which fruit is known to be high in vitamin C?",
+      "category": {
+        "id": "category-1",
+        "text": "Healthy Food"
+      },
+      "answers": [
+        { "id": 1, "text": "Oranges", "correct": true },
+        { "id": 2, "text": "Bananas", "correct": false },
+        { "id": 3, "text": "Bread", "correct": false },
+        { "id": 4, "text": "Chocolate", "correct": false }
+      ]
+    },
+    {
+      "id": 14,
+      "question": "What should you do before a workout to prevent injury?",
+      "category": {
+        "id": "category-2",
+        "text": "Healthy Habits"
+      },
+      "answers": [
+        { "id": 1, "text": "Warm up properly", "correct": true },
+        { "id": 2, "text": "Skip stretching", "correct": false },
+        { "id": 3, "text": "Drink coffee", "correct": false },
+        { "id": 4, "text": "Eat a heavy meal", "correct": false }
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Which nutrient is essential for strong bones?",
+      "category": {
+        "id": "category-1",
+        "text": "Healthy Food"
+      },
+      "answers": [
+        { "id": 1, "text": "Calcium", "correct": true },
+        { "id": 2, "text": "Sugar", "correct": false },
+        { "id": 3, "text": "Sodium", "correct": false },
+        { "id": 4, "text": "Caffeine", "correct": false }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+Convert .webp to png.
+
+```
+for file in *.webp; do dwebp "$file" -o "${file%.webp}.png"; done
+```
+
+Remove BG
+https://www.pixelcut.ai/t/background-remover
+
+OR
+
+```
+mkdir -p output && for img in *.png; do convert "$img" -fuzz 20% -transparent white "output/$img"; done
+mkdir -p output && for img in *.png; do convert "$img" -fuzz 15% -fill none -draw "color 0,0 floodfill" -alpha off -channel RGBA -alpha set "output/$img"; done
+```
+
+
+TODOs:
+- GAME FLOW / PROCESS for all serious games.
+- Improve randomness algorithm
+- Add popularity / frequency to foods
+- Create a good algorithmic for balance
+- Check in mobile
+- PWA
+- Graphics
+- Sounds
+- Effects
+- Documentation
+- Story and Instructions
+- Add sounds to food-quiz
+- Add score card after game finishes (food-quiz)
+- Keep track on correct/incorrect answers. Show them to the user to review them...

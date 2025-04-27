@@ -1,0 +1,23 @@
+/**************************************************
+ * Globals
+ **************************************************/
+
+html,
+body {
+  /*background-color: #e5e7eb;*/
+  font-family: "Kodchasan", sans-serif;
+}
+
+.CommonContainerForSeriousGames--White {
+  padding: 1em;
+  border-radius: 20px;
+  background: white;
+  /* background-color: pink; */
+  box-shadow:
+    0 4px 6px rgba(0, 0, 0, 0.1),
+    0 10px 15px rgba(0, 0, 0, 0.15);
+}
+
+.NumFont1 {
+  font-family: "Knewave", cursive;
+}

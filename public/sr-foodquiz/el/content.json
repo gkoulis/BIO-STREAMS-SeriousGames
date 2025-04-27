@@ -1,0 +1,214 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Ποια από τα παρακάτω θεωρείται υγιεινή πηγή πρωτεΐνης;",
+      "category": {
+        "id": "category-1",
+        "text": "Υγιεινή Διατροφή"
+      },
+      "answers": [
+        { "id": 1, "text": "Ψητό στήθος κοτόπουλου", "correct": true },
+        { "id": 2, "text": "Πατατάκια", "correct": false },
+        { "id": 3, "text": "Μπάρες σοκολάτας", "correct": false },
+        { "id": 4, "text": "Αναψυκτικό", "correct": false }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Ποιο είναι ένα βασικό όφελος από την κατανάλωση πράσινων φυλλωδών λαχανικών;",
+      "category": {
+        "id": "category-1",
+        "text": "Υγιεινή Διατροφή"
+      },
+      "answers": [
+        { "id": 1, "text": "Είναι πλούσια σε βιταμίνες και μέταλλα", "correct": true },
+        { "id": 2, "text": "Περιέχουν πολλή ζάχαρη", "correct": false },
+        { "id": 3, "text": "Έχουν πολλά ανθυγιεινά λιπαρά", "correct": false },
+        { "id": 4, "text": "Αυξάνουν τη δίψα", "correct": false }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Ποιο από τα παρακάτω ποτά είναι η πιο υγιεινή επιλογή;",
+      "category": {
+        "id": "category-2",
+        "text": "Υγιεινές Συνήθειες"
+      },
+      "answers": [
+        { "id": 1, "text": "Νερό", "correct": true },
+        { "id": 2, "text": "Αναψυκτικό", "correct": false },
+        { "id": 3, "text": "Ενεργειακό ποτό", "correct": false },
+        { "id": 4, "text": "Λεμονάδα με ζάχαρη", "correct": false }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Πόση φυσική δραστηριότητα συνιστάται για ενήλικες ανά εβδομάδα;",
+      "category": {
+        "id": "category-2",
+        "text": "Υγιεινές Συνήθειες"
+      },
+      "answers": [
+        { "id": 1, "text": "150 λεπτά μέτριας δραστηριότητας", "correct": true },
+        { "id": 2, "text": "30 λεπτά μία φορά τον μήνα", "correct": false },
+        { "id": 3, "text": "10 λεπτά την εβδομάδα", "correct": false },
+        { "id": 4, "text": "Καμία φυσική δραστηριότητα", "correct": false }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Ποιος τύπος λίπους θεωρείται υγιεινός με μέτρο;",
+      "category": {
+        "id": "category-1",
+        "text": "Υγιεινή Διατροφή"
+      },
+      "answers": [
+        { "id": 1, "text": "Ακόρεστο λίπος", "correct": true },
+        { "id": 2, "text": "Τρανς λιπαρά", "correct": false },
+        { "id": 3, "text": "Επεξεργασμένα λιπαρά", "correct": false },
+        { "id": 4, "text": "Τεχνητά λιπαρά", "correct": false }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Ποιο από τα παρακάτω τρόφιμα είναι πλούσιο σε ωμέγα-3 λιπαρά οξέα;",
+      "category": {
+        "id": "category-1",
+        "text": "Υγιεινή Διατροφή"
+      },
+      "answers": [
+        { "id": 1, "text": "Σολομός", "correct": true },
+        { "id": 2, "text": "Λευκό ψωμί", "correct": false },
+        { "id": 3, "text": "Καραμέλες", "correct": false },
+        { "id": 4, "text": "Τηγανητό κοτόπουλο", "correct": false }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Ποιος είναι ο καλύτερος τρόπος για να παραμείνετε ενυδατωμένοι κατά τη διάρκεια της ημέρας;",
+      "category": {
+        "id": "category-2",
+        "text": "Υγιεινές Συνήθειες"
+      },
+      "answers": [
+        { "id": 1, "text": "Να πίνετε νερό τακτικά", "correct": true },
+        { "id": 2, "text": "Να πίνετε ζαχαρούχα ποτά", "correct": false },
+        { "id": 3, "text": "Να αποφεύγετε τα υγρά", "correct": false },
+        { "id": 4, "text": "Να πίνετε μόνο καφέ", "correct": false }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Ποιο από τα παρακάτω είναι ένας υγιεινός ολικής άλεσης υδατάνθρακας;",
+      "category": {
+        "id": "category-1",
+        "text": "Υγιεινή Διατροφή"
+      },
+      "answers": [
+        { "id": 1, "text": "Καφέ ρύζι", "correct": true },
+        { "id": 2, "text": "Λευκό αλεύρι", "correct": false },
+        { "id": 3, "text": "Ραφιναρισμένη ζάχαρη", "correct": false },
+        { "id": 4, "text": "Πατατάκια", "correct": false }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Γιατί είναι σημαντικός ο ύπνος για τη συνολική υγεία;",
+      "category": {
+        "id": "category-2",
+        "text": "Υγιεινές Συνήθειες"
+      },
+      "answers": [
+        { "id": 1, "text": "Βοηθά το σώμα να ανακάμψει και να επουλωθεί", "correct": true },
+        { "id": 2, "text": "Αυξάνει την αύξηση βάρους", "correct": false },
+        { "id": 3, "text": "Μειώνει τη σωματική δραστηριότητα", "correct": false },
+        { "id": 4, "text": "Προκαλεί κόπωση", "correct": false }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Ποιος είναι ένας απλός τρόπος για να μειώσετε την κατανάλωση ζάχαρης στη διατροφή σας;",
+      "category": {
+        "id": "category-2",
+        "text": "Υγιεινές Συνήθειες"
+      },
+      "answers": [
+        { "id": 1, "text": "Πίνετε μη ζαχαρούχα ροφήματα", "correct": true },
+        { "id": 2, "text": "Τρώτε περισσότερα γλυκά", "correct": false },
+        { "id": 3, "text": "Προσθέτετε ζάχαρη σε όλα τα γεύματα", "correct": false },
+        { "id": 4, "text": "Αποφεύγετε όλα τα φρούτα", "correct": false }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Ποια από τα παρακάτω τρόφιμα είναι καλή πηγή φυτικών ινών;",
+      "category": {
+        "id": "category-1",
+        "text": "Υγιεινή Διατροφή"
+      },
+      "answers": [
+        { "id": 1, "text": "Βρώμη", "correct": true },
+        { "id": 2, "text": "Παγωτό", "correct": false },
+        { "id": 3, "text": "Τηγανητές πατάτες", "correct": false },
+        { "id": 4, "text": "Βούτυρο", "correct": false }
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Ποιο είναι ένα όφελος από τη συστηματική σωματική άσκηση;",
+      "category": {
+        "id": "category-2",
+        "text": "Υγιεινές Συνήθειες"
+      },
+      "answers": [
+        { "id": 1, "text": "Βελτιώνει την υγεία της καρδιάς", "correct": true },
+        { "id": 2, "text": "Αυξάνει τα επίπεδα στρες", "correct": false },
+        { "id": 3, "text": "Μειώνει την ποιότητα του ύπνου", "correct": false },
+        { "id": 4, "text": "Αδυνατίζει τους μύες", "correct": false }
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Ποιο φρούτο είναι γνωστό ότι περιέχει υψηλή ποσότητα βιταμίνης C;",
+      "category": {
+        "id": "category-1",
+        "text": "Υγιεινή Διατροφή"
+      },
+      "answers": [
+        { "id": 1, "text": "Πορτοκάλια", "correct": true },
+        { "id": 2, "text": "Μπανάνες", "correct": false },
+        { "id": 3, "text": "Ψωμί", "correct": false },
+        { "id": 4, "text": "Σοκολάτα", "correct": false }
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Τι πρέπει να κάνετε πριν από την άσκηση για να αποφύγετε τραυματισμούς;",
+      "category": {
+        "id": "category-2",
+        "text": "Υγιεινές Συνήθειες"
+      },
+      "answers": [
+        { "id": 1, "text": "Να κάνετε σωστή προθέρμανση", "correct": true },
+        { "id": 2, "text": "Να παραλείψετε τις διατάσεις", "correct": false },
+        { "id": 3, "text": "Να πιείτε καφέ", "correct": false },
+        { "id": 4, "text": "Να φάτε ένα βαρύ γεύμα", "correct": false }
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Ποιο θρεπτικό συστατικό είναι απαραίτητο για γερά οστά;",
+      "category": {
+        "id": "category-1",
+        "text": "Υγιεινή Διατροφή"
+      },
+      "answers": [
+        { "id": 1, "text": "Ασβέστιο", "correct": true },
+        { "id": 2, "text": "Ζάχαρη", "correct": false },
+        { "id": 3, "text": "Νάτριο", "correct": false },
+        { "id": 4, "text": "Καφεΐνη", "correct": false }
+      ]
+    }
+  ]
+}

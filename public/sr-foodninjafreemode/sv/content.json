@@ -1,0 +1,31 @@
+{
+  "foods": [
+    { "id": "apple", "name": "Äpple", "categoryId": "fruit", "categoryName": "Frukt", "texture": "fruit-apple.png" },
+    { "id": "banana", "name": "Banan", "categoryId": "fruit", "categoryName": "Frukt", "texture": "fruit-banana.png" },
+    { "id": "grape", "name": "Druva", "categoryId": "fruit", "categoryName": "Frukt", "texture": "fruit-grape.png" },
+    { "id": "lemon", "name": "Citron", "categoryId": "fruit", "categoryName": "Frukt", "texture": "fruit-lemon.png" },
+    { "id": "mango", "name": "Mango", "categoryId": "fruit", "categoryName": "Frukt", "texture": "fruit-mango.png" },
+    { "id": "mellon", "name": "Melon", "categoryId": "fruit", "categoryName": "Frukt", "texture": "fruit-mellon.png" },
+    { "id": "pineapple", "name": "Ananas", "categoryId": "fruit", "categoryName": "Frukt", "texture": "fruit-pineapple.png" },
+
+    { "id": "chicken-breast", "name": "Kycklingbröst", "categoryId": "poultry", "categoryName": "Fågel", "texture": "poultry-chicken-breast.png" },
+    { "id": "chicken", "name": "Kyckling", "categoryId": "poultry", "categoryName": "Fågel", "texture": "poultry-chicken-whole.png" },
+
+    { "id": "bell-pepper-capsicum", "name": "Paprika (Capsicum)", "categoryId": "vegetable", "categoryName": "Grönsak", "texture": "vegetable-bell-pepper-capsicum.png" },
+    { "id": "broccoli", "name": "Broccoli", "categoryId": "vegetable", "categoryName": "Grönsak", "texture": "vegetable-broccoli.png" },
+    { "id": "cabbage", "name": "Kål", "categoryId": "vegetable", "categoryName": "Grönsak", "texture": "vegetable-cabbage.png" },
+    { "id": "carrot", "name": "Morot", "categoryId": "vegetable", "categoryName": "Grönsak", "texture": "vegetable-carrot.png" },
+    { "id": "cucumber", "name": "Gurka", "categoryId": "vegetable", "categoryName": "Grönsak", "texture": "vegetable-cucumber.png" },
+    { "id": "garlic", "name": "Vitlök", "categoryId": "vegetable", "categoryName": "Grönsak", "texture": "vegetable-garlic.png" },
+    { "id": "onion", "name": "Lök", "categoryId": "vegetable", "categoryName": "Grönsak", "texture": "vegetable-onion.png" },
+    { "id": "potato", "name": "Potatis", "categoryId": "vegetable", "categoryName": "Grönsak", "texture": "vegetable-potato.png" },
+    { "id": "spinach", "name": "Spenat", "categoryId": "vegetable", "categoryName": "Grönsak", "texture": "vegetable-spinach.png" },
+    { "id": "tomato", "name": "Tomat", "categoryId": "vegetable", "categoryName": "Grönsak", "texture": "vegetable-tomato.png" },
+
+    { "id": "bread", "name": "Bröd", "categoryId": "grain", "categoryName": "Spannmål", "texture": "grain-bread.png" },
+    { "id": "oat", "name": "Havre", "categoryId": "grain", "categoryName": "Spannmål", "texture": "grain-oat.png" },
+    { "id": "pasta", "name": "Pasta", "categoryId": "grain", "categoryName": "Spannmål", "texture": "grain-pasta.png" },
+    { "id": "rice", "name": "Ris", "categoryId": "grain", "categoryName": "Spannmål", "texture": "grain-rice.png" },
+    { "id": "wheat", "name": "Vete", "categoryId": "grain", "categoryName": "Spannmål", "texture": "grain-wheat.png" }
+  ]
+}

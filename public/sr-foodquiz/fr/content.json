@@ -1,0 +1,214 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Laquelle des options suivantes est considérée comme une source saine de protéines ?",
+      "category": {
+        "id": "category-1",
+        "text": "Alimentation Saine"
+      },
+      "answers": [
+        { "id": 1, "text": "Blanc de poulet grillé", "correct": true },
+        { "id": 2, "text": "Chips", "correct": false },
+        { "id": 3, "text": "Barre chocolatée", "correct": false },
+        { "id": 4, "text": "Soda", "correct": false }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Quel est un avantage clé de manger des légumes verts à feuilles ?",
+      "category": {
+        "id": "category-1",
+        "text": "Alimentation Saine"
+      },
+      "answers": [
+        { "id": 1, "text": "Ils sont riches en vitamines et minéraux", "correct": true },
+        { "id": 2, "text": "Ils contiennent beaucoup de sucre", "correct": false },
+        { "id": 3, "text": "Ils sont riches en graisses malsaines", "correct": false },
+        { "id": 4, "text": "Ils augmentent la soif", "correct": false }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Quelle est la boisson la plus saine parmi les suivantes ?",
+      "category": {
+        "id": "category-2",
+        "text": "Habitudes Saines"
+      },
+      "answers": [
+        { "id": 1, "text": "Eau", "correct": true },
+        { "id": 2, "text": "Soda", "correct": false },
+        { "id": 3, "text": "Boisson énergisante", "correct": false },
+        { "id": 4, "text": "Limonade sucrée", "correct": false }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Quelle quantité d'activité physique est recommandée pour les adultes chaque semaine ?",
+      "category": {
+        "id": "category-2",
+        "text": "Habitudes Saines"
+      },
+      "answers": [
+        { "id": 1, "text": "150 minutes d'activité modérée", "correct": true },
+        { "id": 2, "text": "30 minutes une fois par mois", "correct": false },
+        { "id": 3, "text": "10 minutes par semaine", "correct": false },
+        { "id": 4, "text": "Aucune activité physique n'est nécessaire", "correct": false }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Quel type de graisse est considéré comme sain avec modération ?",
+      "category": {
+        "id": "category-1",
+        "text": "Alimentation Saine"
+      },
+      "answers": [
+        { "id": 1, "text": "Graisse insaturée", "correct": true },
+        { "id": 2, "text": "Graisse trans", "correct": false },
+        { "id": 3, "text": "Graisse transformée", "correct": false },
+        { "id": 4, "text": "Graisse artificielle", "correct": false }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Lequel des aliments suivants est riche en acides gras oméga-3 ?",
+      "category": {
+        "id": "category-1",
+        "text": "Alimentation Saine"
+      },
+      "answers": [
+        { "id": 1, "text": "Saumon", "correct": true },
+        { "id": 2, "text": "Pain blanc", "correct": false },
+        { "id": 3, "text": "Bonbons", "correct": false },
+        { "id": 4, "text": "Poulet frit", "correct": false }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Quelle est la meilleure façon de rester hydraté tout au long de la journée ?",
+      "category": {
+        "id": "category-2",
+        "text": "Habitudes Saines"
+      },
+      "answers": [
+        { "id": 1, "text": "Boire de l'eau régulièrement", "correct": true },
+        { "id": 2, "text": "Boire des boissons sucrées", "correct": false },
+        { "id": 3, "text": "Éviter les liquides", "correct": false },
+        { "id": 4, "text": "Boire uniquement du café", "correct": false }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Lequel des aliments suivants est une céréale complète saine ?",
+      "category": {
+        "id": "category-1",
+        "text": "Alimentation Saine"
+      },
+      "answers": [
+        { "id": 1, "text": "Riz complet", "correct": true },
+        { "id": 2, "text": "Farine blanche", "correct": false },
+        { "id": 3, "text": "Sucre raffiné", "correct": false },
+        { "id": 4, "text": "Chips", "correct": false }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Pourquoi le sommeil est-il important pour la santé générale ?",
+      "category": {
+        "id": "category-2",
+        "text": "Habitudes Saines"
+      },
+      "answers": [
+        { "id": 1, "text": "Il aide le corps à récupérer et à se réparer", "correct": true },
+        { "id": 2, "text": "Il augmente la prise de poids", "correct": false },
+        { "id": 3, "text": "Il réduit l'activité physique", "correct": false },
+        { "id": 4, "text": "Il provoque de la fatigue", "correct": false }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Quelle est une façon simple de réduire votre consommation de sucre ?",
+      "category": {
+        "id": "category-2",
+        "text": "Habitudes Saines"
+      },
+      "answers": [
+        { "id": 1, "text": "Boire des boissons non sucrées", "correct": true },
+        { "id": 2, "text": "Manger plus de bonbons", "correct": false },
+        { "id": 3, "text": "Ajouter du sucre à tous les repas", "correct": false },
+        { "id": 4, "text": "Éviter tous les fruits", "correct": false }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Lequel des aliments suivants est une bonne source de fibres alimentaires ?",
+      "category": {
+        "id": "category-1",
+        "text": "Alimentation Saine"
+      },
+      "answers": [
+        { "id": 1, "text": "Avoine", "correct": true },
+        { "id": 2, "text": "Glace", "correct": false },
+        { "id": 3, "text": "Chips frites", "correct": false },
+        { "id": 4, "text": "Beurre", "correct": false }
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Quel est l'un des bienfaits de l'activité physique régulière ?",
+      "category": {
+        "id": "category-2",
+        "text": "Habitudes Saines"
+      },
+      "answers": [
+        { "id": 1, "text": "Améliore la santé cardiaque", "correct": true },
+        { "id": 2, "text": "Augmente le stress", "correct": false },
+        { "id": 3, "text": "Réduit la qualité du sommeil", "correct": false },
+        { "id": 4, "text": "Affaiblit les muscles", "correct": false }
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Quel fruit est connu pour être riche en vitamine C ?",
+      "category": {
+        "id": "category-1",
+        "text": "Alimentation Saine"
+      },
+      "answers": [
+        { "id": 1, "text": "Oranges", "correct": true },
+        { "id": 2, "text": "Bananes", "correct": false },
+        { "id": 3, "text": "Pain", "correct": false },
+        { "id": 4, "text": "Chocolat", "correct": false }
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Que faut-il faire avant de faire de l'exercice pour éviter les blessures ?",
+      "category": {
+        "id": "category-2",
+        "text": "Habitudes Saines"
+      },
+      "answers": [
+        { "id": 1, "text": "Faire un bon échauffement", "correct": true },
+        { "id": 2, "text": "Sauter les étirements", "correct": false },
+        { "id": 3, "text": "Boire du café", "correct": false },
+        { "id": 4, "text": "Manger un repas copieux", "correct": false }
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Quel nutriment est essentiel pour des os solides ?",
+      "category": {
+        "id": "category-1",
+        "text": "Alimentation Saine"
+      },
+      "answers": [
+        { "id": 1, "text": "Calcium", "correct": true },
+        { "id": 2, "text": "Sucre", "correct": false },
+        { "id": 3, "text": "Sodium", "correct": false },
+        { "id": 4, "text": "Caféine", "correct": false }
+      ]
+    }
+  ]
+}

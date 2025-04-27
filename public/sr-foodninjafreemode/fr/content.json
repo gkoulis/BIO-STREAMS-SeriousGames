@@ -1,0 +1,31 @@
+{
+  "foods": [
+    { "id": "apple", "name": "Pomme", "categoryId": "fruit", "categoryName": "Fruit", "texture": "fruit-apple.png" },
+    { "id": "banana", "name": "Banane", "categoryId": "fruit", "categoryName": "Fruit", "texture": "fruit-banana.png" },
+    { "id": "grape", "name": "Raisin", "categoryId": "fruit", "categoryName": "Fruit", "texture": "fruit-grape.png" },
+    { "id": "lemon", "name": "Citron", "categoryId": "fruit", "categoryName": "Fruit", "texture": "fruit-lemon.png" },
+    { "id": "mango", "name": "Mangue", "categoryId": "fruit", "categoryName": "Fruit", "texture": "fruit-mango.png" },
+    { "id": "mellon", "name": "Melon", "categoryId": "fruit", "categoryName": "Fruit", "texture": "fruit-mellon.png" },
+    { "id": "pineapple", "name": "Ananas", "categoryId": "fruit", "categoryName": "Fruit", "texture": "fruit-pineapple.png" },
+
+    { "id": "chicken-breast", "name": "Blanc de poulet", "categoryId": "poultry", "categoryName": "Volaille", "texture": "poultry-chicken-breast.png" },
+    { "id": "chicken", "name": "Poulet", "categoryId": "poultry", "categoryName": "Volaille", "texture": "poultry-chicken-whole.png" },
+
+    { "id": "bell-pepper-capsicum", "name": "Poivron (Capsicum)", "categoryId": "vegetable", "categoryName": "Légume", "texture": "vegetable-bell-pepper-capsicum.png" },
+    { "id": "broccoli", "name": "Brocoli", "categoryId": "vegetable", "categoryName": "Légume", "texture": "vegetable-broccoli.png" },
+    { "id": "cabbage", "name": "Chou", "categoryId": "vegetable", "categoryName": "Légume", "texture": "vegetable-cabbage.png" },
+    { "id": "carrot", "name": "Carotte", "categoryId": "vegetable", "categoryName": "Légume", "texture": "vegetable-carrot.png" },
+    { "id": "cucumber", "name": "Concombre", "categoryId": "vegetable", "categoryName": "Légume", "texture": "vegetable-cucumber.png" },
+    { "id": "garlic", "name": "Ail", "categoryId": "vegetable", "categoryName": "Légume", "texture": "vegetable-garlic.png" },
+    { "id": "onion", "name": "Oignon", "categoryId": "vegetable", "categoryName": "Légume", "texture": "vegetable-onion.png" },
+    { "id": "potato", "name": "Pomme de terre", "categoryId": "vegetable", "categoryName": "Légume", "texture": "vegetable-potato.png" },
+    { "id": "spinach", "name": "Épinards", "categoryId": "vegetable", "categoryName": "Légume", "texture": "vegetable-spinach.png" },
+    { "id": "tomato", "name": "Tomate", "categoryId": "vegetable", "categoryName": "Légume", "texture": "vegetable-tomato.png" },
+
+    { "id": "bread", "name": "Pain", "categoryId": "grain", "categoryName": "Céréale", "texture": "grain-bread.png" },
+    { "id": "oat", "name": "Avoine", "categoryId": "grain", "categoryName": "Céréale", "texture": "grain-oat.png" },
+    { "id": "pasta", "name": "Pâtes", "categoryId": "grain", "categoryName": "Céréale", "texture": "grain-pasta.png" },
+    { "id": "rice", "name": "Riz", "categoryId": "grain", "categoryName": "Céréale", "texture": "grain-rice.png" },
+    { "id": "wheat", "name": "Blé", "categoryId": "grain", "categoryName": "Céréale", "texture": "grain-wheat.png" }
+  ]
+}

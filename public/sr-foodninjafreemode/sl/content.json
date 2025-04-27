@@ -1,0 +1,31 @@
+{
+  "foods": [
+    { "id": "apple", "name": "Jabolko", "categoryId": "fruit", "categoryName": "Sadje", "texture": "fruit-apple.png" },
+    { "id": "banana", "name": "Banana", "categoryId": "fruit", "categoryName": "Sadje", "texture": "fruit-banana.png" },
+    { "id": "grape", "name": "Grozje", "categoryId": "fruit", "categoryName": "Sadje", "texture": "fruit-grape.png" },
+    { "id": "lemon", "name": "Limona", "categoryId": "fruit", "categoryName": "Sadje", "texture": "fruit-lemon.png" },
+    { "id": "mango", "name": "Mango", "categoryId": "fruit", "categoryName": "Sadje", "texture": "fruit-mango.png" },
+    { "id": "mellon", "name": "Melona", "categoryId": "fruit", "categoryName": "Sadje", "texture": "fruit-mellon.png" },
+    { "id": "pineapple", "name": "Ananas", "categoryId": "fruit", "categoryName": "Sadje", "texture": "fruit-pineapple.png" },
+
+    { "id": "chicken-breast", "name": "Piščančje prsi", "categoryId": "poultry", "categoryName": "Perutnina", "texture": "poultry-chicken-breast.png" },
+    { "id": "chicken", "name": "Piščanec", "categoryId": "poultry", "categoryName": "Perutnina", "texture": "poultry-chicken-whole.png" },
+
+    { "id": "bell-pepper-capsicum", "name": "Paprika (kapija)", "categoryId": "vegetable", "categoryName": "Zelenjava", "texture": "vegetable-bell-pepper-capsicum.png" },
+    { "id": "broccoli", "name": "Brokoli", "categoryId": "vegetable", "categoryName": "Zelenjava", "texture": "vegetable-broccoli.png" },
+    { "id": "cabbage", "name": "Zelje", "categoryId": "vegetable", "categoryName": "Zelenjava", "texture": "vegetable-cabbage.png" },
+    { "id": "carrot", "name": "Korenje", "categoryId": "vegetable", "categoryName": "Zelenjava", "texture": "vegetable-carrot.png" },
+    { "id": "cucumber", "name": "Kumara", "categoryId": "vegetable", "categoryName": "Zelenjava", "texture": "vegetable-cucumber.png" },
+    { "id": "garlic", "name": "Česen", "categoryId": "vegetable", "categoryName": "Zelenjava", "texture": "vegetable-garlic.png" },
+    { "id": "onion", "name": "Čebula", "categoryId": "vegetable", "categoryName": "Zelenjava", "texture": "vegetable-onion.png" },
+    { "id": "potato", "name": "Krompir", "categoryId": "vegetable", "categoryName": "Zelenjava", "texture": "vegetable-potato.png" },
+    { "id": "spinach", "name": "Špinača", "categoryId": "vegetable", "categoryName": "Zelenjava", "texture": "vegetable-spinach.png" },
+    { "id": "tomato", "name": "Paradižnik", "categoryId": "vegetable", "categoryName": "Zelenjava", "texture": "vegetable-tomato.png" },
+
+    { "id": "bread", "name": "Kruh", "categoryId": "grain", "categoryName": "Žitarice", "texture": "grain-bread.png" },
+    { "id": "oat", "name": "Oves", "categoryId": "grain", "categoryName": "Žitarice", "texture": "grain-oat.png" },
+    { "id": "pasta", "name": "Testenine", "categoryId": "grain", "categoryName": "Žitarice", "texture": "grain-pasta.png" },
+    { "id": "rice", "name": "Riž", "categoryId": "grain", "categoryName": "Žitarice", "texture": "grain-rice.png" },
+    { "id": "wheat", "name": "Pšenica", "categoryId": "grain", "categoryName": "Žitarice", "texture": "grain-wheat.png" }
+  ]
+}

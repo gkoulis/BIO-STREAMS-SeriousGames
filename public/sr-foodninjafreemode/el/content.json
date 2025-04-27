@@ -1,0 +1,31 @@
+{
+  "foods": [
+    { "id": "apple", "name": "Μήλο", "categoryId": "fruit", "categoryName": "Φρούτο", "texture": "fruit-apple.png" },
+    { "id": "banana", "name": "Μπανάνα", "categoryId": "fruit", "categoryName": "Φρούτο", "texture": "fruit-banana.png" },
+    { "id": "grape", "name": "Σταφύλι", "categoryId": "fruit", "categoryName": "Φρούτο", "texture": "fruit-grape.png" },
+    { "id": "lemon", "name": "Λεμόνι", "categoryId": "fruit", "categoryName": "Φρούτο", "texture": "fruit-lemon.png" },
+    { "id": "mango", "name": "Μάνγκο", "categoryId": "fruit", "categoryName": "Φρούτο", "texture": "fruit-mango.png" },
+    { "id": "mellon", "name": "Πεπόνι", "categoryId": "fruit", "categoryName": "Φρούτο", "texture": "fruit-mellon.png" },
+    { "id": "pineapple", "name": "Ανανάς", "categoryId": "fruit", "categoryName": "Φρούτο", "texture": "fruit-pineapple.png" },
+
+    { "id": "chicken-breast", "name": "Στήθος κοτόπουλου", "categoryId": "poultry", "categoryName": "Πουλερικά", "texture": "poultry-chicken-breast.png" },
+    { "id": "chicken", "name": "Κοτόπουλο", "categoryId": "poultry", "categoryName": "Πουλερικά", "texture": "poultry-chicken-whole.png" },
+
+    { "id": "bell-pepper-capsicum", "name": "Πιπεριά (Καψικό)", "categoryId": "vegetable", "categoryName": "Λαχανικό", "texture": "vegetable-bell-pepper-capsicum.png" },
+    { "id": "broccoli", "name": "Μπρόκολο", "categoryId": "vegetable", "categoryName": "Λαχανικό", "texture": "vegetable-broccoli.png" },
+    { "id": "cabbage", "name": "Λάχανο", "categoryId": "vegetable", "categoryName": "Λαχανικό", "texture": "vegetable-cabbage.png" },
+    { "id": "carrot", "name": "Καρότο", "categoryId": "vegetable", "categoryName": "Λαχανικό", "texture": "vegetable-carrot.png" },
+    { "id": "cucumber", "name": "Αγγούρι", "categoryId": "vegetable", "categoryName": "Λαχανικό", "texture": "vegetable-cucumber.png" },
+    { "id": "garlic", "name": "Σκόρδο", "categoryId": "vegetable", "categoryName": "Λαχανικό", "texture": "vegetable-garlic.png" },
+    { "id": "onion", "name": "Κρεμμύδι", "categoryId": "vegetable", "categoryName": "Λαχανικό", "texture": "vegetable-onion.png" },
+    { "id": "potato", "name": "Πατάτα", "categoryId": "vegetable", "categoryName": "Λαχανικό", "texture": "vegetable-potato.png" },
+    { "id": "spinach", "name": "Σπανάκι", "categoryId": "vegetable", "categoryName": "Λαχανικό", "texture": "vegetable-spinach.png" },
+    { "id": "tomato", "name": "Ντομάτα", "categoryId": "vegetable", "categoryName": "Λαχανικό", "texture": "vegetable-tomato.png" },
+
+    { "id": "bread", "name": "Ψωμί", "categoryId": "grain", "categoryName": "Δημητριακά", "texture": "grain-bread.png" },
+    { "id": "oat", "name": "Βρώμη", "categoryId": "grain", "categoryName": "Δημητριακά", "texture": "grain-oat.png" },
+    { "id": "pasta", "name": "Ζυμαρικά", "categoryId": "grain", "categoryName": "Δημητριακά", "texture": "grain-pasta.png" },
+    { "id": "rice", "name": "Ρύζι", "categoryId": "grain", "categoryName": "Δημητριακά", "texture": "grain-rice.png" },
+    { "id": "wheat", "name": "Σιτάρι", "categoryId": "grain", "categoryName": "Δημητριακά", "texture": "grain-wheat.png" }
+  ]
+}

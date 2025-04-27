@@ -1,0 +1,28 @@
+{
+  "videoList": [
+    {
+      "name": "12 simple exercises to lose belly fat",
+      "description": "",
+      "href": "#",
+      "imageSrc": "/sr-letsmove/en/thumbnails/video-0001-thumb-0001.jpg",
+      "youtubeVideoUrl": "https://www.youtube.com/watch?v=X8Y3u8Ujfe8",
+      "videoSrc": "/sr-letsmove/en/videos/video-0001.webm"
+    },
+    {
+      "name": "Challenge: Burn Fat and Calories",
+      "description": "",
+      "href": "#",
+      "imageSrc": "/sr-letsmove/en/thumbnails/video-0002-thumb-0001.jpg",
+      "youtubeVideoUrl": "https://www.youtube.com/watch?v=1KZjssboEGo",
+      "videoSrc": "/sr-letsmove/en/videos/video-0002.webm"
+    },
+    {
+      "name": "16 fat burning exercises",
+      "description": "",
+      "href": "#",
+      "imageSrc": "/sr-letsmove/en/thumbnails/video-0003-thumb-0001.jpg",
+      "youtubeVideoUrl": "https://www.youtube.com/watch?v=EEZdDHiHdIs",
+      "videoSrc": "/sr-letsmove/en/videos/video-0003.webm"
+    }
+  ]
+}

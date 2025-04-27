@@ -1,0 +1,214 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Cuál de las siguientes se considera una fuente saludable de proteínas?",
+      "category": {
+        "id": "category-1",
+        "text": "Alimentación Saludable"
+      },
+      "answers": [
+        { "id": 1, "text": "Pechuga de pollo a la parrilla", "correct": true },
+        { "id": 2, "text": "Papas fritas", "correct": false },
+        { "id": 3, "text": "Barra de chocolate", "correct": false },
+        { "id": 4, "text": "Refresco", "correct": false }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál es un beneficio clave de comer verduras de hoja verde?",
+      "category": {
+        "id": "category-1",
+        "text": "Alimentación Saludable"
+      },
+      "answers": [
+        { "id": 1, "text": "Son ricas en vitaminas y minerales", "correct": true },
+        { "id": 2, "text": "Contienen mucha azúcar", "correct": false },
+        { "id": 3, "text": "Son altas en grasas no saludables", "correct": false },
+        { "id": 4, "text": "Aumentan la sed", "correct": false }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "¿Cuál de estas bebidas es la opción más saludable?",
+      "category": {
+        "id": "category-2",
+        "text": "Hábitos Saludables"
+      },
+      "answers": [
+        { "id": 1, "text": "Agua", "correct": true },
+        { "id": 2, "text": "Refresco", "correct": false },
+        { "id": 3, "text": "Bebida energética", "correct": false },
+        { "id": 4, "text": "Limonada azucarada", "correct": false }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "¿Cuánta actividad física se recomienda para los adultos cada semana?",
+      "category": {
+        "id": "category-2",
+        "text": "Hábitos Saludables"
+      },
+      "answers": [
+        { "id": 1, "text": "150 minutos de actividad moderada", "correct": true },
+        { "id": 2, "text": "30 minutos una vez al mes", "correct": false },
+        { "id": 3, "text": "10 minutos por semana", "correct": false },
+        { "id": 4, "text": "No se requiere actividad física", "correct": false }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "¿Qué tipo de grasa se considera saludable con moderación?",
+      "category": {
+        "id": "category-1",
+        "text": "Alimentación Saludable"
+      },
+      "answers": [
+        { "id": 1, "text": "Grasa insaturada", "correct": true },
+        { "id": 2, "text": "Grasa trans", "correct": false },
+        { "id": 3, "text": "Grasa procesada", "correct": false },
+        { "id": 4, "text": "Grasa artificial", "correct": false }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "¿Cuál de los siguientes alimentos es rico en ácidos grasos omega-3?",
+      "category": {
+        "id": "category-1",
+        "text": "Alimentación Saludable"
+      },
+      "answers": [
+        { "id": 1, "text": "Salmón", "correct": true },
+        { "id": 2, "text": "Pan blanco", "correct": false },
+        { "id": 3, "text": "Caramelos", "correct": false },
+        { "id": 4, "text": "Pollo frito", "correct": false }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "¿Cuál es la mejor forma de mantenerse hidratado durante el día?",
+      "category": {
+        "id": "category-2",
+        "text": "Hábitos Saludables"
+      },
+      "answers": [
+        { "id": 1, "text": "Beber agua regularmente", "correct": true },
+        { "id": 2, "text": "Beber bebidas azucaradas", "correct": false },
+        { "id": 3, "text": "Evitar líquidos", "correct": false },
+        { "id": 4, "text": "Beber solo café", "correct": false }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "¿Cuál de los siguientes es un grano entero saludable?",
+      "category": {
+        "id": "category-1",
+        "text": "Alimentación Saludable"
+      },
+      "answers": [
+        { "id": 1, "text": "Arroz integral", "correct": true },
+        { "id": 2, "text": "Harina blanca", "correct": false },
+        { "id": 3, "text": "Azúcar refinada", "correct": false },
+        { "id": 4, "text": "Papas fritas", "correct": false }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "¿Por qué es importante el sueño para la salud general?",
+      "category": {
+        "id": "category-2",
+        "text": "Hábitos Saludables"
+      },
+      "answers": [
+        { "id": 1, "text": "Ayuda al cuerpo a recuperarse y repararse", "correct": true },
+        { "id": 2, "text": "Aumenta el aumento de peso", "correct": false },
+        { "id": 3, "text": "Reduce la actividad física", "correct": false },
+        { "id": 4, "text": "Causa fatiga", "correct": false }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "¿Cuál es una manera simple de reducir el consumo de azúcar en la dieta?",
+      "category": {
+        "id": "category-2",
+        "text": "Hábitos Saludables"
+      },
+      "answers": [
+        { "id": 1, "text": "Beber bebidas sin azúcar", "correct": true },
+        { "id": 2, "text": "Comer más dulces", "correct": false },
+        { "id": 3, "text": "Agregar azúcar a todas las comidas", "correct": false },
+        { "id": 4, "text": "Evitar todas las frutas", "correct": false }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "¿Cuál de los siguientes alimentos es una buena fuente de fibra dietética?",
+      "category": {
+        "id": "category-1",
+        "text": "Alimentación Saludable"
+      },
+      "answers": [
+        { "id": 1, "text": "Avena", "correct": true },
+        { "id": 2, "text": "Helado", "correct": false },
+        { "id": 3, "text": "Papas fritas", "correct": false },
+        { "id": 4, "text": "Mantequilla", "correct": false }
+      ]
+    },
+    {
+      "id": 12,
+      "question": "¿Cuál es uno de los beneficios de la actividad física regular?",
+      "category": {
+        "id": "category-2",
+        "text": "Hábitos Saludables"
+      },
+      "answers": [
+        { "id": 1, "text": "Mejora la salud del corazón", "correct": true },
+        { "id": 2, "text": "Aumenta los niveles de estrés", "correct": false },
+        { "id": 3, "text": "Reduce la calidad del sueño", "correct": false },
+        { "id": 4, "text": "Debilita los músculos", "correct": false }
+      ]
+    },
+    {
+      "id": 13,
+      "question": "¿Qué fruta es conocida por ser rica en vitamina C?",
+      "category": {
+        "id": "category-1",
+        "text": "Alimentación Saludable"
+      },
+      "answers": [
+        { "id": 1, "text": "Naranjas", "correct": true },
+        { "id": 2, "text": "Plátanos", "correct": false },
+        { "id": 3, "text": "Pan", "correct": false },
+        { "id": 4, "text": "Chocolate", "correct": false }
+      ]
+    },
+    {
+      "id": 14,
+      "question": "¿Qué deberías hacer antes de entrenar para evitar lesiones?",
+      "category": {
+        "id": "category-2",
+        "text": "Hábitos Saludables"
+      },
+      "answers": [
+        { "id": 1, "text": "Hacer un buen calentamiento", "correct": true },
+        { "id": 2, "text": "Saltar los estiramientos", "correct": false },
+        { "id": 3, "text": "Beber café", "correct": false },
+        { "id": 4, "text": "Comer una comida pesada", "correct": false }
+      ]
+    },
+    {
+      "id": 15,
+      "question": "¿Qué nutriente es esencial para tener huesos fuertes?",
+      "category": {
+        "id": "category-1",
+        "text": "Alimentación Saludable"
+      },
+      "answers": [
+        { "id": 1, "text": "Calcio", "correct": true },
+        { "id": 2, "text": "Azúcar", "correct": false },
+        { "id": 3, "text": "Sodio", "correct": false },
+        { "id": 4, "text": "Cafeína", "correct": false }
+      ]
+    }
+  ]
+}

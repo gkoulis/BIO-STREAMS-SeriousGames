@@ -1,0 +1,31 @@
+{
+  "foods": [
+    { "id": "apple", "name": "Manzana", "categoryId": "fruit", "categoryName": "Fruta", "texture": "fruit-apple.png" },
+    { "id": "banana", "name": "Banana", "categoryId": "fruit", "categoryName": "Fruta", "texture": "fruit-banana.png" },
+    { "id": "grape", "name": "Uva", "categoryId": "fruit", "categoryName": "Fruta", "texture": "fruit-grape.png" },
+    { "id": "lemon", "name": "Limón", "categoryId": "fruit", "categoryName": "Fruta", "texture": "fruit-lemon.png" },
+    { "id": "mango", "name": "Mango", "categoryId": "fruit", "categoryName": "Fruta", "texture": "fruit-mango.png" },
+    { "id": "mellon", "name": "Melón", "categoryId": "fruit", "categoryName": "Fruta", "texture": "fruit-mellon.png" },
+    { "id": "pineapple", "name": "Piña", "categoryId": "fruit", "categoryName": "Fruta", "texture": "fruit-pineapple.png" },
+
+    { "id": "chicken-breast", "name": "Pechuga de pollo", "categoryId": "poultry", "categoryName": "Aves", "texture": "poultry-chicken-breast.png" },
+    { "id": "chicken", "name": "Pollo", "categoryId": "poultry", "categoryName": "Aves", "texture": "poultry-chicken-whole.png" },
+
+    { "id": "bell-pepper-capsicum", "name": "Pimiento (Capsicum)", "categoryId": "vegetable", "categoryName": "Verdura", "texture": "vegetable-bell-pepper-capsicum.png" },
+    { "id": "broccoli", "name": "Brócoli", "categoryId": "vegetable", "categoryName": "Verdura", "texture": "vegetable-broccoli.png" },
+    { "id": "cabbage", "name": "Repollo", "categoryId": "vegetable", "categoryName": "Verdura", "texture": "vegetable-cabbage.png" },
+    { "id": "carrot", "name": "Zanahoria", "categoryId": "vegetable", "categoryName": "Verdura", "texture": "vegetable-carrot.png" },
+    { "id": "cucumber", "name": "Pepino", "categoryId": "vegetable", "categoryName": "Verdura", "texture": "vegetable-cucumber.png" },
+    { "id": "garlic", "name": "Ajo", "categoryId": "vegetable", "categoryName": "Verdura", "texture": "vegetable-garlic.png" },
+    { "id": "onion", "name": "Cebolla", "categoryId": "vegetable", "categoryName": "Verdura", "texture": "vegetable-onion.png" },
+    { "id": "potato", "name": "Patata", "categoryId": "vegetable", "categoryName": "Verdura", "texture": "vegetable-potato.png" },
+    { "id": "spinach", "name": "Espinaca", "categoryId": "vegetable", "categoryName": "Verdura", "texture": "vegetable-spinach.png" },
+    { "id": "tomato", "name": "Tomate", "categoryId": "vegetable", "categoryName": "Verdura", "texture": "vegetable-tomato.png" },
+
+    { "id": "bread", "name": "Pan", "categoryId": "grain", "categoryName": "Cereal", "texture": "grain-bread.png" },
+    { "id": "oat", "name": "Avena", "categoryId": "grain", "categoryName": "Cereal", "texture": "grain-oat.png" },
+    { "id": "pasta", "name": "Pasta", "categoryId": "grain", "categoryName": "Cereal", "texture": "grain-pasta.png" },
+    { "id": "rice", "name": "Arroz", "categoryId": "grain", "categoryName": "Cereal", "texture": "grain-rice.png" },
+    { "id": "wheat", "name": "Trigo", "categoryId": "grain", "categoryName": "Cereal", "texture": "grain-wheat.png" }
+  ]
+}

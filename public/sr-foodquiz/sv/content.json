@@ -1,0 +1,214 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Vilken av följande anses vara en hälsosam proteinkälla?",
+      "category": {
+        "id": "category-1",
+        "text": "Hälsosam Mat"
+      },
+      "answers": [
+        { "id": 1, "text": "Grillad kycklingbröst", "correct": true },
+        { "id": 2, "text": "Potatischips", "correct": false },
+        { "id": 3, "text": "Chokladkaka", "correct": false },
+        { "id": 4, "text": "Läsk", "correct": false }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Vilken är en viktig fördel med att äta bladgrönsaker?",
+      "category": {
+        "id": "category-1",
+        "text": "Hälsosam Mat"
+      },
+      "answers": [
+        { "id": 1, "text": "De är rika på vitaminer och mineraler", "correct": true },
+        { "id": 2, "text": "De innehåller mycket socker", "correct": false },
+        { "id": 3, "text": "De innehåller ohälsosamma fetter", "correct": false },
+        { "id": 4, "text": "De ökar törsten", "correct": false }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Vilken av dessa drycker är det hälsosammaste alternativet?",
+      "category": {
+        "id": "category-2",
+        "text": "Hälsosamma Vanor"
+      },
+      "answers": [
+        { "id": 1, "text": "Vatten", "correct": true },
+        { "id": 2, "text": "Läsk", "correct": false },
+        { "id": 3, "text": "Energidryck", "correct": false },
+        { "id": 4, "text": "Sockrad lemonad", "correct": false }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Hur mycket fysisk aktivitet rekommenderas för vuxna per vecka?",
+      "category": {
+        "id": "category-2",
+        "text": "Hälsosamma Vanor"
+      },
+      "answers": [
+        { "id": 1, "text": "150 minuter måttlig aktivitet", "correct": true },
+        { "id": 2, "text": "30 minuter en gång i månaden", "correct": false },
+        { "id": 3, "text": "10 minuter per vecka", "correct": false },
+        { "id": 4, "text": "Ingen fysisk aktivitet krävs", "correct": false }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Vilken typ av fett anses vara hälsosam i måttliga mängder?",
+      "category": {
+        "id": "category-1",
+        "text": "Hälsosam Mat"
+      },
+      "answers": [
+        { "id": 1, "text": "Omättat fett", "correct": true },
+        { "id": 2, "text": "Transfett", "correct": false },
+        { "id": 3, "text": "Bearbetat fett", "correct": false },
+        { "id": 4, "text": "Artificiellt fett", "correct": false }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Vilken av följande livsmedel är rik på omega-3-fettsyror?",
+      "category": {
+        "id": "category-1",
+        "text": "Hälsosam Mat"
+      },
+      "answers": [
+        { "id": 1, "text": "Lax", "correct": true },
+        { "id": 2, "text": "Vitt bröd", "correct": false },
+        { "id": 3, "text": "Godis", "correct": false },
+        { "id": 4, "text": "Friterad kyckling", "correct": false }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Vad är det bästa sättet att hålla sig återfuktad under dagen?",
+      "category": {
+        "id": "category-2",
+        "text": "Hälsosamma Vanor"
+      },
+      "answers": [
+        { "id": 1, "text": "Dricka vatten regelbundet", "correct": true },
+        { "id": 2, "text": "Dricka sockrade drycker", "correct": false },
+        { "id": 3, "text": "Undvika vätskor", "correct": false },
+        { "id": 4, "text": "Bara dricka kaffe", "correct": false }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Vilket av följande är ett hälsosamt fullkorn?",
+      "category": {
+        "id": "category-1",
+        "text": "Hälsosam Mat"
+      },
+      "answers": [
+        { "id": 1, "text": "Fullkornsris", "correct": true },
+        { "id": 2, "text": "Vitt mjöl", "correct": false },
+        { "id": 3, "text": "Raffinerat socker", "correct": false },
+        { "id": 4, "text": "Potatischips", "correct": false }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Varför är sömn viktig för allmän hälsa?",
+      "category": {
+        "id": "category-2",
+        "text": "Hälsosamma Vanor"
+      },
+      "answers": [
+        { "id": 1, "text": "Den hjälper kroppen att återhämta sig och reparera", "correct": true },
+        { "id": 2, "text": "Den ökar viktuppgång", "correct": false },
+        { "id": 3, "text": "Den minskar fysisk aktivitet", "correct": false },
+        { "id": 4, "text": "Den orsakar trötthet", "correct": false }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Vad är ett enkelt sätt att minska ditt sockerintag?",
+      "category": {
+        "id": "category-2",
+        "text": "Hälsosamma Vanor"
+      },
+      "answers": [
+        { "id": 1, "text": "Dricka osötade drycker", "correct": true },
+        { "id": 2, "text": "Äta mer godis", "correct": false },
+        { "id": 3, "text": "Tillsätta socker till alla måltider", "correct": false },
+        { "id": 4, "text": "Undvika all frukt", "correct": false }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Vilken av följande livsmedel är en bra källa till kostfiber?",
+      "category": {
+        "id": "category-1",
+        "text": "Hälsosam Mat"
+      },
+      "answers": [
+        { "id": 1, "text": "Havre", "correct": true },
+        { "id": 2, "text": "Glass", "correct": false },
+        { "id": 3, "text": "Friterade chips", "correct": false },
+        { "id": 4, "text": "Smör", "correct": false }
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Vad är en fördel med regelbunden fysisk aktivitet?",
+      "category": {
+        "id": "category-2",
+        "text": "Hälsosamma Vanor"
+      },
+      "answers": [
+        { "id": 1, "text": "Förbättrar hjärthälsan", "correct": true },
+        { "id": 2, "text": "Ökar stressnivåerna", "correct": false },
+        { "id": 3, "text": "Minskar sömnkvaliteten", "correct": false },
+        { "id": 4, "text": "Försvagar musklerna", "correct": false }
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Vilken frukt är känd för att vara rik på vitamin C?",
+      "category": {
+        "id": "category-1",
+        "text": "Hälsosam Mat"
+      },
+      "answers": [
+        { "id": 1, "text": "Apelsiner", "correct": true },
+        { "id": 2, "text": "Bananer", "correct": false },
+        { "id": 3, "text": "Bröd", "correct": false },
+        { "id": 4, "text": "Choklad", "correct": false }
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Vad bör du göra innan ett träningspass för att undvika skador?",
+      "category": {
+        "id": "category-2",
+        "text": "Hälsosamma Vanor"
+      },
+      "answers": [
+        { "id": 1, "text": "Värma upp ordentligt", "correct": true },
+        { "id": 2, "text": "Hoppa över stretchningen", "correct": false },
+        { "id": 3, "text": "Dricka kaffe", "correct": false },
+        { "id": 4, "text": "Äta en tung måltid", "correct": false }
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Vilket näringsämne är viktigt för starka ben?",
+      "category": {
+        "id": "category-1",
+        "text": "Hälsosam Mat"
+      },
+      "answers": [
+        { "id": 1, "text": "Kalcium", "correct": true },
+        { "id": 2, "text": "Socker", "correct": false },
+        { "id": 3, "text": "Natrium", "correct": false },
+        { "id": 4, "text": "Koffein", "correct": false }
+      ]
+    }
+  ]
+}
