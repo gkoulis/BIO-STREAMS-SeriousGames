@@ -3,6 +3,20 @@
     "Under Construction": "Υπό κατασκευή",
     "Something went wrong": "Κάτι πήγε στραβά..."
   },
+  "actions": {
+    "Start": "Ξεκίνα",
+    "Go": "Πάμε",
+    "Return": "Επιστροφή",
+    "Next": "Επόμενο"
+  },
+  "theme_level": {
+    "Themes": "Θέματα",
+    "Theme": "Θέμα",
+    "Levels": "Επίπεδα",
+    "Level": "Επίπεδο",
+    "you_completed_level": "Πολύ καλά! Ολοκλήρωσες το επίπεδο",
+    "you_completed_all_levels": "Συγχαρητήρια! Ολοκλήρωσες όλα τα επίπεδα!"
+  },
   "foodninjafreemode": {
     "round_success": "Κέρδισες αυτόν τον γύρο! Προχωράμε στον επόμενο γύρο...",
     "is_a_not_a": "Το {0} είναι {1}, όχι {2}",

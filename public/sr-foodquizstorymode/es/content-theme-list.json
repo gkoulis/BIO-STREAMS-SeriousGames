@@ -1,0 +1,1345 @@
+{
+  "themes": [
+    {
+      "id": 1,
+      "title": "Pregunta saludable de la dieta y de actividad física",
+      "description": "Un juego de cuestionario con el objetivo de aumentar el conocimiento sobre los hábitos de actividad dietética y física saludables.",
+      "levels": [
+        {
+          "id": 1,
+          "title": "Conocido",
+          "description": "Familiarización con los grupos de alimentos de frutas y verduras.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "¿Cuál de los siguientes es una fruta?",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Zanahoria",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Pera",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Papa",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Lechuga",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "¿Cuál de los siguientes se incluye en el grupo de alimentos de frutas?",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Sandía",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Higuera seca",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Fresa",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Todo lo anterior",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "¿De qué fruta provienen las pasas?",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Manzana",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Fresa",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Uvas",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Banana",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "¿Cuál de los siguientes constituye la mejor opción de fruta entre los diferentes tipos de jugo?",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Jugo de néctar",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Bebida de fruta con azúcar agregado",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Refresco",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Jugo de fruta fresca",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "¿Cuál de los siguientes es un vegetal?",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Naranja",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Fresa",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Tomate",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Manzana",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "¿Cuál de los siguientes es un vegetal de hoja verde?",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Espinaca",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Calabacín",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Pepino",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Berenjena",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "¿Cuál de los siguientes es una vegetal de raíz?",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Repollo",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Zanahoria",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Pimienta",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Tomate",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "question": "¿Cuál de los siguientes es un vegetal con almidón?",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Maíz",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Guisantes",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Calabaza",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Todo lo anterior",
+                  "correct": true
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "¡Bienvenido al mundo de las frutas y verduras!",
+            "El grupo de frutas incluye todas las frutas frescas (por ejemplo, naranja, manzana, pera, plátano, durazno) y frutas secas (por ejemplo, ciruelas, pasas, albaricoques), así como jugos de frutas recién exprimidas (es decir, 100% de jugo de fruta sin azúcares agregados). Recuerde: los jugos de frutas envasadas con azúcar agregada, refrescos y otras bebidas de frutas procesadas no están incluidos en el grupo de alimentos de frutas.",
+            "El grupo de verduras incluye todas las verduras crudas (por ejemplo, lechuga, repollo, zanahoria, tomate, pepino) y verduras cocidas (por ejemplo, brócoli, coliflor, calabacín, remolacha). Recuerde: las verduras con almidón, es decir, maíz, guisantes y calabaza, también se incluyen en el grupo de alimentos vegetales, pero son ricos en almidón, un carbohidrato complejo, que no está presente en otras verduras."
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Valor nutricional",
+          "description": "Familiarización con el valor nutricional de las frutas y verduras.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "¿Cuál es las principales frutas y verduras de nutrientes?",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Carbohidratos",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Proteína",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Fibras",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamina A",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "¿Cuál de los siguientes nutrientes no se incluye en frutas y verduras?",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Carbohidratos",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Fibras",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Lípidos",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Vitaminas",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "¿Cuál de las siguientes es una buena fuente de fibras, que ayudan a que el intestino funcione correctamente?",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Manzana",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Espinaca",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Brócoli",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Todo lo anterior",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "¿Cuál de los siguientes es cierto para las frutas enteras en comparación con los jugos de frutas?",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Tienen menos azúcar",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Tienen más fibras",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Te ayudan a crecer más alto",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Contienen menos nutrientes",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "¿Cómo pueden las frutas y verduras ayudarlo a mantenerse hidratado?",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Te hacen sed",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Te hacen sudar menos",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Tienen un alto contenido de agua",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Todo lo anterior",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "¿Qué vitamina se encuentra más comúnmente en los cítricos (por ejemplo, naranja) y ayuda a aumentar el sistema inmunitario?",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Vitamina A",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Vitamina C",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Vitamina D",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamina E",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "¿Qué vitamina, que se encuentra en las verduras de hoja verde, es esencial para la sangre?",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Vitamina C",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Vitamina D",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Vitamina B2",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamina K",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "question": "¿Qué vitamina, que se encuentra en las frutas y verduras, es importante para la sangre y el sistema nervioso?",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Vitamina A",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Ácido fólico",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Vitamina C",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamina E",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 9,
+              "question": "¿Qué mineral, que se encuentra en frutas y verduras, ayuda a mantener los músculos y los nervios funcionando correctamente?",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Potasio",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Calcio",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Hierro",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamina C",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "¡Las frutas y verduras son una muy buena fuente de una amplia gama de nutrientes importantes!",
+            "They are primarily made up from carbohydrates which are mainly present in the form of sugars and provide energy to the body.",
+            "También incluyen vitaminas (por ejemplo, vitamina C, vitamina K, ácido fólico), minerales (por ejemplo, potasio, calcio), fibras y también otros compuestos (por ejemplo, fitoquímicos) importantes para la función óptima del cuerpo.",
+            "Aunque son alimentos sólidos, contienen mucha agua y también pueden contribuir a la hidratación del cuerpo."
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Ingesta recomendada",
+          "description": "Familiarización con la ingesta recomendada y el tamaño de la porción de frutas y verduras.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "¿Cuál es la ingesta recomendada de frutas?",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "1-2 porciones cada día",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "2-3 porciones cada día",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "3-4 porciones a la semana",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "5 porciones a la semana",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "¿Qué es una porción de fruta?",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "1 manzana pequeña",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "1/2 vaso de jugo de fruta fresca",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "4 frutas secas (por ejemplo, albaricoques)",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Todo lo anterior",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "¿Qué es una porción de fruta?",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "3 rebanadas de sandía",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "1 taza de pasas",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "1 taza de fresas",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "2 naranjas",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "¿Cuál es la ingesta recomendada de verduras?",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "1-2 porciones cada día",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "2-4 porciones cada día",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Menos de 2 porciones a la semana",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "5 porciones a la semana",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "¿Qué es una porción de verduras?",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "1 taza de tomate picado",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "2 zanahorias medianas",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "2 tazas de verduras de hoja cruda",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Todo lo anterior",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "¿Qué es una porción de verduras?",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "2 tazas de lechuga",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "1 cebolla pequeña",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "2 tazas de brócoli hervido",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "3 rebanadas de pepino",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "¿Cuántas porciones de frutas y verduras debe comer todos los días?",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "1-2 porciones",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "2-3 porciones",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "3-4 porciones",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "5 o más porciones",
+                  "correct": true
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "El consumo recomendado de frutas es de 2-3 porciones por día. Una porción es equivalente a 120-200 gramos de fruta (por ejemplo, 1 manzana mediana/ naranja/ durazno, o 2 mandarinas/ kiwis pequeñas, o ~ 1 taza de fresas/ cerezas/ bayas/ uvas, o ~ 1 taza de sandía/ melón en rodajas, o 30 g de frutas secas, o 1/2 taza de jugo fresco).",
+            "El consumo recomendado de verduras es de 2-4 porciones por día. Una porción es equivalente a 150-200 gramos de verduras crudas o cocidas (por ejemplo, 1 taza de verduras crudas o cocidas picadas, o 2 tazas de verduras de hoja cruda como lechuga, o 2 zanahorias medianas, o 1 tomate grande).",
+            "¡Recuerde, 5 al día es el camino a seguir! Intente consumir al menos 5 porciones de frutas y verduras por día."
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Prácticas de consumo",
+          "description": "Familiarización con las mejores prácticas para manejar y consumir frutas y verduras.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "¿Cuál de las siguientes es una buena manera de incorporar frutas en su dieta?",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Como bocadillos",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Como postres",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "En batidos",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Todo lo anterior",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "¿Cuál de las siguientes es una buena manera de incorporar vegetales en su dieta?",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Como ensaladas laterales",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "En sándwiches o envolturas",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Como parte de los platos",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Todo lo anterior",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "¿Cuál es la forma más saludable de cocinar verduras para preservar la mayoría de sus nutrientes?",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Hirviendo",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Asado",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Humeante",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Freír",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "En comparación con las verduras crudas, cocidas:",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Contienen menos vitaminas",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "No tiene nutrientes",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Tener menos calorías",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Contener más minerales",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "En comparación con las verduras cocidas, crudas:",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Contener más fibras",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Tener más carbohidratos",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Tener menos calorías",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Contener menos agua",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "Lavar frutas y verduras antes de comer, hazlos:",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Sabe mejor",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Mira más brillante",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Con menos pesticidas",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Menos nutritivo",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "Comer frutas y verduras con su piel si es comestible, le da a su cuerpo:",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Mucha más energía",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Vitaminas adicionales",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Menos fibras",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Todo lo anterior",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "¡Hay muchas maneras de incorporar frutas en su dieta! Por nombrar algunos, consumo como bocadillos durante todo el día (elija frutas que sean fáciles de transportar y pelar para un refrigerio saludable en la escuela), úsalos para hacer postres nutritivos (por ejemplo, ensalada de frutas), o exprimirlos/molerlos para disfrutar de refrescantes jugos o batidos frescos.",
+            "Da prioridad a las frutas enteras (en lugar de los jugos de frutas) e intenta comerlas con su piel (si es comestible) después de un lavado exhaustivo, para aprovechar todos sus nutrientes (vitaminas, minerales y fibras).",
+            "¡Disfruta de las verduras en cada ocasión! Siempre acompañe sus comidas principales (almuerzo y cena) con ensalada o agregue vegetales en otros alimentos/platos (por ejemplo, sándwiches, pasta, arroz, sopas o platos a base de carne) para que sean más coloridos y sabrosos.",
+            "Su objetivo es comer la mayoría de sus verduras crudas, ya que cocinar puede causar la pérdida de algunas vitaminas importantes. Además, intente consumir verduras con su piel, ya que contienen nutrientes adicionales; Solo asegúrese de lavarlos a fondo para eliminar cualquier suciedad, pesticidas o gérmenes."
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Efectos sobre la salud",
+          "description": "Familiarización con los beneficios para la salud de las frutas y verduras.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Se recomienda comer frutas y verduras todos los días para:",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Cada vez más alto",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Corriendo más rápido",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Perder peso",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Mantenerse saludable",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Fibras, que se encuentran en frutas y verduras, principalmente ayudan:",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "El cuerpo crece más alto",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "La función intestinal mejor",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Los músculos son fuertes",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Proteger de las quemaduras de sol",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "¿Cómo ayudan las frutas y verduras a reducir el riesgo de enfermarse?",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Aumentan su sistema inmunológico",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Te mantienen despierto todo el tiempo",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Te dan energía extra para ejercicios",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Te ayudan a dormir más",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Comer una variedad de frutas y verduras puede beneficiarse:",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "La piel",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Los huesos",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "El corazón",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Todo lo anterior",
+                  "correct": true
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "¡Vaya sano con más frutas y verduras!",
+            "Las frutas y verduras son un componente clave de una dieta saludable.",
+            "Entre sus numerosos beneficios para la salud, apoyan el crecimiento y el desarrollo óptimos, mejoran el sistema inmune y ayudan al sistema cardiovascular y al tracto gastrointestinal funcionan correctamente."
+          ]
+        },
+        {
+          "id": 6,
+          "title": "Variedad y estacionalidad",
+          "description": "Familiarización con los conceptos de variedad y estacionalidad de frutas y verduras.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "¿De qué depende el color de las frutas y verduras?",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Su contenido calórico",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Su lugar de producción",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "La temporada que crecen",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Sus compuestos",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "El color de las frutas y verduras indica su contenido en:",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Fitoquímicos",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Azúcar",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Lípidos",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Calorías",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "¿Por qué es mejor comer frutas y verduras de temporada?",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Son más frescos",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Son más baratos",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Tienen más vitaminas",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Todo lo anterior",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Comer frutas y verduras de temporada ayuda:",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "El planeta",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "El cerebro",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "La fuerza muscular",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "El control de peso",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "Un vegetal que está disponible para la venta fuera de temporada:",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Crece en invernaderos",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Crece más rápido en la temporada baja",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Necesita menos agua para crecer",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "No tiene pesticidas",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "Cultivos estacionales de frutas y verduras:",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Necesita menos agua",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Necesita más productos químicos",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Necesita más fuentes de energía",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Aumentar la contaminación",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "El producto estacional reduce el desperdicio de alimentos por:",
+              "category": {
+                "id": "categoría-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Limitar el deterioro de la comida",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Reducir la vida en el almacenamiento",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Ofreciendo productos seguros",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Producir pequeñas cantidades",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "Al incorporar una variedad de frutas y verduras coloridas en su dieta, y optar por productos estacionales siempre que sea posible, no solo aumentará su salud y crecimiento general, sino que también ayudará a proteger el medio ambiente.",
+            "Comer estacionalmente también le brinda la oportunidad de disfrutar de la comida en su forma más fresca, más sabrosa y densa en nutrientes.",
+            "¡Este enfoque lo ayuda a adoptar una dieta saludable, sostenible y ecológica!"
+          ]
+        }
+      ]
+    }
+  ]
+}

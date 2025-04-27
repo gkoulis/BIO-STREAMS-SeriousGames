@@ -1,6 +1,8 @@
 Changelog
 ===
 
+# v0.1.3 Sunday 27 April 2025
+
 # v0.1.2 Sunday 27 April 2025
 
 - Renamed directory sr-foodquiz to sr-foodquizfreemode

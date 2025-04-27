@@ -1,0 +1,1345 @@
+{
+  "themes": [
+    {
+      "id": 1,
+      "title": "Kviz zdrave prehranske in telesne dejavnosti",
+      "description": "Kviz o igrah, ki želi povečati znanje o zdravih prehranskih in telesnih navadah.",
+      "levels": [
+        {
+          "id": 1,
+          "title": "Znanca",
+          "description": "Seznanjanje s skupinami hrane sadja in zelenjave.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Kaj od naštetega je sadje?",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Korenček",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Hruška",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Krompir",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Solata",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Kaj od naštetega je vključeno v skupino hrane?",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Lubenica",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Posušena figa",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Jagoda",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vse zgoraj navedeno",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "Iz katerega sadja prihajajo rozine?",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Apple",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Jagoda",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Grozdje",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Banana",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Katera od naslednjih predstavlja najboljšo izbiro sadja med različnimi vrstami soka?",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Nektarski sok",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Sadna pijača z dodanim sladkorjem",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Brezalkoholna pijača",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Svež sadni sok",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "Katera od naslednjih je zelenjava?",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Oranžna",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Jagoda",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Paradižnik",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Apple",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "Katera od naslednjih je zelena listnata zelenjava?",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Špinača",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Bučke",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Kumara",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Jajčevci",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "Katera od naslednjih je koreninska zelenjava?",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Zelje",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Korenček",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Poper",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Paradižnik",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "question": "Katera od naslednjih je škrobna zelenjava?",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Koruza",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Grah",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Buča",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vse zgoraj navedeno",
+                  "correct": true
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "Dobrodošli v svetu sadja in zelenjave!",
+            "Sadna skupina vključuje vse sveže sadje (npr. Oranžno, jabolko, hruško, banano, breskev) in suho sadje (npr. Slive, rozine, marelice), pa tudi sveže stisnjene sadne sokove (tj. 100% sadni sok brez dodanih sladkorjev). Ne pozabite: pakirani sadje sokovi z dodanim sladkorjem, brezalkoholnimi pijačami in drugimi predelanimi sadnimi pijačami niso vključeni v skupino hrane.",
+            "Zelenjavna skupina vključuje vso surovo zelenjavo (npr. Solata, zelje, korenček, paradižnik, kumara) in kuhano zelenjavo (npr. Brokoli, cvetača, bučke, pesa). Ne pozabite: Škrobna zelenjava, to je koruza, grah in buče, je vključena tudi v skupino za zelenjavno hrano, vendar je bogata s škrobom, zapletenim ogljikovim hidratom, ki ni v drugi zelenjavi."
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Prehranska vrednost",
+          "description": "Seznanjanje s prehransko vrednostjo sadja in zelenjave.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Iz katerega je sestavljena glavna hranila in zelenjava?",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Ogljikovi hidrati",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Beljakovine",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Vlakna",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamin A.",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Katera od naslednjih hranil ni vključena v sadje in zelenjavo?",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Ogljikovi hidrati",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Vlakna",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Lipidi",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamini",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "Kateri od naslednjih je dober vir vlaken, ki pomagajo pravilno delovati črevesje?",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Jabolka",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Špinača",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Brokoli",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vse zgoraj navedeno",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Kaj od naslednjega velja za celotno sadje v primerjavi s sadnimi sokovi?",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Imajo manj sladkorja",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Imajo več vlaken",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Pomagajo vam rasti višje",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vsebujejo manj hranilnih snovi",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "Kako vam lahko sadje in zelenjava pomagate ostati hidrirani?",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Naredijo žejni",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Prisili vas, da se znojite manj",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Imajo visoko vsebnost vode",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Vse zgoraj navedeno",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "Kateri vitamin najpogosteje najdemo v citrusih (npr. Oranžno) in pomaga povečati imunski sistem?",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Vitamin A.",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Vitamin c",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Vitamin d",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamin e",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "Kateri vitamin, ki ga najdemo v zeleni listnati zelenjavi, je bistvenega pomena za kri?",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Vitamin c",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Vitamin d",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Vitamin B2",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamin K.",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "question": "Kateri vitamin, ki ga najdemo v sadju in zelenjavi, je pomemben za kri in živčni sistem?",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Vitamin A.",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Folna kislina",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Vitamin c",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamin e",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 9,
+              "question": "Kateri mineral, ki ga najdemo v sadju in zelenjavi, pomaga ohranjati pravilno delovanje mišic in živcev?",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Kalij",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Kalcij",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Likalnik",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamin c",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "Sadje in zelenjava so zelo dober vir širokega paleta pomembnih hranil!",
+            "V glavnem so sestavljeni iz ogljikovih hidratov, ki so večinoma prisotni v obliki sladkorjev in telesu zagotavljajo energijo.",
+            "Vključujejo tudi vitamine (npr. Vitamin C, vitamin K, folna kislina), minerale (npr. Kalij, kalcij), vlakna in tudi druge spojine (npr. Fitokemikalije), pomembne za optimalno delovanje telesa.",
+            "Čeprav so trdna hrana, vsebujejo veliko vode in lahko prispevajo tudi k hidraciji telesa."
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Priporočen vnos",
+          "description": "Poznavanje priporočenega vnosa in velikosti sadja in zelenjave.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Kakšen je priporočen vnos sadja?",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "1-2 obroke vsak dan",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "2-3 obroke vsak dan",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "3-4 obroke na teden",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "5 obrokov na teden",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Kaj je ena porcija sadja?",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "1 majhno jabolko",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "1/2 kozarca svežega sadnega soka",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "4 posušeno sadje (npr. Marelice)",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vse zgoraj navedeno",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "Kaj je ena porcija sadja?",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "3 rezine lubenice",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "1 skodelica rozin",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "1 skodelica jagod",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "2 pomaranči",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Kakšen je priporočen vnos zelenjave?",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "1-2 obroke vsak dan",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "2-4 obroke vsak dan",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Manj kot 2 obroka na teden",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "5 obrokov na teden",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "Kaj je ena porcija zelenjave?",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "1 skodelica sesekljanega paradižnika",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "2 srednje korenje",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "2 skodelici surovega listnatega zelenja",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vse zgoraj navedeno",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "Kaj je ena porcija zelenjave?",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "2 skodelici solate",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "1 majhna čebula",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "2 skodelici kuhanega brokolija",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "3 rezine kumare",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "Koliko obrokov sadja in zelenjave bi morali jesti vsak dan?",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "1-2 obroke",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "2-3 obroke",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "3-4 obroke",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "5 ali več obrokov",
+                  "correct": true
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "Priporočena poraba sadja je 2-3 obroke na dan. Ena porcija je enaka 120-200 gramov sadja (npr. 1 srednje jabolko/ oranžno/ breskev ali 2 majhni mandarini/ kivi ali ~ 1 skodelica jagod/ češenj/ jagod/ grozdja ali ~ 1 skodelico narezane luči/ melone, ali 30 gneh sadja ali 1/2 skodelice).",
+            "Priporočena poraba zelenjave je 2-4 obroke na dan. Ena porcija je enaka 150-200 gramov surove ali kuhane zelenjave (npr. 1 skodelica sesekljane surove ali kuhane zelenjave ali 2 skodelici surovega listnatega zelenja, kot je solata, ali 2 srednji korenje ali 1 velik paradižnik).",
+            "Ne pozabite, 5-dan je pot! Prizadevajte si porabiti vsaj 5 obrokov sadja in zelenjave na dan."
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Prakse porabe",
+          "description": "Seznanjanje z najboljšimi praksami za ravnanje in uživanje sadja in zelenjave.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Kaj od naštetega je dober način za vključitev sadja v svojo prehrano?",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Kot prigrizki",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Kot sladice",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "V smoothieju",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vse zgoraj navedeno",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Kaj od naštetega je dober način za vključitev zelenjave v svojo prehrano?",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Kot stranske solate",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "V sendvičih ali ovojih",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Kot del jedi",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vse zgoraj navedeno",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "Kateri je najbolj zdrav način za kuhanje zelenjave, da ohranimo večino svojih hranil?",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Vret",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Praženje",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Pare",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Globoko cvrtje",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "V primerjavi s surovo zelenjavo so kuhani:",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Vsebujejo manj vitaminov",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Nimajo hranil",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Imajo manj kalorij",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vsebujejo več mineralov",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "V primerjavi s kuhano zelenjavo so surovi:",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Vsebujejo več vlaken",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Imajo več ogljikovih hidratov",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Imajo manj kalorij",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vsebujejo manj vode",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "Pranje sadja in zelenjave pred jedjo, jih naredite:",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Okus boljši",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Poglej sijoče",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Z manj pesticidov",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Manj hranljiv",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "Uživanje sadja in zelenjave s svojo kožo, če je užitno, daje telesu:",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Veliko več energije",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Dodatni vitamini",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Manj vlaken",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vse zgoraj navedeno",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "Obstaja toliko načinov, kako v svojo prehrano vključiti sadje! Če jih naštejemo nekaj, jih porabite kot prigrizke čez dan (izberite sadje, ki jih je enostavno nositi in olupiti za zdrav prigrizek v šoli), jih uporabite za izdelavo hranljivih sladic (npr. Sadna solata) ali jih stisnete/zmeljete, da uživate v osvežitvi svežih sokov ali smoothijev.",
+            "Dajte prednost celotnemu sadju (namesto sadnih sokov) in jih poskusite pojesti s svojo kožo (če je užitno) po temeljitem pranju, da izkoristite vse njihove hranilne snovi (vitamini, minerali in vlakni).",
+            "Uživajte v zelenjavi ob vsaki priložnosti! Vedno spremljajte svoje glavne obroke (kosilo in večerja) s stransko solato ali dodajte zelenjavo v drugo hrano/jedem (npr. Sendviči, testenine, riž, juhe ali jedi na osnovi mesa), da bodo bolj barviti in okusni.",
+            "Prizadevajte si, da večino zelenjave pojeste surove, saj lahko kuhanje povzroči izgubo nekaterih pomembnih vitaminov. Poskusite tudi zaužiti zelenjavo s svojo kožo, saj vsebujejo dodatna hranila; Prepričajte se, da jih predhodno temeljito operete, da odstranite umazanijo, pesticide ali mikrobe."
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Učinki na zdravje",
+          "description": "Seznanjanje z zdravstvenimi koristmi sadja in zelenjave.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Uživanje sadja in zelenjave vsak dan priporočamo za:",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Postajajo višji",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Teče hitreje",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Izguba teže",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Ostati zdrav",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Vlakna, ki jih najdemo v sadju in zelenjavi, v glavnem pomagajo:",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Telo raste višje",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Črevesje bolje",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Mišice so močne",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Zaščiti pred sončnimi opeklinami",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "Kako sadje in zelenjava pomagajo zmanjšati tveganje za zboletje?",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Povečajo vaš imunski sistem",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Ves čas vas zadržujejo",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Dajo vam dodatno energijo za vaje",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Pomagajo vam spati dlje",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Uživanje različnih sadja in zelenjave lahko koristi:",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Koža",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Kosti",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Srce",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vse zgoraj navedeno",
+                  "correct": true
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "Pojdite zdravo z več sadjem in zelenjavo!",
+            "Sadje in zelenjava so ključna sestavina zdrave prehrane.",
+            "Med svojimi številnimi zdravstvenimi koristmi podpirajo optimalno rast in razvoj, izboljšujejo imunski sistem in pomagajo srčno -žilnemu sistemu in pravilno delujejo prebavila."
+          ]
+        },
+        {
+          "id": 6,
+          "title": "Raznolikost in sezonskost",
+          "description": "Poznavanje konceptov raznolikosti in sezonskosti sadja in zelenjave.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Od tega je odvisna barva sadja in zelenjave?",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Njihove kalorične vsebine",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Njihov kraj proizvodnje",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Sezono, v kateri rastejo",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Njihove spojine",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Barva sadja in zelenjave označuje njihovo vsebino v:",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Fitokemikalije",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Sladkor",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Lipidi",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Kalorije",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "Zakaj je bolje jesti sezonsko sadje in zelenjavo?",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "So bolj sveži",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "So cenejši",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Imajo več vitaminov",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vse zgoraj navedeno",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Uživanje sezonskih sadja in zelenjave pomaga:",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Planet",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Možgani",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Mišična moč",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Nadzor teže",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "Zelenjava, ki je na voljo za prodajo izven sezone:",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Raste v rastlinjakih",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "V izven sezone raste hitreje",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Potrebuje manj vode, da raste",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Nima pesticidov",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "Sezonske sadne in zelenjavne kulture:",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Potrebujete manj vode",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Potrebujejo več kemikalij",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Potrebujete več virov energije",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Povečati onesnaževanje",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "Sezonski pridelki zmanjšajo živilske odpadke z:",
+              "category": {
+                "id": "kategorija-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Omejevanje kvarjenja hrane",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Zmanjšanje življenjske dobe v skladišču",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Ponuja varne izdelke",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Proizvaja majhne količine",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "Če v svojo prehrano vključite raznovrstno barvito sadje in zelenjavo in se odločite za sezonske pridelke, kadar koli je to mogoče, ne boste samo povečali svojega splošnega zdravja in rasti, ampak tudi pomagali zaščititi okolje.",
+            "Če jemo sezonsko, vam omogoča tudi uživanje v hrani v svoji sveži, najbolj aromatični in najbolj hranilni obliki.",
+            "Ta pristop vam pomaga sprejeti zdravo, trajnostno in okolju prijazno prehrano!"
+          ]
+        }
+      ]
+    }
+  ]
+}

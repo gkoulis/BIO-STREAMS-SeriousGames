@@ -68,7 +68,7 @@ const returnToIndex = () => {
           <div class="h-2"></div>
           <p class="text-gray-500 text-sm">{{ theme.description }}</p>
           <div class="h-8"></div>
-          <p class="text-yellow-600">Levels:</p>
+          <p class="text-yellow-600">{{ $t("theme_level.Levels") }}:</p>
           <ul class="">
             <template v-for="level in theme.levels" :key="level.id">
               <li>➡️ {{ level.title }}</li>
@@ -81,14 +81,14 @@ const returnToIndex = () => {
               type="button"
               class="rounded-full bg-white px-4 py-2.5 text-sm font-semibold text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 hover:bg-gray-50"
             >
-              Go! ✌️
+              {{ $t("actions.Go") }}! ✌️
             </button>
             <button
               @click="returnToIndex"
               type="button"
               class="rounded-full bg-white px-4 py-2.5 text-sm font-semibold text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 hover:bg-gray-50"
             >
-              Return
+              {{ $t("actions.Return") }}
             </button>
           </div>
         </div>
@@ -110,7 +110,7 @@ const returnToIndex = () => {
                 type="button"
                 class="rounded-full bg-white px-4 py-2.5 text-sm font-semibold text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 hover:bg-gray-50"
               >
-                Go! 🚀
+                {{ $t("actions.Go") }}! 🚀
               </button>
             </div>
           </div>
@@ -130,7 +130,9 @@ const returnToIndex = () => {
     <template v-else-if="themeStatusRef === 'POST_ACTIVE'">
       <f-n-s-m-s-g-container>
         <div class="py-6 px-6 text-center">
-          <p class="text-xl">👏 Well done! You completed level {{ activeLevelRef.id }}! 🎉</p>
+          <p class="text-xl">
+            👏 {{ $t("theme_level.you_completed_level") }} {{ activeLevelRef.id }}! 🎉
+          </p>
           <div class="h-10"></div>
           <p class="text-xl">{{ activeLevelRef.title }} <small>✅</small></p>
           <div class="h-10"></div>
@@ -146,7 +148,7 @@ const returnToIndex = () => {
               type="button"
               class="rounded-full bg-white px-4 py-2.5 text-sm font-semibold text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 hover:bg-gray-50"
             >
-              Next! 🚀
+              {{ $t("actions.Next") }}! 🚀
             </button>
           </div>
         </div>
@@ -157,7 +159,7 @@ const returnToIndex = () => {
     <template v-else-if="themeStatusRef === 'COMPLETED'">
       <f-n-s-m-s-g-container>
         <div class="py-6 px-6 text-center">
-          <p class="text-xl">🎉 Congratulations! You passed all levels! 🏁</p>
+          <p class="text-xl">🎉 {{ $t("theme_level.you_completed_all_levels") }} 🏁</p>
           <div class="h-8"></div>
           <ul class="">
             <template v-for="level in theme.levels" :key="level.id">

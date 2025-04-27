@@ -3,6 +3,20 @@
     "Under Construction": "Under Construction",
     "Something went wrong": "Something went wrong..."
   },
+  "actions": {
+    "Start": "Start",
+    "Go": "Go",
+    "Return": "Return",
+    "Next": "Next"
+  },
+  "theme_level": {
+    "Themes": "Themes",
+    "Theme": "Theme",
+    "Levels": "Levels",
+    "Level": "Level",
+    "you_completed_level": "Well Done! You completed level",
+    "you_completed_all_levels": "Congratulations! You completed all levels!"
+  },
   "foodninjafreemode": {
     "round_success": "You won this round! Proceeding to the next round...",
     "is_a_not_a": "{0} is {1}, not {2}",

@@ -3,6 +3,21 @@
     "Under Construction": "Under uppbyggnad",
     "Something went wrong": "Något gick fel..."
   },
+  "actions": {
+    "Start": "Starta",
+    "Go": "Gå",
+    "Return": "Återvänd",
+    "Next": "Nästa"
+  },
+  "theme_level": {
+    "Themes": "Teman",
+    "Theme": "Tema",
+    "Levels": "Nivåer",
+    "Level": "Nivå",
+    "you_completed_level": "Bra jobbat! Du klarade nivån",
+    "you_completed_all_levels": "Grattis! Du klarade alla nivåer!"
+  },
+
   "foodninjafreemode": {
     "round_success": "Du vann denna omgång! Går vidare till nästa...",
     "is_a_not_a": "{0} är {1}, inte {2}",

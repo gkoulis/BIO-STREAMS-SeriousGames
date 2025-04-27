@@ -1,0 +1,77 @@
+{
+  "themes": [
+    {
+      "id": 1,
+      "title": "Sadje in Zelenjava",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris elementum, est eu egestas posuere, ligula ante tempor ante, quis tincidunt nibh purus ac quam. Curabitur at convallis enim, a cursus leo.",
+      "levels": [
+        {
+          "id": 1,
+          "title": "Nareži sadje",
+          "items": [
+            {
+              "id": "apple",
+              "target": true
+            },
+            {
+              "id": "banana",
+              "target": true
+            },
+            {
+              "id": "bean",
+              "target": false
+            }
+          ],
+          "messages": [
+            "Daj prednost sadju!",
+            "Sadje je ena od skupin živil, ki jih je priporočljivo uživati vsak dan. Na splošno si prizadevaj pojesti 2–3 sadeže na dan. Če si za malico, v šoli ali popoldne izbereš sadje, ti bo to pomagalo doseči tvoj dnevni cilj. Da bi to dosegel, daj sadju prednost: najprej pojej sadje, šele nato vse ostalo!"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Nareži zelenjavo",
+          "items": [
+            {
+              "id": "apple",
+              "target": true
+            },
+            {
+              "id": "banana",
+              "target": true
+            },
+            {
+              "id": "bean",
+              "target": false
+            }
+          ],
+          "messages": [
+            "Pri obrokih izberi solato!",
+            "Zelenjavo, tako kot sadje, je priporočljivo uživati vsak dan. Lahko jo postrežeš kot solato ali celo kot glavno jed. Da bi dosegel svoj vsakodnevni cilj, spremljaj glavne obroke z zelenjavo."
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Nareži rdeče sadje in zelenjavo",
+          "items": [
+            {
+              "id": "apple",
+              "target": true
+            },
+            {
+              "id": "banana",
+              "target": true
+            },
+            {
+              "id": "bean",
+              "target": false
+            }
+          ],
+          "messages": [
+            "Odkrij paleto barv sadja in zelenjave!",
+            "Sadje in zelenjava sta najbolj pisani skupini živil. Njihove barve pa niso samo lepe na pogled, temveč tudi koristne za tvoje telo. Za vsako barvo se skrivajo posebne snovi, ki koristijo določenemu sistemu v tvojem telesu. Z drugimi besedami, različne barve so dobre za različne telesne sisteme. Odkrij jih!"
+          ]
+        }
+      ]
+    }
+  ]
+}

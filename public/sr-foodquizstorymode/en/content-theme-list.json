@@ -1,0 +1,1345 @@
+{
+  "themes": [
+    {
+      "id": 1,
+      "title": "Healthy Dietary and Physical Activity Habits Quiz",
+      "description": "A quiz game aiming to increase knowledge on healthy dietary and physical activity habits.",
+      "levels": [
+        {
+          "id": 1,
+          "title": "Acquaintance",
+          "description": "Familiarisation with the food groups of fruits and vegetables.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Which of the following is a fruit?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Carrot",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Pear",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Potato",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Lettuce",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Which of the following is included in the food group of fruits?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Watermelon",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Dried fig",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Strawberry",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All of the above",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "Which fruit do raisins come from?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Apple",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Strawberry",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Grapes",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Banana",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Which of the following constitutes the best fruit choice among the different types of juice?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Nectar juice",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Fruit drink with added sugar",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Soft drink",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Fresh fruit juice",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "Which of the following is a vegetable?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Orange",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Strawberry",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Tomato",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Apple",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "Which of the following is a green leafy vegetable?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Spinach",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Zucchini",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Cucumber",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Eggplant",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "Which of the following is a root vegetable?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Cabbage",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Carrot",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Pepper",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Tomato",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "question": "Which of the following is a starchy vegetable?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Corn",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Peas",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Pumpkin",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All of the above",
+                  "correct": true
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "Welcome to the world of fruits and vegetables!",
+            "The fruit group includes all fresh fruits (e.g. orange, apple, pear, banana, peach) and dried fruits (e.g. plums, raisins, apricots), as well as freshly squeezed fruit juices (i.e., 100% fruit juice without added sugars). Remember: packaged fruits juices with added sugar, soft drinks and other processed fruit drinks are not included in the food group of fruits.",
+            "The vegetable group includes all raw vegetables (e.g. lettuce, cabbage, carrot, tomato, cucumber) and cooked vegetables (e.g. broccoli, cauliflower, zucchini, beets). Remember: starchy vegetables, i.e. corn, peas and pumpkin, are also included in the vegetable food group, but they are rich in starch, a complex carbohydrate, which is not present in other vegetables."
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Nutritional value",
+          "description": "Familiarisation with the nutritional value of fruits and vegetables.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Which is the main nutrient fruits and vegetables consist of?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Carbohydrates",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Protein",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Fibres",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamin A",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Which of the following nutrients is not included in fruits and vegetables?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Carbohydrates",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Fibres",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Lipids",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamins",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "Which of the following is a good source of fibres, which help the gut work properly?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Apples",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Spinach",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Broccoli",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All of the above",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Which of the following is true for the whole fruits as compared to fruit juices?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "They have less sugar",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "They have more fibres",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "They help you grow taller",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "They contain less nutrients",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "How can fruits and vegetables help you stay hydrated?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "They make you thirsty",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "They make you sweat less",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "They have a high content of water",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "All of the above",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "Which vitamin is most commonly found in citrus fruits (e.g. orange) and helps boost the immune system?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Vitamin A",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Vitamin C",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Vitamin D",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamin E",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "Which vitamin, found in green leafy vegetables, is essential for blood?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Vitamin C",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Vitamin D",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Vitamin B2",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamin K",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "question": "Which vitamin, found in fruits and vegetables, is important for the blood and the nervous system?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Vitamin A",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Folic acid",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Vitamin C",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamin E",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 9,
+              "question": "Which mineral, found in fruits and vegetables, helps keep muscles and nerves working properly?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Potassium",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Calcium",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Iron",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamin C",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "Fruits and vegetables are a very good source of a wide range of important nutrients!",
+            "They are primarily made up from carbohydrates which are mainly present in the form of sugars and provide energy to the body.",
+            "They also include vitamins (e.g. vitamin C, vitamin K, folic acid), minerals (e.g. potassium, calcium), fibres and also other compounds (e.g. phytochemicals) important for the optimal function of the body.",
+            "Even though they are solid foods, they contain lots of water and can also contribute to the body’s hydration."
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Recommended intake",
+          "description": "Familiarisation with the recommended intake and portion size of fruits and vegetables.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "What is the recommended intake of fruits?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "1-2 servings each day",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "2-3 servings each day",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "3-4 servings a week",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "5 servings a week",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "What is one serving of fruit?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "1 small apple",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "1/2 glass of fresh fruit juice",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "4 dried fruits (e.g. apricots)",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All of the above",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "What is one serving of fruit?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "3 slices of watermelon",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "1 cup of raisins",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "1 cup of strawberries",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "2 oranges",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "What is the recommended intake of vegetables?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "1-2 servings each day",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "2-4 servings each day",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Less than 2 servings a week",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "5 servings a week",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "What is one serving of vegetables?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "1 cup of chopped tomato",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "2 medium carrots",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "2 cups of raw leafy greens",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All of the above",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "What is one serving of vegetables?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "2 cups of lettuce",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "1 small onion",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "2 cups of boiled broccoli",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "3 slices of cucumber",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "How many servings of fruits and vegetables should one eat every day?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "1-2 servings",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "2-3 servings",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "3-4 servings",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "5 or more servings",
+                  "correct": true
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "The recommended consumption of fruits is 2-3 servings per day. One serving is equivalent to 120-200 grams of fruit (e.g. 1 medium apple/ orange/ peach, or 2 small mandarins/ kiwis, or ~1 cup of strawberries/ cherries/ berries/ grapes, or ~1 cup of sliced watermelon/ melon, or 30g dried fruits, or 1/2 cup of fresh juice).",
+            "The recommended consumption of vegetables is 2-4 servings per day. One serving is equivalent to 150-200 grams of raw or cooked vegetables (e.g. 1 cup of chopped raw or cooked vegetables, or 2 cups of raw leafy greens like lettuce, or 2 medium carrots, or 1 large tomato).",
+            "Remember, 5-a-day is the way to go! Aim to consume at least 5 servings of fruits and vegetables per day."
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Consumption practices",
+          "description": "Familiarisation with best practices to handle and consume fruits and vegetables.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Which of the following is a good way to incorporate fruits in your diet?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "As snacks",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "As desserts",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "In smoothies",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All of the above",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Which of the following is a good way to incorporate vegetables in your diet?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "As side salads",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "In sandwiches or wraps",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "As part of the dishes",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All of the above",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "Which is the healthiest way to cook vegetables to preserve most of their nutrients?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Boiling",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Roasting",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Steaming",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Deep frying",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Compared to raw vegetables, cooked ones:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Contain fewer vitamins",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Have no nutrients",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Have fewer calories",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Contain more minerals",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "Compared to cooked vegetables, raw ones:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Contain more fibres",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Have more carbohydrates",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Have fewer calories",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Contain less water",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "Washing fruits and vegetables before eating, make them:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Taste better",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Look shinier",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "With less pesticides",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Less nutritious",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "Eating fruits and vegetables with their skin if edible, gives your body:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Much more energy",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Extra vitamins",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Less fibres",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All of the above",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "There are so many ways to incorporate fruits in your diet! To name a few, consume them as snacks throughout the day (choose fruits that are easy to carry and peel for a healthy snack at school), use them to make nutritious desserts (e.g. fruit salad), or squeeze/grind them to enjoy refreshing fresh juices or smoothies.",
+            "Give priority to whole fruits (instead of fruit juices), and try to eat them with their skin (if edible) after thorough washing, to get advantage of all their nutrients (vitamins, minerals and fibres).",
+            "Enjoy vegetables in every occasion! Always accompany your main meals (lunch and dinner) with side salad or add vegetables in other foods/dishes (e.g. sandwiches, pasta, rice, soups or meat-based dishes) to make them more colourful and tastier.",
+            "Aim to eat most of your vegetables raw, as cooking can cause the loss of some important vitamins. Also, try to consume vegetables with their skin, as they contain extra nutrients; just make sure to wash them thoroughly beforehand to remove any dirt, pesticides or germs."
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Health effects",
+          "description": "Familiarisation with the health benefits of fruits and vegetables.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Eating fruits and vegetables every day is recommended for:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Becoming taller",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Running faster",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Losing weight",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Staying healthy",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Fibres, found in fruits and vegetables, mainly help:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "The body grow taller",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "The gut function better",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "The muscles being strong",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Protect from sunburn",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "How do fruits and vegetables help reduce the risk of getting sick?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "They boost your immune system",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "They keep you awake all the time",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "They give you extra energy for exercises",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "They help you sleep longer",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Eating a variety of fruits and vegetables can benefit:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "The skin",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "The bones",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "The heart",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All of the above",
+                  "correct": true
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "Go healthy with more fruits and vegetables!",
+            "Fruits and vegetables are a key component of a healthy diet.",
+            "Among their numerous health benefits, they support optimal growth and development, enhance the immune system, and help the cardiovascular system and the gastrointestinal tract work properly."
+          ]
+        },
+        {
+          "id": 6,
+          "title": "Variety and seasonality",
+          "description": "Familiarisation with the concepts of variety and seasonality of fruits and vegetables.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "The colour of fruits and vegetables depends on?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Their caloric content",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Their place of production",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "The season they grow",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Their compounds",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "The colour of fruits and vegetables indicates their content in:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Phytochemicals",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Sugars",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Lipids",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Calories",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "Why is it better to eat seasonal fruits and vegetables?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "They are fresher",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "They are cheaper",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "They have more vitamins",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All of the above",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Eating seasonal fruits and vegetables helps:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "The planet",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "The brain",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "The muscle strength",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "The weight control",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "A vegetable that is available for sale out of season:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Grows in greenhouses",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Grows faster in the off-season",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Needs less water to grow",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Has no pesticides",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "Seasonal fruit and vegetable cultures:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Need less water",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Need more chemicals",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Need more energy sources",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Increase pollution",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "Seasonal produce reduces food waste by:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Limiting food’s spoilage",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Reducing life in storage",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Offering safe products",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Producing small quantities",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "By incorporating a variety of colourful fruits and vegetables into your diet, and opting for seasonal produce whenever possible, you will not only boost your overall health and growth but also help protect the environment.",
+            "Eating seasonally also gives you the chance to enjoy food at its freshest, most flavourful, and most nutrient-dense form.",
+            "This approach helps you adopt a healthy, sustainable, and eco-friendly diet!"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1345 @@
+{
+  "themes": [
+    {
+      "id": 1,
+      "title": "Des habitudes alimentaires et d'activité physique saines quiz",
+      "description": "Un jeu de quiz visant à augmenter les connaissances sur des habitudes alimentaires et d'activité physique saines.",
+      "levels": [
+        {
+          "id": 1,
+          "title": "Connaissance",
+          "description": "Familiarisation avec les groupes alimentaires de fruits et légumes.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Lequel des éléments suivants est un fruit?",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Carotte",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Poire",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Pomme de terre",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Laitue",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Lequel des éléments suivants est inclus dans le groupe alimentaire des fruits?",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Pastèque",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Fig séché",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Fraise",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Tout ce qui précède",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "De quel fruit les raisins secs proviennent-ils?",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Pomme",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Fraise",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Raisins",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Banane",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Lequel des éléments suivants constitue le meilleur choix de fruits parmi les différents types de jus?",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Jus de nectar",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Boisson aux fruits avec du sucre ajouté",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Boisson gazeuse",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Jus de fruits frais",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "Lequel des éléments suivants est un légume?",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Orange",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Fraise",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Tomate",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Pomme",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "Lequel des éléments suivants est un légume à feuilles vert?",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Épinard",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Courgettes",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Concombre",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Aubergine",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "Lequel des éléments suivants est un légume-racine?",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Chou",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Carotte",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Poivre",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Tomate",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "question": "Lequel des éléments suivants est un légume féculeux?",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Maïs",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Petits pois",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Citrouille",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Tout ce qui précède",
+                  "correct": true
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "Bienvenue dans le monde des fruits et légumes!",
+            "Le groupe de fruits comprend tous les fruits frais (par exemple orange, pomme, poire, banane, pêche) et fruits secs (par exemple, prunes, raisins secs, abricots), ainsi que des jus de fruits fraîchement pressés (c'est-à-dire des jus de fruits à 100% sans sucres ajoutés). N'oubliez pas: les fruits emballés des jus avec du sucre ajouté, des boissons gazeuses et d'autres boissons fruitières transformées ne sont pas incluses dans le groupe alimentaire des fruits.",
+            "Le groupe de légumes comprend tous les légumes crus (par exemple la laitue, le chou, la carotte, la tomate, le concombre) et les légumes cuits (par exemple le brocoli, le chou-fleur, les courgettes, les betteraves). N'oubliez pas: les féculents, c'est-à-dire le maïs, les pois et la citrouille, sont également inclus dans le groupe alimentaire des légumes, mais ils sont riches en amidon, un glucides complexes, qui n'est pas présent dans d'autres légumes."
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Valeur nutritionnelle",
+          "description": "Familiarisation avec la valeur nutritionnelle des fruits et légumes.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "De quels principaux fruits et légumes nutritifs sont-ils principaux?",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Glucides",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Protéine",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Fibres",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamine A",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Lequel des nutriments suivants n'est pas inclus dans les fruits et légumes?",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Glucides",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Fibres",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Lipides",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamines",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "Lequel des éléments suivants est une bonne source de fibres, qui aident l'intestin à fonctionner correctement?",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Pommes",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Épinard",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Brocoli",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Tout ce qui précède",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Lequel des éléments suivants est vrai pour l'ensemble des fruits par rapport aux jus de fruits?",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Ils ont moins de sucre",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Ils ont plus de fibres",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Ils vous aident à grandir",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Ils contiennent moins de nutriments",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "Comment les fruits et légumes peuvent-ils vous aider à rester hydraté?",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Ils vous ont soif",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Ils vous font transpirer moins",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Ils ont une teneur en eau élevée",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Tout ce qui précède",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "Quelle vitamine se trouve le plus souvent dans les agrumes (par exemple orange) et contribue à stimuler le système immunitaire?",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Vitamine A",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Vitamine C",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Vitamine D",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamine E",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "Quelle vitamine, trouvée dans les légumes à feuilles vertes, est essentielle au sang?",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Vitamine C",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Vitamine D",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Vitamine B2",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamine K",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "question": "Quelle vitamine, trouvée dans les fruits et légumes, est importante pour le sang et le système nerveux?",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Vitamine A",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Acide folique",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Vitamine C",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamine E",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 9,
+              "question": "Quel minéral, trouvé dans les fruits et légumes, aide à garder les muscles et les nerfs correctement?",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Potassium",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Calcium",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Fer",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamine C",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "Les fruits et légumes sont une très bonne source d'un large éventail de nutriments importants!",
+            "Ils sont principalement composés de glucides qui sont principalement présents sous forme de sucres et fournissent de l'énergie au corps.",
+            "Ils comprennent également des vitamines (par exemple la vitamine C, la vitamine K, l'acide folique), les minéraux (par exemple le potassium, le calcium), les fibres et d'autres composés (par exemple les phytochimiques) importants pour la fonction optimale du corps.",
+            "Même s'ils sont des aliments solides, ils contiennent beaucoup d'eau et peuvent également contribuer à l'hydratation du corps."
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Apport recommandé",
+          "description": "Familiarisation avec l'apport recommandé et la taille des portions des fruits et légumes.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Quelle est la consommation recommandée de fruits?",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "1-2 portions chaque jour",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "2-3 portions chaque jour",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "3-4 portions par semaine",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "5 portions par semaine",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Qu'est-ce qu'une portion de fruits?",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "1 petite pomme",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "1/2 verre de jus de fruits frais",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "4 fruits secs (par ex. Abricots)",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Tout ce qui précède",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "Qu'est-ce qu'une portion de fruits?",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "3 tranches de pastèque",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "1 tasse de raisins secs",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "1 tasse de fraises",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "2 oranges",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Quelle est la consommation recommandée de légumes?",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "1-2 portions chaque jour",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "2-4 portions chaque jour",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Moins de 2 portions par semaine",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "5 portions par semaine",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "Qu'est-ce qu'une portion de légumes?",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "1 tasse de tomate hachée",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "2 carottes moyennes",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "2 tasses de légumes verts bruts",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Tout ce qui précède",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "Qu'est-ce qu'une portion de légumes?",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "2 tasses de laitue",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "1 petit oignon",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "2 tasses de brocoli bouillis",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "3 tranches de concombre",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "Combien de portions de fruits et légumes devrait-on manger chaque jour?",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "1-2 portions",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "2-3 portions",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "3-4 portions",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "5 portions ou plus",
+                  "correct": true
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "La consommation recommandée de fruits est de 2 à 3 portions par jour. Une portion est équivalente à 120-200 grammes de fruits (par exemple 1 pomme moyenne / orange / pêche, ou 2 petites mandarines / kiwis, ou ~ 1 tasse de fraises / cerises / baies / raisins, ou ~ 1 tasse de merde en tranches / melon, ou fruits séchés 30G, ou 1/2 tasse de jumeau frais).",
+            "La consommation recommandée de légumes est de 2 à 4 portions par jour. Une portion équivaut à 150-200 grammes de légumes crus ou cuits (par exemple 1 tasse de légumes crus ou cuits hachés, ou 2 tasses de légumes verts crus comme la laitue, ou 2 carottes moyennes, ou 1 grande tomate).",
+            "Rappelez-vous, 5 par jour est la voie à suivre! Visez à consommer au moins 5 portions de fruits et légumes par jour."
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Pratiques de consommation",
+          "description": "Familiarisation avec les meilleures pratiques pour gérer et consommer des fruits et légumes.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Lequel des éléments suivants est un bon moyen d'incorporer des fruits dans votre alimentation?",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Comme collations",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Comme desserts",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "En smoothies",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Tout ce qui précède",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Lequel des éléments suivants est un bon moyen d'incorporer des légumes dans votre alimentation?",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Comme salades latérales",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "En sandwichs ou enveloppements",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Dans le cadre des plats",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Tout ce qui précède",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "Quel est le moyen le plus sain de cuisiner des légumes pour préserver la plupart de leurs nutriments?",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Ébullition",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Grillage",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Fumant",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Friture",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Comparé aux légumes crus, cuits:",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Contenir moins de vitamines",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "N'oubliez pas de nutriments",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Avoir moins de calories",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Contenir plus de minéraux",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "Comparé aux légumes cuits, crus:",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Contenir plus de fibres",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Avoir plus de glucides",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Avoir moins de calories",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Contenir moins d'eau",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "Laver les fruits et légumes avant de manger, faites-les:",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Mieux goûter",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Avoir l'air plus brillant",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Avec moins de pesticides",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Moins nutritif",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "Manger des fruits et légumes avec leur peau s'il est comestible, donne à votre corps:",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Beaucoup plus d'énergie",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Vitamines supplémentaires",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Moins de fibres",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Tout ce qui précède",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "Il y a tellement de façons d'incorporer des fruits dans votre alimentation! Pour n'en nommer que quelques-uns, consommez-les sous forme de collations tout au long de la journée (choisissez des fruits faciles à transporter et à la pelage pour une collation saine à l'école), utilisez-les pour faire des desserts nutritifs (par exemple, salade de fruits), ou les presser / les serrer pour profiter de jus ou de smoothies rafraîchissants.",
+            "Donnez la priorité aux fruits entiers (au lieu des jus de fruits) et essayez de les manger avec leur peau (si comestible) après un lavage approfondi, pour profiter de tous leurs nutriments (vitamines, minéraux et fibres).",
+            "Profitez des légumes à chaque occasion! Accompagnez toujours vos plats principaux (déjeuner et dîner) avec une salade latérale ou ajouter des légumes dans d'autres aliments / plats (par exemple, sandwichs, pâtes, riz, soupes ou plats à base de viande) pour les rendre plus colorés et plus savoureux.",
+            "Visez à manger la plupart de vos légumes crus, car la cuisson peut entraîner la perte de certaines vitamines importantes. Essayez également de consommer des légumes avec leur peau, car ils contiennent des nutriments supplémentaires; Assurez-vous simplement de les laver soigneusement à l'avance pour éliminer toute saleté, pesticides ou germes."
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Effets sur la santé",
+          "description": "Familiarisation avec les avantages pour la santé des fruits et légumes.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Manger des fruits et légumes tous les jours est recommandé pour:",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Devenir plus grand",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Courir plus vite",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Perdre du poids",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Rester en bonne santé",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Les fibres, trouvées dans les fruits et légumes, aident principalement:",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Le corps se rapproche",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "La fonction intestinale mieux",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Les muscles étant forts",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Protéger des coups de soleil",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "Comment les fruits et légumes aident-ils à réduire le risque de tomber malade?",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Ils augmentent votre système immunitaire",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Ils vous gardent tout le temps",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Ils vous donnent une énergie supplémentaire pour les exercices",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Ils vous aident à dormir plus longtemps",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Manger une variété de fruits et légumes peut bénéficier:",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "La peau",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Les os",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Le cœur",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Tout ce qui précède",
+                  "correct": true
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "Allez en bonne santé avec plus de fruits et légumes!",
+            "Les fruits et légumes sont un élément clé d'une alimentation saine.",
+            "Parmi leurs nombreux avantages pour la santé, ils soutiennent la croissance et le développement optimaux, améliorent le système immunitaire et aident le système cardiovasculaire et le tractus gastro-intestinal fonctionnent correctement."
+          ]
+        },
+        {
+          "id": 6,
+          "title": "Variété et saisonnalité",
+          "description": "Familiarisation avec les concepts de variété et de saisonnalité des fruits et légumes.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "La couleur des fruits et légumes dépend?",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Leur contenu calorique",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Leur lieu de production",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "La saison où ils grandissent",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Leurs composés",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "La couleur des fruits et légumes indique leur contenu dans:",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Phytochimiques",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Sucre",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Lipides",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Calories",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "Pourquoi est-il préférable de manger des fruits et légumes de saison?",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Ils sont plus frais",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Ils sont moins chers",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Ils ont plus de vitamines",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Tout ce qui précède",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Manger des fruits et légumes saisonniers aide:",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "La planète",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Le cerveau",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "La force musculaire",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Le contrôle du poids",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "Un légume disponible à la vente hors saison:",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Pousse dans les serres",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Se développe plus vite pendant la morte-saison",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "A besoin de moins d'eau pour grandir",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "N'a pas de pesticides",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "Cultures de fruits et légumes saisonniers:",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Besoin de moins d'eau",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Besoin de plus de produits chimiques",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Besoin de plus de sources d'énergie",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Augmenter la pollution",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "Les produits de saison réduisent les déchets alimentaires par:",
+              "category": {
+                "id": "catégorie 0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Limiter la détérioration de la nourriture",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Réduire la vie en stockage",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Offrir des produits sûrs",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Produire de petites quantités",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "En incorporant une variété de fruits et légumes colorés dans votre alimentation et en optant pour des produits de saison dans la mesure du possible, vous augmenterez non seulement votre santé et votre croissance globales, mais aussi pour protéger l'environnement.",
+            "Manger de façon saisonnière vous donne également la chance de profiter de la nourriture sous sa forme la plus fraîche, la plus savoureuse et la plus riche en nutriments.",
+            "Cette approche vous aide à adopter une alimentation saine, durable et respectueuse de l'environnement!"
+          ]
+        }
+      ]
+    }
+  ]
+}

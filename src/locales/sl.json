@@ -3,6 +3,21 @@
     "Under Construction": "V izgradnji",
     "Something went wrong": "Nekaj je šlo narobe..."
   },
+  "actions": {
+    "Start": "Začni",
+    "Go": "Pojdi",
+    "Return": "Vrni se",
+    "Next": "Naslednji"
+  },
+  "theme_level": {
+    "Themes": "Teme",
+    "Theme": "Tema",
+    "Levels": "Ravni",
+    "Level": "Raven",
+    "you_completed_level": "Odlično! Uspešno si zaključil raven",
+    "you_completed_all_levels": "Čestitke! Zaključil si vse ravni!"
+  },
+
   "foodninjafreemode": {
     "round_success": "Zmagal si v tem krogu! Nadaljujemo v naslednji krog...",
     "is_a_not_a": "{0} je {1}, ne {2}",

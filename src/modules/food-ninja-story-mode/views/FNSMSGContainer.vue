@@ -11,6 +11,7 @@ const PUBLIC_PATH = import.meta.env.BASE_URL;
         <img class="h-14 w-auto" :src="`${PUBLIC_PATH}logo/ninja-logo-0001.png`" alt="" />
       </div>
 
+      <!-- TODO Optional container. Check in the food-ninja-story-mode -->
       <div class="Container1">
         <slot />
       </div>

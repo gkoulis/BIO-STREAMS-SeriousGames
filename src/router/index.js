@@ -38,7 +38,22 @@ const router = createRouter({
     {
       path: "/food-quiz-free-mode",
       name: "food-quiz-free-mode",
-      component: () => import("@/modules/food-quiz-free-mode/views/FoodQuizFreeModeSeriousGameView.vue"),
+      component: () =>
+        import("@/modules/food-quiz-free-mode/views/FoodQuizFreeModeSeriousGameView.vue"),
+    },
+    {
+      path: "/food-quiz-story-mode-index",
+      name: "food-quiz-story-mode-index",
+      component: () =>
+        import("../modules/food-quiz-story-mode/views/FoodQuizStoryModeSeriousGameIndexView.vue"),
+    },
+    {
+      path: "/food-quiz-story-mode-gameplay/:themeId",
+      name: "food-quiz-story-mode-gameplay",
+      component: () =>
+        import(
+          "../modules/food-quiz-story-mode/views/FoodQuizStoryModeSeriousGameGameplayView.vue"
+        ),
     },
     {
       path: "/lets-move",

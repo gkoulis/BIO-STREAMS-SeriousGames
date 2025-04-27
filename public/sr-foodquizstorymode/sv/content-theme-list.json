@@ -1,0 +1,1345 @@
+{
+  "themes": [
+    {
+      "id": 1,
+      "title": "Hälsosam kost och fysisk aktivitet vana frågesport",
+      "description": "Ett frågesportspel som syftar till att öka kunskapen om sunda diet- och fysiska aktivitetsvanor.",
+      "levels": [
+        {
+          "id": 1,
+          "title": "Bekantskap",
+          "description": "Bekanta med livsmedelsgrupperna av frukt och grönsaker.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Vilket av följande är en frukt?",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Morot",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Päron",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Potatis",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Sallad",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Vilket av följande ingår i livsmedelsgruppen av frukt?",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Vattenmelon",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Torkad fikon",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Jordgubbe",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Allt ovanstående",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "Vilken frukt kommer russin från?",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Äpple",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Jordgubbe",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Druvor",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Banan",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Vilket av följande utgör det bästa fruktvalet bland de olika typerna av juice?",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Nektarsaft",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Fruktdryck med tillsatt socker",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Läsk",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Färsk fruktjuice",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "Vilket av följande är en grönsak?",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Orange",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Jordgubbe",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Tomat",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Äpple",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "Vilket av följande är en grön bladgrönsak?",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Spenat",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Zucchini",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Gurka",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Äggplanta",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "Vilket av följande är en rotgrönsak?",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Kål",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Morot",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Peppar",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Tomat",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "question": "Vilket av följande är en stärkelsefull grönsak?",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Majs",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Ärtor",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Pumpa",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Allt ovanstående",
+                  "correct": true
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "Välkommen till världen av frukt och grönsaker!",
+            "Fruktgruppen inkluderar alla färska frukter (t.ex. orange, äpple, päron, banan, persika) och torkade frukter (t.ex. plommon, russin, aprikoser), såväl som nypressade fruktjuicer (dvs. 100% fruktjuice utan tillsatta sockerarter). Kom ihåg: Förpackade fruktjuicer med tillsatt socker, läsk och andra bearbetade fruktdrycker ingår inte i livsmedelsgruppen frukt.",
+            "Grönsaksgruppen inkluderar alla råa grönsaker (t.ex. sallad, kål, morot, tomat, gurka) och kokta grönsaker (t.ex. broccoli, blomkål, zucchini, rödbetor). Kom ihåg: Stärkelsefulla grönsaker, dvs majs, ärtor och pumpa, ingår också i grönsaksmatgruppen, men de är rika på stärkelse, ett komplext kolhydrat, som inte finns i andra grönsaker."
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Näringsvärde",
+          "description": "Bekanta med näringsvärdet för frukt och grönsaker.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Vilket är de viktigaste näringsfrukterna och grönsakerna består av?",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Kolhydrater",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Protein",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Fiber",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamin A",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Vilka av följande näringsämnen ingår inte i frukt och grönsaker?",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Kolhydrater",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Fiber",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Lipider",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Vitaminer",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "Vilket av följande är en bra källa till fibrer, som hjälper tarmen att fungera ordentligt?",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Äpplen",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Spenat",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Broccoli",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Allt ovanstående",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Vilket av följande gäller för hela frukterna jämfört med fruktjuicer?",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "De har mindre socker",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "De har fler fibrer",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "De hjälper dig att bli högre",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "De innehåller mindre näringsämnen",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "Hur kan frukt och grönsaker hjälpa dig att hålla dig hydratiserad?",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "De gör dig törstig",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "De får dig att svettas mindre",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "De har ett högt vatteninnehåll",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Allt ovanstående",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "Vilket vitamin finns oftast i citrusfrukter (t.ex. orange) och hjälper till att öka immunsystemet?",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Vitamin A",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Vitamin C",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Vitamin D",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamin E",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "Vilket vitamin, som finns i gröna bladgrönsaker, är avgörande för blod?",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Vitamin C",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Vitamin D",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Vitamin B2",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamin K",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "question": "Vilket vitamin, som finns i frukt och grönsaker, är viktigt för blodet och nervsystemet?",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Vitamin A",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Folinsyra",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Vitamin C",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamin E",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 9,
+              "question": "Vilket mineral, som finns i frukt och grönsaker, hjälper till att hålla muskler och nerver som fungerar ordentligt?",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Kalium",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Kalcium",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Järn",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamin C",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "Frukt och grönsaker är en mycket bra källa till ett brett utbud av viktiga näringsämnen!",
+            "De består främst av kolhydrater som huvudsakligen finns i form av sockerarter och ger energi till kroppen.",
+            "De inkluderar också vitaminer (t.ex. C -vitamin, vitamin K, folsyra), mineraler (t.ex. kalium, kalcium), fibrer och även andra föreningar (t.ex. fytokemikalier) viktiga för kroppens optimala funktion.",
+            "Även om de är fasta livsmedel innehåller de mycket vatten och kan också bidra till kroppens hydrering."
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Rekommenderat intag",
+          "description": "Bekanta med det rekommenderade intaget och portionsstorleken för frukt och grönsaker.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Vad är det rekommenderade intaget av frukt?",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "1-2 portioner varje dag",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "2-3 portioner varje dag",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "3-4 portioner i veckan",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "5 portioner i veckan",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Vad är en servering av frukt?",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "1 litet äpple",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "1/2 glas färsk fruktjuice",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "4 torkade frukter (t.ex. aprikoser)",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Allt ovanstående",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "Vad är en servering av frukt?",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "3 skivor vattenmelon",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "1 kopp russin",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "1 kopp jordgubbar",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "2 apelsiner",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Vad är det rekommenderade intaget av grönsaker?",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "1-2 portioner varje dag",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "2-4 portioner varje dag",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Mindre än 2 portioner i veckan",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "5 portioner i veckan",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "Vad är en servering av grönsaker?",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "1 kopp hackad tomat",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "2 medelstora morötter",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "2 koppar råa bladgrönsaker",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Allt ovanstående",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "Vad är en servering av grönsaker?",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "2 koppar sallad",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "1 liten lök",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "2 koppar kokt broccoli",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "3 skivor gurka",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "Hur många portioner frukt och grönsaker ska man äta varje dag?",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "1-2 portioner",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "2-3 portioner",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "3-4 portioner",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "5 eller fler portioner",
+                  "correct": true
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "Den rekommenderade konsumtionen av frukt är 2-3 portioner per dag. En servering motsvarar 120-200 gram frukt (t.ex. 1 medium äpple/ orange/ persika, eller 2 små mandariner/ kiwis, eller ~ 1 kopp jordgubbar/ körsbär/ bär/ druvor, eller ~ 1 kopp skivad vattenmelon/ melon, eller 30 g torkade frukter, eller 1/2 kopp).",
+            "Den rekommenderade konsumtionen av grönsaker är 2-4 portioner per dag. En servering motsvarar 150-200 gram råa eller kokta grönsaker (t.ex. 1 kopp hackad rå eller kokta grönsaker, eller 2 koppar råa bladgrönsaker som sallad, eller 2 medelstora morötter, eller 1 stor tomat).",
+            "Kom ihåg att 5-per-dagen är vägen att gå! Syftar till att konsumera minst 5 portioner frukt och grönsaker per dag."
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Konsumtionspraxis",
+          "description": "Bekanta med bästa praxis för att hantera och konsumera frukt och grönsaker.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Vilket av följande är ett bra sätt att integrera frukt i din diet?",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Som snacks",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Som desserter",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "I smoothies",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Allt ovanstående",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Vilket av följande är ett bra sätt att integrera grönsaker i din diet?",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Som sidosallader",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "I smörgåsar eller omslag",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Som en del av diskarna",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Allt ovanstående",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "Vilket är det hälsosammaste sättet att laga grönsaker för att bevara de flesta av sina näringsämnen?",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Kokning",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Rostning",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Ångande",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Djupstekning",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Jämfört med råa grönsaker, kokta:",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Innehåller färre vitaminer",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Har inga näringsämnen",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Har färre kalorier",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Innehålla fler mineraler",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "Jämfört med kokta grönsaker, råa:",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Innehålla fler fibrer",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Har fler kolhydrater",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Har färre kalorier",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Innehåller mindre vatten",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "Tvätt frukt och grönsaker innan du äter, gör dem:",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Smaka bättre",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Se blankare ut",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Med mindre bekämpningsmedel",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Mindre näringsrika",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "Att äta frukt och grönsaker med huden om de är ätliga, ger din kropp:",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Mycket mer energi",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Extra vitaminer",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Mindre fibrer",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Allt ovanstående",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "Det finns så många sätt att integrera frukt i din diet! För att nämna några, konsumera dem som snacks under hela dagen (välj frukt som är lätta att bära och skala för ett hälsosamt mellanmål i skolan), använd dem för att göra näringsrika desserter (t.ex. fruktsallad) eller pressa/slipa dem för att njuta av uppfriskande färska juicer eller smoothies.",
+            "Ge prioritet till hela frukter (istället för fruktjuicer) och försök att äta dem med huden (om de är ätbar) efter grundlig tvätt, för att dra fördel av alla deras näringsämnen (vitaminer, mineraler och fibrer).",
+            "Njut av grönsaker vid varje tillfälle! Följ alltid med dina huvudmåltider (lunch och middag) med sidosallad eller tillsätt grönsaker i andra livsmedel/rätter (t.ex. smörgåsar, pasta, ris, soppor eller köttbaserade rätter) för att göra dem mer färgglada och smakligare.",
+            "Syftet med att äta de flesta av dina grönsaker råa, eftersom matlagning kan orsaka förlust av några viktiga vitaminer. Försök också att konsumera grönsaker med huden, eftersom de innehåller extra näringsämnen; Se bara till att tvätta dem noggrant i förväg för att ta bort smuts, bekämpningsmedel eller bakterier."
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Hälsoeffekter",
+          "description": "Bekanta med hälsofördelarna med frukt och grönsaker.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Att äta frukt och grönsaker varje dag rekommenderas för:",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Blir högre",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Springer snabbare",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Gå ner i vikt",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Förblir frisk",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Fibrer, som finns i frukt och grönsaker, hjälper främst:",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Kroppen blir högre",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Tarmen fungerar bättre",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Musklerna är starka",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Skydda mot solbränna",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "Hur hjälper frukt och grönsaker att minska risken för att bli sjuk?",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "De ökar ditt immunsystem",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "De håller dig vaken hela tiden",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "De ger dig extra energi för övningar",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "De hjälper dig att sova längre",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Att äta en mängd frukt och grönsaker kan gynnas:",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Huden",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Benen",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Hjärtat",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Allt ovanstående",
+                  "correct": true
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "Gå friskt med mer frukt och grönsaker!",
+            "Frukt och grönsaker är en viktig del av en hälsosam kost.",
+            "Bland deras många hälsofördelar stöder de optimal tillväxt och utveckling, förbättrar immunsystemet och hjälper det kardiovaskulära systemet och mag -tarmkanalen fungerar korrekt."
+          ]
+        },
+        {
+          "id": 6,
+          "title": "Variation och säsong",
+          "description": "Bekanta med begreppen variation och säsongsbetonade frukt och grönsaker.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Färgen på frukt och grönsaker beror på?",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Deras kaloriinnehåll",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Deras produktionsplats",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Säsongen de växer",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Deras föreningar",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Färgen på frukt och grönsaker indikerar deras innehåll i:",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Fytokemikalier",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Socker",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Lipider",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Kalorier",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "Varför är det bättre att äta säsongens frukter och grönsaker?",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "De är fräschare",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "De är billigare",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "De har fler vitaminer",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Allt ovanstående",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Att äta säsongens frukter och grönsaker hjälper:",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Planeten",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Hjärnan",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Muskelstyrkan",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Viktkontrollen",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "En grönsak som är tillgänglig för försäljning under säsongen:",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Växer i växthus",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Växer snabbare under lågsäsongen",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Behöver mindre vatten för att växa",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Har inga bekämpningsmedel",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "Säsongens frukt- och grönsakskulturer:",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Behöver mindre vatten",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Behöver fler kemikalier",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Behöver fler energikällor",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Öka föroreningar",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "Säsongsprodukter minskar matavfallet med:",
+              "category": {
+                "id": "kategori-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Begränsning av matens förstörelse",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Minska livet i lagring",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Erbjuder säkra produkter",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Producerar små mängder",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "Genom att integrera en mängd färgglada frukter och grönsaker i din diet och välja säsongsprodukter när det är möjligt kommer du inte bara att öka din allmänna hälsa och tillväxt utan också hjälpa till att skydda miljön.",
+            "Att äta säsongsmässigt ger dig också chansen att njuta av mat till sin färskaste, mest smakfulla och mest näringsbeständiga form.",
+            "Detta tillvägagångssätt hjälper dig att anta en hälsosam, hållbar och miljövänlig diet!"
+          ]
+        }
+      ]
+    }
+  ]
+}
