@@ -35,7 +35,8 @@ const onLanguageSelection = (event) => {
           <router-link to="/marketplace">Marketplace</router-link>
           <router-link to="/food-ninja-free-mode">Food Ninja (free mode)</router-link>
           <router-link to="/food-ninja-story-mode-index">Food Ninja (story mode)</router-link>
-          <router-link to="/food-quiz">Food Quiz</router-link>
+          <router-link to="/food-quiz-free-mode">Food Quiz (free mode)</router-link>
+<!--          <router-link to="/food-quiz-story-mode-index">Food Quiz (story mode)</router-link>-->
           <router-link to="/lets-move">Let's Move</router-link>
           <router-link to="/food-treasure">Food Treasure</router-link>
 

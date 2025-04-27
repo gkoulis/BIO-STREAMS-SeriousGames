@@ -36,9 +36,9 @@ const router = createRouter({
         ),
     },
     {
-      path: "/food-quiz",
-      name: "food-quiz",
-      component: () => import("../modules/food-quiz/views/FoodQuizSeriousGameView.vue"),
+      path: "/food-quiz-free-mode",
+      name: "food-quiz-free-mode",
+      component: () => import("@/modules/food-quiz-free-mode/views/FoodQuizFreeModeSeriousGameView.vue"),
     },
     {
       path: "/lets-move",

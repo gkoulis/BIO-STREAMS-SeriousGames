@@ -2,7 +2,7 @@
 import { ref, defineProps, toRefs, defineEmits, computed, onBeforeMount } from "vue";
 import { loadJson } from "@/common/load-json.js";
 import { selectRandomQuestions } from "./questions";
-import Question from "@/modules/food-quiz/views/Question.vue";
+import Question from "@/modules/food-quiz-free-mode/views/Question.vue";
 
 const emit = defineEmits(["onReturn"]);
 

@@ -1,6 +1,10 @@
 Changelog
 ===
 
+# v0.1.1 Sunday 27 April 2025
+
+- Renamed Food Quiz to Food Quiz Free Mode
+
 # v0.1.0 Sunday 27 April 2025
 
 - Git Repository initialization
