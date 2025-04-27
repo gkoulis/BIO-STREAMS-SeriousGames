@@ -1,0 +1,77 @@
+{
+  "themes": [
+    {
+      "id": 1,
+      "title": "Fruits and Vegetables",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris elementum, est eu egestas posuere, ligula ante tempor ante, quis tincidunt nibh purus ac quam. Curabitur at convallis enim, a cursus leo.",
+      "levels": [
+        {
+          "id": 1,
+          "title": "Slice the fruits",
+          "items": [
+            {
+              "id": "apple",
+              "target": true
+            },
+            {
+              "id": "banana",
+              "target": true
+            },
+            {
+              "id": "bean",
+              "target": false
+            }
+          ],
+          "messages": [
+            "Give fruit a priority!",
+            "Fruits are among the foods it is recommended you consume on a daily basis. In general, 2-3 fruits per day is your ultimate goal. Selecting a fruit as a snack, at school or in the afternoon, will help you achieve your daily goal. To do so, give fruit a priority: first eat the fruit, then anything else!"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Slice the vegetables",
+          "items": [
+            {
+              "id": "apple",
+              "target": true
+            },
+            {
+              "id": "banana",
+              "target": true
+            },
+            {
+              "id": "bean",
+              "target": false
+            }
+          ],
+          "messages": [
+            "Go with a salad at your meals!",
+            "Vegetables, like fruits, are also recommended to be consumed on a daily basis. They can be served as a salad or even as a main dish. To meet your everyday goal, accompany your main meals with veggies!"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Slice the fruits and vegetables with red color",
+          "items": [
+            {
+              "id": "apple",
+              "target": true
+            },
+            {
+              "id": "banana",
+              "target": true
+            },
+            {
+              "id": "bean",
+              "target": false
+            }
+          ],
+          "messages": [
+            "Discover the F&V palette of colours!",
+            "Fruits and vegetables are the most colorful food groups. Their colours, however, are not only a pleasure for your eyes, but for your body, as well. Behind a colour, certain substances exist, which specifically benefit a system of your body. In other words, the different colours are good for different systems of the body. Discover them!"
+          ]
+        }
+      ]
+    }
+  ]
+}

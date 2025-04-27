@@ -1,0 +1,9 @@
+{
+  "items": [
+    { "id": "apple", "name": "Apple", "categoryId": "fruit", "categoryName": "Fruit", "subDirectory": "fruits", "texture": "apple.png" },
+    { "id": "apricot", "name": "Apricot", "categoryId": "fruit", "categoryName": "Fruit", "subDirectory": "fruits", "texture": "apricot.png" },
+    { "id": "avocado", "name": "Avocado", "categoryId": "fruit", "categoryName": "Fruit", "subDirectory": "fruits", "texture": "avocado.png" },
+    { "id": "banana", "name": "Banana", "categoryId": "fruit", "categoryName": "Fruit", "subDirectory": "fruits", "texture": "banana.png" },
+    { "id": "bean", "name": "Bean", "categoryId": "vegetable", "categoryName": "Vegetable", "subDirectory": "vegetables", "texture": "bean.png" }
+  ]
+}

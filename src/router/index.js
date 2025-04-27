@@ -22,10 +22,18 @@ const router = createRouter({
         import("../modules/food-ninja-free-mode/views/FoodNinjaFreeModeSeriousGameView.vue"),
     },
     {
-      path: "/food-ninja-story-mode",
-      name: "food-ninja-story-mode",
+      path: "/food-ninja-story-mode-index",
+      name: "food-ninja-story-mode-index",
       component: () =>
-        import("../modules/food-ninja-story-mode/views/FoodNinjaStoryModeSeriousGameView.vue"),
+        import("../modules/food-ninja-story-mode/views/FoodNinjaStoryModeSeriousGameIndexView.vue"),
+    },
+    {
+      path: "/food-ninja-story-mode-gameplay/:themeId",
+      name: "food-ninja-story-mode-gameplay",
+      component: () =>
+        import(
+          "../modules/food-ninja-story-mode/views/FoodNinjaStoryModeSeriousGameGameplayView.vue"
+        ),
     },
     {
       path: "/food-quiz",

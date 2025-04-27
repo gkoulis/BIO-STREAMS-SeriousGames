@@ -1,6 +1,11 @@
 Changelog
 ===
 
+# v0.1.0 Sunday 27 April 2025
+
+- Git Repository initialization
+- Introducing Food Ninja Story Mode initial implementation (pending: translations and items)
+
 # Σάββατο 29 Μαρτίου 2025
 
 - Υλοποίηση για Μεταφράσεις (στατικό και δυναμικό περιεχόμενο)

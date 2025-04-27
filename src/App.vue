@@ -1,9 +1,7 @@
 <script setup>
 import { onBeforeMount } from "vue";
 
-onBeforeMount(() => {
-
-});
+onBeforeMount(() => {});
 </script>
 
 <template>
