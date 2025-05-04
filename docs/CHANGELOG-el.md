@@ -7,6 +7,13 @@ Changelog
 - Reusable components: theme-level logic.
 - Improve reusability in wrappers, components, and other structure elements such as headers, menus, and footers.
 
+# v0.1.5 Sunday 04 May 2025
+
+- Added dependency: qrcode.vue
+- Added view to print all QR images for all themes/levels (Food Treasure).
+- Fixed bug in Food Treasure QR scanning.
+- Improved Food Treasure QR scanning.
+
 # v0.1.4 Sunday 04 May 2025
 
 - Introducing Food Treasure initial implementation (with QR scanning and an AR-like approach for showing the revealed treasure)

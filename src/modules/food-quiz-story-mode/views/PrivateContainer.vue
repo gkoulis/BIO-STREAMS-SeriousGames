@@ -34,7 +34,7 @@ const { isContainer } = toRefs(props);
   </div>
 </template>
 
-<style scoped>
+<style>
 .Container1 {
   padding: 0;
   border-radius: 20px;

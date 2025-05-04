@@ -72,6 +72,12 @@ const router = createRouter({
       component: () =>
         import("../modules/food-treasure/views/FoodTreasureSeriousGameGameplayView.vue"),
     },
+    {
+      path: "/food-treasure-qr-listing",
+      name: "food-treasure-qr-listing",
+      component: () =>
+        import("../modules/food-treasure/views/FoodTreasureSeriousGameQrListingView.vue"),
+    },
   ],
 });
 

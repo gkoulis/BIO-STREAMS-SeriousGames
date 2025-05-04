@@ -39,6 +39,7 @@ const onLanguageSelection = (event) => {
           <router-link to="/food-quiz-story-mode-index">Food Quiz (story mode)</router-link>
           <router-link to="/lets-move">Let's Move</router-link>
           <router-link to="/food-treasure-index">Food Treasure</router-link>
+          <router-link to="/food-treasure-qr-listing">Food Treasure (QR Listing)</router-link>
 
           <select v-model="selectedLanguageCodeRef" @change="onLanguageSelection">
             <option v-for="language in LANGUAGES" :key="language.code" :value="language.code">
