@@ -1,0 +1,56 @@
+{
+  "themes": [
+    {
+      "id": 1,
+      "title": "Odkrij Sadje",
+      "description": "Razišči okolico in odkrij, kje se skrivajo sadne skrivnosti! Sledi namigom in skeniraj QR kode v pravilnem zaporedju, da dokončaš svojo sadno nalogo.",
+      "levels": [
+        {
+          "id": 1,
+          "title": "Najljubši Prigrizek Učitelja",
+          "title_post": "Najdi Jabolko",
+          "description": "",
+          "hints": [
+            "Sem rdeče ali zeleno in pogosto v učiteljevih rokah. Poišči me tam, kjer knjige stojijo v ravnih vrstah — morda sem tam."
+          ],
+          "messages": [
+            "Odlično! Jabolko je bilo najdeno."
+          ],
+          "secret_code": "red-green-apple",
+          "image": "apple.png",
+          "image_url": "/sr-foodtreasure/images/apple.png"
+        },
+        {
+          "id": 2,
+          "title": "Citrusna Skrivnost",
+          "title_post": "Najdi Pomarančo",
+          "description": "",
+          "hints": [
+            "Olupi plasti svojega uma. Sem sočna in okrogla — skrita tam, kjer ljudje gasijo žejo."
+          ],
+          "messages": [
+            "Sočno odkritje! Našel si pomarančo."
+          ],
+          "secret_code": "juicy-orange",
+          "image": "orange.png",
+          "image_url": "/sr-foodtreasure/images/orange.png"
+        },
+        {
+          "id": 3,
+          "title": "Poletno Presenečenje",
+          "title_post": "Najdi Lubenico",
+          "description": "",
+          "hints": [
+            "Velika, zelena in polna rožnatih presenečenj. Najdi me tam, kjer sije sonce in se otroci igrajo — morda blizu klopi za piknik."
+          ],
+          "messages": [
+            "Uspeh! Lubenica je tvoja. Sadna naloga je zaključena!"
+          ],
+          "secret_code": "big-green-pink-watermelon",
+          "image": "watermelon.png",
+          "image_url": "/sr-foodtreasure/images/watermelon.png"
+        }
+      ]
+    }
+  ]
+}

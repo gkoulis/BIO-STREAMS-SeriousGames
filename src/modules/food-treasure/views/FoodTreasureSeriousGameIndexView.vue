@@ -6,8 +6,6 @@ import PrivateContainer from "@/modules/food-quiz-story-mode/views/PrivateContai
 
 const router = useRouter();
 
-// const PUBLIC_PATH = import.meta.env.BASE_URL;
-
 const LOADING_REF = ref(true);
 const THEME_LIST_REF = ref([]);
 const THEME_BY_ID_REF = ref({});
@@ -15,11 +13,7 @@ const THEME_BY_ID_REF = ref({});
 onBeforeMount(async () => {
   const languageCode = localStorage.getItem("languageCode");
 
-  // --------------------------------------------------
-
-  const jsonResponse = await loadJson(
-    `/sr-foodquizstorymode/${languageCode}/content-theme-list.json`
-  );
+  const jsonResponse = await loadJson(`/sr-foodtreasure/${languageCode}/content-theme-list.json`);
 
   THEME_LIST_REF.value = jsonResponse.themes;
 
@@ -36,10 +30,10 @@ onBeforeMount(async () => {
 
   let key;
 
-  key = `food-quiz-story-mode-data-THEME_LIST_REF-${languageCode}`;
+  key = `food-treasure-data-THEME_LIST_REF-${languageCode}`;
   localStorage.setItem(key, JSON.stringify(THEME_LIST_REF.value));
 
-  key = `food-quiz-story-mode-data-THEME_BY_ID_REF-${languageCode}`;
+  key = `food-treasure-data-THEME_BY_ID_REF-${languageCode}`;
   localStorage.setItem(key, JSON.stringify(THEME_BY_ID_REF.value));
 
   // --------------------------------------------------
@@ -48,12 +42,12 @@ onBeforeMount(async () => {
 });
 
 const onThemeClick = (themeId) => {
-  router.push({ name: "food-quiz-story-mode-gameplay", params: { themeId: themeId } });
+  router.push({ name: "food-treasure-gameplay", params: { themeId: themeId } });
 };
 </script>
 
 <template>
-  <div class="FoodQuizBackground" v-if="!LOADING_REF">
+  <div class="FoodTreasureBackground" v-if="!LOADING_REF">
     <PrivateContainer>
       <div
         class="Container1"

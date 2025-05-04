@@ -49,5 +49,10 @@
     "browser_video_tag_warning": "Din webbläsare stöder inte videotaggen.",
     "Return to start page": "Återgå till startsidan",
     "random exercise": "slumpmässig övning"
+  },
+  "foodtreasure": {
+    "Treasure Revealed": "Skatten avslöjad",
+    "InvalidQRScan": "Hmm… den här koden hör inte hit. Den riktiga är fortfarande gömd!",
+    "Learn More": "Läs mer"
   }
 }

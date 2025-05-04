@@ -2,9 +2,8 @@
 import { ref, defineProps, toRefs, onBeforeMount, computed } from "vue";
 import { useRouter } from "vue-router";
 import cloneDeep from "lodash/cloneDeep";
-import GameDataGrid from "@/modules/food-quiz-library/GameDataGrid.vue";
-import FoodQuizStoryModeSeriousGameThemeLevel from "./FoodQuizStoryModeSeriousGameThemeLevel.vue";
-import PrivateContainer from "./PrivateContainer.vue";
+import FoodTreasureSeriousGameThemeLevel from "./FoodTreasureSeriousGameThemeLevel.vue";
+import PrivateContainer from "@/components/PrivateContainer.vue";
 
 const router = useRouter();
 
@@ -26,7 +25,6 @@ const activeLevelIdRef = ref(0);
 const activeLevelRef = computed(() => {
   return LEVEL_BY_ID[activeLevelIdRef.value];
 });
-const lastGameDataRef = ref(null);
 
 onBeforeMount(() => {
   themeStatusRef.value = "SPLASH";
@@ -42,7 +40,6 @@ const startLevel = () => {
 };
 
 const handleOnCompleted = ($event) => {
-  lastGameDataRef.value = $event.gameData;
   // @future Utilize $event: correct, wrong tries, time, etc.
   themeStatusRef.value = "POST_ACTIVE";
 };
@@ -57,12 +54,12 @@ const goToNextLevelOrCompleteTheme = () => {
 };
 
 const returnToIndex = () => {
-  router.push({ name: "food-quiz-story-mode-index" });
+  router.push({ name: "food-treasure-index" });
 };
 </script>
 
 <template>
-  <div class="FoodQuizBackground">
+  <div class="FoodTreasureBackground">
     <!-- SPLASH: Theme is not yet started. -->
     <template v-if="themeStatusRef === 'SPLASH'">
       <private-container>
@@ -84,7 +81,7 @@ const returnToIndex = () => {
               type="button"
               class="rounded-full bg-white px-4 py-2.5 text-sm font-semibold text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 hover:bg-gray-50"
             >
-              {{ $t("actions.Go") }}! ✌️ 🪧
+              {{ $t("actions.Go") }}! ✌️ 🗺️
             </button>
             <button
               @click="returnToIndex"
@@ -125,10 +122,10 @@ const returnToIndex = () => {
 
     <!-- PRE_ACTIVE: Level is active. -->
     <template v-else-if="themeStatusRef === 'ACTIVE'">
-      <FoodQuizStoryModeSeriousGameThemeLevel
+      <FoodTreasureSeriousGameThemeLevel
         :level="activeLevelRef"
         v-on:on-completed="handleOnCompleted"
-      ></FoodQuizStoryModeSeriousGameThemeLevel>
+      ></FoodTreasureSeriousGameThemeLevel>
     </template>
 
     <!-- PRE_ACTIVE: Level is completed. Users see messages. -->
@@ -139,11 +136,9 @@ const returnToIndex = () => {
             👏 {{ $t("theme_level.you_completed_level") }} {{ activeLevelRef.id }}! 🎉
           </p>
           <div class="h-10"></div>
-          <p class="text-xl">{{ activeLevelRef.title }} <small>✅</small></p>
-          <div class="h-10"></div>
-          <template v-if="lastGameDataRef">
-            <GameDataGrid :game-data="lastGameDataRef" />
-          </template>
+          <p class="text-xl">
+            {{ activeLevelRef.title }}: {{ activeLevelRef.title_post }} <small>✅</small>
+          </p>
           <div class="h-10"></div>
           <div class="space-y-4">
             <template v-for="message in activeLevelRef.messages" :key="message">
@@ -172,7 +167,8 @@ const returnToIndex = () => {
           <div class="h-8"></div>
           <ul class="">
             <template v-for="level in theme.levels" :key="level.id">
-              <li>✅ {{ level.title }}</li>
+              <li>✅ {{ level.title }}: {{ level.title_post }}</li>
+              <!-- TODO Add image too! -->
             </template>
           </ul>
           <div class="h-10"></div>
@@ -182,7 +178,7 @@ const returnToIndex = () => {
               type="button"
               class="rounded-full bg-white px-4 py-2.5 text-sm font-semibold text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 hover:bg-gray-50"
             >
-              Food Quiz 🪧
+              Food Treasure 🗺️
             </button>
           </div>
         </div>

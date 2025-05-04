@@ -8,20 +8,6 @@
         {
           "id": 1,
           "title": "Corta las frutas",
-          "items": [
-            {
-              "id": "apple",
-              "target": true
-            },
-            {
-              "id": "banana",
-              "target": true
-            },
-            {
-              "id": "bean",
-              "target": false
-            }
-          ],
           "messages": [
             "¡Dale prioridad a las frutas!",
             "Las frutas son alimentos que se recomienda consumir a diario. En general, el objetivo es comer 2-3 frutas al día. Elegir una fruta como merienda, en la escuela o por la tarde, te ayudará a alcanzar tu meta diaria. ¡Para lograrlo, da prioridad a la fruta: primero come la fruta y luego cualquier otra cosa!"
@@ -30,20 +16,6 @@
         {
           "id": 2,
           "title": "Corta las verduras",
-          "items": [
-            {
-              "id": "apple",
-              "target": true
-            },
-            {
-              "id": "banana",
-              "target": true
-            },
-            {
-              "id": "bean",
-              "target": false
-            }
-          ],
           "messages": [
             "¡Acompaña tus comidas con una ensalada!",
             "Las verduras, al igual que las frutas, también deben consumirse a diario. Pueden servirse como ensalada o incluso como plato principal. Para alcanzar tu objetivo diario, acompaña tus comidas principales con verduras."
@@ -52,20 +24,6 @@
         {
           "id": 3,
           "title": "Corta las frutas y verduras de color rojo",
-          "items": [
-            {
-              "id": "apple",
-              "target": true
-            },
-            {
-              "id": "banana",
-              "target": true
-            },
-            {
-              "id": "bean",
-              "target": false
-            }
-          ],
           "messages": [
             "¡Descubre la paleta de colores de frutas y verduras!",
             "Las frutas y verduras son los grupos de alimentos más coloridos. Sin embargo, sus colores no solo son agradables a la vista, sino también beneficiosos para tu cuerpo. Detrás de cada color existen sustancias específicas que benefician sistemas particulares de tu organismo. En otras palabras, los diferentes colores son buenos para distintos sistemas del cuerpo. ¡Descúbrelos!"

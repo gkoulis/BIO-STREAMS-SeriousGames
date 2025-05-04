@@ -48,5 +48,10 @@
     "browser_video_tag_warning": "Your browser does not support the video tag.",
     "Return to start page": "Return to start page",
     "random exercise": "random exercise"
+  },
+  "foodtreasure": {
+    "Treasure Revealed": "Treasure Revealed",
+    "InvalidQRScan": "Hmm… this code doesn’t belong here. The real one is still hiding!",
+    "Learn More": "Learn More"
   }
 }

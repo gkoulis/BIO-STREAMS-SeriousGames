@@ -49,5 +49,10 @@
     "browser_video_tag_warning": "Tvoj brskalnik ne podpira oznake za video.",
     "Return to start page": "Vrni se na začetno stran",
     "random exercise": "naključna vaja"
+  },
+  "foodtreasure": {
+    "Treasure Revealed": "Zaklad razkrit",
+    "InvalidQRScan": "Hmm… ta koda ne sodi sem. Prava je še vedno skrita!",
+    "Learn More": "Izvedi več"
   }
 }

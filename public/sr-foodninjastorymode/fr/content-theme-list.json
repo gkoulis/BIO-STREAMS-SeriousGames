@@ -8,20 +8,6 @@
         {
           "id": 1,
           "title": "Coupe les fruits",
-          "items": [
-            {
-              "id": "apple",
-              "target": true
-            },
-            {
-              "id": "banana",
-              "target": true
-            },
-            {
-              "id": "bean",
-              "target": false
-            }
-          ],
           "messages": [
             "Donne la priorité aux fruits !",
             "Les fruits font partie des aliments recommandés au quotidien. En général, il est conseillé de consommer 2 à 3 fruits par jour. Choisir un fruit comme collation, à l'école ou l'après-midi, t'aidera à atteindre ton objectif quotidien. Pour y parvenir, donne la priorité aux fruits : mange-les en premier avant toute autre chose !"
@@ -30,20 +16,6 @@
         {
           "id": 2,
           "title": "Coupe les légumes",
-          "items": [
-            {
-              "id": "apple",
-              "target": true
-            },
-            {
-              "id": "banana",
-              "target": true
-            },
-            {
-              "id": "bean",
-              "target": false
-            }
-          ],
           "messages": [
             "Opte pour une salade à tes repas !",
             "Les légumes, comme les fruits, doivent également être consommés tous les jours. Ils peuvent être servis en salade ou même en plat principal. Pour atteindre ton objectif quotidien, accompagne tes repas principaux de légumes."
@@ -52,20 +24,6 @@
         {
           "id": 3,
           "title": "Coupe les fruits et légumes rouges",
-          "items": [
-            {
-              "id": "apple",
-              "target": true
-            },
-            {
-              "id": "banana",
-              "target": true
-            },
-            {
-              "id": "bean",
-              "target": false
-            }
-          ],
           "messages": [
             "Découvre la palette de couleurs des fruits et légumes !",
             "Les fruits et légumes sont les groupes alimentaires les plus colorés. Mais leurs couleurs ne sont pas seulement agréables à regarder : elles sont aussi bénéfiques pour ton corps. Chaque couleur cache des substances spécifiques qui favorisent un système particulier de ton organisme. En d'autres termes, différentes couleurs sont bonnes pour différents systèmes du corps. Découvre-les !"

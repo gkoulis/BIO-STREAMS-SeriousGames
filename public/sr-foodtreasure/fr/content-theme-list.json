@@ -1,0 +1,56 @@
+{
+  "themes": [
+    {
+      "id": 1,
+      "title": "Découvre les Fruits",
+      "description": "Explore ton environnement pour découvrir où se cachent les secrets fruités ! Suis les indices et scanne les QR codes dans le bon ordre pour compléter ta quête fruitée.",
+      "levels": [
+        {
+          "id": 1,
+          "title": "Le Snack Préféré du Professeur",
+          "title_post": "Trouve la Pomme",
+          "description": "",
+          "hints": [
+            "Je suis rouge ou verte et souvent vue dans les mains des professeurs. Cherche là où les livres sont bien rangés en lignes — je pourrais y être aussi."
+          ],
+          "messages": [
+            "Bien joué ! La pomme a été croquée."
+          ],
+          "secret_code": "red-green-apple",
+          "image": "apple.png",
+          "image_url": "/sr-foodtreasure/images/apple.png"
+        },
+        {
+          "id": 2,
+          "title": "Mystère d’Agrume",
+          "title_post": "Trouve l’Orange",
+          "description": "",
+          "hints": [
+            "Épluche les couches de ton esprit. Je suis juteuse et ronde — cachée là où les gens étanchent leur soif."
+          ],
+          "messages": [
+            "Mouvement acidulé ! Tu as trouvé l’orange."
+          ],
+          "secret_code": "juicy-orange",
+          "image": "orange.png",
+          "image_url": "/sr-foodtreasure/images/orange.png"
+        },
+        {
+          "id": 3,
+          "title": "Surprise d’Été",
+          "title_post": "Trouve la Pastèque",
+          "description": "",
+          "hints": [
+            "Gros, vert et rempli de surprises roses. Trouve-moi là où brille le soleil et où les enfants jouent — peut-être près du banc de pique-nique."
+          ],
+          "messages": [
+            "Tu l’as fait ! La pastèque est à toi. Mission fruitée accomplie !"
+          ],
+          "secret_code": "big-green-pink-watermelon",
+          "image": "watermelon.png",
+          "image_url": "/sr-foodtreasure/images/watermelon.png"
+        }
+      ]
+    }
+  ]
+}

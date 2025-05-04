@@ -49,5 +49,10 @@
     "browser_video_tag_warning": "Votre navigateur ne prend pas en charge la balise vidéo.",
     "Return to start page": "Retour à la page d’accueil",
     "random exercise": "exercice aléatoire"
+  },
+  "foodtreasure": {
+    "Treasure Revealed": "Trésor Révélé",
+    "InvalidQRScan": "Hmm… ce code ne fait pas partie de votre quête. Le vrai est encore caché !",
+    "Learn More": "En Savoir Plus"
   }
 }

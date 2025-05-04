@@ -8,20 +8,6 @@
         {
           "id": 1,
           "title": "Skiva frukterna",
-          "items": [
-            {
-              "id": "apple",
-              "target": true
-            },
-            {
-              "id": "banana",
-              "target": true
-            },
-            {
-              "id": "bean",
-              "target": false
-            }
-          ],
           "messages": [
             "Ge frukten prioritet!",
             "Frukt är en av de livsmedelsgrupper som rekommenderas att äta dagligen. Sikta på att äta 2–3 frukter per dag. Om du väljer frukt som mellanmål, i skolan eller på eftermiddagen, hjälper det dig att nå ditt dagliga mål. Ge frukten prioritet: ät frukten först och sedan något annat!"
@@ -30,20 +16,6 @@
         {
           "id": 2,
           "title": "Skiva grönsakerna",
-          "items": [
-            {
-              "id": "apple",
-              "target": true
-            },
-            {
-              "id": "banana",
-              "target": true
-            },
-            {
-              "id": "bean",
-              "target": false
-            }
-          ],
           "messages": [
             "Välj en sallad till dina måltider!",
             "Grönsaker, precis som frukt, rekommenderas också att ätas varje dag. De kan serveras som en sallad eller till och med som huvudrätt. För att nå ditt dagliga mål, komplettera dina huvudmåltider med grönsaker."
@@ -52,20 +24,6 @@
         {
           "id": 3,
           "title": "Skiva röda frukter och grönsaker",
-          "items": [
-            {
-              "id": "apple",
-              "target": true
-            },
-            {
-              "id": "banana",
-              "target": true
-            },
-            {
-              "id": "bean",
-              "target": false
-            }
-          ],
           "messages": [
             "Upptäck frukt- och grönsakspaletten!",
             "Frukt och grönsaker är de mest färgglada livsmedelsgrupperna. Deras färger är inte bara vackra att titta på, utan också bra för kroppen. Bakom varje färg finns ämnen som gynnar specifika system i din kropp. Med andra ord är olika färger bra för olika system i kroppen. Upptäck dem!"

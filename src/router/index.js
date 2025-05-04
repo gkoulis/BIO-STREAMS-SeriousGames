@@ -61,9 +61,16 @@ const router = createRouter({
       component: () => import("../modules/lets-move/views/LetsMoveView.vue"),
     },
     {
-      path: "/food-treasure",
-      name: "food-treasure",
-      component: () => import("../modules/food-treasure/views/FoodTreasureSeriousGameView.vue"),
+      path: "/food-treasure-index",
+      name: "food-treasure-index",
+      component: () =>
+        import("../modules/food-treasure/views/FoodTreasureSeriousGameIndexView.vue"),
+    },
+    {
+      path: "/food-treasure-gameplay/:themeId",
+      name: "food-treasure-gameplay",
+      component: () =>
+        import("../modules/food-treasure/views/FoodTreasureSeriousGameGameplayView.vue"),
     },
   ],
 });

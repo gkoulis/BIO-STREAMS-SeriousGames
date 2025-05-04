@@ -5,6 +5,9 @@ import cloneDeep from "lodash/cloneDeep";
 import FoodNinjaStoreModeSeriousGameThemeLevel from "./FoodNinjaStoreModeSeriousGameThemeLevel.vue";
 import FNSMSGContainer from "./FNSMSGContainer.vue";
 
+const PUBLIC_PATH = import.meta.env.BASE_URL;
+const winSoundRef = ref(null);
+
 const router = useRouter();
 
 const props = defineProps({
@@ -42,6 +45,12 @@ const startLevel = () => {
 const handleOnCompleted = ($event) => {
   // @future Utilize $event: correct, wrong tries, time, etc.
   themeStatusRef.value = "POST_ACTIVE";
+
+  if (winSoundRef.value) {
+    winSoundRef.value.play().catch((err) => {
+      console.warn("Audio play failed:", err);
+    });
+  }
 };
 
 const goToNextLevelOrCompleteTheme = () => {
@@ -81,7 +90,7 @@ const returnToIndex = () => {
               type="button"
               class="rounded-full bg-white px-4 py-2.5 text-sm font-semibold text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 hover:bg-gray-50"
             >
-              {{ $t("actions.Go") }}! ✌️
+              {{ $t("actions.Go") }}! ✌️ 🥷
             </button>
             <button
               @click="returnToIndex"
@@ -184,6 +193,8 @@ const returnToIndex = () => {
       <p>Invalid status: {{ themeStatusRef }}</p>
     </template>
   </div>
+
+  <audio ref="winSoundRef" :src="`${PUBLIC_PATH}sr-foodninjastorymode/audio/win.mp3`" />
 </template>
 
 <style scoped>

@@ -4,7 +4,6 @@
     { "id": "apricot", "name": "Apricot", "categoryId": "fruit", "categoryName": "Fruit", "subDirectory": "fruits", "texture": "apricot.png" },
     { "id": "avocado", "name": "Avocado", "categoryId": "fruit", "categoryName": "Fruit", "subDirectory": "fruits", "texture": "avocado.png" },
     { "id": "banana", "name": "Banana", "categoryId": "fruit", "categoryName": "Fruit", "subDirectory": "fruits", "texture": "banana.png" },
-    { "id": "beetlebean", "name": "Beetlebean", "categoryId": "vegetable", "categoryName": "Vegetable", "subDirectory": "vegetables", "texture": "beetlebean.png" },
     { "id": "bilberry", "name": "Bilberry", "categoryId": "fruit", "categoryName": "Fruit", "subDirectory": "fruits", "texture": "bilberry.png" },
     { "id": "blackberry", "name": "Blackberry", "categoryId": "fruit", "categoryName": "Fruit", "subDirectory": "fruits", "texture": "blackberry.png" },
     { "id": "blackcurrant", "name": "Blackcurrant", "categoryId": "fruit", "categoryName": "Fruit", "subDirectory": "fruits", "texture": "blackcurrant.png" },

@@ -20,6 +20,21 @@ onBeforeMount(async () => {
 
   const languageCode = localStorage.getItem("languageCode");
 
+  // --------------------------------------------------
+
+  const jsonResponse0 = await loadJson(`/sr-foodninjastorymode/common/content-theme-list.json`);
+
+  const itemListByThemeAndLevel = {};
+  for (const theme of jsonResponse0.themes) {
+    theme.level_by_id = {};
+    for (const level of theme.levels) {
+      theme.level_by_id[level.id] = level;
+    }
+    itemListByThemeAndLevel[theme.id] = theme;
+  }
+
+  // --------------------------------------------------
+
   const jsonResponse1 = await loadJson(
     `/sr-foodninjastorymode/${languageCode}/content-item-list.json`
   );
@@ -47,8 +62,10 @@ onBeforeMount(async () => {
   // --------------------------------------------------
 
   for (let i = 0; i < THEME_LIST_REF.value.length; i++) {
+    const themeId = THEME_LIST_REF.value[i].id;
     for (let j = 0; j < THEME_LIST_REF.value[i].levels.length; j++) {
       const level = THEME_LIST_REF.value[i].levels[j];
+      level.items = itemListByThemeAndLevel[themeId].level_by_id[level.id].items;
 
       const itemListNew = [];
       const itemList = level.items;

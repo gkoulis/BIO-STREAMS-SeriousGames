@@ -1,0 +1,56 @@
+{
+  "themes": [
+    {
+      "id": 1,
+      "title": "Upptäck Frukterna",
+      "description": "Utforska din omgivning för att upptäcka var de fruktiga hemligheterna gömmer sig! Följ ledtrådarna och skanna QR-koderna i rätt ordning för att slutföra ditt fruktuppdrag.",
+      "levels": [
+        {
+          "id": 1,
+          "title": "Lärarens Favoritsnack",
+          "title_post": "Hitta Äpplet",
+          "description": "",
+          "hints": [
+            "Jag är röd eller grön och syns ofta i lärares händer. Leta där böcker står uppradade — jag kan vara där också."
+          ],
+          "messages": [
+            "Bra jobbat! Äpplet har hittats."
+          ],
+          "secret_code": "red-green-apple",
+          "image": "apple.png",
+          "image_url": "/sr-foodtreasure/images/apple.png"
+        },
+        {
+          "id": 2,
+          "title": "Citrusmysteriet",
+          "title_post": "Hitta Apelsinen",
+          "description": "",
+          "hints": [
+            "Skala lagren i ditt sinne. Jag är saftig och rund — gömd där folk släcker sin törst."
+          ],
+          "messages": [
+            "Fruktigt avslöjande! Du har hittat apelsinen."
+          ],
+          "secret_code": "juicy-orange",
+          "image": "orange.png",
+          "image_url": "/sr-foodtreasure/images/orange.png"
+        },
+        {
+          "id": 3,
+          "title": "Sommarskräll",
+          "title_post": "Hitta Vattenmelonen",
+          "description": "",
+          "hints": [
+            "Stor, grön och full av rosa överraskningar. Hitta mig där solen skiner och barnen leker — kanske nära picknickbordet."
+          ],
+          "messages": [
+            "Du klarade det! Vattenmelonen är din. Fruktuppdraget är slutfört!"
+          ],
+          "secret_code": "big-green-pink-watermelon",
+          "image": "watermelon.png",
+          "image_url": "/sr-foodtreasure/images/watermelon.png"
+        }
+      ]
+    }
+  ]
+}

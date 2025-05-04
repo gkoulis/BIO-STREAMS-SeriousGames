@@ -1,7 +1,31 @@
 Changelog
 ===
 
+# Next Steps:
+
+- Reusable components: index-gameplay logic.
+- Reusable components: theme-level logic.
+- Improve reusability in wrappers, components, and other structure elements such as headers, menus, and footers.
+
+# v0.1.4 Sunday 04 May 2025
+
+- Introducing Food Treasure initial implementation (with QR scanning and an AR-like approach for showing the revealed treasure)
+- Added content (and translations) for Food Treasure
+- Release resources when Food Ninja Phase component exit.
+- Significantly improved the movement of Food Ninja items (no stuck, no freeze).
+- Made the slicing movement better and removed the stuck then mouse/pointer is up (i.e., when slicing ends)
+- Made the Theme-Level-Items reusable across all languages. Now, we just set the common file and then the component will load them in all translated/localized files automatically.
+- Added dependency: vue-qrcode-reader.
+- Minor UX: added emojis to "Go!" buttons in theme views.
+- Some HomeView changes: added notice regarding the free mode of Food Ninja and Food Quiz serious games.
+
 # v0.1.3 Sunday 27 April 2025
+
+- Added fruits and vegetables images
+- Added fruits and vegetables translations
+- Added content (and translations) for Food Quiz story mode
+- Added content (and translations) for Food Ninja story mode
+- Introducing Food Quiz Story Mode initial implementation
 
 # v0.1.2 Sunday 27 April 2025
 

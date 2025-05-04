@@ -1,5 +1,5 @@
 <script setup>
-import { onMounted, ref, reactive, defineEmits, defineProps, toRefs } from "vue";
+import { onMounted, onBeforeUnmount, ref, reactive, defineEmits, defineProps, toRefs } from "vue";
 import { useI18n } from "vue-i18n";
 import cloneDeep from "lodash/cloneDeep";
 import Phaser from "phaser";
@@ -30,6 +30,7 @@ const wrongCount = ref(0);
 const remainingTargetItemsCountRef = ref(ITEM_LIST.filter((item) => item.target).length);
 
 // TODO On Destroy release resources (delete, flush, destroy, clean everything!)
+let GAME = null;
 
 onMounted(async () => {
   const gameWidth = window.innerWidth - WIDTH_OFFSET;
@@ -55,7 +56,7 @@ onMounted(async () => {
     },
   };
   // const game = new Phaser.Game(config);
-  new Phaser.Game(config);
+  GAME = new Phaser.Game(config);
 
   let GAMEPLAY_ITEM_LIST = []; // To track Gameplay Items.
   let slicing = false; // Flag for slicing state.
@@ -76,11 +77,25 @@ onMounted(async () => {
     // Reset the game state at the start.
     resetGameState.call(this);
 
+    this.input.removeAllListeners();
+
     // Unlock audio context on user interaction.
     // TODO Bug: Sometimes it does not work.
-    this.input.once("pointerdown", () => this.sound.context.resume());
-    this.input.once("pointerup", () => this.sound.context.resume());
-    this.input.once("pointermove", () => this.sound.context.resume());
+    this.input.once("pointerdown", () =>
+      this.sound.context.resume().catch((e) => {
+        console.warn("Audio resume failed", e);
+      })
+    );
+    this.input.once("pointerup", () =>
+      this.sound.context.resume().catch((e) => {
+        console.warn("Audio resume failed", e);
+      })
+    );
+    this.input.once("pointermove", () =>
+      this.sound.context.resume().catch((e) => {
+        console.warn("Audio resume failed", e);
+      })
+    );
 
     // TODO Add multiple texts: Level, remaining, etc. Better font. Better UX.
     this.add.text(10, 10, LEVEL.title, {
@@ -101,7 +116,8 @@ onMounted(async () => {
       const [x, y] = positions[index];
 
       // GI stands for Gameplay Image.
-      const itemGI = this.add.image(x, y, item.id).setInteractive();
+      // const itemGI = this.add.image(x, y, item.id).setInteractive();
+      const itemGI = this.add.image(x, y, item.id); // TODO Testing.
 
       itemGI.setDisplaySize(FOOD_DISPLAY_SIZE, FOOD_DISPLAY_SIZE); // Scale the image to a fixed size.
       itemGI.setData("id", item.id);
@@ -128,6 +144,20 @@ onMounted(async () => {
     });
 
     this.input.on("pointermove", (pointer) => {
+      /*
+      if (slicing) {
+        drawSliceLine.call(this, pointer.x, pointer.y);
+        checkIntersection.call(this, pointer.x, pointer.y);
+        lastPointerPosition = { x: pointer.x, y: pointer.y };
+      }
+      */
+
+      if (slicing && !pointer.isDown) {
+        slicing = false;
+        sliceLine.clear();
+        return;
+      }
+
       if (slicing) {
         drawSliceLine.call(this, pointer.x, pointer.y);
         checkIntersection.call(this, pointer.x, pointer.y);
@@ -136,6 +166,16 @@ onMounted(async () => {
     });
 
     this.input.on("pointerup", () => {
+      slicing = false;
+      sliceLine.clear();
+    });
+
+    this.input.on("pointerupoutside", () => {
+      slicing = false;
+      sliceLine.clear();
+    });
+
+    this.input.on("gameout", () => {
       slicing = false;
       sliceLine.clear();
     });
@@ -156,6 +196,9 @@ onMounted(async () => {
 
     correctCount.value = 0;
     wrongCount.value = 0;
+
+    this.tweens.killAll();
+    this.time.removeAllEvents();
 
     // Remove lingering pointer events.
     if (this.input === undefined || this.input === null) {
@@ -359,6 +402,13 @@ onMounted(async () => {
     GAMEPLAY_ITEM_LIST.forEach((item) => {
       item.rotation += 0.02;
     });
+  }
+});
+
+onBeforeUnmount(() => {
+  if (GAME) {
+    GAME.destroy(true); // true = remove canvas & listeners
+    GAME = null;
   }
 });
 </script>

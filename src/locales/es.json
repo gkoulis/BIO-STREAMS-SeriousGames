@@ -48,5 +48,10 @@
     "browser_video_tag_warning": "Tu navegador no soporta la etiqueta de video.",
     "Return to start page": "Volver a la página de inicio",
     "random exercise": "ejercicio aleatorio"
+  },
+  "foodtreasure": {
+    "Treasure Revealed": "¡Tesoro Revelado!",
+    "InvalidQRScan": "Hmm… este código no pertenece aquí. ¡El verdadero aún está escondido!",
+    "Learn More": "Aprende Más"
   }
 }
