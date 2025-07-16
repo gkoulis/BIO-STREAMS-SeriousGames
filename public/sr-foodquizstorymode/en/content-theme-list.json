@@ -1340,6 +1340,5515 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2,
+      "title": "Fats & Oils (F&O) Quiz",
+      "description": "A quiz game aiming to increase knowledge about the group of fats and oils and educate/motivate users towards their optimal consumption pattern.",
+      "levels": [
+        {
+          "id": 1,
+          "title": "Acquaintance",
+          "description": "Familiarisation with the group of fats and oils.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Which of the following is included in the group of fats and oils?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Pork",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Butter",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Pasta",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Orange",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Which of the following is included in the group of fats and oils?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Olive",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Banana",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Rice",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Salmon",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "Which of the following is included in the group of fats and oils?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Strawberry",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Squid",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Sunflower oil",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Chicken",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Which of the following is included in the group of fats and oils?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Candy",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Walnut",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Breakfast cereals",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Sausage",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "Which of the following fats/oils is made from milk?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Almond",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Sunflower oil",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Butter",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Margarine",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "What is heavy cream?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "The fatty component skimmed from milk",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "A creamy product made by boiling cheese",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "A mixture of yoghurt with butter",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "The fat derived from pork",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "What is whipped cream?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "A solidified version of sunflower oil",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "A paste made from almonds",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "A mixture of heavy cream and sugar",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "The fat from beef",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "question": "Which of the following fats/oils derives from red meat?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Lard/tallow",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Heavy cream",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Butter",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Linseed",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 9,
+              "question": "What is a plant oil?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "The oil extracted from cattle",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "An oil derived from vegetables, seeds or legumes",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "A synthetic oil used for flavouring",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "The waste product of cooked vegetables/seeds",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 10,
+              "question": "What is margarine?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "A low-fat version of butter",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "A creamy sauce made from boiling milk",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "A solidified version of plant oils",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "The paste/spread made from peanuts",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 11,
+              "question": "Which of the following pastes/spreads is produced by bending nuts/seeds?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Peanut butter",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Walnut butter",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Almond butter",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 12,
+              "question": "What is tahini?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "A sauce made from egg yolk",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "A paste made from ground sesame seeds",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "A solid version of safflower oil",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "A fermented milk product",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 13,
+              "question": "What is mayonnaise?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "The oil derived from linseed",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "A mixture of cream and tomato juice",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "A mixture of oil and egg yolks",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "A sauce from ground boiled eggs",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 14,
+              "question": "Which of the following fruits contains high amounts of fat?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Avocado",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Orange",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Apple",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Strawberry",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "Welcome to the world of fats and oils! This group is very diverse and includes:",
+            "Products made from milk, e.g. butter and heavy cream.",
+            "Products derived from red meat, e.g. pork lard and beef tallow.",
+            "Olives, the fruit of the olive tree.",
+            "Nuts and seeds, e.g. almond, walnut, peanut, hazelnut, pecan, cashew, pistachio, flax/linseed, pumpkin seed, sunflower seed and sesame seed.",
+            "Pastes/spreads made from nuts/seeds, e.g. peanut butter, almond butter, hazelnut butter, walnut butter and tahini which is made from ground sesame seeds.",
+            "Plant oils derived from the seeds or fruits of plants (e.g. olive oil, sunflower oil, safflower oil, canola oil, corn oil and palm oil) or from legumes (e.g. soybean oil).",
+            "Margarine, which is a solidified version of plant oils and used as a butter substitute.",
+            "Mayonnaise, which is an emulsion of oil and egg yolks, and other sauces based on mayonnaise.",
+            "Did you know that avocado is a fruit that mostly contains fat (monounsaturated lipids)?"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Nutritional value",
+          "description": "Familiarisation with the nutritional value of fats and oils.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Which is the main macronutrient found in fats and oils?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Carbohydrates",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Proteins",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Lipids",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Fibres",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Due to their high content in lipids, fats and oils also provide you with high amounts of:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Calories/energy",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Vitamins",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Minerals",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Antioxidants",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "Which of the following is true for animal-based fats, like butter and lard?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "They are a good source of fibres",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "They are rich in vitamin C",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "They contain high amounts of water",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "They mainly contain saturated lipids",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Which of the following is true for plant oils?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "They are rich in sugars",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "They mainly contain unsaturated lipids",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "They are a good source of vitamin K",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "They are poor in calories",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "What is the main type of lipids found in olives and olive oil?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Saturated",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Monounsaturated",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Polyunsaturated",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Omega-3",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "What is the main type of lipids found in avocado?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Saturated",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Monounsaturated",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Polyunsaturated",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Omega-3",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "What is the main type of lipids found in palm and coconut oils?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Saturated",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Monounsaturated",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Polyunsaturated",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Omega-3",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "question": "Besides lipids, which other nutrient can be found in plant oils?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Carbohydrates",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Proteins",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Fibres",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamin E",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 9,
+              "question": "Which is the olive oil of the best quality?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Refined olive oil",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Extra virgin olive oil",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Unprocessed olive oil",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Olive pomace oil",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 10,
+              "question": "Which of the following is found in olive oil and helps fight oxidative stress?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Polyphenols",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Probiotics",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Vitamin C",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Sugar",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 11,
+              "question": "Trans lipids are formed when plant oils:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Are used raw in salads",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Are solidified or cooked at high temperature",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Are stored for longer than 1 month",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "None of the previous",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 12,
+              "question": "Which of the following foods might contain trans lipids?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Hard vegetable fats",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Baked/fried pastries and snacks",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Fast foods",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 13,
+              "question": "Reading the labels of packaged foods can help you:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Prefer foods with healthy fats/oils",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "See their total lipid content",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Avoid foods that contain trans lipids",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 14,
+              "question": "Which of the following food ingredients is indicative of trans lipids?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Partially hydrogenated oil",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Vegetable oil",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Butter",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Modified starch",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "Fats and oils are primarily made up from lipids, which provide energy to the body.",
+            "However, the quality of lipids differs significantly among the various fats/oils:",
+            "Animal-based fats/oils, e.g. butter, heavy cream and lard/tallow, contain mostly saturated lipids, which should be consumed in moderation for optimal health.",
+            "Plant-based fats/oils, e.g. olive, nuts/seeds, plant oils and avocado, contain mostly unsaturated (mono- and poly-unsaturated) lipids, which are beneficial for the heart and vessels. An exception is palm and coconut oils, which are very rich in saturated lipids and should be avoided.",
+            "Most plant oils are rich in vitamin E which protects the body's cells from oxidation.",
+            "Among the various plant oils, olive oil, especially extra virgin olive oil, is considered one of the healthiest choices, as it is minimally processed and contains a wide range of other antioxidants!",
+            "Did you know that when plant oils are processed to become solid or cooked at high temperature trans lipids may form? These lipids are very detrimental for health and can be found in hard vegetable fats (e.g. shortening and some hard margarines) and various processed foods, such as baked pastries, salty snacks, ready-to-eat meals and fast foods. Food labels can help you identify these foods: search for the word \"trans\" in the nutrition facts section or the phrase \"partially hydrogenated oil\" in the list of ingredients."
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Recommended intake",
+          "description": "Familiarisation with the recommended intake of fats and oils in terms of quantity and quality.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Which fats/oils should be consumed in moderation?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Only plant oils used in cooking",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Only butter used as a spread for bread",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Only nuts/seeds consumed as a snack",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All fats/oils",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Most of your daily intake of fats/oils should come from:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Butter and margarine used on bread",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Heavy cream and mayonnaise-based sauces",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Healthy plant oils used in cooking and salads",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Whipped cream in sweets",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "What is a good way to avoid overusing fats/oils in cooking?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Prefer steaming and boiling over frying",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Use non-stick cookware",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Use herbs and spices to make food tastier",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "What is a good way to avoid using too much plant oil in salads?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Consume vegetables a few times a week",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Use lemon juice or vinegar",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Prefer vegetables which contain lots of fat",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Always add plenty of salt",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "Which of the following might contain trans lipids and should be avoided?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Burger with fries from a fast-food restaurant",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Packaged cookies made with shortening",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Fried potato chips",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": true
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "Enjoy fats and oils in moderation!",
+            "Added fats/oils used in cooking and salads (e.g. plant oils, butter), as well as foods that are rich in lipids (e.g. nuts/seeds, olives) can be consumed every day but their quantity matters! All are very rich in calories so moderation in their consumption is important to prevent excess weight gain.",
+            "Remember: for optimal health, give a priority to healthy plant oils (e.g. olive oil, sunflower oil, safflower oil and canola oil) and nuts/seeds over animal-based fats (e.g. lard/tallow, butter and heavy cream), and try to avoid processed foods that might contain trans lipids as much as you can!"
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Consumption practices",
+          "description": "Familiarisation with the best practices to handle and consume fats and oils.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Which of the following is a healthy way to use plant oils?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Add a lot to every meal",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Use small amounts in cooking and salad dressings",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Use them to deep-fry all foods",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Use them only in raw and not cooked form",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Why is it important not to overheat plant oils?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "They lose some important nutrients",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "They smell bad",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "They get too heavy",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "They turn into butter",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "When is the best time to add plant oils during cooking?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "At the beginning, on high heat",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "In the middle, on high heat",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "At the end of cooking",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "All of the above",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Why is it important not to reuse plant oils multiple times?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Their taste is altered",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "They get an unpleasant, pungent odour",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "They form harmful byproducts",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "Which of the following is a good way to incorporate nuts and seeds in your diet?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "As a snack",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Add them to salads",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Add them to oatmeal",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "Which is the healthiest form of nuts and seeds?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Raw and unsalted",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Sugar coated/ candied",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "With added salt and spices",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "None of the previous",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "Which of the following is a good way to incorporate tahini or nut butter in your diet?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "As a spread for bread",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "As part of home-made desserts",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Add them to yoghurt",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "question": "Which of the following is a good way to incorporate avocado in your diet?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Use it mashed as a dip",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Add it to salads",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Spread it on toast",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 9,
+              "question": "Where should plant oils be stored?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "In a warm, sunny place",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "In a cool, dark place",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "In the fridge",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "In the freezer",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 10,
+              "question": "Where should butters and margarines be stored?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "In a warm, sunny place",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "In a cool, dark place",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "In the fridge",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "In the freezer",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "High temperature can make plant oils lose important nutrients. Thus, instead of deep-frying foods, it is best to use small amounts of plant oils at the end of cooking in the pot or in the oven.",
+            "The same plant oil should not be used multiple times for cooking, as repeated heating can cause production of harmful substances.",
+            "Remember: olive oil, especially extra virgin, is special! It is rich in antioxidants and thus resistant in heat during cooking, meaning it preserves most of its beneficial nutrients and does not go bad easily.",
+            "Nuts and seeds can be consumed as an easy-to-carry snack or added to yoghurt, breakfast cereals, home-made desserts and salads. For an even healthier option, choose raw and unsalted nuts!",
+            "Nut butters and tahini are full of healthy fats! You can use them in yoghurt, as a spread for bread or in home-made desserts (e.g. cookies or cereal bars) instead of butter or margarine.",
+            "Avocados are delicious! You can try them in salads or mashed as a dip or spread for toast.",
+            "Make sure to store fats and oils properly. Butter, margarine and heavy cream must be stored in the fridge, whereas plant oils can be stored in room temperature but in a cool and dark place."
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Health effects",
+          "description": "Familiarisation with the health effects of fats and oils.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "What is the main role of lipids in the human body?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "They provide energy",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "They help regulate the body's temperature",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "They are part of cell membranes",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Eating the proper amount of healthy fats and oils is important for:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "A healthy brain",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Optimal absorption of some vitamins",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "A heathy heart",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "Eating too many fats and oils might lead to:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Insomnia",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Increased body weight",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Low athletic performance",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Skeletal problems",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Which lipids can be detrimental for health when consumed in large amounts?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Saturated",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Monounsaturated",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Polyunsaturated",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "Which lipids are very detrimental for heart health?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Monounsaturated",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Omega-3 polyunsaturated",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Trans",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "None of the previous",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "Fats and oils are important for a healthy and strong body, as long as they are consumed in moderation!",
+            "Lipids, the main nutrient found in fats and oils, are vital not only for providing energy to the body, but also for building cell membranes, enhancing the absorption of fat-soluble vitamins (i.e. vitamins A, D, E and K), and supporting the regulation of the body temperature.",
+            "Keep in mind that moderation in the consumption of fats and oils is very important! Lipids contain many calories, so overconsuming fats and oils may lead to excess weight gain in the long-term.",
+            "Saturated lipids, which are found in all animal-based fats and some plant oils (palm and coconut), can be detrimental for health if consumed in large amounts. So, give a priority to healthy plant-based fats/oils!",
+            "Try to avoid trans lipids completely, if possible, because they are very detrimental for the heart and vessels! A simple way to achieve this is to prioritise fresh whole foods over processed industrialised ones."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "High-Protein Foods (HPF) Quiz",
+      "description": "A quiz game aiming to increase knowledge about high-protein foods other than dairy products and educate/motivate users towards their optimal consumption pattern.",
+      "levels": [
+        {
+          "id": 1,
+          "title": "Acquaintance",
+          "description": "Familiarisation with high-protein foods.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Which of the following is included in the group of high-protein foods?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Cold cuts",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Legumes",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Lamb",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Pork",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "Make high-protein foods a regular part of your diet!",
+            "High-protein foods can be consumed every day but should be rotated throughout the week to ensure variety. Aim for lean white and/or red meat 2-3 times per week, fish/seafood 2-3 times per week, and pulses at least once per week.",
+            "Eggs and cheeses are also valuable sources of high-quality proteins that can accompany dishes based on vegetables, pasta or other grain products that are not high in proteins.",
+            "The exact amount of proteins you need depends on your body weight. A simple way to meet your needs is to ensure that high-protein foods cover about ¼ of your plate in lunch and dinner and to also consume 2-3 servings of dairy products in breakfast and snacks!",
+            "Remember: try to avoid processed meats, such as sausages and cold cuts, as much as you can!"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Nutritional value",
+          "description": "Familiarisation with the nutritional value of high-protein foods.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Which is the main nutrient high-protein foods consist of?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Carbohydrates",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Proteins",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Fibres",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Lipids",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "A \"complete\" protein is a protein that:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Contains no lipids",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Is fully digested in the stomach",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Is found in fruits and vegetables",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Contains all the essential amino acids",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "What is an amino acid?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "The building block of proteins",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "A type of sugar",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "An antioxidant vitamin",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "A fatty acid found in meats",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Which of the following contains \"complete\" proteins?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Bread",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Bean",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Chicken",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Almond",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "Which part of the egg is rich in proteins?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "The white",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "The yolk",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Both have the same amount",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Eggs do not contain proteins",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "Besides proteins, which of the following nutrients do meats contain?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Carbohydrates",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Saturated lipids",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Fibres",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamin C",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "Besides proteins, which of the following nutrients do fish/seafood contain?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Omega-3 polyunsaturated lipids",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Vitamin K",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Carbohydrates",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Fibres",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "question": "Which of the following nutrients is included in plant-based high-protein foods?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Vitamins",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Fibres",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Proteins",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 9,
+              "question": "Which of the following high-protein foods is also a good source of fibres?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Pork",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Egg",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Lentil",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Beef",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 10,
+              "question": "Which vitamin is most commonly found in animal-based high-protein foods and helps keep your nervous system healthy?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Vitamin C",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Vitamin B12",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Vitamin K",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamin E",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 11,
+              "question": "Which vitamin is most commonly found in animal-based high-protein foods and is important for eyesight?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Vitamin K",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Vitamin C",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Vitamin A",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamin E",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 12,
+              "question": "Which mineral, found in high-protein foods, is essential for the transfer of oxygen via blood cells?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Iron",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Calcium",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Magnesium",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All of the above",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 13,
+              "question": "From which of the following high-protein foods is iron better absorbed?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Chickpea",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Lentil",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Soya bean",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Beef",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 14,
+              "question": "Which mineral, found in high-protein foods, is important for metabolism and the immune system?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Iodine",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Calcium",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Zinc",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Potassium",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 15,
+              "question": "Which mineral, found in high-protein foods, is important for your bones and teeth?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Phosphorus",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Sodium",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Copper",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Manganese",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 16,
+              "question": "Which of the following that are contained in processed meat products is harmful for your health?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Saturated fats",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Salt",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Chemical preservatives",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": true
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "High-protein foods are a key part of a healthy diet! The key nutrient of this food group is proteins, which are used to build and preserve all of the body's tissues.",
+            "Animal proteins are complete, meaning that they contain all the amino acids that the body needs. Plant proteins are not that complete, so they must be combined with other protein sources.",
+            "High-protein foods also contain other important nutrients! They are a good source of minerals, such as iron, zinc and phosphorus. Remember: iron found in animal-based high-protein foods, especially meats, is better absorbed by the body than iron found in high-protein foods of plant origin.",
+            "Red/white meats also contain saturated lipids, which should be consumed in moderation, while fish (especially salmon, sardines, herring and mackerel) and seafood are rich in omega-3 polyunsaturated lipids, which are beneficial for the heart and vessels.",
+            "Plant-based high-protein foods are low in lipids and very rich in fibres.",
+            "Remember: sausages, cold cuts and canned meats are processed high-protein foods, which are usually very rich in saturated lipids and salt and may also contain various chemical additives and preservatives."
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Recommended intake",
+          "description": "Familiarisation with the recommended intake and portion size of high-protein foods.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "What is the recommended frequency of red and white meat consumption?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Less than once a week",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "2-3 times a week",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "5-6 times a week",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "1-2 times a day",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "What is the recommended frequency of fish and seafood consumption?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Less than once a week",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "2-3 times a week",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "5-6 times a week",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "1-2 times a day",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "How often should one eat fatty/oily fish, which are rich in omega-3 polyunsaturated lipids?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Never",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Once a month",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "At least once a week",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Every day",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "What is the recommended frequency of pulse consumption?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Rare",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Once a month",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "2-3 times a month",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "At least once a week",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "How much of your plate should be covered by high-protein foods in main meals (lunch and dinner)?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "The less the better",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "About ¼ of your plate",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "About ½ of your plate",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "The more the better",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "Which of the following high-protein foods should be avoided, completely, if possible, because they are processed?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Red/white meats",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Fish and seafood",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Pulses",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Which of the following is a high-protein food?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Carrot",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Chicken",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Potato",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Candy",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "Which of the following is a high-protein food?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Bread",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Tomato",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Lentil",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Butter",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Which of the following is an animal-based high-protein food?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Beef",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Soy",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Olive",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Bread",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "Which of the following is an animal-based high-protein food?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Salmon",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Rabbit",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Egg",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "Which of the following is a processed animal-based high-protein food?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Egg",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Salmon",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Ham",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Squid",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "What are legumes?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Plants that grow in pods",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Cereal grains enriched with proteins",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "A type of cured red meat",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "None of the previous",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "question": "Which of the following is a legume?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Fresh green beans/peas",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Pulses",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Soybeans",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 9,
+              "question": "What are pulses?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Plant seeds used for making oil",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "The non-edible outer part of legumes",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "The dry edible seeds of legume pods",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "None of the previous",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 10,
+              "question": "Which of the following is a pulse?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Dry beans/peas",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Lentils",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Chickpeas",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 11,
+              "question": "Which of the following is a plant-based high-protein food?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Rice",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Chickpea",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Walnut",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Olive",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 12,
+              "question": "Which of the following is a plant-based high-protein food?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Black bean",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Beetroot",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Potato",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Apple",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 13,
+              "question": "Which of the following plant-based high-protein foods is made from soybeans?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Hummus",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Tofu",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Greek fava",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Falafel",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "Welcome to the world of high-protein foods!",
+            "This thematic area focuses on various meats and plant alternatives, which together with dairy products cover most of your daily protein needs.",
+            "Animal-based high-protein foods include red meat (e.g. beef, pork, veal and lamb), white meat (e.g. chicken, turkey and rabbit), fish, seafood (e.g. shrimp, prawn, octopus, squid, crayfish, lobster, clam, oyster and mussel) and eggs. Processed meat products (e.g. sausage, ham, salami, peperoni and bacon) are also included in this category; they are produced from red/white meats through various processes, such as salting, curing, fermentation, smoking, and the addition of chemical preservatives.",
+            "Remember: dairy products (e.g. milk, yogurt and cheese), which are presented in a previous thematic area, are also animal-based foods with a high protein content and the most important source of calcium!",
+            "Plant-based high-protein include pulses, which are the dry edible seeds inside of the legume pods, i.e. dry beans (e.g. black beans, kidney beans, and lima beans), dry peas (e.g. black-eyed peas, and split yellow/green peas), lentils and chickpeas, as well as soybeans and their products (e.g. tofu)."
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Consumption practices",
+          "description": "Familiarisation with the best practices to handle and consume high-protein foods.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Which of the following is a good way to incorporate pulses in your diet?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "As a main dish",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "As part of the salad",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "As a meat substitute, e.g. in burgers and meatballs",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Which of the following is a good way to incorporate eggs in your diet?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "As part of breakfast",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "In sandwiches/wraps instead of cold cuts",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "As a snack (boiled egg)",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "Which is the healthiest way to cook meat and fish/seafood?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Boiling and roasting",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Deep frying",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Cooking with lots of butter",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Grilling",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Why is it important to adequately cook poultry?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "To make them tastier",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "To prevent bacterial infections",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "To lower their calories",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "To improve their smell",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "When chicken is fully cooked and safe to eat, what colour should it be inside?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Pink",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Red",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "White",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Brown",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "Which of the following is a good way to get proteins of high biological value through pulses?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Eating them alone",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Combining them with rice or bread",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "By adding lemon",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "By boiling them longer",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "To avoid excess saturated lipids when eating red meat, one should:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Combine it with bread",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Fry instead of boil it",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Cook it longer",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Avoid eating its visible fat",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "question": "To avoid excess saturated lipids when eating poultry, one should:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Avoid eating their skin",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Cook them less",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Eat only chicken breasts",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Cut them in smaller pieces",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "To get the necessary proteins and avoid large amounts of saturated lipids: eat poultry without their skin, remove visible fat from red meat (usually the outer layer), and choose lean red meat parts, such as those in the back of the cattle (short loin, sirloin and round) or pork (loin and ham).",
+            "Eggs are a very nutritious choice for a high-protein snack (e.g. boiled egg), as a substitute for cold cuts in sandwiches/wraps, or even a main meal (e.g. baked omelette with cheese and vegetables).",
+            "To keep your meals as healthy as possible, choose animal-based high-protein foods that are boiled or roasted, instead of fried or grilled.",
+            "There are so many ways to incorporate pulses in your diet! To name a few, you can have them as a main meal (e.g. lentil soup), incorporate them in salads, use them to make vegetarian burgers or even enjoy them as spreads like hummus.",
+            "Did you know that by combining pulses and grains, such as rice or bread, you can get complete proteins with all the essential amino acids, similar to those of meat?"
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Health effects",
+          "description": "Familiarisation with the health effects of high-protein foods.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "What is the main role of proteins?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "They help the body grow and stay strong",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "They promote weight loss",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "They are the body's main energy fuel",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "They fight inflammation",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Proteins, found in high-protein foods, can:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Help tissues grow",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Repair tissues and heal wounds",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Help the immune system work properly",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "Except from muscles, high-protein foods are important for:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Bones",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Skin",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Blood",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Not eating enough animal-based high-protein foods can increase the risk of:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Obesity",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Anaemia",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Acne",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Insomnia",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "A high consumption of processed meat products is particularly detrimental for:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "The heart",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "The teeth",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "The skin",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All of the previous",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "High-protein foods are an essential part of a balanced diet!",
+            "Did you know that all of the body's organs and tissues, such as the heart, the lungs, the bones, the muscles and the skin, are made up from proteins? Proteins play a key role in building, maintaining and repairing the body's tissues.",
+            "High-protein foods also support important functions of the immune system, which prevents you from getting sick.",
+            "An inadequate consumption of animal-based high-protein foods can lead to anaemia. In simple words, anaemia is the lack of healthy red blood cells to carry oxygen to the body's tissues. It can be caused by an inadequate intake of iron and vitamin B12 which are typically found in animal-based high-protein foods.",
+            "Aim to follow the recommended intakes of high-protein foods according to your age and body weight to ensure a lifelong adequate protein intake!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Hydration (HYD) Quiz",
+      "description": "A quiz game aiming to increase knowledge about healthy ways for adequate hydration, emphasizing water and other drinks through education/motivation towards their optimal consumption.",
+      "levels": [
+        {
+          "id": 1,
+          "title": "Acquaintance",
+          "description": "Familiarisation with healthy means of hydration.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Which of the following is a drink?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "A smoothie made with fresh fruits and milk",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "An iced coffee",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "A soft drink",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "A bottle of nectar juice",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "Which of the following is an advantage of using a reusable water bottle instead of a single-use plastic one?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "It makes the water taste better",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "It is better for the environment",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "It keeps the water fresher",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "question": "How often should you clean your reusable water bottle?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Once a month",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Once a week",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Every day",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Never",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "Drinking enough fluids every day is a simple way to take care of your health! Make sure to drink plenty of water at home, at school and when outside (e.g. when you go out for a walk with your family or friends and during extracurricular activities, including exercise). You can make water tastier by adding natural flavours, like slices of fresh fruits, vegetables or herbs.",
+            "Always carry a bottle of water with you so that you can stay hydrated even when out of home! Using a clean reusable bottle is the best choice, since it also helps the environment by reducing plastic use.",
+            "When out of home, choose drinks that hydrate you without added sugar or caffeine."
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Nutritional value",
+          "description": "Familiarisation with the nutritional value of water and drinks.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Which of the following nutrients is included in water?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Carbohydrates",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Minerals",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Lipids",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamins",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Which of the following drinks contains vitamin C, which is important for the immune system?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Water",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Fresh orange juice",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Sour milk",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Coffee",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "Which of the following is true for fresh fruit juices compared to whole fruits?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "They have less fibres",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "They have more sugar",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "They have less proteins",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "They have more vitamins",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Which of the following drinks contains calcium, which is important for strong bones and teeth?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Lemonade",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Fruit nectar",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Tea",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Milk",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "Which of the following drinks contains beneficial bacteria?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Peppermint tea",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Water",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Kefir",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Soft drink",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "Compared to traditional dairy-based drinks, most plant-based milk substitutes contain:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Less calcium",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Less lipids",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Less proteins",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "Which of the following drinks contains polyphenols, which have antioxidant effects?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Water",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Chamomile tea",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Energy drink",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Lemonade",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "question": "Which of the following drinks contains sugar?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Soft drink",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Sports drink",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Energy drink",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 9,
+              "question": "Which of the following drinks contains caffeine?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Coffee",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Tea",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Energy drink",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 10,
+              "question": "Which of the following drinks contains ethanol?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Water",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Wine",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Milk",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Fresh fruit juice",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "To stay healthy, your body needs the right drinks!",
+            "Water is the best way to stay hydrated. You can easily understand its importance if you think that up to 60-70% of our body is actually water! It does not contain any calories or vitamins, but only small amounts of minerals, like calcium and magnesium.",
+            "Other healthy drinks contain various important nutrients:",
+            "Milk is rich in calcium, which is essential for strong bones and teeth.",
+            "Sour milk and kefir contain good bacteria called \"probiotics\", which help the gut work properly.",
+            "Fresh fruit juices are packed with important vitamins (e.g. vitamin C); however, they have fewer dietary fibres compared to whole fruits.",
+            "Non-caffeine herbal infusions contain antioxidant compounds called phytochemicals.",
+            "But be careful! Not all drinks are nutritious.",
+            "Packaged fruit juices, soft drinks, sports drinks and energy drinks are ultra-processed and loaded with sugar and chemical additives/preservatives, which have detrimental effects on the body.",
+            "Coffee, black tea and energy drinks also contain lots of caffeine, which can cause anxiety, irritability and sleep problems.",
+            "Alcoholic drinks contain ethanol, which is detrimental for your development and overall health."
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Recommended intake",
+          "description": "Familiarisation with the recommended intake of water and drinks.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Most of your daily fluids should come from:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Milk",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Fresh fruit juice",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Water",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Herbal infusions",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "The recommended intake of water depends on:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Mood",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Age and sex",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Sleep duration",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "None of the previous",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "What is the recommended intake of water for a 5-year-old child?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "1-4 glasses a week",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "3-5 glasses a day",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "6-7 glasses a day",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "At least 12 glasses a day",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "What is the recommended intake of water for a 10-year-old child?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "2-5 glasses a week",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "4-6 glasses a day",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "7-9 glasses a day",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "At least 14 glasses a day",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "What is the recommended intake of water for a 15-year-old child?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "3-6 glasses a week",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "5-7 glasses a day",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "8-10 glasses a day",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "At least 16 glasses a day",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "In which of the following situations do you need to drink more fluids than usual?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "When you are sick",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "When you exercise",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "When it is hot outside",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "Which of the following drinks should be completely avoided during childhood?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Coffee and tea",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Soft and energy drinks",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Alcoholic drinks",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": true
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "The recommended daily consumption of water depends on age and sex. It is:",
+            "1600 mL (~6-7 glasses) for 4-8-year-old children,",
+            "1900 mL (~7-8 glasses) for 9-13-year-old girls or 2100 mL (~8-9 glasses) for 9-13-year-old boys,",
+            "2000 mL (~8 glasses) for ≥14-year-old girls or 2500 mL (~10 glasses) for ≥14-year-old boys.",
+            "Did you know that when the temperature is high (especially during the Summer), or if you are physically active, your body needs more fluids to replace the water lost through sweating and heavy breathing? Other situations in which you need more fluids are when you have high fever, diarrhoea and vomiting.",
+            "Remember: for optimal development and health try to completely avoid processed high-sugar drinks (e.g. fruit nectars, soft drinks and energy drinks), those that contain caffeine (e.g. coffee and black tea) and alcoholic drinks!"
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Consumption practices",
+          "description": "Familiarisation with best practices to stay hydrated.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Which of the following can help you stay hydrated?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Drink water when you feel thirsty",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Drink some water with every meal and snack",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Drink extra water when the weather is hot",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Which of the following can help you stay hydrated when out of home for several hours?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Avoid exposure to sunlight",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Always carry a bottle of water with you",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Only go out when it is cold",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Eat several snacks",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "Which of the following can help you stay hydrated at school?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Have a bottle of water in your school bag",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Use water fountains if available",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Drink some water during recess",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "To stay hydrated when doing physical activity you should drink water:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Only after the activity",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Only before the activity",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Before, during and after the activity",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Water is not recommended",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "Which of the following is a good way to give water more flavour?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Add orange slices",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Add drops of fresh lemon",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Add mint leaves",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Health effects",
+          "description": "Familiarisation with the health effects of water and drinks, and the signs and consequences of dehydration.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Which of the following is true about water in the body?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "It transports substances",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "It helps remove waste substances",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "It participates in many biochemical reactions",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Drinking enough water each day benefits:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "The brain",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "The skin",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "The muscles",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "Drinking enough water each day is important for:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Keeping your body temperature stable",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Helping you sleep better",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Helping you walking faster",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "What happens if you do not replace the fluids you lose through sweat, breathing and urination?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "You stay hydrated",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "You become dehydrated",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "You feel stronger",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "You lose weight",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "When you are dehydrated, the colour of your urines may be:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Dark yellow",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Light yellow",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Almost clear",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "None of the previous",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "When you are dehydrated, your mouth, lips and skin may be:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Swollen",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Red and itchy",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Dry",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "None of the previous",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "Which of the following is a symptom of dehydration?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Thirstiness",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Fatigue and dizziness",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Headache",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "question": "Consumption of drinks with caffeine can:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Help your bones become stronger",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Help you lose weight",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Cause overstimulation and insomnia",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Make you sharper",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 9,
+              "question": "A high consumption of sugar-sweetened drinks can increase the risk of:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Obesity",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Diabetes",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Tooth decay",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 10,
+              "question": "Consumption of alcoholic drinks is detrimental for:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Your liver",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Your bones",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Your mental health",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": true
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "Stay hydrated, stay healthy!",
+            "Drinking enough water is vital for your body. Water helps transport important substances to cells through blood, remove waste substances through urine, and supports many key functions of the body. It also keeps you focused and energetic, and regulates your body temperature.",
+            "Dehydration, which occurs when your body loses more fluids than it takes in, can present with signs and symptoms like thirstiness, dizziness, headache, fatigue, dry mouth, non-elastic skin and bad breath. Did you know that you can check your hydration status by observing the colour of your urine? Dark yellow urine is a sign of dehydration and that you should drink some water.",
+            "Avoid drinks with caffeine, as they can cause overstimulation and disrupt your sleep.",
+            "Avoid sugar sweetened drinks, as a high consumption can increase the risk of tooth decay and chronic diseases, such as obesity and diabetes, in the long-term.",
+            "It is crucial to avoid alcohol consumption, as it is harmful to your liver, bones, mental and overall health."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Healthy Dietary and Physical Activity Habits Quiz",
+      "description": "A quiz game aiming to increase knowledge on healthy dietary and physical activity habits.",
+      "levels": [
+        {
+          "id": 1,
+          "title": "Acquaintance",
+          "description": "Familiarisation with the food groups of fruits and vegetables.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Which of the following is a fruit?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Carrot",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Pear",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Potato",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Lettuce",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Which of the following is included in the food group of fruits?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Watermelon",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Dried fig",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Strawberry",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All of the above",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "Which fruit do raisins come from?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Apple",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Strawberry",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Grapes",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Banana",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Which of the following constitutes the best fruit choice among the different types of juice?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Nectar juice",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Fruit drink with added sugar",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Soft drink",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Fresh fruit juice",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "Which of the following is a vegetable?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Orange",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Strawberry",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Tomato",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Apple",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "Which of the following is a green leafy vegetable?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Spinach",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Zucchini",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Cucumber",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Eggplant",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "Which of the following is a root vegetable?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Cabbage",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Carrot",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Pepper",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Tomato",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "question": "Which of the following is a starchy vegetable?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Corn",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Peas",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Pumpkin",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All of the above",
+                  "correct": true
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "Welcome to the world of fruits and vegetables!",
+            "The fruit group includes all fresh fruits (e.g. orange, apple, pear, banana, peach) and dried fruits (e.g. plums, raisins, apricots), as well as freshly squeezed fruit juices (i.e., 100% fruit juice without added sugars). Remember: packaged fruits juices with added sugar, soft drinks and other processed fruit drinks are not included in the food group of fruits.",
+            "The vegetable group includes all raw vegetables (e.g. lettuce, cabbage, carrot, tomato, cucumber) and cooked vegetables (e.g. broccoli, cauliflower, zucchini, beets). Remember: starchy vegetables, i.e. corn, peas and pumpkin, are also included in the vegetable food group, but they are rich in starch, a complex carbohydrate, which is not present in other vegetables."
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Nutritional value",
+          "description": "Familiarisation with the nutritional value of fruits and vegetables.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Which is the main nutrient fruits and vegetables consist of?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Carbohydrates",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Protein",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Fibres",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamin A",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Which of the following nutrients is not included in fruits and vegetables?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Carbohydrates",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Fibres",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Lipids",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamins",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "Which of the following is a good source of fibres, which help the gut work properly?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Apples",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Spinach",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Broccoli",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All of the above",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Which of the following is true for the whole fruits as compared to fruit juices?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "They have less sugar",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "They have more fibres",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "They help you grow taller",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "They contain less nutrients",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "How can fruits and vegetables help you stay hydrated?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "They make you thirsty",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "They make you sweat less",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "They have a high content of water",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "All of the above",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "Which vitamin is most commonly found in citrus fruits (e.g. orange) and helps boost the immune system?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Vitamin A",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Vitamin C",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Vitamin D",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamin E",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "Which vitamin, found in green leafy vegetables, is essential for blood?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Vitamin C",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Vitamin D",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Vitamin B2",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamin K",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "question": "Which vitamin, found in fruits and vegetables, is important for the blood and the nervous system?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Vitamin A",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Folic acid",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Vitamin C",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamin E",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 9,
+              "question": "Which mineral, found in fruits and vegetables, helps keep muscles and nerves working properly?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Potassium",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Calcium",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Iron",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vitamin C",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "Fruits and vegetables are a very good source of a wide range of important nutrients!",
+            "They are primarily made up from carbohydrates which are mainly present in the form of sugars and provide energy to the body.",
+            "They also include vitamins (e.g. vitamin C, vitamin K, folic acid), minerals (e.g. potassium, calcium), fibres and also other compounds (e.g. phytochemicals) important for the optimal function of the body.",
+            "Even though they are solid foods, they contain lots of water and can also contribute to the body’s hydration."
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Recommended intake",
+          "description": "Familiarisation with the recommended intake and portion size of fruits and vegetables.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "What is the recommended intake of fruits?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "1-2 servings each day",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "2-3 servings each day",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "3-4 servings a week",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "5 servings a week",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "What is one serving of fruit?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "1 small apple",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "1/2 glass of fresh fruit juice",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "4 dried fruits (e.g. apricots)",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All of the above",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "What is one serving of fruit?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "3 slices of watermelon",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "1 cup of raisins",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "1 cup of strawberries",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "2 oranges",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "What is the recommended intake of vegetables?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "1-2 servings each day",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "2-4 servings each day",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Less than 2 servings a week",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "5 servings a week",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "What is one serving of vegetables?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "1 cup of chopped tomato",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "2 medium carrots",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "2 cups of raw leafy greens",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All of the above",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "What is one serving of vegetables?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "2 cups of lettuce",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "1 small onion",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "2 cups of boiled broccoli",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "3 slices of cucumber",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "How many servings of fruits and vegetables should one eat every day?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "1-2 servings",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "2-3 servings",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "3-4 servings",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "5 or more servings",
+                  "correct": true
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "The recommended consumption of fruits is 2-3 servings per day. One serving is equivalent to 120-200 grams of fruit (e.g. 1 medium apple/ orange/ peach, or 2 small mandarins/ kiwis, or ~1 cup of strawberries/ cherries/ berries/ grapes, or ~1 cup of sliced watermelon/ melon, or 30g dried fruits, or 1/2 cup of fresh juice).",
+            "The recommended consumption of vegetables is 2-4 servings per day. One serving is equivalent to 150-200 grams of raw or cooked vegetables (e.g. 1 cup of chopped raw or cooked vegetables, or 2 cups of raw leafy greens like lettuce, or 2 medium carrots, or 1 large tomato).",
+            "Remember, 5-a-day is the way to go! Aim to consume at least 5 servings of fruits and vegetables per day."
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Consumption practices",
+          "description": "Familiarisation with best practices to handle and consume fruits and vegetables.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Which of the following is a good way to incorporate fruits in your diet?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "As snacks",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "As desserts",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "In smoothies",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All of the above",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Which of the following is a good way to incorporate vegetables in your diet?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "As side salads",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "In sandwiches or wraps",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "As part of the dishes",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All of the above",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "Which is the healthiest way to cook vegetables to preserve most of their nutrients?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Boiling",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Roasting",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Steaming",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Deep frying",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Compared to raw vegetables, cooked ones:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Contain fewer vitamins",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Have no nutrients",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Have fewer calories",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Contain more minerals",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "Compared to cooked vegetables, raw ones:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Contain more fibres",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Have more carbohydrates",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Have fewer calories",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Contain less water",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "Washing fruits and vegetables before eating, make them:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Taste better",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Look shinier",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "With less pesticides",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Less nutritious",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "Eating fruits and vegetables with their skin if edible, gives your body:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Much more energy",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Extra vitamins",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Less fibres",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All of the above",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "There are so many ways to incorporate fruits in your diet! To name a few, consume them as snacks throughout the day (choose fruits that are easy to carry and peel for a healthy snack at school), use them to make nutritious desserts (e.g. fruit salad), or squeeze/grind them to enjoy refreshing fresh juices or smoothies.",
+            "Give priority to whole fruits (instead of fruit juices), and try to eat them with their skin (if edible) after thorough washing, to get advantage of all their nutrients (vitamins, minerals and fibres).",
+            "Enjoy vegetables in every occasion! Always accompany your main meals (lunch and dinner) with side salad or add vegetables in other foods/dishes (e.g. sandwiches, pasta, rice, soups or meat-based dishes) to make them more colourful and tastier.",
+            "Aim to eat most of your vegetables raw, as cooking can cause the loss of some important vitamins. Also, try to consume vegetables with their skin, as they contain extra nutrients; just make sure to wash them thoroughly beforehand to remove any dirt, pesticides or germs."
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Health effects",
+          "description": "Familiarisation with the health benefits of fruits and vegetables.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Eating fruits and vegetables every day is recommended for:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Becoming taller",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Running faster",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Losing weight",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Staying healthy",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Fibres, found in fruits and vegetables, mainly help:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "The body grow taller",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "The gut function better",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "The muscles being strong",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Protect from sunburn",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "How do fruits and vegetables help reduce the risk of getting sick?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "They boost your immune system",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "They keep you awake all the time",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "They give you extra energy for exercises",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "They help you sleep longer",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Eating a variety of fruits and vegetables can benefit:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "The skin",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "The bones",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "The heart",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All of the above",
+                  "correct": true
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "Go healthy with more fruits and vegetables!",
+            "Fruits and vegetables are a key component of a healthy diet.",
+            "Among their numerous health benefits, they support optimal growth and development, enhance the immune system, and help the cardiovascular system and the gastrointestinal tract work properly."
+          ]
+        },
+        {
+          "id": 6,
+          "title": "Variety and seasonality",
+          "description": "Familiarisation with the concepts of variety and seasonality of fruits and vegetables.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "The colour of fruits and vegetables depends on?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Their caloric content",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Their place of production",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "The season they grow",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Their compounds",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "The colour of fruits and vegetables indicates their content in:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Phytochemicals",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Sugars",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Lipids",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Calories",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "Why is it better to eat seasonal fruits and vegetables?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "They are fresher",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "They are cheaper",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "They have more vitamins",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All of the above",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Eating seasonal fruits and vegetables helps:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "The planet",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "The brain",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "The muscle strength",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "The weight control",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "A vegetable that is available for sale out of season:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Grows in greenhouses",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Grows faster in the off-season",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Needs less water to grow",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Has no pesticides",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "Seasonal fruit and vegetable cultures:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Need less water",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Need more chemicals",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Need more energy sources",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Increase pollution",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "Seasonal produce reduces food waste by:",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Limiting food’s spoilage",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Reducing life in storage",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Offering safe products",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Producing small quantities",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "By incorporating a variety of colourful fruits and vegetables into your diet, and opting for seasonal produce whenever possible, you will not only boost your overall health and growth but also help protect the environment.",
+            "Eating seasonally also gives you the chance to enjoy food at its freshest, most flavourful, and most nutrient-dense form.",
+            "This approach helps you adopt a healthy, sustainable, and eco-friendly diet!"
+          ]
+        }
+      ]
     }
   ]
 }

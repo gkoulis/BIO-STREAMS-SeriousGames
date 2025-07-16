@@ -7,6 +7,11 @@ Changelog
 - Reusable components: theme-level logic.
 - Improve reusability in wrappers, components, and other structure elements such as headers, menus, and footers.
 
+# v0.1.6 Wednesday 16 July 2025
+
+- Added new content.
+- UI fix.
+
 # v0.1.5 Sunday 04 May 2025
 
 - Added dependency: qrcode.vue

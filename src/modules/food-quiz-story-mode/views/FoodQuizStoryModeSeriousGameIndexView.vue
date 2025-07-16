@@ -54,9 +54,9 @@ const onThemeClick = (themeId) => {
 
 <template>
   <div class="FoodQuizBackground" v-if="!LOADING_REF">
-    <PrivateContainer>
+    <PrivateContainer :is-container="false">
       <div
-        class="Container1"
+        class="Container1 mb-4"
         v-for="theme in THEME_LIST_REF"
         :key="theme.id"
         @click="onThemeClick(theme.id)"
