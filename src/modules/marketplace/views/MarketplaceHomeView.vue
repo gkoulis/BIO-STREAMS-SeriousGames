@@ -12,28 +12,28 @@ const SERIOUS_GAMES = [
     name: "Food Ninja",
     description:
       "Slice and dice your way to healthy habits! Recognize everyday foods and learn to spot the difference between nutritious and unhealthy choices in a fast-paced, fun-filled adventure.",
-    href: "#",
+    href: "/#/food-ninja-story-mode-index",
     imageSrc: "sr-banner-mock-0001.webp",
   },
   {
     name: "Food Quiz",
     description:
       "Challenge your knowledge about nutrition! Play solo or take on family and friends in a 1 vs. 1 quiz mode that’s as engaging as it is educational.",
-    href: "#",
+    href: "/#/food-quiz-story-mode-index",
     imageSrc: "sr-banner-mock-0002.webp",
   },
   {
     name: "Let’s Move",
     description:
       "Get up and get moving with simple daily exercises! Build your strength and stamina with activities that grow with you, making staying active fun and achievable every day.",
-    href: "#",
+    href: "/#/lets-move",
     imageSrc: "sr-banner-mock-0003.webp",
   },
   {
-    name: "Unified Avatar Experience",
+    name: "Food Treasure",
     description:
       "Enjoy a seamless journey across all games with your personalized avatar! Stay connected and track your progress through every challenge.",
-    href: "#",
+    href: "/#/food-treasure-index",
     imageSrc: "sr-banner-mock-0004.webp",
   },
 ];
@@ -47,7 +47,7 @@ const navigation = {
   social: [
     {
       name: "X",
-      href: "#",
+      href: "https://x.com/BioStreams_EU",
       icon: defineComponent({
         render: () =>
           h("svg", { fill: "currentColor", viewBox: "0 0 24 24" }, [
@@ -59,7 +59,7 @@ const navigation = {
     },
     {
       name: "LinkedIn",
-      href: "#",
+      href: "https://www.linkedin.com/company/bio-streams",
       icon: defineComponent({
         render: () =>
           h("svg", { fill: "currentColor", viewBox: "0 0 72 72" }, [
@@ -81,10 +81,10 @@ const navigation = {
 };
 
 const topNav = [
-  { name: "Link 1", href: "#" },
-  { name: "Link 2", href: "#" },
-  { name: "Link 3", href: "#" },
-  { name: "Link 4", href: "#" },
+  // { name: "Link 1", href: "#" },
+  // { name: "Link 2", href: "#" },
+  // { name: "Link 3", href: "#" },
+  // { name: "Link 4", href: "#" },
 ];
 
 const mobileMenuOpen = ref(false);
@@ -163,9 +163,11 @@ const faqs = [
         />
       </a>
       <div class="flex flex-1 justify-end">
+        <!--
         <a href="#" class="text-sm/6 font-semibold text-gray-900"
           >CTA <span aria-hidden="true">&rarr;</span></a
         >
+        -->
       </div>
     </nav>
     <Dialog class="lg:hidden" @close="mobileMenuOpen = false" :open="mobileMenuOpen">
@@ -249,39 +251,6 @@ const faqs = [
       </div>
     </div>
 
-    <div class="bg-white">
-      <div class="mx-auto max-w-2xl px-4 py-16 sm:px-6 sm:py-24 lg:max-w-7xl lg:px-8">
-        <div class="mx-auto divide-y divide-gray-900/10">
-          <h2 class="text-center text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl">
-            Frequently asked questions
-          </h2>
-          <dl class="mt-10 space-y-6 divide-y divide-gray-900/10">
-            <Disclosure
-              as="div"
-              v-for="faq in faqs"
-              :key="faq.question"
-              class="pt-6"
-              v-slot="{ open }"
-            >
-              <dt>
-                <DisclosureButton
-                  class="flex w-full items-start justify-between text-left text-gray-900"
-                >
-                  <span class="text-base/7 font-semibold">{{ faq.question }}</span>
-                  <span class="ml-6 flex h-7 items-center">
-                    <PlusSmallIcon v-if="!open" class="size-6" aria-hidden="true" />
-                    <MinusSmallIcon v-else class="size-6" aria-hidden="true" />
-                  </span>
-                </DisclosureButton>
-              </dt>
-              <DisclosurePanel as="dd" class="mt-2 pr-12">
-                <p class="text-base/7 text-gray-600">{{ faq.answer }}</p>
-              </DisclosurePanel>
-            </Disclosure>
-          </dl>
-        </div>
-      </div>
-    </div>
   </main>
 
   <footer class="bg-white">
