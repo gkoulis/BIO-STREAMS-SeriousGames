@@ -3,11 +3,11 @@
     {
       "id": 1,
       "title": "Fruits and Vegetables",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris elementum, est eu egestas posuere, ligula ante tempor ante, quis tincidunt nibh purus ac quam. Curabitur at convallis enim, a cursus leo.",
+      "description": "Familiarisation with the food group of fruits and vegetables. Complexity of task escalates with advancing level: at the beginning the focus is on the fruits and the vegetables alone, then playing with their colours is introduced.",
       "levels": [
         {
           "id": 1,
-          "title": "Slice the fruits",
+          "title": "Your task is to slice only the fruits you see.",
           "messages": [
             "Give fruit a priority!",
             "Fruits are among the foods it is recommended you consume on a daily basis. In general, 2-3 fruits per day is your ultimate goal. Selecting a fruit as a snack, at school or in the afternoon, will help you achieve your daily goal. To do so, give fruit a priority: first eat the fruit, then anything else!"
@@ -15,7 +15,7 @@
         },
         {
           "id": 2,
-          "title": "Slice the vegetables",
+          "title": "Your task is to slice only the veggies you see.",
           "messages": [
             "Go with a salad at your meals!",
             "Vegetables, like fruits, are also recommended to be consumed on a daily basis. They can be served as a salad or even as a main dish. To meet your everyday goal, accompany your main meals with veggies!"
@@ -23,7 +23,7 @@
         },
         {
           "id": 3,
-          "title": "Slice the fruits and vegetables with red color",
+          "title": "Your task is to slice only the F&V with red colour.",
           "messages": [
             "Discover the F&V palette of colours!",
             "Fruits and vegetables are the most colorful food groups. Their colours, however, are not only a pleasure for your eyes, but for your body, as well. Behind a colour, certain substances exist, which specifically benefit a system of your body. In other words, the different colours are good for different systems of the body. Discover them!"
@@ -33,129 +33,40 @@
     },
     {
       "id": 2,
-      "title": "High-Protein Foods",
-      "description": "Familiarisation with high-protein foods other than dairy products. Complexity of task escalates with advancing level: at the beginning exploring high-protein foods in general and then introducing the concept of animal-based versus plant-based sources.",
+      "title": "Dairy Products (DP)",
+      "description": "Familiarisation with the food group of dairy products. The complexity of the task increases with each level: first, the focus is on identifying and slicing common dairy products; then, learners move on to slicing the image that shows the recommended daily consumption of dairy products; finally, they identify and slice the image that highlights the key nutrient found in dairies, i.e. calcium.",
       "levels": [
         {
           "id": 1,
-          "title": "Slice the high-protein foods",
+          "title": "Your task is to slice only the dairy products you see.",
           "messages": [
-            "This thematic area focuses on meats and alternatives of plant origin, which together with dairies (presented in a previous thematic area) cover most of your daily protein needs. Key representative foods include red meat (e.g. beef, pork and veal), white meat (e.g. chicken, turkey, rabbit), fish, seafood (e.g. shrimp, octopus and squid), eggs, pulses (e.g. dry beans, lentils and chickpeas), and soybeans.",
-            "The key nutrient of this food group is proteins, the building block for all of the body's organs and tissues!",
-            "Incorporating a variety of high-protein foods in your diet will help your body grow strong and healthy!",
-            "It is recommended to eat lean white and/or red meat 2-3 times per week, fish/seafood 2-3 times per week, and pulses at least once per week.",
-            "The exact quantity depends on your age, but a simple rule is to ensure that high-protein foods cover about ¼ of your plate in lunch and dinner!"
+            "Make dairies a daily habit! Include them early in your day and build healthy habits that last!",
+            "Dairy products like milk, yogurt, and cheese are foods recommended for daily consumption because they provide key nutrients for your growth and development."
           ]
         },
         {
           "id": 2,
-          "title": "Slice the healthy animal-based high-protein foods",
+          "title": "Your task is to slice only the recommended daily consumption of dairy products you see.",
           "messages": [
-            "Animal-based high-protein foods include red meats (e.g. beef, pork, lamb), white meat (e.g. poultry, rabbit), fish, seafood, and eggs.",
-            "These foods are really special, because they contain \"complete\" proteins, i.e. proteins with all the essential amino acids that your body needs to grow and stay strong! They are also rich in important vitamins, such as B12, A and D, and several minerals, such as iron, zinc and phosphorus.",
-            "Red/white meat and eggs also contain saturated lipids, which should be consumed in moderation, while fish (especially fatty/oily fish, such as salmon, sardines, herring and mackerel) and seafood contain omega-3 polyunsaturated lipids, which are beneficial for the heart and vessels.",
-            "Processed meat products, such as sausage, pepperoni and bacon, contain lots of saturated lipids, salt and various chemical additives and preservatives, so it is best to avoid them completely if possible."
+            "Go with dairies every day!",
+            "To meet the goal of 3-4 servings of dairy products per day, try including a glass of milk with breakfast, yogurt as a snack, or cheese with your lunch or dinner. Make it a habit — pair your meals or snacks with a dairy option to stay strong and healthy!"
           ]
         },
         {
           "id": 3,
-          "title": "Slice the plant-based high-protein foods",
+          "title": "Your task is to identify what counts as one portion of a dairy product. Select all the items that represent a standard dairy portion.",
           "messages": [
-            "Plant-based high-protein foods include pulses and soybeans.",
-            "These foods are low in lipids and very rich in fibres, which benefit your gut and overall health!",
-            "Although plant-based high-protein foods do not contain \"complete\" proteins on their own, you can get those if you combine them with grain products, such as bread or rice.",
-            "Pulses are super healthy, and there are many ways to incorporate them in your diet! For example, you can have them as a main meal (e.g. lentil soup), incorporate them in colourful salads, use them to make vegetarian burgers, or even enjoy them as a spread like hummus."
-          ]
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "title": "Fats & Oils",
-      "description": "Familiarisation with the group of fats and oils. Complexity of task escalates with advancing level: at the beginning exploring fats, plant oils and other foods that are rich in lipids, and then focusing on the concept of healthy versus less healthy choices.",
-      "levels": [
-        {
-          "id": 1,
-          "title": "Slice the fats",
-          "messages": [
-            "The group of fats includes various products which primarily consist of lipids, such as:",
-            "Products made from milk, e.g. butter and heavy cream, which are used in cooking.",
-            "Whipped cream, a mixture of heavy cream and sugar used in pastry making.",
-            "Products derived from red meat, e.g. pork lard and beef tallow, which are used in cooking.",
-            "Margarine, a solidified version of plant oils used as a butter substitute.",
-            "Mayonnaise, an emulsion of oil, egg yolk, and vinegar/lemon juice, and other commercially available sauces based on mayonnaise."
-          ]
-        },
-        {
-          "id": 2,
-          "title": "Slice the oils",
-          "messages": [
-            "Plant oils are produced from the seeds or other parts of edible plants, like fruits, vegetables and legumes.",
-            "Some examples are sunflower oil, safflower oil, canola oil, olive oil and soybean oil.",
-            "Plant oils are primarily used in cooking (e.g. baking and frying) but are also added in raw form in vegetable salads."
-          ]
-        },
-        {
-          "id": 3,
-          "title": "Slice other foods that are primarily made up of lipids",
-          "messages": [
-            "Did you know that besides fats and oils used in cooking or in salads, there are also other foods which are primarily made up of lipids? These are:",
-            "Nuts and seeds, e.g. almond, walnut, peanut, hazelnut, pumpkin seed and sunflower seed, which are a healthy snack and can also be added to yoghurt, breakfast cereals, home-made desserts and salads.",
-            "Nut/seed pastes, e.g. peanut butter, almond butter and tahini, which can be used as a spread for bread or in home-made desserts instead of butter or margarine.",
-            "Olives, the fruit of the olive tree, which can be consumed plain or in salads.",
-            "Avocado, a fruit that contains mostly lipids and can be consumed in salads or mashed as a dip or spread."
+            "What counts as one serving of dairy?",
+            "Here’s a quick guide: (1) 1 glass (240 ml) of milk, (2) 1 pot (150 g) of yogurt, and (3) 1 slice (or 30 g) of cheese"
           ]
         },
         {
           "id": 4,
-          "title": "Slice the healthy fats and oils",
+          "title": "Your task is to slice only the key nutrient found in dairy products. Note that: Ca: calcium, Fe: Iron.",
           "messages": [
-            "Healthy fats and oils are important for a strong body, but their quantity matters! All are very rich in calories so moderation in their consumption is important to prevent excess weight gain.",
-            "Give priority to nuts/seeds, healthy plant oils, such sunflower oil, safflower oil, canola oil and olive oil, olives and avocados! They contain mostly unsaturated lipids, which are beneficial for your health.",
-            "Nuts/seeds are also a good source of fibres which help the gut wok properly, while healthy plant oils are also rich in vitamin E which protects the body's cells from oxidation.",
-            "Butter, heavy/whipped cream, lard/tallow, and some oils, such as palm oil and coconut oil, contain mostly saturated lipids, can be detrimental for health if consumed in large amounts.",
-            "Did you know that when plant oils are processed to become solid, they form \"trans\" lipids? These lipids are very detrimental for the heart and vessels and can be found in hard vegetable fats, e.g. shortening and some hard margarines, which should be avoided and replaced with healthy plant oils in cooking."
-          ]
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "title": "Hydration",
-      "description": "Familiarisation with healthy choices for adequate hydration. Complexity of task escalates with advancing level: at the beginning focusing only on water as the primary choice for hydration and its recommended intake in childhood, then introducing factors which can increase water needs, and last exploring the concept of healthy versus less healthy drink choices.",
-      "levels": [
-        {
-          "id": 1,
-          "title": "Slice the water",
-          "messages": [
-            "Water is the best way to stay hydrated!",
-            "It supports many key functions in the body and helps you stay focused and energetic.",
-            "Try to drink plenty of water at home, at school and when outside. Remember: drinking water when you are thirsty is important, because thirstiness is the way your body is telling you it is time to rehydrate."
-          ]
-        },
-        {
-          "id": 2,
-          "title": "Slice the image that shows the recommended daily water intake for children and adolescents",
-          "messages": [
-            "To maintain optimal hydration and health, the recommended daily intake of water is: \n 1600 mL (~6-7 glasses) for 4-8-year-old children. \n 1900 mL (~7-8 glasses) for 9-13-year-old girls or 2100 mL (~8-9 glasses) for 9-13-year-old boys \n 2000 mL (~8 glasses) for ≥14-year-old girls or 2500 mL (~10 glasses) for ≥14-year-old boys.",
-            "Here are some practical tips to check whether you are adequately hydrated:, \n Urine colour: clear/light yellow is a sign of good hydration, but dark yellow is a sign of dehydration. \n Thirst,: if you feel thirsty, you are already somewhat dehydrated. \n Mouth, and lips: dry mouth or chapped lips are signs of dehydration. \n Skin, elasticity: if you pinch your skin and it springs back very slowly, you may be dehydrated. \n Bad, breath: lack of saliva due to dehydration can lead to having a bad breath. \n Other, symptoms of dehydration include fatigue, headache, dizziness and difficulty in concentrating."
-          ]
-        },
-        {
-          "id": 3,
-          "title": "Slice the image that shows circumstances in which water needs are higher",
-          "messages": [
-            "Aim for more water when you need to!",
-            "Did you know that when you are sick (e.g. have a high fever, diarrhoea or vomiting), physically active, or on a hot day, it is important to drink extra water? All the previous circumstances make you lose more fluids than usual, so drinking extra water will help you stay hydrated."
-          ]
-        },
-        {
-          "id": 4,
-          "title": "Slice the healthy drink choices",
-          "messages": [
-            "Stay hydrated the healthy way!",
-            "It is important to choose the right drinks. Besides water, which is the best way to stay hydrated, other healthy drink options include sparkling and flavoured water (e.g. with lime, lemon, orange, strawberry), milk, fermented milk products (e.g. sour milk and kefir), fresh fruit juice, smoothies, and non-caffeine herbal infusions (e.g. chamomile, peppermint, sage).",
-            "Remember: not all drinks are good for you. You should try to avoid sugary, caffeinated and processed drinks, such as coffee, black tea, fruit nectars, soft drinks and energy drinks. Moreover, be very careful with alcohol; it is very harmful for your development and health and should always be avoided."
+            "Dairy products are one of the best sources of calcium (Ca), which helps build strong bones and teeth.",
+            "Dairy products are also important sources of high-quality protein, important for your growth, vitamins and minerals.",
+            "Low-fat dairy products give you less calories and fat but are also good sources of calcium and proteins. Choose them too!"
           ]
         }
       ]

@@ -185,7 +185,68 @@
       "levels": [
         {
           "id": 1,
-          "items": []
+          "items": [
+            {
+              "id": "milk",
+              "target": true
+            },
+            {
+              "id": "yogurt",
+              "target": true
+            },
+            {
+              "id": "cheese_sliced",
+              "target": true
+            },
+            {
+              "id": "cheese_grated",
+              "target": true
+            },
+            {
+              "id": "cheese_blocks",
+              "target": true
+            },
+            {
+              "id": "kefir",
+              "target": true
+            },
+            {
+              "id": "butter",
+              "target": false
+            },
+            {
+              "id": "eggs",
+              "target": false
+            },
+            {
+              "id": "bread",
+              "target": false
+            },
+            {
+              "id": "orange",
+              "target": false
+            },
+            {
+              "id": "chicken",
+              "target": false
+            },
+            {
+              "id": "tomato",
+              "target": false
+            },
+            {
+              "id": "lentils",
+              "target": false
+            },
+            {
+              "id": "beef",
+              "target": false
+            },
+            {
+              "id": "pork",
+              "target": false
+            }
+          ]
         },
         {
           "id": 2,
@@ -193,45 +254,36 @@
         },
         {
           "id": 3,
-          "items": []
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "levels": [
-        {
-          "id": 1,
-          "items": []
-        },
-        {
-          "id": 2,
-          "items": []
-        },
-        {
-          "id": 3,
-          "items": []
-        },
-        {
-          "id": 4,
-          "items": []
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "levels": [
-        {
-          "id": 1,
-          "items": []
-        },
-        {
-          "id": 2,
-          "items": []
-        },
-        {
-          "id": 3,
-          "items": []
+          "items": [
+            {
+              "id": "glass_of_milk",
+              "target": true
+            },
+            {
+              "id": "cheese_sliced",
+              "target": true
+            },
+            {
+              "id": "pot_of_yogurt",
+              "target": true
+            },
+            {
+              "id": "ice_cream_cone",
+              "target": false
+            },
+            {
+              "id": "a_bit_of_butter",
+              "target": false
+            },
+            {
+              "id": "tablespoon_of_yogurt",
+              "target": false
+            },
+            {
+              "id": "bottle_of_milk",
+              "target": false
+            }
+          ]
         },
         {
           "id": 4,
