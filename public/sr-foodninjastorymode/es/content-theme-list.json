@@ -2,31 +2,71 @@
   "themes": [
     {
       "id": 1,
-      "title": "Frutas y Verduras",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris elementum, est eu egestas posuere, ligula ante tempor ante, quis tincidunt nibh purus ac quam. Curabitur at convallis enim, a cursus leo.",
+      "title": "Frutas y verduras",
+      "description": "Familiarización con el grupo de alimentos de frutas y verduras. La complejidad de la tarea se intensifica con el nivel de avance: al principio, el enfoque se centra en las frutas y las verduras solas, luego se introduce jugar con sus colores.",
       "levels": [
         {
           "id": 1,
-          "title": "Corta las frutas",
+          "title": "Su tarea es cortar solo las frutas que ves.",
           "messages": [
-            "¡Dale prioridad a las frutas!",
-            "Las frutas son alimentos que se recomienda consumir a diario. En general, el objetivo es comer 2-3 frutas al día. Elegir una fruta como merienda, en la escuela o por la tarde, te ayudará a alcanzar tu meta diaria. ¡Para lograrlo, da prioridad a la fruta: primero come la fruta y luego cualquier otra cosa!"
+            "¡Dale a Fruit una prioridad!",
+            "Las frutas se encuentran entre los alimentos, se recomienda que consuma a diario. En general, 2-3 frutas por día es su objetivo final. Seleccionar una fruta como refrigerio, en la escuela o por la tarde, lo ayudará a alcanzar su objetivo diario. Para hacerlo, dale a Fruit una prioridad: ¡primero coma la fruta, luego cualquier otra cosa!"
           ]
         },
         {
           "id": 2,
-          "title": "Corta las verduras",
+          "title": "Su tarea es cortar solo las verduras que ves.",
           "messages": [
-            "¡Acompaña tus comidas con una ensalada!",
-            "Las verduras, al igual que las frutas, también deben consumirse a diario. Pueden servirse como ensalada o incluso como plato principal. Para alcanzar tu objetivo diario, acompaña tus comidas principales con verduras."
+            "¡Ve con una ensalada en tus comidas!",
+            "También se recomienda que las verduras, como las frutas, se consuman a diario. Se pueden servir como ensalada o incluso como plato principal. Para cumplir con su objetivo cotidiano, ¡acompañe sus comidas principales con verduras!"
           ]
         },
         {
           "id": 3,
-          "title": "Corta las frutas y verduras de color rojo",
+          "title": "Su tarea es cortar solo el F&V con color rojo.",
           "messages": [
-            "¡Descubre la paleta de colores de frutas y verduras!",
-            "Las frutas y verduras son los grupos de alimentos más coloridos. Sin embargo, sus colores no solo son agradables a la vista, sino también beneficiosos para tu cuerpo. Detrás de cada color existen sustancias específicas que benefician sistemas particulares de tu organismo. En otras palabras, los diferentes colores son buenos para distintos sistemas del cuerpo. ¡Descúbrelos!"
+            "¡Descubre la paleta de colores F&V!",
+            "Las frutas y verduras son los grupos de alimentos más coloridos. Sin embargo, sus colores no son solo un placer para sus ojos, sino también para su cuerpo. Detrás de un color, existen ciertas sustancias que benefician específicamente a un sistema de su cuerpo. En otras palabras, los diferentes colores son buenos para diferentes sistemas del cuerpo. ¡Descúbrelos!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Productos lácteos (DP)",
+      "description": "Familiarización con el grupo de alimentos de productos lácteos. La complejidad de la tarea aumenta con cada nivel: primero, el enfoque es identificar y cortar productos lácteos comunes; Luego, los alumnos pasan a cortar la imagen que muestra el consumo diario recomendado de productos lácteos; Finalmente, identifican y cortan la imagen que resalta el nutriente clave que se encuentra en las lecherías, es decir, calcio.",
+      "levels": [
+        {
+          "id": 1,
+          "title": "Su tarea es cortar solo los productos lácteos que ve.",
+          "messages": [
+            "¡Haga de las lecherías un hábito diario! ¡Incluirlos temprano en su día y construir hábitos saludables que duren!",
+            "Los productos lácteos como la leche, el yogurt y el queso son alimentos recomendados para el consumo diario porque proporcionan nutrientes clave para su crecimiento y desarrollo."
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Su tarea es cortar solo el consumo diario recomendado de productos lácteos que ve.",
+          "messages": [
+            "¡Ve con las lecherías todos los días!",
+            "Para cumplir con el objetivo de 3-4 porciones de productos lácteos por día, intente incluir un vaso de leche con desayuno, yogurt como bocadillo o queso con su almuerzo o cena. Haz que sea un hábito: ¡combina tus comidas o bocadillos con una opción de lácteos para mantenerte fuerte y saludable!"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Su tarea es identificar lo que cuenta como una parte de un producto lácteo. Seleccione todos los elementos que representan una porción láctea estándar.",
+          "messages": [
+            "¿Qué cuenta como una porción de lácteos?",
+            "Aquí hay una guía rápida: (1) 1 vaso (240 ml) de leche, (2) 1 olla (150 g) de yogurt y (3) 1 porción (o 30 g) de queso"
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Su tarea es cortar solo el nutriente clave que se encuentra en los productos lácteos. Tenga en cuenta que: CA: Calcio, Fe: hierro.",
+          "messages": [
+            "Los productos lácteos son una de las mejores fuentes de calcio (CA), que ayuda a construir huesos y dientes fuertes.",
+            "Los productos lácteos también son fuentes importantes de proteínas de alta calidad, importantes para su crecimiento, vitaminas y minerales.",
+            "Los productos lácteos bajos en grasa le brindan menos calorías y grasas, pero también son buenas fuentes de calcio y proteínas. ¡Elige ellos también!"
           ]
         }
       ]

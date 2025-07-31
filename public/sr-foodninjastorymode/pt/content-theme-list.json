@@ -2,31 +2,71 @@
   "themes": [
     {
       "id": 1,
-      "title": "Fruits and Vegetables",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris elementum, est eu egestas posuere, ligula ante tempor ante, quis tincidunt nibh purus ac quam. Curabitur at convallis enim, a cursus leo.",
+      "title": "Frutas e legumes",
+      "description": "Familiarização com o grupo alimentar de frutas e vegetais. A complexidade da tarefa aumenta com o nível de avanço: no início, o foco está apenas nas frutas e nos vegetais e, em seguida, brincar com suas cores é introduzido.",
       "levels": [
         {
           "id": 1,
-          "title": "Slice the fruits",
+          "title": "Sua tarefa é cortar apenas os frutos que você vê.",
           "messages": [
-            "Give fruit a priority!",
-            "Fruits are among the foods it is recommended you consume on a daily basis. In general, 2-3 fruits per day is your ultimate goal. Selecting a fruit as a snack, at school or in the afternoon, will help you achieve your daily goal. To do so, give fruit a priority: first eat the fruit, then anything else!"
+            "Dê uma prioridade à fruta!",
+            "As frutas estão entre os alimentos que recomenda -se que você consuma diariamente. Em geral, 2-3 frutos por dia são seu objetivo final. A seleção de uma fruta como lanche, na escola ou à tarde, ajudará você a atingir sua meta diária. Para fazer isso, dê uma prioridade à fruta: primeiro coma a fruta e depois qualquer outra coisa!"
           ]
         },
         {
           "id": 2,
-          "title": "Slice the vegetables",
+          "title": "Sua tarefa é cortar apenas os vegetais que você vê.",
           "messages": [
-            "Go with a salad at your meals!",
-            "Vegetables, like fruits, are also recommended to be consumed on a daily basis. They can be served as a salad or even as a main dish. To meet your everyday goal, accompany your main meals with veggies!"
+            "Vá com uma salada nas suas refeições!",
+            "Os vegetais, como frutas, também são recomendados para serem consumidos diariamente. Eles podem ser servidos como salada ou mesmo como prato principal. Para atingir seu objetivo diário, acompanhe suas refeições principais com vegetais!"
           ]
         },
         {
           "id": 3,
-          "title": "Slice the fruits and vegetables with red color",
+          "title": "Sua tarefa é cortar apenas o F&V com cor vermelha.",
           "messages": [
-            "Discover the F&V palette of colours!",
-            "Fruits and vegetables are the most colorful food groups. Their colours, however, are not only a pleasure for your eyes, but for your body, as well. Behind a colour, certain substances exist, which specifically benefit a system of your body. In other words, the different colours are good for different systems of the body. Discover them!"
+            "Descubra a paleta de cores F&V!",
+            "Frutas e vegetais são os grupos de alimentos mais coloridos. Suas cores, no entanto, não são apenas um prazer para seus olhos, mas também para o seu corpo. Por trás de uma cor, existem certas substâncias, que beneficiam especificamente um sistema do seu corpo. Em outras palavras, as cores diferentes são boas para diferentes sistemas do corpo. Descubra -os!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Produtos lácteos (DP)",
+      "description": "Familiarização com o grupo alimentar de produtos lácteos. A complexidade da tarefa aumenta com cada nível: primeiro, o foco é identificar e cortar produtos lácteos comuns; Em seguida, os alunos passam a cortar a imagem que mostra o consumo diário recomendado de produtos lácteos; Finalmente, eles identificam e cortam a imagem que destaca o principal nutriente encontrado em laticínios, ou seja, cálcio.",
+      "levels": [
+        {
+          "id": 1,
+          "title": "Sua tarefa é cortar apenas os produtos lácteos que você vê.",
+          "messages": [
+            "Faça dos laticínios um hábito diário! Inclua -os no início do seu dia e construa hábitos saudáveis que duram!",
+            "Produtos lácteos como leite, iogurte e queijo são alimentos recomendados para o consumo diário, porque fornecem nutrientes importantes para o seu crescimento e desenvolvimento."
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Sua tarefa é cortar apenas o consumo diário recomendado de produtos lácteos que você vê.",
+          "messages": [
+            "Vá com laticínios todos os dias!",
+            "Para cumprir o objetivo de 3-4 porções de laticínios por dia, tente incluir um copo de leite com café da manhã, iogurte como lanche ou queijo com seu almoço ou jantar. Faça um hábito - combine suas refeições ou lanches com uma opção de laticínios para permanecer forte e saudável!"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Sua tarefa é identificar o que conta como uma parte de um produto de laticínios. Selecione todos os itens que representam uma parte de laticínios padrão.",
+          "messages": [
+            "O que conta como uma porção de laticínios?",
+            "Aqui está um guia rápido: (1) 1 vidro (240 ml) de leite, (2) 1 pote (150 g) de iogurte e (3) 1 fatia (ou 30 g) de queijo"
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Sua tarefa é cortar apenas o principal nutriente encontrado em produtos lácteos. Observe que: CA: Cálcio, Fe: Ferro.",
+          "messages": [
+            "Os produtos lácteos são uma das melhores fontes de cálcio (CA), que ajuda a construir ossos e dentes fortes.",
+            "Os produtos lácteos também são fontes importantes de proteína de alta qualidade, importantes para o seu crescimento, vitaminas e minerais.",
+            "Os laticínios com pouca gordura oferecem menos calorias e gordura, mas também são boas fontes de cálcio e proteínas. Escolha -os também!"
           ]
         }
       ]

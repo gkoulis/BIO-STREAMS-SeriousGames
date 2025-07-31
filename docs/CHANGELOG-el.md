@@ -7,6 +7,15 @@ Changelog
 - Reusable components: theme-level logic.
 - Improve reusability in wrappers, components, and other structure elements such as headers, menus, and footers.
 
+# v0.1.7 Thursday 31 July 2025
+
+- New languages
+- New translations
+- Content for pilots
+- Legacy home view
+- Cache version in JSON
+- SC
+
 # v0.1.6 Wednesday 16 July 2025
 
 - Added new content.

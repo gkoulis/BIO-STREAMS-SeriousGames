@@ -1,0 +1,263 @@
+{
+  "themes": [
+    {
+      "id": 1,
+      "title": "Fruits & Vegetables (F&V)",
+      "description": "A quiz game aiming To increase knowledge about the food groups of fruits and vegetables and educate/motivate users towards their optimal consumption pattern. Key educational themes for both food groups include representative foods, nutritional value, recommended consumption and portion sizes, ways to incorporate in diet, best handling/consumption practices, health effects, and the importance of variety and seasonality.",
+      "levels": [
+        {
+          "id": 1,
+          "title": "Acquaintance",
+          "description": "Familiarisation with the food groups of fruits and vegetables.",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Which of the following is a fruit?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Carrot",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Pear",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Potato",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Lettuce",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "question": "Which of the following is included in the food group of fruits?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Watermelon",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Dried fig",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Strawberry",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All of the above",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "question": "Which fruit do raisins come from?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Apple",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Strawberry",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Grapes",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Banana",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Which of the following constitutes the best fruit choice among the different types of juice?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Nectar juice",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Fruit drink with added sugar",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Soft drink",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Fresh fruit juice",
+                  "correct": true
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "question": "Which of the following is a vegetable?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Orange",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Strawberry",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Tomato",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Apple",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "question": "Which of the following is a green leafy vegetable?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Spinach",
+                  "correct": true
+                },
+                {
+                  "id": 2,
+                  "text": "Zucchini",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Cucumber",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Eggplant",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "question": "Which of the following is a root vegetable?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Cabbage",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Carrot",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Pepper",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Tomato",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "question": "Which of the following is a starchy vegetable?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Corn",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Peas",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Pumpkin",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "All of the above",
+                  "correct": true
+                }
+              ]
+            }
+          ],
+          "messages": [
+            "Welcome to the world of fruits and vegetables!",
+            "The fruit group includes all fresh fruits (e.g. orange, apple, pear, banana, peach) and dried fruits (e.g. plums, raisins, apricots), as well as freshly squeezed fruit juices (i.e., 100% fruit juice without added sugars). Remember: packaged fruits juices with added sugar, soft drinks and other processed fruit drinks are not included in the food group of fruits.",
+            "The vegetable group includes all raw vegetables (e.g. lettuce, cabbage, carrot, tomato, cucumber) and cooked vegetables (e.g. broccoli, cauliflower, zucchini, beets). Remember: starchy vegetables, i.e. corn, peas and pumpkin, are also included in the vegetable food group, but they are rich in starch, a complex carbohydrate, which is not present in other vegetables."
+          ]
+        }
+      ]
+    }
+  ]
+}

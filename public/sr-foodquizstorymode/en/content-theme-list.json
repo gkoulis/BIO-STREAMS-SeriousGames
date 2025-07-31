@@ -1443,7 +1443,7 @@
             },
             {
               "id": 4,
-              "question": "Which of the following does not belong to the dairies\u2019 food group?",
+              "question": "Which of the following does not belong to the dairies' food group?",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -1965,7 +1965,7 @@
             },
             {
               "id": 15,
-              "question": "The term \u2018fermented\u2019 means that a dairy product:",
+              "question": "The term fermented means that a dairy product:",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -2116,7 +2116,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "\u00bd cup of ricotta cheese.",
+                  "text": "1/2 cup of ricotta cheese.",
                   "correct": false
                 },
                 {
@@ -2271,7 +2271,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Only if they don\u2019t eat vegetables.",
+                  "text": "Only if they don't eat vegetables.",
                   "correct": false
                 }
               ]
@@ -2321,7 +2321,7 @@
           "questions": [
             {
               "id": 1,
-              "question": "What\u2019s a healthy way to add dairy foods to your breakfast?",
+              "question": "What's a healthy way to add dairy foods to your breakfast?",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -2351,7 +2351,7 @@
             },
             {
               "id": 2,
-              "question": "What\u2019s a good choice to add dairies to your lunchbox?",
+              "question": "What's a good choice to add dairies to your lunchbox?",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -2381,7 +2381,7 @@
             },
             {
               "id": 3,
-              "question": "What\u2019s a fun, healthy way to enjoy dairy in a snack?",
+              "question": "What's a fun, healthy way to enjoy dairy in a snack?",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -2501,7 +2501,7 @@
             },
             {
               "id": 7,
-              "question": "If you want more calcium but don\u2019t like drinking milk, what can you try?",
+              "question": "If you want more calcium but don't like drinking milk, what can you try?",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -2551,7 +2551,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "In the fridge at 4\u00b0C (40\u00b0F).",
+                  "text": "In the fridge at 4 degrees Celsius (40 degrees Fahrenheit).",
                   "correct": true
                 },
                 {
@@ -2603,7 +2603,7 @@
             },
             {
               "id": 3,
-              "question": "\u201cExpiration date\u201d or \u201cbest by\u201d date refer to the date a dairy product:",
+              "question": "Expiration date or best by date refer to the date a dairy product:",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -3454,12 +3454,12 @@
                 },
                 {
                   "id": 2,
-                  "text": "\u00bd cup of breakfast cereals (30g).",
+                  "text": "1/2 cup of breakfast cereals (30g).",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "\u00bd cup of cooked rice or pasta (80g).",
+                  "text": "1/2 cup of cooked rice or pasta (80g).",
                   "correct": false
                 },
                 {
@@ -3489,12 +3489,12 @@
                 },
                 {
                   "id": 3,
-                  "text": "\u00bd cup couscous.",
+                  "text": "1/2 cup couscous.",
                   "correct": true
                 },
                 {
                   "id": 4,
-                  "text": "\u00bd cup of sesame paste.",
+                  "text": "1/2 cup of sesame paste.",
                   "correct": false
                 }
               ]
@@ -3539,12 +3539,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "\u00bd cup brown rice.",
+                  "text": "1/2 cup brown rice.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "\u00bd cup oats.",
+                  "text": "1/2 cup oats.",
                   "correct": false
                 },
                 {
@@ -3569,12 +3569,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "\u00bd of your weekly grains.",
+                  "text": "1/2 of your weekly grains.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "\u00bc of your daily grains.",
+                  "text": "1/2 of your daily grains.",
                   "correct": false
                 },
                 {
@@ -3584,7 +3584,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "At least \u00bd of your daily grains.",
+                  "text": "At least 1/2 of your daily grains.",
                   "correct": true
                 }
               ]
@@ -4246,7 +4246,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Removes much of the grain\u2019s fibres and vitamins.",
+                  "text": "Removes much of the grain's fibres and vitamins.",
                   "correct": false
                 },
                 {
@@ -4386,22 +4386,22 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "\u201cNatural product\u201d.",
+                  "text": "Natural product",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "\u201cWhole grain product\u201d.",
+                  "text": "Whole grain product",
                   "correct": true
                 },
                 {
                   "id": 3,
-                  "text": "\u201cEnriched product\u201d.",
+                  "text": "Enriched product",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "\u201cMade with grain product\u201d.",
+                  "text": "Made with grain product",
                   "correct": false
                 }
               ]
@@ -6260,7 +6260,7 @@
             "Plant-based fats/oils, e.g. olive, nuts/seeds, plant oils and avocado, contain mostly unsaturated (mono- and poly-unsaturated) lipids, which are beneficial for the heart and vessels. An exception is palm and coconut oils, which are very rich in saturated lipids and should be avoided.",
             "Most plant oils are rich in vitamin E which protects the body's cells from oxidation.",
             "Among the various plant oils, olive oil, especially extra virgin olive oil, is considered one of the healthiest choices, as it is minimally processed and contains a wide range of other antioxidants!",
-            "Did you know that when plant oils are processed to become solid or cooked at high temperature trans lipids may form? These lipids are very detrimental for health and can be found in hard vegetable fats (e.g. shortening and some hard margarines) and various processed foods, such as baked pastries, salty snacks, ready-to-eat meals and fast foods. Food labels can help you identify these foods: search for the word \"trans\" in the nutrition facts section or the phrase \"partially hydrogenated oil\" in the list of ingredients."
+            "Did you know that when plant oils are processed to become solid or cooked at high temperature trans lipids may form? These lipids are very detrimental for health and can be found in hard vegetable fats (e.g. shortening and some hard margarines) and various processed foods, such as baked pastries, salty snacks, ready-to-eat meals and fast foods. Food labels can help you identify these foods: search for the word 'trans' in the nutrition facts section or the phrase 'partially hydrogenated oil' in the list of ingredients."
           ]
         },
         {
@@ -7568,7 +7568,7 @@
             "Water is the best way to stay hydrated. You can easily understand its importance if you think that up to 60-70% of our body is actually water! It does not contain any calories or vitamins, but only small amounts of minerals, like calcium and magnesium.",
             "Other healthy drinks contain various important nutrients:",
             "Milk is rich in calcium, which is essential for strong bones and teeth.",
-            "Sour milk and kefir contain good bacteria called \"probiotics\", which help the gut work properly.",
+            "Sour milk and kefir contain good bacteria called 'probiotics', which help the gut work properly.",
             "Fresh fruit juices are packed with important vitamins (e.g. vitamin C); however, they have fewer dietary fibres compared to whole fruits.",
             "Non-caffeine herbal infusions contain antioxidant compounds called phytochemicals.",
             "But be careful! Not all drinks are nutritious.",

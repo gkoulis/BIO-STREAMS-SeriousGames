@@ -2,31 +2,71 @@
   "themes": [
     {
       "id": 1,
-      "title": "Fruits and Vegetables",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris elementum, est eu egestas posuere, ligula ante tempor ante, quis tincidunt nibh purus ac quam. Curabitur at convallis enim, a cursus leo.",
+      "title": "Groenten en fruit",
+      "description": "Vertrouwen met de voedselgroep van groenten en fruit. Complexiteit van de taak escaleert met een vooruitstrevend niveau: in het begin ligt de focus op de fruit en de groenten alleen, dan wordt het spelen met hun kleuren geïntroduceerd.",
       "levels": [
         {
           "id": 1,
-          "title": "Slice the fruits",
+          "title": "Uw taak is om alleen de vruchten te snijden die u ziet.",
           "messages": [
-            "Give fruit a priority!",
-            "Fruits are among the foods it is recommended you consume on a daily basis. In general, 2-3 fruits per day is your ultimate goal. Selecting a fruit as a snack, at school or in the afternoon, will help you achieve your daily goal. To do so, give fruit a priority: first eat the fruit, then anything else!"
+            "Geef fruit een prioriteit!",
+            "Fruit behoort tot het voedsel dat u dagelijks consumeert. Over het algemeen is 2-3 fruit per dag uw ultieme doel. Door een fruit te selecteren als snack, op school of in de middag, kunt u uw dagelijkse doel bereiken. Om dit te doen, geef fruit een prioriteit: eet eerst de vrucht en dan al het andere!"
           ]
         },
         {
           "id": 2,
-          "title": "Slice the vegetables",
+          "title": "Uw taak is om alleen de groenten te snijden die u ziet.",
           "messages": [
-            "Go with a salad at your meals!",
-            "Vegetables, like fruits, are also recommended to be consumed on a daily basis. They can be served as a salad or even as a main dish. To meet your everyday goal, accompany your main meals with veggies!"
+            "Ga met een salade bij uw maaltijden!",
+            "Groenten, zoals fruit, worden ook aanbevolen om dagelijks te worden geconsumeerd. Ze kunnen worden geserveerd als salade of zelfs als een hoofdgerecht. Om uw dagelijkse doel te bereiken, vergezelt u uw hoofdmaaltijden met groenten!"
           ]
         },
         {
           "id": 3,
-          "title": "Slice the fruits and vegetables with red color",
+          "title": "Uw taak is om alleen de F&V met rode kleur te snijden.",
           "messages": [
-            "Discover the F&V palette of colours!",
-            "Fruits and vegetables are the most colorful food groups. Their colours, however, are not only a pleasure for your eyes, but for your body, as well. Behind a colour, certain substances exist, which specifically benefit a system of your body. In other words, the different colours are good for different systems of the body. Discover them!"
+            "Ontdek het F & V -palet van kleuren!",
+            "Groenten en fruit zijn de meest kleurrijke voedselgroepen. Hun kleuren zijn echter niet alleen een plezier voor je ogen, maar ook voor je lichaam. Achter een kleur bestaan er bepaalde stoffen, die specifiek een systeem van uw lichaam ten goede komen. Met andere woorden, de verschillende kleuren zijn goed voor verschillende systemen van het lichaam. Ontdek ze!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Dairy Products (DP)",
+      "description": "Vertrouwen met de voedselgroep van zuivelproducten. De complexiteit van de taak neemt toe met elk niveau: ten eerste ligt de focus op het identificeren en snijden van gemeenschappelijke zuivelproducten; Vervolgens gaan leerlingen verder met het snijden van het beeld dat de aanbevolen dagelijkse consumptie van zuivelproducten toont; Ten slotte identificeren en snijden ze het beeld dat de belangrijkste voedingsstof benadrukt die in zuivelfabrieken wordt gevonden, d.w.z. calcium.",
+      "levels": [
+        {
+          "id": 1,
+          "title": "Uw taak is om alleen de zuivelproducten te snijden die u ziet.",
+          "messages": [
+            "Maak van zuivelfabrieken een dagelijkse gewoonte! Neem ze vroeg in je tijd op en bouw gezonde gewoonten die duren!",
+            "Zuivelproducten zoals melk, yoghurt en kaas zijn voedingsmiddelen aanbevolen voor dagelijkse consumptie omdat ze belangrijke voedingsstoffen bieden voor uw groei en ontwikkeling."
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Uw taak is om alleen de aanbevolen dagelijkse consumptie van zuivelproducten te snijden die u ziet.",
+          "messages": [
+            "Ga elke dag met zuivelfabrieken!",
+            "Om het doel van 3-4 porties zuivelproducten per dag te bereiken, probeer dan een glas melk met ontbijt, yoghurt als een snack of kaas met je lunch of diner. Maak er een gewoonte van - combineer uw maaltijden of snacks met een zuiveloptie om sterk en gezond te blijven!"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Uw taak is om te identificeren wat telt als een deel van een zuivelproduct. Selecteer alle items die een standaard zuivelgedeelte vertegenwoordigen.",
+          "messages": [
+            "Wat telt als een portie zuivelproducten?",
+            "Hier is een snelle gids: (1) 1 glas (240 ml) melk, (2) 1 pot (150 g) yoghurt en (3) 1 plak (of 30 g) kaas"
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Uw taak is om alleen de belangrijkste voedingsstof in zuivelproducten te snijden. Merk op dat: CA: Calcium, Fe: Iron.",
+          "messages": [
+            "Zuivelproducten zijn een van de beste bronnen van calcium (CA), die helpt bij het bouwen van sterke botten en tanden.",
+            "Zuivelproducten zijn ook belangrijke bronnen van hoogwaardig eiwitten, belangrijk voor uw groei, vitamines en mineralen.",
+            "Likkere zuivelproducten geven u minder calorieën en vet, maar zijn ook goede bronnen van calcium en eiwitten. Kies ze ook!"
           ]
         }
       ]

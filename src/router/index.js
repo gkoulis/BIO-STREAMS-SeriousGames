@@ -11,6 +11,11 @@ const router = createRouter({
       component: HomeView,
     },
     {
+      path: "/home-legacy",
+      name: "home-legacy",
+      component: () => import("../views/HomeLegacyView.vue"),
+    },
+    {
       path: "/marketplace",
       name: "marketplace",
       component: () => import("../modules/marketplace/views/MarketplaceHomeView.vue"),

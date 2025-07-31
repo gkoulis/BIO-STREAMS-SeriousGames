@@ -2,31 +2,71 @@
   "themes": [
     {
       "id": 1,
-      "title": "Sadje in Zelenjava",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris elementum, est eu egestas posuere, ligula ante tempor ante, quis tincidunt nibh purus ac quam. Curabitur at convallis enim, a cursus leo.",
+      "title": "Sadje in zelenjava",
+      "description": "Seznanjanje s skupino hrane sadja in zelenjave. Kompleksnost naloge se stopnjeva z napredovanjem: na začetku je poudarek na sadju in zelenjavi samo, nato pa se uvede igranje z njihovimi barvami.",
       "levels": [
         {
           "id": 1,
-          "title": "Nareži sadje",
+          "title": "Vaša naloga je, da režete samo plodove, ki jih vidite.",
           "messages": [
-            "Daj prednost sadju!",
-            "Sadje je ena od skupin živil, ki jih je priporočljivo uživati vsak dan. Na splošno si prizadevaj pojesti 2–3 sadeže na dan. Če si za malico, v šoli ali popoldne izbereš sadje, ti bo to pomagalo doseči tvoj dnevni cilj. Da bi to dosegel, daj sadju prednost: najprej pojej sadje, šele nato vse ostalo!"
+            "Dajte sadju prednostno nalogo!",
+            "Sadje je med živila, ki jih priporočamo, da jih porabite vsakodnevno. Na splošno je vaš končni cilj 2-3 sadje na dan. Izbira sadja kot prigrizek, v šoli ali popoldne vam bo pomagala doseči svoj dnevni cilj. Če želite to storiti, dajte prednostno plod: najprej pojejte sadje, potem pa karkoli drugega!"
           ]
         },
         {
           "id": 2,
-          "title": "Nareži zelenjavo",
+          "title": "Vaša naloga je, da režete samo zelenjavo, ki jo vidite.",
           "messages": [
-            "Pri obrokih izberi solato!",
-            "Zelenjavo, tako kot sadje, je priporočljivo uživati vsak dan. Lahko jo postrežeš kot solato ali celo kot glavno jed. Da bi dosegel svoj vsakodnevni cilj, spremljaj glavne obroke z zelenjavo."
+            "Pojdite s solato na svoje obroke!",
+            "Tudi zelenjava, tako kot sadje, priporočamo, da jo vsakodnevno uživate. Lahko jih postrežemo kot solata ali celo kot glavna jed. Če želite doseči svoj vsakdanji cilj, spremljajte svoje glavne obroke z zelenjavo!"
           ]
         },
         {
           "id": 3,
-          "title": "Nareži rdeče sadje in zelenjavo",
+          "title": "Vaša naloga je, da režete samo F&V z rdečo barvo.",
           "messages": [
-            "Odkrij paleto barv sadja in zelenjave!",
-            "Sadje in zelenjava sta najbolj pisani skupini živil. Njihove barve pa niso samo lepe na pogled, temveč tudi koristne za tvoje telo. Za vsako barvo se skrivajo posebne snovi, ki koristijo določenemu sistemu v tvojem telesu. Z drugimi besedami, različne barve so dobre za različne telesne sisteme. Odkrij jih!"
+            "Odkrijte paleto barv F&V!",
+            "Sadje in zelenjava so najbolj barvita skupina hrane. Njihove barve pa niso samo užitek za vaše oči, ampak tudi za vaše telo. Za barvo obstajajo določene snovi, ki posebej koristijo sistemu vašega telesa. Z drugimi besedami, različne barve so dobre za različne sisteme telesa. Odkrijte jih!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Mlečni izdelki (DP)",
+      "description": "Poznavanje skupine za prehrano mlečnih izdelkov. Kompleksnost naloge se poveča z vsako stopnjo: prvič, poudarek je na prepoznavanju in rezanju skupnih mlečnih izdelkov; Nato se učenci premaknejo na rezanje slike, ki prikazuje priporočeno vsakodnevno porabo mlečnih izdelkov; Končno prepoznajo in režejo sliko, ki poudarja ključno hranilo, ki jo najdemo v mlekarnah, to je kalcija.",
+      "levels": [
+        {
+          "id": 1,
+          "title": "Vaša naloga je, da režete samo mlečne izdelke, ki jih vidite.",
+          "messages": [
+            "Naredite mlekarne vsakodnevno navado! Vključite jih zgodaj v svoj dan in zgradite zdrave navade, ki trajajo!",
+            "Mlečni izdelki, kot so mleko, jogurt in sir, so hrana, ki jo priporočajo za vsakodnevno uživanje, saj zagotavljajo ključna hranila za vašo rast in razvoj."
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Vaša naloga je, da režete samo priporočeno dnevno porabo mlečnih izdelkov, ki jih vidite.",
+          "messages": [
+            "Pojdite z mlekarji vsak dan!",
+            "Če želite doseči cilj 3-4 porcije mlečnih izdelkov na dan, poskusite vključiti kozarec mleka z zajtrkom, jogurtom kot prigrizek ali sirom s kosilom ali večerjo. Naj bo navada - obroke ali prigrizke združite z mlečno možnostjo, da ostanete močni in zdravi!"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Vaša naloga je prepoznati, kaj šteje za en del mlečnega izdelka. Izberite vse elemente, ki predstavljajo standardni mlečni del.",
+          "messages": [
+            "Kaj šteje za eno porcijo mleka?",
+            "Tu je hiter vodnik: (1) 1 kozarec (240 ml) mleka, (2) 1 lonec (150 g) jogurta in (3) 1 rezina (ali 30 g) sira"
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Vaša naloga je, da režete samo ključno hranilo, ki ga najdemo v mlečnih izdelkih. Upoštevajte, da: CA: kalcij, fe: železo.",
+          "messages": [
+            "Mlečni izdelki so eden najboljših virov kalcija (CA), ki pomaga graditi močne kosti in zobe.",
+            "Mlečni izdelki so tudi pomembni viri kakovostnih beljakovin, pomembni za vašo rast, vitamine in minerale.",
+            "Mlečni izdelki z nizko vsebnostjo maščob vam dajejo manj kalorij in maščob, vendar so tudi dobri viri kalcija in beljakovin. Izberite tudi jih!"
           ]
         }
       ]

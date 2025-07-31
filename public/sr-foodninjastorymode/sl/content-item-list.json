@@ -33,14 +33,6 @@
       "texture": "banana.png"
     },
     {
-      "id": "beetlebean",
-      "name": "Beetlebean",
-      "categoryId": "vegetable",
-      "categoryName": "Zelenjava",
-      "subDirectory": "vegetables",
-      "texture": "beetlebean.png"
-    },
-    {
       "id": "bilberry",
       "name": "Boljca",
       "categoryId": "fruit",
@@ -242,7 +234,7 @@
     },
     {
       "id": "greengage",
-      "name": "GreenEngage",
+      "name": "Zelenja",
       "categoryId": "fruit",
       "categoryName": "Sadje",
       "subDirectory": "fruits",
@@ -298,7 +290,7 @@
     },
     {
       "id": "loquat",
-      "name": "Zanko",
+      "name": "Loquat",
       "categoryId": "fruit",
       "categoryName": "Sadje",
       "subDirectory": "fruits",
@@ -482,7 +474,7 @@
     },
     {
       "id": "redberry",
-      "name": "REDBERBERRY",
+      "name": "Redberry",
       "categoryId": "fruit",
       "categoryName": "Sadje",
       "subDirectory": "fruits",
@@ -530,7 +522,7 @@
     },
     {
       "id": "tangerine",
-      "name": "Mandarina",
+      "name": "Tangerina",
       "categoryId": "fruit",
       "categoryName": "Sadje",
       "subDirectory": "fruits",
@@ -586,7 +578,7 @@
     },
     {
       "id": "arugula",
-      "name": "RAZPOLOŽLJIVA",
+      "name": "Ruga",
       "categoryId": "vegetable",
       "categoryName": "Zelenjava",
       "subDirectory": "vegetables",
@@ -634,7 +626,7 @@
     },
     {
       "id": "beechhatmushroom",
-      "name": "Gobe ​​iz bukovega klobuka",
+      "name": "Gobe iz bukovega klobuka",
       "categoryId": "vegetable",
       "categoryName": "Zelenjava",
       "subDirectory": "vegetables",
@@ -730,7 +722,7 @@
     },
     {
       "id": "brusselssprout",
-      "name": "Bruseljski kalček",
+      "name": "Bruslj Sprout",
       "categoryId": "vegetable",
       "categoryName": "Zelenjava",
       "subDirectory": "vegetables",
@@ -738,7 +730,7 @@
     },
     {
       "id": "butternutsquash",
-      "name": "Butternut bučk",
+      "name": "Butternut bučka",
       "categoryId": "vegetable",
       "categoryName": "Zelenjava",
       "subDirectory": "vegetables",
@@ -770,7 +762,7 @@
     },
     {
       "id": "catalognapuntarelle",
-      "name": "Katalonija Puntarelle",
+      "name": "Katalogna Puntarelle",
       "categoryId": "vegetable",
       "categoryName": "Zelenjava",
       "subDirectory": "vegetables",
@@ -786,7 +778,7 @@
     },
     {
       "id": "cavolonero",
-      "name": "Črno zelje",
+      "name": "Cavolo Nero",
       "categoryId": "vegetable",
       "categoryName": "Zelenjava",
       "subDirectory": "vegetables",
@@ -858,7 +850,7 @@
     },
     {
       "id": "courgette",
-      "name": "Coursette",
+      "name": "Courcette",
       "categoryId": "vegetable",
       "categoryName": "Zelenjava",
       "subDirectory": "vegetables",
@@ -1066,7 +1058,7 @@
     },
     {
       "id": "kalette",
-      "name": "Tele",
+      "name": "Kalette",
       "categoryId": "vegetable",
       "categoryName": "Zelenjava",
       "subDirectory": "vegetables",
@@ -1114,7 +1106,7 @@
     },
     {
       "id": "lollobiondalettuce",
-      "name": "Ohlapna blond obloga",
+      "name": "Lollo Bionda Solata",
       "categoryId": "vegetable",
       "categoryName": "Zelenjava",
       "subDirectory": "vegetables",
@@ -1122,7 +1114,7 @@
     },
     {
       "id": "lollorossolettuce",
-      "name": "Lollo Red Read",
+      "name": "Lollo Rosso Solata",
       "categoryId": "vegetable",
       "categoryName": "Zelenjava",
       "subDirectory": "vegetables",
@@ -1138,7 +1130,7 @@
     },
     {
       "id": "mangetout",
-      "name": "Mange-tout",
+      "name": "Mangetout",
       "categoryId": "vegetable",
       "categoryName": "Zelenjava",
       "subDirectory": "vegetables",
@@ -1234,7 +1226,7 @@
     },
     {
       "id": "oystermushroom",
-      "name": "Ostrige",
+      "name": "Ostriga gob",
       "categoryId": "vegetable",
       "categoryName": "Zelenjava",
       "subDirectory": "vegetables",
@@ -1346,7 +1338,7 @@
     },
     {
       "id": "redchicory",
-      "name": "Rdeči šikori",
+      "name": "Rdeča šikorija",
       "categoryId": "vegetable",
       "categoryName": "Zelenjava",
       "subDirectory": "vegetables",
@@ -1402,7 +1394,7 @@
     },
     {
       "id": "romainelettuce",
-      "name": "Romainska solata",
+      "name": "Romanska solata",
       "categoryId": "vegetable",
       "categoryName": "Zelenjava",
       "subDirectory": "vegetables",
@@ -1410,7 +1402,7 @@
     },
     {
       "id": "romanesco",
-      "name": "Romanesque",
+      "name": "Romanesco",
       "categoryId": "vegetable",
       "categoryName": "Zelenjava",
       "subDirectory": "vegetables",
@@ -1418,7 +1410,7 @@
     },
     {
       "id": "rucola",
-      "name": "Raketa",
+      "name": "Rucola",
       "categoryId": "vegetable",
       "categoryName": "Zelenjava",
       "subDirectory": "vegetables",
@@ -1703,6 +1695,174 @@
       "categoryName": "Zelenjava",
       "subDirectory": "vegetables",
       "texture": "wintermelon.png"
+    },
+    {
+      "id": "milk",
+      "name": "Mleko",
+      "categoryId": "dairy",
+      "categoryName": "Mlekarna",
+      "subDirectory": "dairy",
+      "texture": "milk.png"
+    },
+    {
+      "id": "yogurt",
+      "name": "Jogurt",
+      "categoryId": "dairy",
+      "categoryName": "Mlekarna",
+      "subDirectory": "dairy",
+      "texture": "yogurt.png"
+    },
+    {
+      "id": "cheese_sliced",
+      "name": "Narezan sir",
+      "categoryId": "dairy",
+      "categoryName": "Mlekarna",
+      "subDirectory": "dairy",
+      "texture": "cheese_sliced.png"
+    },
+    {
+      "id": "cheese_grated",
+      "name": "Sir nariban",
+      "categoryId": "dairy",
+      "categoryName": "Mlekarna",
+      "subDirectory": "dairy",
+      "texture": "cheese_grated.png"
+    },
+    {
+      "id": "cheese_blocks",
+      "name": "Bloki sira",
+      "categoryId": "dairy",
+      "categoryName": "Mlekarna",
+      "subDirectory": "dairy",
+      "texture": "cheese_blocks.png"
+    },
+    {
+      "id": "kefir",
+      "name": "Kefir",
+      "categoryId": "dairy",
+      "categoryName": "Mlekarna",
+      "subDirectory": "dairy",
+      "texture": "kefir.png"
+    },
+    {
+      "id": "butter",
+      "name": "Maslo",
+      "categoryId": "dairy",
+      "categoryName": "Mlekarna",
+      "subDirectory": "dairy",
+      "texture": "butter.png"
+    },
+    {
+      "id": "eggs",
+      "name": "Jajca",
+      "categoryId": "dairy",
+      "categoryName": "Mlekarna",
+      "subDirectory": "dairy",
+      "texture": "eggs.png"
+    },
+    {
+      "id": "bread",
+      "name": "Kruh",
+      "categoryId": "dairy",
+      "categoryName": "Mlekarna",
+      "subDirectory": "dairy",
+      "texture": "bread.png"
+    },
+    {
+      "id": "orange",
+      "name": "Oranžna",
+      "categoryId": "dairy",
+      "categoryName": "Mlekarna",
+      "subDirectory": "dairy",
+      "texture": "orange.png"
+    },
+    {
+      "id": "chicken",
+      "name": "Piščanec",
+      "categoryId": "dairy",
+      "categoryName": "Mlekarna",
+      "subDirectory": "dairy",
+      "texture": "chicken.png"
+    },
+    {
+      "id": "tomato",
+      "name": "Paradižnik",
+      "categoryId": "dairy",
+      "categoryName": "Mlekarna",
+      "subDirectory": "dairy",
+      "texture": "tomato.png"
+    },
+    {
+      "id": "lentils",
+      "name": "Leča",
+      "categoryId": "dairy",
+      "categoryName": "Mlekarna",
+      "subDirectory": "dairy",
+      "texture": "lentils.png"
+    },
+    {
+      "id": "beef",
+      "name": "Govedina",
+      "categoryId": "dairy",
+      "categoryName": "Mlekarna",
+      "subDirectory": "dairy",
+      "texture": "beef.png"
+    },
+    {
+      "id": "pork",
+      "name": "Svinjina",
+      "categoryId": "dairy",
+      "categoryName": "Mlekarna",
+      "subDirectory": "dairy",
+      "texture": "pork.png"
+    },
+    {
+      "id": "glass_of_milk",
+      "name": "Kozarec mleka",
+      "categoryId": "dairy",
+      "categoryName": "Mlekarna",
+      "subDirectory": "dairy",
+      "texture": "glass_of_milk.png"
+    },
+    {
+      "id": "pot_of_yogurt",
+      "name": "Lonec jogurta",
+      "categoryId": "dairy",
+      "categoryName": "Mlekarna",
+      "subDirectory": "dairy",
+      "texture": "pot_of_yogurt.png"
+    },
+    {
+      "id": "ice_cream_cone",
+      "name": "Stožec za sladoled",
+      "categoryId": "dairy",
+      "categoryName": "Mlekarna",
+      "subDirectory": "dairy",
+      "texture": "ice_cream_cone.png"
+    },
+    {
+      "id": "a_bit_of_butter",
+      "name": "Malo masla",
+      "categoryId": "dairy",
+      "categoryName": "Mlekarna",
+      "subDirectory": "dairy",
+      "texture": "a_bit_of_butter.png"
+    },
+    {
+      "id": "tablespoon_of_yogurt",
+      "name": "Žlica jogurta",
+      "categoryId": "dairy",
+      "categoryName": "Mlekarna",
+      "subDirectory": "dairy",
+      "texture": "tablespoon_of_yogurt.png"
+    },
+    {
+      "id": "bottle_of_milk",
+      "name": "Steklenica mleka",
+      "categoryId": "dairy",
+      "categoryName": "Mlekarna",
+      "subDirectory": "dairy",
+      "texture": "bottle_of_milk.png"
     }
   ]
 }

@@ -33,13 +33,13 @@ const onLanguageSelection = (event) => {
             />
           </div>
           <router-link to="/marketplace">Marketplace</router-link>
-          <router-link to="/food-ninja-free-mode">Food Ninja (free mode)</router-link>
-          <router-link to="/food-ninja-story-mode-index">Food Ninja (story mode)</router-link>
-          <router-link to="/food-quiz-free-mode">Food Quiz (free mode)</router-link>
-          <router-link to="/food-quiz-story-mode-index">Food Quiz (story mode)</router-link>
+          <router-link to="/food-ninja-story-mode-index">Food Ninja</router-link>
+          <router-link to="/food-quiz-story-mode-index">Food Quiz</router-link>
           <router-link to="/lets-move">Let's Move</router-link>
           <router-link to="/food-treasure-index">Food Treasure</router-link>
           <router-link to="/food-treasure-qr-listing">Food Treasure (QR Listing)</router-link>
+
+          <router-link to="/home-legacy" class="text-sm text-gray-400">Legacy</router-link>
 
           <select v-model="selectedLanguageCodeRef" @change="onLanguageSelection">
             <option v-for="language in LANGUAGES" :key="language.code" :value="language.code">
@@ -54,15 +54,7 @@ const onLanguageSelection = (event) => {
           </div>
 
           <div class="text-blue-400">
-            <small><pre>V20250505</pre></small>
-          </div>
-
-          <div class="text-red-400">
-            <small
-              >Food Ninja (free mode) and Food Quiz (free mode) are no longer supported. They remain
-              available for historical and documentation purposes, but no further development is
-              planned.</small
-            >
+            <small><pre>V20250731</pre></small>
           </div>
         </div>
       </div>

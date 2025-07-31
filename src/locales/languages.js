@@ -1,5 +1,15 @@
 export const LANGUAGES = [
   {
+    code: "bg",
+    nameEnglish: "Bulgarian",
+    name: "Български",
+  },
+  {
+    code: "da",
+    nameEnglish: "Danish",
+    name: "Dansk",
+  },
+  {
     code: "en",
     nameEnglish: "English",
     name: "English",
@@ -18,6 +28,16 @@ export const LANGUAGES = [
     code: "fr",
     nameEnglish: "French",
     name: "Français",
+  },
+  {
+    code: "nl",
+    nameEnglish: "Dutch",
+    name: "Nederlands",
+  },
+  {
+    code: "pt",
+    nameEnglish: "Portuguese",
+    name: "Português",
   },
   {
     code: "sl",
