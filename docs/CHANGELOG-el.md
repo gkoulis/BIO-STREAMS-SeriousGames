@@ -7,6 +7,10 @@ Changelog
 - Reusable components: theme-level logic.
 - Improve reusability in wrappers, components, and other structure elements such as headers, menus, and footers.
 
+# v0.1.8 Monday 11 August 2025
+
+- Keycloak integration.
+
 # v0.1.7 Thursday 31 July 2025
 
 - New languages

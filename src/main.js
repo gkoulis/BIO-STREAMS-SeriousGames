@@ -9,6 +9,7 @@ import "./index_overrides.css";
 import App from "./App.vue";
 import router from "./router";
 import { LANGUAGES } from "@/locales/languages.js";
+import { keycloak, ensureFreshToken } from "@/keycloak.js";
 
 const SUPPORTED_LANGUAGE_CODE_LIST = LANGUAGES.map((i) => i.code);
 const FALLBACK_LANGUAGE_CODE = "en";
@@ -21,6 +22,11 @@ async function loadLocaleMessage(locale) {
     console.warn(`Could not load locale ${locale}, falling back to ${FALLBACK_LANGUAGE_CODE}`);
     return null;
   }
+}
+
+function cleanRedirectUri() {
+  // origin + path only (no ?query, no #hash)
+  return window.location.origin + window.location.pathname;
 }
 
 async function initApp() {
@@ -44,6 +50,20 @@ async function initApp() {
       ...(isSupported && activeMessages ? { [activeLocale]: activeMessages } : {}),
     },
   });
+
+  const authenticated = await keycloak.init({
+    onLoad: "check-sso", // or "login-required"
+    // onLoad: undefined,
+    pkceMethod: "S256",
+    flow: "standard",
+    responseMode: "query", // <—— IMPORTANT: avoid fragment/hash
+    checkLoginIframe: true,
+    silentCheckSsoRedirectUri: window.location.origin + "/silent-check-sso.html",
+    // Keycloak-js uses current URL by default. If you still see oddities, uncomment:
+    // redirectUri: cleanRedirectUri(),
+  });
+  // keep token fresh in the background
+  setInterval(() => ensureFreshToken(30), 20000);
 
   const app = createApp(App);
 

@@ -1,0 +1,9 @@
+<!doctype html>
+<html>
+<body>
+<script>
+  // Keycloak.js expects to receive the final URL back from the iframe
+  parent.postMessage(location.href, location.origin);
+</script>
+</body>
+</html>
