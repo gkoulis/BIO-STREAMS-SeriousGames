@@ -1,0 +1,262 @@
+[
+  {
+    "id": "a-bit-of-butter",
+    "texture": "a-bit-of-butter.png"
+  },
+  {
+    "id": "apple",
+    "texture": "apple.png"
+  },
+  {
+    "id": "banana",
+    "texture": "banana.png"
+  },
+  {
+    "id": "beef",
+    "texture": "beef.png"
+  },
+  {
+    "id": "biscuit",
+    "texture": "biscuit.png"
+  },
+  {
+    "id": "blackberry",
+    "texture": "blackberry.png"
+  },
+  {
+    "id": "bottle-of-milk",
+    "texture": "bottle-of-milk.png"
+  },
+  {
+    "id": "bread",
+    "texture": "bread.png"
+  },
+  {
+    "id": "butter",
+    "texture": "butter.png"
+  },
+  {
+    "id": "cabbage",
+    "texture": "cabbage.png"
+  },
+  {
+    "id": "carrot",
+    "texture": "carrot.png"
+  },
+  {
+    "id": "cereal-bar",
+    "texture": "cereal-bar.png"
+  },
+  {
+    "id": "cheese",
+    "texture": "cheese.png"
+  },
+  {
+    "id": "cheese-blocks",
+    "texture": "cheese-blocks.png"
+  },
+  {
+    "id": "cheese-grated",
+    "texture": "cheese-grated.png"
+  },
+  {
+    "id": "cheese-sliced",
+    "texture": "cheese-sliced.png"
+  },
+  {
+    "id": "cherry",
+    "texture": "cherry.png"
+  },
+  {
+    "id": "chicken",
+    "texture": "chicken.png"
+  },
+  {
+    "id": "chocolate",
+    "texture": "chocolate.png"
+  },
+  {
+    "id": "corn",
+    "texture": "corn.png"
+  },
+  {
+    "id": "croissant",
+    "texture": "croissant.png"
+  },
+  {
+    "id": "cucumber",
+    "texture": "cucumber.png"
+  },
+  {
+    "id": "egg",
+    "texture": "egg.png"
+  },
+  {
+    "id": "eggplant",
+    "texture": "eggplant.png"
+  },
+  {
+    "id": "eggs",
+    "texture": "eggs.png"
+  },
+  {
+    "id": "fish",
+    "texture": "fish.png"
+  },
+  {
+    "id": "fruit-juice",
+    "texture": "fruit-juice.png"
+  },
+  {
+    "id": "grape",
+    "texture": "grape.png"
+  },
+  {
+    "id": "ice-cream-cone",
+    "texture": "ice-cream-cone.png"
+  },
+  {
+    "id": "kefir",
+    "texture": "kefir.png"
+  },
+  {
+    "id": "kidney-bean",
+    "texture": "kidney-bean.png"
+  },
+  {
+    "id": "kiwi",
+    "texture": "kiwi.png"
+  },
+  {
+    "id": "lentils",
+    "texture": "lentils.png"
+  },
+  {
+    "id": "lettuce",
+    "texture": "lettuce.png"
+  },
+  {
+    "id": "melon",
+    "texture": "melon.png"
+  },
+  {
+    "id": "milk",
+    "texture": "milk.png"
+  },
+  {
+    "id": "number-0",
+    "texture": "number-0.png"
+  },
+  {
+    "id": "number-1",
+    "texture": "number-1.png"
+  },
+  {
+    "id": "number-2",
+    "texture": "number-2.png"
+  },
+  {
+    "id": "number-3",
+    "texture": "number-3.png"
+  },
+  {
+    "id": "number-3-v2",
+    "texture": "number-3-v2.png"
+  },
+  {
+    "id": "number-4",
+    "texture": "number-4.png"
+  },
+  {
+    "id": "number-5",
+    "texture": "number-5.png"
+  },
+  {
+    "id": "onion",
+    "texture": "onion.png"
+  },
+  {
+    "id": "orange",
+    "texture": "orange.png"
+  },
+  {
+    "id": "peach",
+    "texture": "peach.png"
+  },
+  {
+    "id": "pear",
+    "texture": "pear.png"
+  },
+  {
+    "id": "pepper",
+    "texture": "pepper.png"
+  },
+  {
+    "id": "pomegranate",
+    "texture": "pomegranate.png"
+  },
+  {
+    "id": "pork",
+    "texture": "pork.png"
+  },
+  {
+    "id": "pot-of-yogurt",
+    "texture": "pot-of-yogurt.png"
+  },
+  {
+    "id": "radish",
+    "texture": "radish.png"
+  },
+  {
+    "id": "red-pepper",
+    "texture": "red-pepper.png"
+  },
+  {
+    "id": "rice",
+    "texture": "rice.png"
+  },
+  {
+    "id": "slice-of-cheese",
+    "texture": "slice-of-cheese.png"
+  },
+  {
+    "id": "spaghetti",
+    "texture": "spaghetti.png"
+  },
+  {
+    "id": "spinach",
+    "texture": "spinach.png"
+  },
+  {
+    "id": "strawberry",
+    "texture": "strawberry.png"
+  },
+  {
+    "id": "sunflower-oil",
+    "texture": "sunflower-oil.png"
+  },
+  {
+    "id": "tablespoon-of-yogurt",
+    "texture": "tablespoon-of-yogurt.png"
+  },
+  {
+    "id": "tomato",
+    "texture": "tomato.png"
+  },
+  {
+    "id": "walnut",
+    "texture": "walnut.png"
+  },
+  {
+    "id": "watermelon",
+    "texture": "watermelon.png"
+  },
+  {
+    "id": "yogurt",
+    "texture": "yogurt.png"
+  },
+  {
+    "id": "zucchini",
+    "texture": "zucchini.png"
+  }
+]

@@ -35,14 +35,16 @@ onBeforeMount(async () => {
 
   // --------------------------------------------------
 
-  const jsonResponse1 = await loadJson(
-    `/sr-foodninjastorymode/${languageCode}/content-item-list.json`
-  );
+  const jsonResponse1 = await loadJson(`/sr-foodninjastorymode/common/content-item-list.json`);
+
+  ITEM_LIST_REF.value = jsonResponse1;
+
+  // --------------------------------------------------
+
   const jsonResponse2 = await loadJson(
     `/sr-foodninjastorymode/${languageCode}/content-theme-list.json`
   );
 
-  ITEM_LIST_REF.value = jsonResponse1.items;
   THEME_LIST_REF.value = jsonResponse2.themes;
 
   // Transform Items.
@@ -50,8 +52,9 @@ onBeforeMount(async () => {
 
   for (let i = 0; i < ITEM_LIST_REF.value.length; i++) {
     const item = ITEM_LIST_REF.value[i];
-    ITEM_LIST_REF.value[i].imageURL =
-      `/sr-foodninjastorymode/images/${item.subDirectory}/${item.texture}`;
+    // ITEM_LIST_REF.value[i].imageURL =
+    //   `/sr-foodninjastorymode/images/${item.subDirectory}/${item.texture}`;
+    ITEM_LIST_REF.value[i].imageURL = `/sr-foodninjastorymode/images/default/${item.texture}`;
   }
 
   for (const item of ITEM_LIST_REF.value) {

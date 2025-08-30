@@ -118,8 +118,9 @@ onMounted(async () => {
       // GI stands for Gameplay Image.
       // const itemGI = this.add.image(x, y, item.id).setInteractive();
       const itemGI = this.add.image(x, y, item.id); // TODO Testing.
-
-      itemGI.setDisplaySize(FOOD_DISPLAY_SIZE, FOOD_DISPLAY_SIZE); // Scale the image to a fixed size.
+      const scale = FOOD_DISPLAY_SIZE / itemGI.width;
+      itemGI.setScale(scale); // Only scale width proportionally, height auto-adjusts
+      // itemGI.setDisplaySize(FOOD_DISPLAY_SIZE, FOOD_DISPLAY_SIZE); // Scale the image to a fixed size.
       itemGI.setData("id", item.id);
       itemGI.setData("name", item.name);
       itemGI.setData("target", item.target);

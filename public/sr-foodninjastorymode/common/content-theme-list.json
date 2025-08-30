@@ -11,47 +11,79 @@
               "target": true
             },
             {
-              "id": "avocado",
+              "id": "orange",
               "target": true
             },
             {
-              "id": "peach",
+              "id": "pear",
               "target": true
             },
             {
-              "id": "blackberry",
+              "id": "banana",
               "target": true
             },
             {
-              "id": "blackrowan",
+              "id": "cherry",
               "target": true
             },
             {
-              "id": "bloodorange",
+              "id": "strawberry",
               "target": true
             },
             {
-              "id": "wintermelon",
+              "id": "melon",
+              "target": true
+            },
+            {
+              "id": "watermelon",
+              "target": true
+            },
+            {
+              "id": "kiwi",
+              "target": true
+            },
+            {
+              "id": "grape",
+              "target": true
+            },
+            {
+              "id": "cereal-bar",
               "target": false
             },
             {
-              "id": "wildgarlic",
+              "id": "egg",
               "target": false
             },
             {
-              "id": "whitecabbage",
+              "id": "bread",
               "target": false
             },
             {
-              "id": "whiteasparagus",
+              "id": "cheese",
               "target": false
             },
             {
-              "id": "watercress",
+              "id": "croissant",
               "target": false
             },
             {
-              "id": "trufflewhite",
+              "id": "lettuce",
+              "target": false
+            },
+            {
+              "id": "corn",
+              "target": false
+            },
+            {
+              "id": "biscuit",
+              "target": false
+            },
+            {
+              "id": "fruit-juice",
+              "target": false
+            },
+            {
+              "id": "milk",
               "target": false
             }
           ]
@@ -60,52 +92,84 @@
           "id": 2,
           "items": [
             {
+              "id": "tomato",
+              "target": true
+            },
+            {
+              "id": "cucumber",
+              "target": true
+            },
+            {
+              "id": "lettuce",
+              "target": true
+            },
+            {
+              "id": "cabbage",
+              "target": true
+            },
+            {
+              "id": "carrot",
+              "target": true
+            },
+            {
+              "id": "spinach",
+              "target": true
+            },
+            {
+              "id": "eggplant",
+              "target": true
+            },
+            {
+              "id": "pepper",
+              "target": true
+            },
+            {
+              "id": "onion",
+              "target": true
+            },
+            {
+              "id": "zucchini",
+              "target": true
+            },
+            {
+              "id": "chocolate",
+              "target": false
+            },
+            {
+              "id": "yoghurt",
+              "target": false
+            },
+            {
               "id": "apple",
               "target": false
             },
             {
-              "id": "avocado",
+              "id": "fish",
               "target": false
             },
             {
-              "id": "peach",
+              "id": "walnut",
               "target": false
             },
             {
-              "id": "blackberry",
+              "id": "rice",
               "target": false
             },
             {
-              "id": "blackrowan",
+              "id": "kidney-bean",
               "target": false
             },
             {
-              "id": "bloodorange",
+              "id": "strawberry",
               "target": false
             },
             {
-              "id": "wintermelon",
-              "target": true
+              "id": "spaghetti",
+              "target": false
             },
             {
-              "id": "wildgarlic",
-              "target": true
-            },
-            {
-              "id": "whitecabbage",
-              "target": true
-            },
-            {
-              "id": "whiteasparagus",
-              "target": true
-            },
-            {
-              "id": "watercress",
-              "target": true
-            },
-            {
-              "id": "trufflewhite",
-              "target": true
+              "id": "sunflower-oil",
+              "target": false
             }
           ]
         },
@@ -117,23 +181,27 @@
               "target": true
             },
             {
-              "id": "avocado",
-              "target": false
-            },
-            {
-              "id": "peach",
+              "id": "strawberry",
               "target": true
             },
             {
-              "id": "blackberry",
-              "target": false
+              "id": "cherry",
+              "target": true
             },
             {
-              "id": "blackrowan",
-              "target": false
+              "id": "watermelon",
+              "target": true
             },
             {
-              "id": "bloodorange",
+              "id": "pomegranate",
+              "target": true
+            },
+            {
+              "id": "tomato",
+              "target": true
+            },
+            {
+              "id": "red-pepper",
               "target": true
             },
             {
@@ -141,40 +209,44 @@
               "target": true
             },
             {
-              "id": "wintermelon",
+              "id": "orange",
               "target": false
             },
             {
-              "id": "wildgarlic",
+              "id": "kiwi",
               "target": false
             },
             {
-              "id": "whitecabbage",
+              "id": "peach",
               "target": false
             },
             {
-              "id": "chard",
-              "target": true
-            },
-            {
-              "id": "whiteasparagus",
+              "id": "pear",
               "target": false
             },
             {
-              "id": "watercress",
+              "id": "blackberry",
               "target": false
             },
             {
-              "id": "trufflewhite",
+              "id": "lettuce",
               "target": false
             },
             {
-              "id": "kidneybean",
-              "target": true
+              "id": "cucumber",
+              "target": false
             },
             {
-              "id": "chili",
-              "target": true
+              "id": "carrot",
+              "target": false
+            },
+            {
+              "id": "cabbage",
+              "target": false
+            },
+            {
+              "id": "spinach",
+              "target": false
             }
           ]
         }
@@ -195,15 +267,15 @@
               "target": true
             },
             {
-              "id": "cheese_sliced",
+              "id": "cheese-sliced",
               "target": true
             },
             {
-              "id": "cheese_grated",
+              "id": "cheese-grated",
               "target": true
             },
             {
-              "id": "cheese_blocks",
+              "id": "cheese-blocks",
               "target": true
             },
             {
@@ -250,37 +322,66 @@
         },
         {
           "id": 2,
-          "items": []
+          "items": [
+            {
+              "id": "number-0",
+              "target": false
+            },
+            {
+              "id": "number-1",
+              "target": false
+            },
+            {
+              "id": "number-2",
+              "target": false
+            },
+            {
+              "id": "number-3",
+              "target": true
+            },
+            {
+              "id": "number-3-v2",
+              "target": true
+            },
+            {
+              "id": "number-4",
+              "target": false
+            },
+            {
+              "id": "number-5",
+              "target": false
+            }
+          ]
         },
         {
           "id": 3,
           "items": [
             {
-              "id": "glass_of_milk",
+              "id": "milk",
               "target": true
             },
             {
-              "id": "cheese_sliced",
+              "id": "slice-of-cheese",
               "target": true
             },
             {
-              "id": "pot_of_yogurt",
+              "id": "pot-of-yogurt",
               "target": true
             },
             {
-              "id": "ice_cream_cone",
+              "id": "ice-cream-cone",
               "target": false
             },
             {
-              "id": "a_bit_of_butter",
+              "id": "a-bit-of-butter",
               "target": false
             },
             {
-              "id": "tablespoon_of_yogurt",
+              "id": "tablespoon-of-yogurt",
               "target": false
             },
             {
-              "id": "bottle_of_milk",
+              "id": "bottle-of-milk",
               "target": false
             }
           ]
