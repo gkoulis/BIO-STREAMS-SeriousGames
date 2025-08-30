@@ -7,6 +7,12 @@ Changelog
 - Reusable components: theme-level logic.
 - Improve reusability in wrappers, components, and other structure elements such as headers, menus, and footers.
 
+# v0.1.9 Saturday 30 August 2025
+
+- NTUA VM Setup 147.102.33.206
+- Αφαιρέθηκαν βίντεο από Let's Move - προστέθηκαν νέες εικόνες και demo video
+- Let's Move, Food Treasure - έβαλα μεταφράσεις για bg, da, nl, pt (μόνο Αγγλικά, πρέπει να γίνει αυτόματη μετάφραση)
+
 # v0.1.8 Monday 11 August 2025
 
 - Keycloak integration.

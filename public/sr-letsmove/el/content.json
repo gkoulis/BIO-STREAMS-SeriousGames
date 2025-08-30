@@ -1,28 +1,28 @@
 {
   "videoList": [
     {
-      "name": "12 απλές ασκήσεις για να χάσετε λίπος στην κοιλιά",
+      "name": "Exercise Outdoors",
       "description": "",
       "href": "#",
-      "imageSrc": "/sr-letsmove/en/thumbnails/video-0001-thumb-0001.jpg",
+      "imageSrc": "/sr-letsmove/en/thumbnails/video-0001-thumb-0001.webp",
       "youtubeVideoUrl": "https://www.youtube.com/watch?v=X8Y3u8Ujfe8",
-      "videoSrc": "/sr-letsmove/en/videos/video-0001.webm"
+      "videoSrc": "/sr-letsmove/en/videos/video-0000.webm"
     },
     {
-      "name": "Πρόκληση: Κάψτε λίπος και θερμίδες",
+      "name": "Exercise In-House",
       "description": "",
       "href": "#",
-      "imageSrc": "/sr-letsmove/en/thumbnails/video-0002-thumb-0001.jpg",
+      "imageSrc": "/sr-letsmove/en/thumbnails/video-0002-thumb-0001.webp",
       "youtubeVideoUrl": "https://www.youtube.com/watch?v=1KZjssboEGo",
-      "videoSrc": "/sr-letsmove/en/videos/video-0002.webm"
+      "videoSrc": "/sr-letsmove/en/videos/video-0000.webm"
     },
     {
-      "name": "16 ασκήσεις για καύση λίπους",
+      "name": "Tips & Tricks for Staying Healthy at School",
       "description": "",
       "href": "#",
-      "imageSrc": "/sr-letsmove/en/thumbnails/video-0003-thumb-0001.jpg",
+      "imageSrc": "/sr-letsmove/en/thumbnails/video-0003-thumb-0001.webp",
       "youtubeVideoUrl": "https://www.youtube.com/watch?v=EEZdDHiHdIs",
-      "videoSrc": "/sr-letsmove/en/videos/video-0003.webm"
+      "videoSrc": "/sr-letsmove/en/videos/video-0000.webm"
     }
   ]
 }
