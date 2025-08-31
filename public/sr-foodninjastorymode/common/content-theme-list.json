@@ -136,7 +136,7 @@
               "target": false
             },
             {
-              "id": "yoghurt",
+              "id": "yogurt",
               "target": false
             },
             {
@@ -287,7 +287,7 @@
               "target": false
             },
             {
-              "id": "eggs",
+              "id": "egg",
               "target": false
             },
             {
@@ -340,7 +340,7 @@
               "target": true
             },
             {
-              "id": "number-3-v2",
+              "id": "number-3-alt",
               "target": true
             },
             {
@@ -361,7 +361,7 @@
               "target": true
             },
             {
-              "id": "slice-of-cheese",
+              "id": "cheese-sliced",
               "target": true
             },
             {
@@ -388,7 +388,24 @@
         },
         {
           "id": 4,
-          "items": []
+          "items": [
+            {
+              "id": "ca-calcium",
+              "target": true
+            },
+            {
+              "id": "fe-iron",
+              "target": true
+            },
+            {
+              "id": "fiber",
+              "target": false
+            },
+            {
+              "id": "sugar",
+              "target": false
+            }
+          ]
         }
       ]
     }

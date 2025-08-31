@@ -7,6 +7,11 @@ Changelog
 - Reusable components: theme-level logic.
 - Improve reusability in wrappers, components, and other structure elements such as headers, menus, and footers.
 
+# v0.1.11 Sunday 31 August 2025
+
+- New icons for Food Ninja
+- Food Ninja full content for school pilots integrated
+
 # v0.1.10 Saturday 30 August 2025
 
 - New icons for Food Ninja

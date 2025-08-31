@@ -36,6 +36,10 @@
     "texture": "butter.png"
   },
   {
+    "id": "ca-calcium",
+    "texture": "ca-calcium.png"
+  },
+  {
     "id": "cabbage",
     "texture": "cabbage.png"
   },
@@ -100,6 +104,14 @@
     "texture": "eggs.png"
   },
   {
+    "id": "fe-iron",
+    "texture": "fe-iron.png"
+  },
+  {
+    "id": "fiber",
+    "texture": "fiber.png"
+  },
+  {
     "id": "fish",
     "texture": "fish.png"
   },
@@ -160,8 +172,8 @@
     "texture": "number-3.png"
   },
   {
-    "id": "number-3-v2",
-    "texture": "number-3-v2.png"
+    "id": "number-3-alt",
+    "texture": "number-3-alt.png"
   },
   {
     "id": "number-4",
@@ -232,6 +244,10 @@
     "texture": "strawberry.png"
   },
   {
+    "id": "sugar",
+    "texture": "sugar.png"
+  },
+  {
     "id": "sunflower-oil",
     "texture": "sunflower-oil.png"
   },
@@ -250,10 +266,6 @@
   {
     "id": "watermelon",
     "texture": "watermelon.png"
-  },
-  {
-    "id": "yoghurt",
-    "texture": "yoghurt.png"
   },
   {
     "id": "yogurt",
