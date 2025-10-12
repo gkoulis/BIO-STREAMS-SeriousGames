@@ -20,7 +20,18 @@ const dynamicStyle = reactive({
   width: "100px",
   margin: "0 auto",
 });
-const FOOD_DISPLAY_SIZE = 100; // TODO Automatic based on common dimensions and devices.
+
+function getFoodDisplaySize() {
+  const width = window.innerWidth
+  if (width < 600) {
+    return 60; // phones
+  } else if (width < 1024) {
+    return 80; // tablets
+  } else {
+    return 100 // desktops
+  }
+}
+const FOOD_DISPLAY_SIZE = getFoodDisplaySize();
 const FOOD_RADIUS = 40; // Avoid overlap radius
 const WIDTH_OFFSET = 0; // TODO Automatic.
 const HEIGHT_OFFSET = 0; // TODO Automatic.

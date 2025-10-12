@@ -1,4 +1,4 @@
-const CACHE_VERSION = "v20250731";
+const CACHE_VERSION = "v20250901-0000";
 
 export const loadJson = async (path) => {
   try {

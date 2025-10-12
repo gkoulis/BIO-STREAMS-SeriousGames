@@ -7,6 +7,11 @@ Changelog
 - Reusable components: theme-level logic.
 - Improve reusability in wrappers, components, and other structure elements such as headers, menus, and footers.
 
+# v0.1.12 Sunday 31 August 2025
+
+- https://marketplace.bio-streams.eu/ server setup.
+- Icons size in Food Ninja is calculated based on the screen type (mobile, tablet, desktop).
+
 # v0.1.11 Sunday 31 August 2025
 
 - New icons for Food Ninja
