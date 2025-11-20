@@ -8,7 +8,7 @@
         {
           "id": 1,
           "title": "Kennis",
-          "description": "Vertrouwen met de voedselgroepen van groenten en fruit.",
+          "description": "Kennismaken met de voedselgroepen groenten en fruit.",
           "questions": [
             {
               "id": 1,
@@ -132,7 +132,7 @@
             },
             {
               "id": 5,
-              "question": "Welke van de volgende is een groente?",
+              "question": "Welke van de volgende is vanuit voedingsoogpunt een groente?",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -254,17 +254,18 @@
           "messages": [
             "Welkom in de wereld van groenten en fruit!",
             "De fruitgroep omvat alle vers fruit (bijv. Sinaasappel, appel, peer, banaan, perzik) en gedroogde vruchten (bijv. Pruimen, rozijnen, abrikozen), evenals vers geperste vruchtensappen (d.w.z. 100% vruchtensap zonder toegevoegde suikers). Onthoud: verpakte fruitsappen met toegevoegde suiker, frisdranken en andere verwerkte fruitdranken zijn niet opgenomen in de voedselgroep van fruit.",
-            "De groentegroep omvat alle rauwe groenten (bijv. Sla, kool, wortel, tomaat, komkommer) en gekookte groenten (bijvoorbeeld broccoli, bloemkool, courgette, bieten). Onthoud: zetmeelrijke groenten, d.w.z. maïs, erwten en pompoen, zijn ook opgenomen in de groentevoedselgroep, maar ze zijn rijk aan zetmeel, een complex koolhydraat, dat niet aanwezig is in andere groenten."
+            "De groentegroep omvat alle rauwe groenten (bijv. Sla, kool, wortel, tomaat, komkommer) en gekookte groenten (bijvoorbeeld broccoli, bloemkool, courgette, bieten). Onthoud: zetmeelrijke groenten, d.w.z. maïs, erwten en pompoen, zijn ook opgenomen in de groentevoedselgroep, maar ze zijn rijk aan zetmeel, een complex koolhydraat, dat niet aanwezig is in andere groenten.",
+            "Er zijn verschillende soorten groenten, zoals groene bladgroenten (bijvoorbeeld spinazie), wortelgroenten (bijvoorbeeld wortel) of kruisbloemige groenten (bijvoorbeeld broccoli, bloemkool). Zetmeelrijke groenten, zoals maïs, erwten en pompoen, vallen ook onder de plantaardige voedselgroep, maar zijn rijk aan zetmeel, een koolhydraatsoort die niet in andere groenten voorkomt."
           ]
         },
         {
           "id": 2,
           "title": "Voedingswaarde",
-          "description": "Vertrouwen met de voedingswaarde van groenten en fruit.",
+          "description": "Vertrouwd raken met de voedingswaarde van groenten en fruit.",
           "questions": [
             {
               "id": 1,
-              "question": "Welke zijn de belangrijkste voedingsfruit en -groenten bestaan?",
+              "question": "Uit welke voedingsstoffen bestaan ​​vruchten?",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -282,7 +283,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Vezels",
+                  "text": "Lipiden",
                   "correct": false
                 },
                 {
@@ -536,14 +537,14 @@
           "messages": [
             "Groenten en fruit zijn een zeer goede bron van een breed scala aan belangrijke voedingsstoffen!",
             "Ze zijn voornamelijk gemaakt van koolhydraten die voornamelijk aanwezig zijn in de vorm van suikers en energie geven aan het lichaam.",
-            "Ze omvatten ook vitamines (bijv. Vitamine C, vitamine K, foliumzuur), mineralen (bijv. Kalium, calcium), vezels en ook andere verbindingen (bijv. Fytochemicaliën) belangrijk voor de optimale functie van het lichaam.",
+            "Ze bevatten ook vitamines (bijvoorbeeld vitamine C, vitamine K, foliumzuur), mineralen (bijvoorbeeld kalium, calcium), vezels en ook andere verbindingen die belangrijk zijn voor de optimale werking van het lichaam.",
             "Hoewel ze vast voedsel zijn, bevatten ze veel water en kunnen ze ook bijdragen aan de hydratatie van het lichaam."
           ]
         },
         {
           "id": 3,
           "title": "Aanbevolen inname",
-          "description": "Vertrouwen met de aanbevolen inname en portiegrootte van fruit en groenten.",
+          "description": "Om vertrouwd te raken met de aanbevolen inname en portiegrootte van fruit en groenten.",
           "questions": [
             {
               "id": 1,
@@ -765,7 +766,7 @@
         {
           "id": 4,
           "title": "Consumptiepraktijken",
-          "description": "Vertrouwen met best practices om fruit en groenten te hanteren en te consumeren.",
+          "description": "Vertrouwd raken met de beste praktijken voor het omgaan met en consumeren van groenten en fruit.",
           "questions": [
             {
               "id": 1,
@@ -937,7 +938,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Met minder pesticiden",
+                  "text": "Met minder pesticiden (chemicaliën die op de boerderij worden gebruikt om de planten te beschermen)",
                   "correct": true
                 },
                 {
@@ -988,7 +989,7 @@
         {
           "id": 5,
           "title": "Gezondheidseffecten",
-          "description": "Vertrouwen met de gezondheidsvoordelen van groenten en fruit.",
+          "description": "Om vertrouwd te raken met de gezondheidsvoordelen van groenten en fruit.",
           "questions": [
             {
               "id": 1,
@@ -1060,7 +1061,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Ze stimuleren uw immuunsysteem",
+                  "text": "Ze versterken het afweersysteem van uw lichaam",
                   "correct": true
                 },
                 {
@@ -1114,13 +1115,13 @@
           "messages": [
             "Ga gezond met meer groenten en fruit!",
             "Groenten en fruit zijn een belangrijk onderdeel van een gezond dieet.",
-            "Onder hun talloze gezondheidsvoordelen ondersteunen ze optimale groei en ontwikkeling, verbeteren ze het immuunsysteem en helpen ze het cardiovasculaire systeem en het maagdarmkanaal goed werken."
+            "Onder hun talrijke gezondheidsvoordelen ondersteunen ze optimale groei en ontwikkeling, versterken ze ons afweersysteem en helpen ze het hart en de darmen goed te laten werken."
           ]
         },
         {
           "id": 6,
           "title": "Variatie en seizoensgebondenheid",
-          "description": "Vertrouwen met de concepten van variëteit en seizoensgebondenheid van fruit en groenten.",
+          "description": "Vertrouwd raken met de concepten van variëteit en seizoensinvloeden van groenten en fruit.",
           "questions": [
             {
               "id": 1,
@@ -1154,7 +1155,7 @@
             },
             {
               "id": 2,
-              "question": "De kleur van groenten en fruit geeft hun inhoud aan in:",
+              "question": "Welke van de onderstaande stoffen geven groenten en fruit hun specifieke kleur?:",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -1162,7 +1163,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Fytochemicaliën",
+                  "text": "Speciale verbindingen die fytochemicaliën worden genoemd",
                   "correct": true
                 },
                 {
@@ -1344,7 +1345,7 @@
     {
       "id": 2,
       "title": "Dairy Products (DP) Quiz",
-      "description": "Een quizspel met als doel kennis over de zuivelvoedselgroep te vergroten en optimale consumptie te motiveren door begrip van typen, voeding, praktijken, veiligheid en gezondheidsvoordelen.",
+      "description": "Om uw kennis over zuivelproducten te vergroten!. Beantwoord de vragen en leer wat vanuit voedingsoogpunt als zuivelproducten geldt, wat hun voedingswaarde is, hoeveel er wordt aanbevolen om te consumeren en praktische tips om aan uw dagelijkse behoeften te voldoen en er veilig mee om te gaan.",
       "levels": [
         {
           "id": 1,
@@ -1353,7 +1354,7 @@
           "questions": [
             {
               "id": 1,
-              "question": "Welke van de volgende is een zuivelproducten?",
+              "question": "Welk van de volgende producten is een zuivelproduct?",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -1383,7 +1384,7 @@
             },
             {
               "id": 2,
-              "question": "Welke van de volgende is een zuivelproducten?",
+              "question": "Welk van de volgende producten is een zuivelproduct?",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -1413,7 +1414,7 @@
             },
             {
               "id": 3,
-              "question": "Welke van de volgende is een zuivelproducten?",
+              "question": "Welk van de volgende producten is vanuit voedingsoogpunt een zuivelproduct?",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -1431,7 +1432,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Kefir.",
+                  "text": "Kaas.",
                   "correct": true
                 },
                 {
@@ -1443,7 +1444,7 @@
             },
             {
               "id": 4,
-              "question": "Welke van de volgende zaken behoort niet tot de voedselgroep van de zuivelfabrieken?",
+              "question": "Welk van de volgende producten is vanuit voedingsoogpunt geen zuivelproduct?",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -1473,7 +1474,7 @@
             },
             {
               "id": 5,
-              "question": "Welk ingrediënt heeft alle zuivelproducten gemeen?",
+              "question": "Welk ingrediënt hebben alle zuivelproducten gemeen?",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -1503,7 +1504,7 @@
             },
             {
               "id": 6,
-              "question": "Welke van de volgende is een gefermenteerd zuivelproduct?",
+              "question": "Welke van de volgende zuivelproducten bevat nuttige ziektekiemen?",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -1533,15 +1534,15 @@
             }
           ],
           "messages": [
-            "Welkom in de wereld van Dairy!",
-            "De zuivelproducten van de zuivelproducten omvat voedsel gemaakt van melk - zoals melk, gewone yoghurt en kaas. Onthoud: producten zoals yoghurt met veel toegevoegde suiker, boter en plantaardige of chocolademelk worden niet geteld als onderdeel van de Dairy Food Group.",
-            "Verschillende zuivelproducten hebben verschillende smaken en texturen, maar omvatten vergelijkbare voedingsstoffen die belangrijk zijn voor uw groei en gezondheid."
+            "Welkom in de wereld van zuivelproducten!",
+            "Vanuit voedingsoogpunt omvat de voedingsgroep zuivelproducten voedingsmiddelen gemaakt van melk die ook vergelijkbare hoeveelheden van bepaalde voedingsstoffen bevatten, zoals eiwitten en calcium. Melk, yoghurt en kaas behoren dus tot deze groep, terwijl boter, ook al komt het uit melk, tot de voedselgroep vetten en oliën behoort.",
+            "Vergeet niet dat yoghurtdesserts op yoghurt lijken, maar toegevoegde suikers en conserveermiddelen bevatten, waardoor ze meer op een dessert lijken."
           ]
         },
         {
           "id": 2,
           "title": "Voedingswaarde",
-          "description": "Vertrouwen met de voedingswaarde van zuivelproducten.",
+          "description": "Kennismaken met de voedingswaarde van zuivel.",
           "questions": [
             {
               "id": 1,
@@ -1553,22 +1554,22 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Vet.",
+                  "text": "Lipiden.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Eiwit.",
+                  "text": "Eiwitten.",
                   "correct": true
                 },
                 {
                   "id": 3,
-                  "text": "Suiker.",
+                  "text": "Suikers.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Vezel.",
+                  "text": "Vezels.",
                   "correct": false
                 }
               ]
@@ -1604,36 +1605,6 @@
               ]
             },
             {
-              "id": 3,
-              "question": "Hoe wordt de natuurlijke suiker gevonden in melk?",
-              "category": {
-                "id": "category-0",
-                "text": "Niet -gedefinieerde categorie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Sucrose.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Fructose.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Glucose.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Lactose.",
-                  "correct": true
-                }
-              ]
-            },
-            {
               "id": 4,
               "question": "Welke van de volgende producten bevatten vaak toegevoegde suikers?",
               "category": {
@@ -1665,7 +1636,7 @@
             },
             {
               "id": 5,
-              "question": "Hele en magere melk verschillen in hun:",
+              "question": "Volle en magere melk verschillen in hun:",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -1683,7 +1654,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Vetgehalte.",
+                  "text": "Lipidengehalte.",
                   "correct": true
                 },
                 {
@@ -1695,7 +1666,7 @@
             },
             {
               "id": 6,
-              "question": "Wat betekent vetarme of gereduceerde duivelproducten?",
+              "question": "Wat betekent 'magere' zuivelproducten?",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -1703,7 +1674,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Lager vetgehalte.",
+                  "text": "Minder lipiden.",
                   "correct": true
                 },
                 {
@@ -1725,7 +1696,7 @@
             },
             {
               "id": 7,
-              "question": "Wat helpt het vet in zuivelproducten uw lichaam te doen?",
+              "question": "Waar helpen de lipiden in zuivelproducten je lichaam bij?",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -1814,66 +1785,6 @@
               ]
             },
             {
-              "id": 10,
-              "question": "Welke vitamine helpt uw lichaam calcium beter te absorberen?",
-              "category": {
-                "id": "category-0",
-                "text": "Niet -gedefinieerde categorie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Vitamine D.",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Vitamine B12.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Vitamine A.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Vitamine E.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 11,
-              "question": "Welke micronutriënt in zuivelproducten helpt uw hart en spieren goed te werken?",
-              "category": {
-                "id": "category-0",
-                "text": "Niet -gedefinieerde categorie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Vitamine D.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Potassium.",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Zink.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Vitamine K.",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 12,
               "question": "Welke van de volgende voedingsstoffen wordt meestal niet aangetroffen in melk- en zuivelproducten?",
               "category": {
@@ -1883,12 +1794,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Vezel.",
+                  "text": "Vezels.",
                   "correct": true
                 },
                 {
                   "id": 2,
-                  "text": "Natrium.",
+                  "text": "Eiwitten.",
                   "correct": false
                 },
                 {
@@ -1904,38 +1815,8 @@
               ]
             },
             {
-              "id": 13,
-              "question": "Welke van de volgende bevat verwaarloosbare hoeveelheden lactose?",
-              "category": {
-                "id": "category-0",
-                "text": "Niet -gedefinieerde categorie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Melk.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Yoghurt.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Feta -kaas.",
-                  "correct": true
-                },
-                {
-                  "id": 4,
-                  "text": "Gouda -kaas.",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 14,
-              "question": "Welk type kaas is de rijkste van calcium?",
+              "question": "Welke van de volgende beweringen is waar voor calcium in kaas?",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -1943,22 +1824,22 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Parmezaanse kaas.",
+                  "text": "Hoe geler de kaas, hoe meer calcium erin zit.",
                   "correct": true
                 },
                 {
                   "id": 2,
-                  "text": "Huisje.",
+                  "text": "Hoe witter de kaas, hoe meer calcium erin zit.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Mozzarella.",
+                  "text": "Kaas bevat geen calcium.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Roomkaas.",
+                  "text": "Alle soorten kaas bevatten dezelfde hoeveelheid calcium.",
                   "correct": false
                 }
               ]
@@ -1983,28 +1864,28 @@
                 },
                 {
                   "id": 3,
-                  "text": "Is versterkt met een/sommige voedingsstoffen/s.",
+                  "text": "Heeft extra voedingsstoffen toegevoegd.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Bevat gunstig voor onze gezondheidsmicro -organismen.",
+                  "text": "Bevat nuttige ziektekiemen voor onze gezondheid.",
                   "correct": true
                 }
               ]
             }
           ],
           "messages": [
-            "Melk en zuivelproducten bieden hoogwaardige eiwitten, wat betekent dat ze alle essentiële aminozuren bevatten die het lichaam nodig heeft om cellen, organen en weefsels te bouwen en te behouden. Ze behoren ook tot de rijkste bronnen van calcium in het dieet.",
-            "Zuivelproducten bevatten ook belangrijke vitamines zoals vitamine D, B12 en riboflavine, evenals mineralen zoals fosfor en kalium, die bijdragen aan de algehele gezondheid.",
-            "Veel zuivelproducten omvatten lactose, de natuurlijke suiker in melk, die energie levert. Sommige mensen tolereren mogelijk geen lactose en ze moeten kiezen voor lactosevrije melk en yoghurt of harde kazen die verwaarloosbare hoeveelheden lactose bevatten.",
-            "Gefermenteerde voedingsmiddelen worden geproduceerd door een proces dat gisting wordt genoemd, waarbij micro -organismen zoals gist en bacteriën voedselcomponenten afbreken, waardoor ze worden omgezet in nieuwe stoffen."
+            "Zuivelproducten leveren eiwitten van hoge kwaliteit, die onder andere helpen bij het opbouwen en herstellen van spieren.",
+            "Ze behoren ook tot de rijkste bronnen van calcium in de voeding, nodig voor botten en tanden.",
+            "Zuivelproducten bevatten ook andere belangrijke micronutriënten, vitamines zoals vitamine D, B12 en B2, en mineralen zoals fosfor en kalium, die bijdragen aan de algehele gezondheid.",
+            "Sommige zuivelproducten, zoals yoghurt, worden geproduceerd door toevoeging aan melk van bepaalde soorten ziektekiemen, waardoor ze nuttige stoffen produceren die gezond zijn voor je darmen. Deze producten worden gefermenteerd genoemd."
           ]
         },
         {
           "id": 3,
           "title": "Aanbevolen consumptie- en portiegroottes",
-          "description": "Vertrouwen met de aanbevolen inname en portiegrootte van zuivelproducten.",
+          "description": "Vertrouwd raken met de aanbevolen inname en portiegrootte van zuivelproducten.",
           "questions": [
             {
               "id": 1,
@@ -2051,7 +1932,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "1 pot (150 g) yoghurt.",
+                  "text": "1 kopje (200 g) yoghurt.",
                   "correct": false
                 },
                 {
@@ -2106,7 +1987,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Een pot (150 g) yoghurt.",
+                  "text": "een kopje yoghurt.",
                   "correct": false
                 },
                 {
@@ -2116,42 +1997,12 @@
                 },
                 {
                   "id": 3,
-                  "text": "1/2 kopje ricotta -kaas.",
+                  "text": "1 kopje kwark.",
                   "correct": false
                 },
                 {
                   "id": 4,
                   "text": "Een van de vorige.",
-                  "correct": true
-                }
-              ]
-            },
-            {
-              "id": 5,
-              "question": "Wat voor soort melk bevat lager vet?",
-              "category": {
-                "id": "category-0",
-                "text": "Niet -gedefinieerde categorie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Volle melk.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Gearomatiseerde melk.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Chocolademelk.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Skim Milk.",
                   "correct": true
                 }
               ]
@@ -2181,7 +2032,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Verdampte melk.",
+                  "text": "Gecondenseerde melk.",
                   "correct": false
                 }
               ]
@@ -2212,36 +2063,6 @@
                 {
                   "id": 4,
                   "text": "Prijskaartje.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 8,
-              "question": "Wat voor soort melk is het beste voor kinderen met lactose -intolerantie?",
-              "category": {
-                "id": "category-0",
-                "text": "Niet -gedefinieerde categorie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Chocolademelk.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Lactosevrije melk.",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Skim Milk.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Er is geen melk voor hen.",
                   "correct": false
                 }
               ]
@@ -2278,7 +2099,7 @@
             },
             {
               "id": 10,
-              "question": "Op welke leeftijd kunnen kinderen beginnen met het drinken van vetarme (semi-gesloten) melk?",
+              "question": "Vanaf welke leeftijd kunnen kinderen magere melk drinken?",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -2308,16 +2129,17 @@
             }
           ],
           "messages": [
-            "U moet dagelijks melk- en zuivelproducten consumeren als onderdeel van een uitgebalanceerd dieet, gericht op 3-4 porties zuivelproducten elke dag. Eén portie kan 1 kopje melk zijn, 1 pot yoghurt of 1 plakje (30 gram) kaas.",
-            "Als u geen melk drinkt, kunt u nog steeds de meeste voedingsstoffen uit voedingsmiddelen zoals kaas of yoghurt halen, en in het geval van lactose-intolerantie is lactosevrije melk een geweldige optie.",
+            "U moet dagelijks melk en zuivelproducten consumeren als onderdeel van een uitgebalanceerd dieet, waarbij u elke dag streeft naar 3-4 porties zuivel. Eén portie kan 1 kopje melk, 1 kopje yoghurt of 1 plakje (30 gram) kaas zijn.",
+            "Als u geen melk drinkt, kunt u nog steeds de meeste voedingsstoffen uit voedsel zoals kaas of yoghurt halen",
             "Het is ook slim om yoghurtlabels te controleren op extra suiker om gezondere keuzes te maken.",
-            "Voor kinderen ouder dan 2 jaar oud zijn zowel volle als semi-gesubeerde (vetarme) melk als yoghurt geschikte keuzes, afhankelijk van de energiebehoeften en de algehele gezondheid."
+            "Voor kinderen vanaf 2 jaar zijn zowel volle als (magere) melk en yoghurt geschikte keuzes, afhankelijk van de energiebehoefte en de algehele gezondheid.",
+            "Houd er rekening mee dat sommige mensen spijsverteringsproblemen hebben als ze melk drinken. Voor hen is er een soort melk op de markt die ‘lactosevrij’ wordt genoemd."
           ]
         },
         {
           "id": 4,
           "title": "Consumptiepraktijken",
-          "description": "Vertrouwen met best practices om zuivelproducten te integreren in maaltijden, snacks en recepten.",
+          "description": "Vertrouwd raken met de beste praktijken om zuivelproducten te integreren in maaltijden, snacks en recepten.",
           "questions": [
             {
               "id": 1,
@@ -2351,7 +2173,7 @@
             },
             {
               "id": 2,
-              "question": "Wat is een goede keuze om zuivelfabrieken toe te voegen aan uw lunchbox?",
+              "question": "Wat is een goede keuze om zuivelproducten aan je lunchbox toe te voegen?",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -2464,14 +2286,14 @@
                 },
                 {
                   "id": 4,
-                  "text": "Gewone Griekse yoghurt.",
+                  "text": "Gewone yoghurt.",
                   "correct": true
                 }
               ]
             },
             {
               "id": 6,
-              "question": "Wat is een topping voor fruitsalade om calcium en eiwitten toe te voegen?",
+              "question": "Wat is een gezonde topping voor fruitsalade om calcium en eiwitten toe te voegen?",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -2489,7 +2311,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Geslagen topping.",
+                  "text": "Slagroom.",
                   "correct": false
                 },
                 {
@@ -2519,7 +2341,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Voeg whep crème toe aan je vruchten.",
+                  "text": "Voeg slagroom toe aan je fruit.",
                   "correct": false
                 },
                 {
@@ -2539,7 +2361,7 @@
         {
           "id": 5,
           "title": "Behandelings- en opslagpraktijken",
-          "description": "Vertrouwen met veilige opslag, preventie en besmetting en het begrijpen van de vervaldatums en tekenen van bederf van zuivelproducten.",
+          "description": "Vertrouwd raken met veilige opslag, preventie en besmetting, en inzicht krijgen in de vervaldata en tekenen van bederf van zuivelproducten.",
           "questions": [
             {
               "id": 1,
@@ -2603,7 +2425,7 @@
             },
             {
               "id": 3,
-              "question": "Vervaldatum of het beste op datum verwijst naar de datum een zuivelproduct:",
+              "question": "'Vervaldatum' verwijst naar de datum waarop een zuivelproduct:",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -2664,14 +2486,14 @@
           ],
           "messages": [
             "Om zuivelproducten veilig en fris te houden, moeten ze altijd in de koelkast worden bewaard ten minste in 40 ° F (4 ° C). Lage temperaturen voorkomen dat schadelijke bacteriën groeien, waardoor u ziek kan worden.",
-            "Controleer altijd de \"vervaldatum\" of \"Beste by\" -datum op het label. Dit vertelt u de laatste datum om het product te gebruiken voor de beste kwaliteit en veiligheid.",
-            "Om te zien of het zuivelproduct nog steeds goed is, moet u het ruiken, de textuur controleren en de datum lezen. Als het zuur ruikt, er vreemd uitziet of voorbij zijn date is, is het het beste om het niet te eten of te drinken."
+            "Controleer altijd de “vervaldatum” op het etiket. Hierop staat de uiterste datum waarop u het product kunt gebruiken voor de beste kwaliteit en veiligheid.",
+            "Om te controleren of het zuivelproduct nog goed is, moet je eraan ruiken, de textuur controleren en de datum lezen. Als het zuur ruikt, er vreemd uitziet of over de datum is, kun je het het beste niet eten of drinken."
           ]
         },
         {
           "id": 6,
           "title": "Gezondheidseffecten",
-          "description": "Vertrouwen met de gezondheidsvoordelen van zuivelproducten.",
+          "description": "Kennismaken met de gezondheidsvoordelen van zuivelproducten.",
           "questions": [
             {
               "id": 1,
@@ -2764,36 +2586,6 @@
               ]
             },
             {
-              "id": 4,
-              "question": "De voorkeur geven aan skim versus volle melk of yoghurt draagt bij aan:",
-              "category": {
-                "id": "category-0",
-                "text": "Niet -gedefinieerde categorie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Lagere verzadigde vetinname.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Normale bloedlipideniveaus.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Minder energie -inname.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Alle vorige.",
-                  "correct": true
-                }
-              ]
-            },
-            {
               "id": 5,
               "question": "Gefermenteerde zuivelproducten zoals gewone yoghurt en kefir:",
               "category": {
@@ -2808,7 +2600,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Help uw immuunsysteem.",
+                  "text": "Zorg voor meer nuttige bacteriën.",
                   "correct": false
                 },
                 {
@@ -2826,9 +2618,9 @@
           ],
           "messages": [
             "Zuivelproducten zijn belangrijk omdat ze je lichaam helpen om sterk te worden en gezond te blijven.",
-            "Het calcium in zuivelfabrieken bouwt sterke botten en tanden, terwijl eiwitten spierontwikkeling en groei ondersteunen.",
-            "Experts bevelen zuivelproducten aan, niet alleen om sterk op te groeien, maar ook omdat ze ziektefeerpreventie helpen, zoals osteoporose, later in het leven.",
-            "Het kiezen van vetarm of gefermenteerde zuivelproducten kan u beschermen tegen verschillende gezondheidsproblemen."
+            "Het calcium in zuivelproducten zorgt voor sterke botten en tanden, terwijl eiwitten de spierontwikkeling en -groei ondersteunen.",
+            "Deskundigen raden zuivelproducten niet alleen aan om sterk op te groeien, maar ook omdat ze ziekten helpen voorkomen, zoals zwakke bommen op latere leeftijd.",
+            "Het kiezen van magere of gefermenteerde zuivelproducten kan u beschermen tegen verschillende gezondheidsproblemen."
           ]
         }
       ]
@@ -2836,12 +2628,12 @@
     {
       "id": 3,
       "title": "Granen en graanproducten (G & GP) quiz",
-      "description": "Een quizspel om de kennis over granen te vergroten en optimale consumptiepatronen te bevorderen, waaronder voedselsoorten, voedingswaarde en gezondheidseffecten.",
+      "description": "Vergroot uw kennis over granen en graanproducten! Beantwoord de vragen en leer welke voedingsmiddelen inbegrepen zijn, wat hun voedingswaarde is, aanbevelingen voor de consumptie ervan en hoe u hun gezondere vormen kunt kiezen.",
       "levels": [
         {
           "id": 1,
           "title": "Kennis",
-          "description": "Vertrouwen met de voedselgroep van granen.",
+          "description": "Om vertrouwd te raken met de voedselgroep granen.",
           "questions": [
             {
               "id": 1,
@@ -3038,7 +2830,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Bagels.",
+                  "text": "Wit Brood.",
                   "correct": false
                 },
                 {
@@ -3073,7 +2865,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Tahini (sesampasta).",
+                  "text": "Pindakaas.",
                   "correct": false
                 },
                 {
@@ -3085,16 +2877,15 @@
             }
           ],
           "messages": [
-            "Welkom in de wereld van graankorrels!",
-            "De granengroep van granen omvat alle voedingsmiddelen gemaakt van tarwe, rijst, haver, gerst enz. Deze granen worden vaak gebruikt om producten zoals brood, pasta, ontbijtgranen, tortilla's en crackers te maken.",
-            "Er zijn ook andere minder bekende korrels genaamd pseudo-korrels zoals gierst, sorghum, amarant, boekweit, quinoa, teff die ook veel waardevolle voedingsstoffen bevatten.",
-            "Granen zijn een essentieel onderdeel van een uitgebalanceerd dieet en zijn in vele vormen beschikbaar - van volle granen tot verfijnde. Leren over granen helpt je gezondere keuzes te maken!"
+            "Welkom in de wereld van granen en graanproducten! De groep omvat producten gemaakt van planten als tarwe, rijst, haver, gerst etc. Deze granen worden veel gebruikt voor het maken van producten als brood, pasta, ontbijtgranen, tortilla's en crackers.",
+            "Er zijn ook andere, minder bekende granen zoals gierst, boekweit en quinoa, die als zeer gezond worden beschouwd.",
+            "Grains are an essential part of a balanced diet and are available in many forms, which differ in their nutritional value. Als je over granen leert, kun je gezondere keuzes maken!!"
           ]
         },
         {
           "id": 2,
           "title": "Voedingswaarde",
-          "description": "Vertrouwen met de voedingswaarde van korrels.",
+          "description": "Kennismaken met de voedingswaarde van granen.",
           "questions": [
             {
               "id": 1,
@@ -3116,7 +2907,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Vetten.",
+                  "text": "Lipiden.",
                   "correct": false
                 },
                 {
@@ -3158,7 +2949,7 @@
             },
             {
               "id": 3,
-              "question": "Welke van de volgende is geen deel uit van een volkoren:",
+              "question": "Welke van de volgende behoort tot een volkoren graanproduct:",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -3171,17 +2962,47 @@
                 },
                 {
                   "id": 2,
-                  "text": "De kiem.",
+                  "text": "De bladeren.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Het endosperm.",
+                  "text": "De bloem.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "De zemelen.",
+                  "text": "De (buitenste deel van het zaad (de zogenaamde zemelen).",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Wat betekent de term geraffineerd voor de granen?",
+              "category": {
+                "id": "category-0",
+                "text": "Niet -gedefinieerde categorie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Ze zijn duur.",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Ze hebben sommige delen van het volkoren graan verwijderd.",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Ze zijn gekleurd.",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Ze groeien in tropische omgevingen.",
                   "correct": false
                 }
               ]
@@ -3231,17 +3052,17 @@
                 },
                 {
                   "id": 2,
-                  "text": "Vezel.",
+                  "text": "Vezels.",
                   "correct": true
                 },
                 {
                   "id": 3,
-                  "text": "Natrium.",
+                  "text": "Zout.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Verzadigd vet.",
+                  "text": "Verzadigde lipiden.",
                   "correct": false
                 }
               ]
@@ -3261,7 +3082,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Vezel.",
+                  "text": "Vezels.",
                   "correct": false
                 },
                 {
@@ -3277,38 +3098,8 @@
               ]
             },
             {
-              "id": 7,
-              "question": "Welk deel van het graan biedt de meeste vezel?",
-              "category": {
-                "id": "category-0",
-                "text": "Niet -gedefinieerde categorie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Endosperm.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Zemelen.",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Bladeren.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Kiem.",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 8,
-              "question": "De term verrijkte korrels betekent dat in deze korrels:",
+              "question": "De term ‘verrijkte granen’ betekent dat in deze granen:",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -3316,7 +3107,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "B -vitamines zijn toegevoegd.",
+                  "text": "De vitamines die met verfijning zijn verwijderd, zijn weer toegevoegd.",
                   "correct": true
                 },
                 {
@@ -3326,7 +3117,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Vetten zijn verwijderd.",
+                  "text": "lipiden zijn verwijderd.",
                   "correct": false
                 },
                 {
@@ -3368,16 +3159,13 @@
             }
           ],
           "messages": [
-            "Voedsel gemaakt van tarwe, rijst, haver, maïsmeel, gerst of een andere graankorrel zijn graanproducten.",
-            "Korrels hebben twee subgroepen: volle granen en verfijnde korrels.",
-            "Korrels, vooral volle granen, zijn belangrijke bronnen van veel voedingsstoffen, waaronder complexe koolhydraten, vezels en B -vitamines. Ze bevatten ook essentiële mineralen zoals ijzer, magnesium en selenium.",
-            "Volle granen behouden hun zemelen en kiem, die vezels en voedingsstoffen bieden, in tegenstelling tot verfijnde korrels die veel hiervan verliezen tijdens de verwerking. Volle granen bevatten meer vezels dan geraffineerde korrels en zijn belangrijk voor de juiste darmfunctie."
+            "Granen kunnen worden gevonden als volle granen of geraffineerde granen. Ze verschillen wat betreft de delen die ze bevatten. Bij hele granen is de oorspronkelijke korrel intact (heel), terwijl bij de geraffineerde granen na verwerking (verfijning) enkele delen verloren zijn gegaan. Hoewel beide koolhydraten bevatten, bevatten volkoren granen ook vezels, vitamines en mineralen die door verfijning verloren zijn gegaan."
           ]
         },
         {
           "id": 3,
           "title": "Aanbevolen inname",
-          "description": "Vertrouwen met de aanbevolen inname en portiegrootte van korrels.",
+          "description": "Om vertrouwd te raken met de aanbevolen inname en portiegrootte van granen.",
           "questions": [
             {
               "id": 1,
@@ -3514,7 +3302,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Volkorenbrood.",
+                  "text": "Volkoren brood.",
                   "correct": true
                 },
                 {
@@ -3531,7 +3319,7 @@
             },
             {
               "id": 6,
-              "question": "Welke van de volgende is niet een deel van volle granen?",
+              "question": "Welke van de volgende producten is geen portie volle granen?",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -3629,7 +3417,7 @@
         {
           "id": 4,
           "title": "Consumptiepraktijken",
-          "description": "Vertrouwen met de best practices om granen voor te bereiden en te consumeren.",
+          "description": "Vertrouwd raken met de beste praktijken voor het bereiden en consumeren van granen.",
           "questions": [
             {
               "id": 1,
@@ -3681,7 +3469,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Gekookt, gebakken of rauw.",
+                  "text": "Gekookt.",
                   "correct": true
                 },
                 {
@@ -3701,7 +3489,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Een kom met hele kersen met melk.",
+                  "text": "Een kom volkoren granen met melk.",
                   "correct": true
                 },
                 {
@@ -3723,7 +3511,7 @@
             },
             {
               "id": 4,
-              "question": "Welke van de volgende is een goede korrelkeuze voor uw lunch?",
+              "question": "Welke van de volgende is een goede graankeuze voor uw hoofdmaaltijdlunch?",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -3771,7 +3559,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Volkoren tortilla's.",
+                  "text": "Volkoren broodstengels.",
                   "correct": true
                 },
                 {
@@ -3796,12 +3584,12 @@
                 },
                 {
                   "id": 2,
-                  "text": "Volkoren pannenkoeken met honing.",
+                  "text": "Volkorenpannenkoekjes met honing.",
                   "correct": true
                 },
                 {
                   "id": 3,
-                  "text": "Donut met praline.",
+                  "text": "Taart met praliné.",
                   "correct": false
                 },
                 {
@@ -3826,12 +3614,12 @@
                 },
                 {
                   "id": 2,
-                  "text": "Meer magnesium.",
+                  "text": "Meer mineralen.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Meer B -vitamines.",
+                  "text": "Meer vitamines.",
                   "correct": false
                 },
                 {
@@ -3874,15 +3662,14 @@
           ],
           "messages": [
             "Er zijn zoveel manieren om granen in uw dieet op te nemen!",
-            "Consumeer graanproducten als snacks gedurende de dag (kies een toast met volkorenbrood en kaas of crackers met ei voor een gezonde snack op school), gebruik ze om voedzame desserts te maken (bijvoorbeeld zelfgemaakte taarten en koekjes), of voeg ze toe aan je maaltijden.",
-            "Geef prioriteit aan volle granen (in plaats van verfijnd) om te profiteren van al hun voedingsstoffen (vezels, vitamines en mineralen).",
-            "Kies volle granen boven verfijnde en bereid ze op eenvoudige, gezonde manieren zoals gebakken of gekookt. Voeg niet te veel vet, suiker of zout toe. Volkoren brood, havermout en bruine rijst zijn geweldige volkoren opties."
+            "Consumeer graanproducten als tussendoortje (kies een toast met volkorenbrood en kaas of crackers met ei voor een gezond tussendoortje op school) en voeg ze toe aan je hoofdmaaltijden.",
+            "Geef voorrang aan volle granen (in plaats van geraffineerde granen) om optimaal te profiteren van al hun voedingsstoffen (vezels, vitamines en mineralen). Volkorenbrood, havermout en bruine rijst zijn geweldige volkorenopties. Bereid ze op eenvoudige manieren en vermijd het toevoegen van te veel vet, suiker of zout."
           ]
         },
         {
           "id": 5,
           "title": "Gezondheidseffecten",
-          "description": "Vertrouwen met de gezondheidseffecten van granen.",
+          "description": "Om bekend te raken met de gezondheidseffecten van granen.",
           "questions": [
             {
               "id": 1,
@@ -3899,7 +3686,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Vet verliezen.",
+                  "text": "Beter slapen.",
                   "correct": false
                 },
                 {
@@ -3909,7 +3696,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Uw gezondheid beschermen.",
+                  "text": "Goed groeien.",
                   "correct": true
                 }
               ]
@@ -3946,7 +3733,7 @@
             },
             {
               "id": 3,
-              "question": "Magnesium:",
+              "question": "Het eten van volle granen voorziet je lichaam van mineralen die je helpen bij:",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -3954,29 +3741,29 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Is belangrijk voor je oren.",
+                  "text": "Je botten opbouwen.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Helpt uw spieren beter te werken.",
+                  "text": "Je spieren beter laten werken.",
                   "correct": true
                 },
                 {
                   "id": 3,
-                  "text": "Helpt uw immuunsysteem.",
+                  "text": "Geef je verdedigingssysteem een ​​boost.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Geen van de vorige.",
+                  "text": "Alle vorige.",
                   "correct": false
                 }
               ]
             },
             {
               "id": 4,
-              "question": "Graanproducten zijn rijk aan B -vitamines die helpen:",
+              "question": "Graanproducten zijn rijk aan vitamines (B-groep) die helpen:",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -3984,22 +3771,22 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Je tanden zijn sterker.",
+                  "text": "De productie van uw bloed.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Je buik werkt beter.",
+                  "text": "Je hersenen goed laten functioneren.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Je voelt je energieker.",
+                  "text": "Het verkrijgen van de energie die is opgeslagen in voedsel.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Uw zenuwstelsel blijft gezond.",
+                  "text": "Alle vorige.",
                   "correct": true
                 }
               ]
@@ -4014,7 +3801,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Ze helpen u uw gewicht te beheersen.",
+                  "text": "Ze helpen je een gezond gewicht te behouden.",
                   "correct": true
                 },
                 {
@@ -4024,7 +3811,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Ze geven je meer koolhydraten en eiwitten.",
+                  "text": "Ze geven je veel koolhydraten en eiwitten.",
                   "correct": false
                 },
                 {
@@ -4044,12 +3831,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "De constipatie.",
+                  "text": "Constipatie.",
                   "correct": true
                 },
                 {
                   "id": 2,
-                  "text": "De buikpijn.",
+                  "text": "Jouw gehoor.",
                   "correct": false
                 },
                 {
@@ -4066,7 +3853,7 @@
             },
             {
               "id": 7,
-              "question": "Welke voedingsstof, gevonden in granen, is belangrijk voor de juiste darmfunctie?",
+              "question": "Welke voedingsstof, gevonden in granen, is belangrijk voor een goede darmfunctie?",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -4074,131 +3861,41 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Eiwit.",
+                  "text": "Eiwitten.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Vet.",
+                  "text": "Lipiden.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Vezel.",
+                  "text": "Vezels.",
                   "correct": true
                 },
                 {
                   "id": 4,
-                  "text": "Koolhydraat.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 8,
-              "question": "Welke vitamine, gevonden in granen, is belangrijk voor het zenuwstelsel?",
-              "category": {
-                "id": "category-0",
-                "text": "Niet -gedefinieerde categorie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "B vitamines.",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Vitamine D.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Vitamine C.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Vitamine E.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 9,
-              "question": "Welk mineraal, gevonden in granen, is belangrijk voor de gezondheid van de bot?",
-              "category": {
-                "id": "category-0",
-                "text": "Niet -gedefinieerde categorie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Magnesium.",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Calcium.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Ijzer.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Selenium.",
+                  "text": "Koolhydraten.",
                   "correct": false
                 }
               ]
             }
           ],
           "messages": [
-            "Het eten van granen, vooral volle granen, beschermen uw gezondheid en verminderen het risico op veel ziekten.",
-            "Korrels bieden veel voedingsstoffen die van vitaal belang zijn voor de gezondheid en het onderhoud van uw lichaam zoals vezels, B -vitamines (thiamine, niacine, riboflavine) en mineralen zoals magnesium en selenium.",
-            "Volle graanproducten bevatten meer van de hierboven genoemde nuttige voedingsstoffen in vergelijking met verfijnde granen en vertonen dus meer gezondheidsvoordelen."
+            "Het eten van granen, vooral volle granen, houdt je lichaam gezond.",
+            "De voedingsstoffen in granen, vezels en micronutriënten (zoals B-vitamines, ijzer, magnesium) spelen een cruciale rol voor veel functies van uw lichaam.",
+            "Volkorenproducten bevatten meer van deze nuttige voedingsstoffen dan geraffineerde granen, waardoor ze nog beter zijn voor je gezondheid."
           ]
         },
         {
           "id": 6,
           "title": "Typen en verwerking",
-          "description": "Vertrouwen met de concepten van typen en verwerking van granen.",
+          "description": "Vertrouwd raken met de concepten soorten en verwerking van granen.",
           "questions": [
             {
-              "id": 1,
-              "question": "Volle granen bevatten:",
-              "category": {
-                "id": "category-0",
-                "text": "Niet -gedefinieerde categorie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Alleen zemelen.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Alleen zetmeel.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Alleen endosperm.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Bran, Germ en Endosperm.",
-                  "correct": true
-                }
-              ]
-            },
-            {
               "id": 2,
-              "question": "Verfijnde granen hebben:",
+              "question": "Geraffineerde granen hebben, vergeleken met volle granen:",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -4206,12 +3903,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Lagere vezels.",
+                  "text": "Minder vezels.",
                   "correct": true
                 },
                 {
                   "id": 2,
-                  "text": "Lagere suiker.",
+                  "text": "Minder suikers.",
                   "correct": false
                 },
                 {
@@ -4221,14 +3918,14 @@
                 },
                 {
                   "id": 4,
-                  "text": "Lagere koolhydraten.",
+                  "text": "Minder koolhydraten.",
                   "correct": false
                 }
               ]
             },
             {
               "id": 3,
-              "question": "Frezen is een proces dat:",
+              "question": "Frezen (=verfijning) is een proces dat:",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -4236,12 +3933,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Verwijdert uit korrels de kiem en de zemelen.",
+                  "text": "Verwijdert enkele delen uit granen.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Geeft het product een fijnere textuur.",
+                  "text": "Maakt het product fijner.",
                   "correct": false
                 },
                 {
@@ -4271,7 +3968,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Verfijnde granen met toegevoegde vitamines.",
+                  "text": "Verfijnde granen met toegevoegde vitamines terug.",
                   "correct": true
                 },
                 {
@@ -4296,7 +3993,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Volkoren pasta.",
+                  "text": "Volkorenpasta.",
                   "correct": false
                 },
                 {
@@ -4306,12 +4003,12 @@
                 },
                 {
                   "id": 3,
-                  "text": "Tarwe tortilla.",
+                  "text": "Volkoren crackers.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Haverbrood.",
+                  "text": "Roggebrood.",
                   "correct": false
                 }
               ]
@@ -4341,7 +4038,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Meer vitamines.",
+                  "text": "Geen vitamines.",
                   "correct": false
                 }
               ]
@@ -4361,12 +4058,12 @@
                 },
                 {
                   "id": 2,
-                  "text": "Smaak slecht.",
+                  "text": "Heb een hoger lipidengehalte.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Ruik slecht.",
+                  "text": "Maakt je moe.",
                   "correct": false
                 },
                 {
@@ -4396,7 +4093,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Verrijkt product",
+                  "text": "Vitamine bron",
                   "correct": false
                 },
                 {
@@ -4408,10 +4105,9 @@
             }
           ],
           "messages": [
-            "Volle granen behouden de hele korrel kernel, waaronder de zemelen, kiem en endosperm.",
-            "Geraffineerde korrels zijn gefreesd, dat betekent dat ze zijn verwerkt om de zemelen en kiem te verwijderen. Dit proces is bedoeld om granen een fijnere textuur te geven en hun houdbaarheid te verbeteren. Helaas verwijdert het ook veel nuttige voedingsstoffen.",
-            "Verfijnde granen zijn vaak verrijkt. Dit betekent het toevoegen van bepaalde B -vitamines (thiamine, riboflavine, niacine, foliumzuur) en ijzer die verloren zijn gegaan tijdens de voedselverwerking. Ze blijven echter slechte bronnen van vezels.",
-            "Kies indien mogelijk minimaal verwerkte, laag-suiker- en laagzoutkorrelproducten. Lees labels voor volkoren opties om het meeste uit uw maaltijden te halen!"
+            "Geraffineerde granen zijn gemalen, dat wil zeggen dat ze zijn bewerkt om een ​​deel van het oorspronkelijke graan te verwijderen. Dit proces heeft tot doel granen een fijnere textuur te geven en hun houdbaarheid te verbeteren. Helaas verwijdert het ook veel nuttige voedingsstoffen.",
+            "Geraffineerde granen zijn vaak verrijkt. Dit betekent dat bepaalde B-vitamines en ijzer die tijdens de voedselverwerking verloren zijn gegaan, weer moeten worden toegevoegd. Het blijven echter slechte bronnen van vezels.",
+            "Kies waar mogelijk minimaal verwerkte, suikerarme en zoutarme graanproducten. Lees voor verpakte producten de etiketten voor volkorenproducten om het meeste te halen uit wat u eet!!"
           ]
         }
       ]
@@ -4419,12 +4115,12 @@
     {
       "id": 4,
       "title": "Eiwitrijken (HPF) quiz",
-      "description": "Een quizspel met als doel kennis te vergroten over andere eiwitrijke voedingsmiddelen, anders dan zuivelproducten en gebruikers opleiden/motiveren naar hun optimale consumptiepatroon.",
+      "description": "Vergroot uw kennis over eiwitrijke voedingsmiddelen, anders dan zuivelproducten! Beantwoord de vragen en leer over de verschillende voedselcategorieën, hoe u de beste keuzes kunt maken en hoeveel u moet eten om sterke en gezonde effecten te bereiken. .",
       "levels": [
         {
           "id": 1,
           "title": "Kennis",
-          "description": "Vertrouwen met eiwitrijk voedsel.",
+          "description": "Om vertrouwd te raken met eiwitrijk voedsel.",
           "questions": [
             {
               "id": 1,
@@ -4436,7 +4132,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Rood/wit vlees.",
+                  "text": "Rood en wit vlees.",
                   "correct": false
                 },
                 {
@@ -4446,7 +4142,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Pulsen.",
+                  "text": "Peulvruchten (gedroogde zaden van peulvruchten) .",
                   "correct": false
                 },
                 {
@@ -4637,36 +4333,6 @@
               ]
             },
             {
-              "id": 8,
-              "question": "Welke van de volgende is een peulvrucht?",
-              "category": {
-                "id": "category-0",
-                "text": "Niet -gedefinieerde categorie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Verse groene bonen/erwten.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Pulsen.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Sojabonen.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Alle vorige.",
-                  "correct": true
-                }
-              ]
-            },
-            {
               "id": 9,
               "question": "Wat zijn pulsen?",
               "category": {
@@ -4697,6 +4363,36 @@
               ]
             },
             {
+              "id": 8,
+              "question": "Welke van de volgende is een peulvrucht?",
+              "category": {
+                "id": "category-0",
+                "text": "Niet -gedefinieerde categorie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Verse groene bonen/erwten.",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Pulsen.",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Sojabonen.",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Alle vorige.",
+                  "correct": true
+                }
+              ]
+            },
+            {
               "id": 10,
               "question": "Welke van de volgende is een pols?",
               "category": {
@@ -4706,7 +4402,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Droge bonen/erwten.",
+                  "text": "Droge erwten.",
                   "correct": false
                 },
                 {
@@ -4806,7 +4502,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Griekse fava.",
+                  "text": "Yoghurt.",
                   "correct": false
                 },
                 {
@@ -4818,17 +4514,17 @@
             }
           ],
           "messages": [
-            "Welkom in de wereld van eiwitrijk voedsel!",
-            "Dit thematische gebied richt zich op verschillende vlees- en plantenalternatieven, die samen met zuivelproducten aan de meeste van uw dagelijkse eiwitbehoeften voldoen.",
-            "Dierlijk op basis van eiwitten op basis van dieren omvatten rood vlees (bijv. Rundvlees, varkensvlees, kalfsvlees en lam), wit vlees (bijv. Kip, kalkoen en konijn), vis, zeevruchten (bijv. Garnalen, garnalen, octopus, inktvis, rivierkreeft, kreeft, clam, oester en mussel) en eieren. Bewerkte vleesproducten (bijv. Worst, ham, salami, peperoni en spek) zijn ook opgenomen in deze categorie; Ze worden geproduceerd uit rood/wit vlees door verschillende processen, zoals zouten, uitharden, fermenteren, roken en de toevoeging van chemische conserveermiddelen.",
-            "Onthoud: zuivelproducten (bijv. Melk, yoghurt en kaas), die worden gepresenteerd in een eerder thematisch gebied, zijn ook voedingsmiddelen op dieren met een hoog eiwitgehalte en de belangrijkste bron van calcium!",
-            "Plantengebaseerd high-eiwit omvatten pulsen, de droge eetbare zaden in de peulvruchtenpods, d.w.z. droge bonen (bijv. Zwarte bonen, bonen en limabonen), droge erwten (bijv. Black-eyed erwten en gesplitste geel/groene erwten), linzen en kuikens, evenals zaal en hun producten (bijv."
+            "Welkom in de wereld van eiwitrijk voedsel! In tegenstelling tot de andere voedselgroepen die je sindsdien hebt ontmoet, is dit een diverse groep voedingsmiddelen, die zowel dierlijke als plantaardige voedingsmiddelen bevat. Niettemin is het hun hoge gehalte aan eiwitten wat ze uiteindelijk samenbrengt.",
+            "Dierlijk eiwitrijk voedsel omvat alle soorten vlees (rood of wit), vis en zeevruchten, evenals eieren.",
+            "Verwerkte vleesproducten (bijv. worst, ham, salami, peperoni), ook al zijn ze gemaakt van rood/wit vlees, en ze bevatten meestal veel additieven en conserveermiddelen die de voedingswaarde verlagen.",
+            "Plantaardige eiwitrijke producten omvatten peulvruchten, de droge eetbare zaden in de peulvruchtenpeulen, dat wil zeggen droge bonen, droge erwten, linzen en kikkererwten, evenals sojabonen en hun producten (bijvoorbeeld tofu, een product dat op witte kaas lijkt).",
+            "Onthoud: Zuivelproducten, gepresenteerd in een eerder thematisch gebied, worden ook beschouwd als voedingsmiddelen met een hoog eiwitgehalte, maar vormen hun eigen groep, gezien hun gehalte aan calcium."
           ]
         },
         {
           "id": 2,
           "title": "Voedingswaarde",
-          "description": "Vertrouwen met de voedingswaarde van eiwitrijk voedsel.",
+          "description": "Vertrouwd raken met de voedingswaarde van eiwitrijke voedingsmiddelen.",
           "questions": [
             {
               "id": 1,
@@ -4861,36 +4557,6 @@
               ]
             },
             {
-              "id": 2,
-              "question": "Een \"compleet\" eiwit is een eiwit dat:",
-              "category": {
-                "id": "category-0",
-                "text": "Niet -gedefinieerde categorie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Bevat geen lipiden.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Wordt volledig verteerd in de maag.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Wordt gevonden in fruit en groenten.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Bevat alle essentiële aminozuren.",
-                  "correct": true
-                }
-              ]
-            },
-            {
               "id": 3,
               "question": "Wat is een aminozuur?",
               "category": {
@@ -4916,36 +4582,6 @@
                 {
                   "id": 4,
                   "text": "Een vetzuur dat wordt aangetroffen in vlees.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 4,
-              "question": "Welke van de volgende bevat \"complete\" eiwitten?",
-              "category": {
-                "id": "category-0",
-                "text": "Niet -gedefinieerde categorie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Brood.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Boon.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Kip.",
-                  "correct": true
-                },
-                {
-                  "id": 4,
-                  "text": "Amandel.",
                   "correct": false
                 }
               ]
@@ -4995,7 +4631,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Verzadigde lipiden.",
+                  "text": "Lipiden (verzadigd).",
                   "correct": true
                 },
                 {
@@ -5020,7 +4656,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Omega-3 poly-onverzadigde lipiden.",
+                  "text": "Lipiden (onverzadigd).",
                   "correct": true
                 },
                 {
@@ -5101,96 +4737,6 @@
               ]
             },
             {
-              "id": 10,
-              "question": "Welke vitamine wordt meestal aangetroffen in dierengebaseerd voedsel met hoge eiwitten en helpt uw zenuwstelsel gezond te houden?",
-              "category": {
-                "id": "category-0",
-                "text": "Niet -gedefinieerde categorie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Vitamine C.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Vitamine B12.",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Vitamine K.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Vitamine E.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 11,
-              "question": "Welke vitamine wordt meestal aangetroffen in dierlijk eiwitrijke voedingsmiddelen en is belangrijk voor het gezichtsvermogen?",
-              "category": {
-                "id": "category-0",
-                "text": "Niet -gedefinieerde categorie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Vitamine K.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Vitamine C.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Vitamine A.",
-                  "correct": true
-                },
-                {
-                  "id": 4,
-                  "text": "Vitamine E.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 12,
-              "question": "Welk mineraal, gevonden in voedingsmiddelen met high-eiwit, is essentieel voor de overdracht van zuurstof via bloedcellen?",
-              "category": {
-                "id": "category-0",
-                "text": "Niet -gedefinieerde categorie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Ijzer.",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Calcium.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Magnesium.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Al het bovenstaande.",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 13,
               "question": "Van welke van de volgende eiwitrijke voedingsmiddelen wordt ijzer beter geabsorbeerd?",
               "category": {
@@ -5210,73 +4756,13 @@
                 },
                 {
                   "id": 3,
-                  "text": "Sojaboon.",
+                  "text": "Geweest.",
                   "correct": false
                 },
                 {
                   "id": 4,
                   "text": "Rundvlees.",
                   "correct": true
-                }
-              ]
-            },
-            {
-              "id": 14,
-              "question": "Welk mineraal, gevonden in voedingsmiddelen met hoge eiwitten, is belangrijk voor het metabolisme en het immuunsysteem?",
-              "category": {
-                "id": "category-0",
-                "text": "Niet -gedefinieerde categorie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Jodium.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Calcium.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Zink.",
-                  "correct": true
-                },
-                {
-                  "id": 4,
-                  "text": "Potassium.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 15,
-              "question": "Welk mineraal, gevonden in voedingsmiddelen met hoge eiwitten, is belangrijk voor uw botten en tanden?",
-              "category": {
-                "id": "category-0",
-                "text": "Niet -gedefinieerde categorie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Fosfor.",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Natrium.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Koper.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Mangaan.",
-                  "correct": false
                 }
               ]
             },
@@ -5290,7 +4776,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Verzadigde vetten.",
+                  "text": "Lipiden.",
                   "correct": false
                 },
                 {
@@ -5300,7 +4786,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Chemische conserveermiddelen.",
+                  "text": "Conserveringsmiddelen.",
                   "correct": false
                 },
                 {
@@ -5323,7 +4809,7 @@
         {
           "id": 3,
           "title": "Aanbevolen inname",
-          "description": "Vertrouwen met de aanbevolen inname en portiegrootte van eiwitrijk voedsel.",
+          "description": "Vertrouwd raken met de aanbevolen inname en portiegrootte van eiwitrijke voedingsmiddelen.",
           "questions": [
             {
               "id": 1,
@@ -5387,7 +4873,7 @@
             },
             {
               "id": 3,
-              "question": "Hoe vaak moet iemand vette/olieachtige vissen eten, die rijk zijn aan omega-3 meervoudig onverzadigde lipiden?",
+              "question": "Hoe vaak moet men vette/vette vis eten, die vooral rijk is aan onverzadigde lipiden?",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -5477,7 +4963,7 @@
             },
             {
               "id": 6,
-              "question": "Welke van de volgende eiwitrijke voedingsmiddelen moet, indien mogelijk, volledig, volledig, omdat ze worden verwerkt?",
+              "question": "Welke van de volgende eiwitrijke voedingsmiddelen moet je vermijden, omdat ze bewerkt zijn?",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -5508,16 +4994,16 @@
           ],
           "messages": [
             "Maak eiwitrijke voedingsmiddelen een normaal deel van uw dieet!",
-            "Eiwitrijke voedingsmiddelen kunnen elke dag worden geconsumeerd, maar moeten gedurende de week worden gedraaid om variatie te garanderen. Streef naar mager wit en/of rood vlees 2-3 keer per week, vis/zeevruchten 2-3 keer per week, en pulsen minstens eenmaal per week.",
-            "Eieren en kazen zijn ook waardevolle bronnen van hoogwaardige eiwitten die gerechten kunnen vergezellen op basis van groenten, pasta of andere graanproducten die niet veel eiwitten hebben.",
-            "De exacte hoeveelheid eiwitten die u nodig hebt, is afhankelijk van uw lichaamsgewicht. Een eenvoudige manier om aan uw behoeften te voldoen, is om ervoor te zorgen dat eiwitrijke voedingsmiddelen ongeveer ¼ van uw bord bedekken tijdens lunch en diner en om ook 2-3 porties zuivelproducten in ontbijt en snacks te consumeren!",
+            "Eiwitrijk voedsel kan elke dag worden geconsumeerd, maar moet gedurende de week worden gewisseld om voor afwisseling te zorgen. Streef 2-3 keer per week naar wit en/of rood vlees, 2-3 keer per week vis/zeevruchten en minstens één keer per week peulvruchten.",
+            "Eieren zijn ook waardevolle bronnen van hoogwaardige eiwitten die passen bij gerechten op basis van groenten, pasta of andere graanproducten die niet veel eiwitten bevatten.",
+            "De exacte hoeveelheid eiwitten die je nodig hebt, is afhankelijk van je leeftijd en lichaamsgewicht. Een praktische manier om aan uw behoeften te voldoen is ervoor te zorgen dat eiwitrijke voedingsmiddelen tijdens de lunch en het diner ongeveer ¼ van uw bord beslaan. Vergeet niet dat zuivelproducten ook eiwitten bevatten, dus probeer 2-3 porties te consumeren bij het ontbijt en tussendoortjes!",
             "Onthoud: probeer bewerkt vlees te vermijden, zoals worstjes en koude sneden, zoveel als je kunt!"
           ]
         },
         {
           "id": 4,
           "title": "Consumptiepraktijken",
-          "description": "Vertrouwing met de best practices om te hanteren en met eiwitrijk voedsel te consumeren.",
+          "description": "Vertrouwd raken met de beste praktijken voor het omgaan met en consumeren van eiwitrijk voedsel.",
           "questions": [
             {
               "id": 1,
@@ -5589,7 +5075,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Koken en roosteren.",
+                  "text": "Roosteren.",
                   "correct": true
                 },
                 {
@@ -5604,7 +5090,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Grillen.",
+                  "text": "Barbecue.",
                   "correct": false
                 }
               ]
@@ -5670,38 +5156,8 @@
               ]
             },
             {
-              "id": 6,
-              "question": "Welke van de volgende is een goede manier om eiwitten van hoge biologische waarde te krijgen door pulsen?",
-              "category": {
-                "id": "category-0",
-                "text": "Niet -gedefinieerde categorie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Ze alleen eten.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Combineren met rijst of brood.",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Door citroen toe te voegen.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Door ze langer te koken.",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 7,
-              "question": "Om overtollige verzadigde lipiden te voorkomen bij het eten van rood vlees, moet men:",
+              "question": "Om te voorkomen dat u bij het eten van rood vlees te veel lipiden eet, moet u:",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -5731,7 +5187,7 @@
             },
             {
               "id": 8,
-              "question": "Om overtollige verzadigde lipiden te voorkomen bij het eten van pluimvee, moet men:",
+              "question": "Om te voorkomen dat u bij het eten van gevogelte te veel lipiden eet, moet u:",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -5739,7 +5195,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Eet niet hun huid.",
+                  "text": "Vermijd het eten van de huid.",
                   "correct": true
                 },
                 {
@@ -5761,17 +5217,16 @@
             }
           ],
           "messages": [
-            "Om de nodige eiwitten te krijgen en grote hoeveelheden verzadigde lipiden te vermijden: eet pluimvee zonder hun huid, verwijder zichtbaar vet uit rood vlees (meestal de buitenste laag) en kies magere rode vleesonderdelen, zoals die achter in het vee (korte lenden, entrek) of varkensvlees (lenden en ham).",
-            "Eieren zijn een zeer voedzame keuze voor een high-eiwit snack (bijv. Gekookt ei), als vervanging voor koude sneden in broodjes/wraps, of zelfs een hoofdmaaltijd (bijvoorbeeld gebakken omelet met kaas en groenten).",
-            "Om uw maaltijden zo gezond mogelijk te houden, kiest u voor dierbasis met hoge eiwitten die zijn gekookt of geroosterd, in plaats van gebakken of gegrild.",
-            "Er zijn zoveel manieren om pulsen in uw dieet op te nemen! Om er maar een paar te noemen, kun je ze als hoofdmaaltijd (bijv. Linzensoep) hebben, ze in salades opnemen, ze gebruiken om vegetarische hamburgers te maken of er zelfs van te genieten als spreads zoals hummus.",
-            "Wist je dat je door pulsen en granen, zoals rijst of brood, complete eiwitten te combineren met alle essentiële aminozuren, vergelijkbaar met die van vlees?"
+            "Om de noodzakelijke eiwitten binnen te krijgen en grote hoeveelheden verzadigde lipiden te vermijden: eet gevogelte zonder vel, verwijder zichtbaar vet van rood vlees (meestal de buitenste laag).",
+            "Eieren zijn een zeer voedzame keuze als eiwitrijk tussendoortje (bijvoorbeeld een gekookt ei), in plaats van voor vleeswaren in sandwiches/wraps of zelfs als hoofdmaaltijd (bijvoorbeeld een gebakken omelet met kaas en groenten).",
+            "Om uw maaltijden zo gezond mogelijk te houden, kiest u voor dierlijk eiwitrijk voedsel dat in de oven wordt gekookt of geroosterd, en vermijdt u gebakken of gegrild, vooral gebarbecued.",
+            "Er zijn zoveel manieren om pulsen in uw dieet op te nemen! Om er maar een paar te noemen, kun je ze als hoofdmaaltijd (bijv. Linzensoep) hebben, ze in salades opnemen, ze gebruiken om vegetarische hamburgers te maken of er zelfs van te genieten als spreads zoals hummus."
           ]
         },
         {
           "id": 5,
           "title": "Gezondheidseffecten",
-          "description": "Vertrouwen met de gezondheidseffecten van eiwitrijk voedsel.",
+          "description": "Om vertrouwd te raken met de gezondheidseffecten van eiwitrijk voedsel.",
           "questions": [
             {
               "id": 1,
@@ -5788,7 +5243,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Ze bevorderen gewichtsverlies.",
+                  "text": "Ze zorgen ervoor dat je afvalt.",
                   "correct": false
                 },
                 {
@@ -5798,7 +5253,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Ze bestrijden ontstekingen.",
+                  "text": "Ze maken je hongerig.",
                   "correct": false
                 }
               ]
@@ -5926,10 +5381,9 @@
           ],
           "messages": [
             "Proteïne-voedingsmiddelen zijn een essentieel onderdeel van een uitgebalanceerd dieet!",
-            "Wist je dat alle organen en weefsels van het lichaam, zoals het hart, de longen, de botten, de spieren en de huid, zijn gemaakt uit eiwitten? Eiwitten spelen een sleutelrol bij het bouwen, onderhouden en repareren van de weefsels van het lichaam.",
-            "Eiwitrijke voedingsmiddelen ondersteunen ook belangrijke functies van het immuunsysteem, waardoor u niet ziek wordt.",
-            "Een onvoldoende consumptie van dierlijk eiwitrijke voedingsmiddelen kan leiden tot bloedarmoede. In eenvoudige woorden, bloedarmoede is het ontbreken van gezonde rode bloedcellen om zuurstof naar de weefsels van het lichaam te dragen. Het kan worden veroorzaakt door een onvoldoende inname van ijzer en vitamine B12 die typisch worden aangetroffen in dierengebaseerde eiwitrijke voedingsmiddelen.",
-            "Probeer de aanbevolen inname van eiwitrijke voedingsmiddelen te volgen volgens uw leeftijd en lichaamsgewicht om een levenslange adequate eiwitinname te garanderen!"
+            "Wist je dat alle delen van je lichaam, zoals het hart, de longen, de botten, de spieren en de huid, bestaan ​​uit eiwitten? Eiwitten spelen een sleutelrol bij het opbouwen, onderhouden en repareren van de weefsels van het lichaam.",
+            "Eiwitrijk voedsel helpt uw ​​lichaam ook ziektekiemen te bestrijden, waardoor u niet ziek wordt.",
+            "Houd er echter rekening mee dat het te veel eten van eiwitrijk voedsel, vooral rood vlees en vleesproducten, slecht is voor uw gezondheid."
           ]
         }
       ]
@@ -5937,12 +5391,12 @@
     {
       "id": 5,
       "title": "Vetten en oliën (F&O) quiz",
-      "description": "Een quizspel met als doel de kennis over de groep vetten en oliën te vergroten en gebruikers op te leiden/te motiveren naar hun optimale consumptiepatroon.",
+      "description": "Vergroot uw kennis over vetten en oliën! Beantwoord de vragen en u leert over het soort voedsel dat u gebruikt, de verschillen in voedingswaarde en hoe u deze het beste in uw dieet kunt opnemen.",
       "levels": [
         {
           "id": 1,
           "title": "Kennis",
-          "description": "Vertrouwen met de groep vetten en oliën.",
+          "description": "Kennismaken met de groep vetten en oliën.",
           "questions": [
             {
               "id": 1,
@@ -6095,66 +5549,6 @@
               ]
             },
             {
-              "id": 6,
-              "question": "Wat is zware crème?",
-              "category": {
-                "id": "category-0",
-                "text": "Niet -gedefinieerde categorie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "De vette component sierde van melk",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Een romig product gemaakt door kokende kaas",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Een mengsel van yoghurt met boter",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Het vet afgeleid van varkensvlees",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 7,
-              "question": "Wat is slagroom?",
-              "category": {
-                "id": "category-0",
-                "text": "Niet -gedefinieerde categorie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Een gestolde versie van zonnebloemolie",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Een pasta gemaakt van amandelen",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Een mengsel van zware room en suiker",
-                  "correct": true
-                },
-                {
-                  "id": 4,
-                  "text": "Het vet van rundvlees",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 8,
               "question": "Welke van de volgende vetten/oliën is afkomstig van rood vlees?",
               "category": {
@@ -6169,7 +5563,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Heavy cream",
+                  "text": "Zonnebloemolie",
                   "correct": false
                 },
                 {
@@ -6246,7 +5640,7 @@
             },
             {
               "id": 11,
-              "question": "Welke van de volgende pasta's/spreads wordt geproduceerd door noten/zaden te buigen?",
+              "question": "Welke van de volgende pasta’s/smeersels wordt geproduceerd door het malen van noten?",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -6336,7 +5730,7 @@
             },
             {
               "id": 14,
-              "question": "Welke van de volgende vruchten bevat grote hoeveelheden vet?",
+              "question": "Welke van de volgende vruchten bevat grote hoeveelheden lipiden?",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -6366,22 +5760,15 @@
             }
           ],
           "messages": [
-            "Welkom in de wereld van vetten en oliën! Deze groep is erg divers en omvat:",
-            "Producten gemaakt van melk, b.v. Boter en zware room.",
-            "Producten afgeleid van rood vlees, b.v. Varkens reuzel en rundvlees talg.",
-            "Olijven, de vrucht van de olijfboom.",
-            "Noten en zaden, b.v. Amandel, walnoot, pinda, hazelnoot, pecannoten, cashewnoten, pistache, vlas/lijnzaad, pompoenzaad, zonnebloemzaad en sesamzaad.",
-            "Pasta's/spreads gemaakt van noten/zaden, b.v. Pindakaas, amandelboter, hazelnootboter, walnootboter en tahini die is gemaakt van gemalen sesamzaden.",
-            "Plantenolie afgeleid van de zaden of vruchten van planten (bijv. Olijfolie, zonnebloemolie, saffloerolie, canola -olie, maïsolie en palmolie) of uit peulvruchten (bijv. Sojaolie).",
-            "Margarine, een gestolde versie van plantaardige oliën en gebruikt als een botervang.",
-            "Mayonaise, een emulsie van olie- en eidooiers en andere sauzen op basis van mayonaise.",
-            "Wist je dat avocado een vrucht is die meestal vet bevat (enkelvoudig onverzadigde lipiden)?"
+            "Deze groep omvat ingrediënten die voornamelijk worden gebruikt bij het koken, maar ook sauzen of smeersels. Ze maken het koken van voedsel mogelijk en geven smaak en smaak aan gerechten en maaltijden. Hun gemeenschappelijke voedingsstof zijn lipiden.",
+            "Oliën omvatten alle eetbare (=kan worden gegeten) olie afkomstig van planten (bijvoorbeeld olijfolie, zonnebloemolie, sojaolie).",
+            "Vetten omvatten de vaste vorm van lipiden, afkomstig van planten of dieren: a) Plantaardige bronnen: smeersels zoals margarine en mayonaise, alle noten en zaden (bijvoorbeeld amandelen, walnoten, pinda's, sesam) en hun boters/pasta's die in smeersels worden gebruikt (bijvoorbeeld pindakaas, tahini). Ook olijfolie en avocado.b) Dierlijke bronnen: van rood vlees (bijvoorbeeld varkensreuzel, rundervet), van melk (boter)."
           ]
         },
         {
           "id": 2,
           "title": "Voedingswaarde",
-          "description": "Vertrouwen met de voedingswaarde van vetten en oliën.",
+          "description": "Kennismaken met de voedingswaarde van vetten en oliën.",
           "questions": [
             {
               "id": 1,
@@ -6423,7 +5810,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Calorieën/energie",
+                  "text": "Energie (calorieën)",
                   "correct": true
                 },
                 {
@@ -6504,68 +5891,8 @@
               ]
             },
             {
-              "id": 5,
-              "question": "Wat is het belangrijkste type lipiden in olijven en olijfolie?",
-              "category": {
-                "id": "category-0",
-                "text": "Niet -gedefinieerde categorie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Verzadigd",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Enkelvoudig onverzadigd",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Meervoudig onverzadigd",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Omega-3",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 6,
-              "question": "Wat is het belangrijkste type lipiden in avocado?",
-              "category": {
-                "id": "category-0",
-                "text": "Niet -gedefinieerde categorie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Verzadigd",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Enkelvoudig onverzadigd",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Meervoudig onverzadigd",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Omega-3",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 7,
-              "question": "Wat is het belangrijkste type lipiden in palm- en kokosolie?",
+              "question": "In tegenstelling tot andere plantaardige oliën bevatten palmolie en kokosolie?",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -6573,22 +5900,22 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Verzadigd",
+                  "text": "Voornamelijk verzadigde lipiden",
                   "correct": true
                 },
                 {
                   "id": 2,
-                  "text": "Enkelvoudig onverzadigd",
+                  "text": "Meer onverzadigde lipiden",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Meervoudig onverzadigd",
+                  "text": "Meer lipiden in totaal",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Omega-3",
+                  "text": "Meer vitamines",
                   "correct": false
                 }
               ]
@@ -6624,68 +5951,8 @@
               ]
             },
             {
-              "id": 9,
-              "question": "Wat is de olijfolie van de beste kwaliteit?",
-              "category": {
-                "id": "category-0",
-                "text": "Niet -gedefinieerde categorie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Geraffineerde olijfolie",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Extra maagdelijke olijfolie",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Onbewerkte olijfolie",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Olijfpomaceolie",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 10,
-              "question": "Welke van de volgende is te vinden in olijfolie en helpt bij het bestrijden van oxidatieve stress?",
-              "category": {
-                "id": "category-0",
-                "text": "Niet -gedefinieerde categorie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Polyfenolen",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Probiotica",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Vitamine C",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Suiker",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 11,
-              "question": "Translipiden worden gevormd wanneer plantaardige oliën:",
+              "question": "Wat zijn translipiden:",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -6693,17 +5960,17 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Worden rauw gebruikt in salades",
+                  "text": "Lipiden die rauw in salades worden gebruikt",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Worden gestold of gekookt bij hoge temperatuur",
+                  "text": "Lipiden die bij hoge temperatuur worden gestold of gekookt",
                   "correct": true
                 },
                 {
                   "id": 3,
-                  "text": "Worden langer dan 1 maand opgeslagen",
+                  "text": "Lipiden tgat worden langer dan 1 maand bewaard",
                   "correct": false
                 },
                 {
@@ -6723,12 +5990,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Harde groentevetten",
+                  "text": "Koekjes verkocht in de supermarkt",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Gebakken/gefrituurde gebakjes en snacks",
+                  "text": "Gebakken gebakjes en snacks",
                   "correct": false
                 },
                 {
@@ -6805,19 +6072,19 @@
             }
           ],
           "messages": [
-            "Vetten en oliën zijn voornamelijk opgesteld uit lipiden, die het lichaam energie geven.",
+            "Vetten en oliën bestaan ​​voornamelijk uit lipiden, waarvan de belangrijkste rol voor het lichaam het opslaan van energie is.",
             "De kwaliteit van lipiden verschilt echter aanzienlijk tussen de verschillende vetten/oliën:",
-            "Vetten op basis van dieren/oliën, b.v. Boter, zware room en reuzel/talg, bevatten meestal verzadigde lipiden, die met mate moeten worden geconsumeerd voor een optimale gezondheid.",
-            "Plantengebaseerde vetten/oliën, b.v. Olijf, noten/zaden, plantaardige oliën en avocado, bevatten meestal onverzadigde (mono- en poly-onverzadigde) lipiden, die gunstig zijn voor het hart en de vaten. Een uitzondering is palm- en kokosolie, die zeer rijk zijn aan verzadigde lipiden en moeten worden vermeden.",
-            "De meeste plantaardige oliën zijn rijk aan vitamine E die de cellen van het lichaam beschermt tegen oxidatie.",
-            "Onder de verschillende plantaardige oliën wordt olijfolie, vooral extra olijfolie met een maagdelijke maagdelijke, beschouwd als een van de gezondste keuzes, omdat het minimaal wordt verwerkt en een breed scala aan andere antioxidanten bevat!",
-            "Wist je dat wanneer plantaardige oliën worden verwerkt om vast te worden of gekookt bij trans -lipiden op hoge temperatuur kan vormen? Deze lipiden zijn zeer schadelijk voor de gezondheid en zijn te vinden in harde groentevetten (bijv. Verkorting en enkele harde margarines) en verschillende verwerkte voedingsmiddelen, zoals gebakken gebakjes, zoute snacks, kant-en-klare maaltijden en fastfoods. Voedsellabels kunnen u helpen deze voedingsmiddelen te identificeren: Zoek naar het woord 'trans' in de sectie Voedingsfeiten of de zin 'gedeeltelijk gehydrogeneerde olie' in de lijst met ingrediënten."
+            "Dierlijke vetten, b.v. boter, room en reuzel/talg bevatten voornamelijk verzadigde lipiden, die met mate moeten worden geconsumeerd voor een optimale gezondheid.",
+            "Plantaardige vetten, b.v. olijven, noten/zaden, plantaardige oliën en avocado bevatten voornamelijk onverzadigde lipiden, die gunstig zijn voor het hart. Een uitzondering vormen palm- en kokosolie, die zeer rijk zijn aan verzadigde lipiden en vermeden moeten worden.",
+            "De meeste plantaardige oliën zijn rijk aan vitamine E, waardoor de cellen van uw lichaam gezond blijven.",
+            "Van de verschillende plantaardige oliën wordt olijfolie, vooral extra vierge olijfolie, als een van de gezondste keuzes beschouwd, omdat deze niet wordt verwerkt en een breed scala aan gezonde componenten bevat!",
+            "Maar wees voorzichtig! Wanneer sommige plantaardige oliën worden omgezet in vaste vetten of op zeer hoog vuur worden gekookt, verandert hun structuur, waardoor ze de meest ongezonde lipiden van allemaal worden. Ze worden translipiden genoemd en zijn te vinden in bewerkte voedingsmiddelen zoals gebak, zoute snacks en fastfood."
           ]
         },
         {
           "id": 3,
           "title": "Aanbevolen inname",
-          "description": "Vertrouwen met de aanbevolen inname van vetten en oliën in termen van kwantiteit en kwaliteit.",
+          "description": "Kennismaken met de aanbevolen inname van vetten en oliën in termen van kwantiteit en kwaliteit.",
           "questions": [
             {
               "id": 1,
@@ -6829,17 +6096,17 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Alleen plantaardige oliën die bij het koken worden gebruikt",
+                  "text": "Plantaardige oliën die worden gebruikt bij het koken",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Alleen boter gebruikt als een spread voor brood",
+                  "text": "Boter gebruikt als smeersel voor brood",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Alleen noten/zaden die als een snack worden geconsumeerd",
+                  "text": "Noten/zaden die als tussendoortje worden geconsumeerd",
                   "correct": false
                 },
                 {
@@ -6864,24 +6131,24 @@
                 },
                 {
                   "id": 2,
-                  "text": "Zware room en mayonaise gebaseerde sauzen",
+                  "text": "Sauzen op basis van mayonaise",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Gezonde plantaardige oliën die worden gebruikt bij het koken en salades",
+                  "text": "Plantaardige oliën die worden gebruikt bij het koken en in salades",
                   "correct": true
                 },
                 {
                   "id": 4,
-                  "text": "Slagroom in snoep",
+                  "text": "Room in snoep",
                   "correct": false
                 }
               ]
             },
             {
               "id": 3,
-              "question": "Wat is een goede manier om te voorkomen dat vetten/oliën worden gebruikt bij het koken?",
+              "question": "Wat is een goede manier om te voorkomen dat je te veel vetten/oliën gebruikt tijdens het koken?",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -6972,14 +6239,14 @@
           ],
           "messages": [
             "Geniet met mate van vetten en oliën!",
-            "Toegevoegde vetten/oliën die worden gebruikt bij het koken en salades (bijv. Plantenolie, boter), evenals voedingsmiddelen die rijk zijn aan lipiden (bijv. Noten/zaden, olijven) kunnen elke dag worden geconsumeerd, maar hun kwantiteit is belangrijk! Allen zijn erg rijk aan calorieën, dus matiging in hun consumptie is belangrijk om overmatige gewichtstoename te voorkomen.",
-            "Onthoud: geef voor een optimale gezondheid een prioriteit aan gezonde plantaardige olie (bijv. Olijfolie, zonnebloemolie, saffloerolie en koolzaadolie) en noten/zaden over vetten op dierbasis (bijv. Lard/talg, boter en zware room), en probeer verwerkte voedingsmiddelen te vermijden die zo veel mogelijk translipiden bevatten!"
+            "Hun lipidengehalte zorgt ervoor dat vetten en oliën, evenals de producten die deze als ingrediënten bevatten, energierijke voedingsmiddelen zijn, wat betekent dat ze voor een bepaalde hoeveelheid veel energie (calorieën) leveren. Daarom wordt matiging van de hoeveelheid aanbevolen.",
+            "Maar ook hun kwaliteit doet ertoe! Onthoud: geef voor een optimale gezondheid prioriteit aan gezonde plantaardige oliën (bijv. olijfolie, zonnebloemolie, saffloerolie) en noten/zaden boven dierlijke vetten (bijv. reuzel/talg, boter en room), en probeer bewerkte voedingsmiddelen die mogelijk translipiden bevatten zoveel mogelijk te vermijden!"
           ]
         },
         {
           "id": 4,
           "title": "Consumptiepraktijken",
-          "description": "Vertrouwen met de best practices om vetten en oliën te hanteren en te consumeren.",
+          "description": "Vertrouwd raken met de beste praktijken voor het omgaan met en consumeren van vetten en oliën.",
           "questions": [
             {
               "id": 1,
@@ -7103,7 +6370,7 @@
             },
             {
               "id": 5,
-              "question": "Welke van de volgende is een goede manier om noten en zaden in uw dieet op te nemen?",
+              "question": "Welke van de volgende is een goede manier om noten en zaden aan uw dieet toe te voegen?",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -7163,7 +6430,7 @@
             },
             {
               "id": 7,
-              "question": "Welke van de volgende is een goede manier om tahini of notenboter in uw dieet op te nemen?",
+              "question": "Welke van de volgende is een goede manier om notenboter aan uw dieet toe te voegen?",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -7193,7 +6460,7 @@
             },
             {
               "id": 8,
-              "question": "Welke van de volgende is een goede manier om avocado in uw dieet op te nemen?",
+              "question": "Welke van de volgende is een goede manier om avocado aan uw dieet toe te voegen?",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -7283,19 +6550,19 @@
             }
           ],
           "messages": [
-            "Hoge temperatuur kan plantenoliën belangrijke voedingsstoffen verliezen. Dus in plaats van diepgaande voedingsmiddelen, is het het beste om kleine hoeveelheden plantaardige oliën te gebruiken aan het einde van het koken in de pot of in de oven.",
-            "Dezelfde plantolie mag niet meerdere keren worden gebruikt voor het koken, omdat herhaalde verwarming de productie van schadelijke stoffen kan veroorzaken.",
-            "Onthoud: olijfolie, vooral extra maagd, is speciaal! Het is rijk aan antioxidanten en dus resistent in warmte tijdens het koken, wat betekent dat het de meeste nuttige voedingsstoffen bewaart en niet gemakkelijk slecht gaat.",
+            "Hoge temperaturen kunnen ervoor zorgen dat plantaardige oliën belangrijke voedingsstoffen verliezen. In plaats van voedsel te frituren, is het het beste om aan het einde van het koken kleine hoeveelheden plantaardige oliën te gebruiken.",
+            "Gebruik niet steeds dezelfde olie, omdat het herhaaldelijk verwarmen ervan ongezond kan worden.",
+            "Uitzondering: olijfolie, vooral extra vierge, bederft niet tijdens het koken en kan veilig meerdere keren worden gebruikt voordat het wordt weggegooid.",
             "Noten en zaden kunnen worden geconsumeerd als een gemakkelijk te dragen snack of worden toegevoegd aan yoghurt, ontbijtgranen, zelfgemaakte desserts en salades. Kies voor een nog gezondere optie ruwe en ongezouten noten!",
-            "Notenbutters en tahini zitten vol met gezonde vetten! Je kunt ze gebruiken in yoghurt, als een verspreiding voor brood of in zelfgemaakte desserts (bijv. Koekjes of graanstaven) in plaats van boter of margarine.",
+            "Notenboters zitten boordevol gezonde vetten! Je kunt ze gebruiken in yoghurt, als broodbeleg of in zelfgemaakte desserts (bijvoorbeeld koekjes of mueslirepen) in plaats van boter of margarine.",
             "Avocado's zijn heerlijk! Je kunt ze proberen in salades of gepureerd als een dip of verspreiding voor toast.",
-            "Zorg ervoor dat u vetten en oliën op de juiste manier opslaat. Boter, margarine en zware room moeten worden bewaard in de koelkast, terwijl plantaardige oliën kunnen worden bewaard in kamertemperatuur maar op een koele en donkere plaats."
+            "Zorg ervoor dat u vetten en oliën op de juiste manier bewaart. Boter, margarine en room moeten in de koelkast worden bewaard, terwijl plantaardige oliën bij kamertemperatuur maar op een koele en donkere plaats kunnen worden bewaard."
           ]
         },
         {
           "id": 5,
           "title": "Gezondheidseffecten",
-          "description": "Vertrouwen met de gezondheidseffecten van vetten en oliën.",
+          "description": "Kennismaken met de gezondheidseffecten van vetten en oliën.",
           "questions": [
             {
               "id": 1,
@@ -7388,38 +6655,8 @@
               ]
             },
             {
-              "id": 4,
-              "question": "Welke lipiden kunnen schadelijk zijn voor de gezondheid wanneer ze in grote hoeveelheden worden geconsumeerd?",
-              "category": {
-                "id": "category-0",
-                "text": "Niet -gedefinieerde categorie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Verzadigd",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Enkelvoudig onverzadigd",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Meervoudig onverzadigd",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Alle vorige",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 5,
-              "question": "Welke lipiden zijn erg schadelijk voor de gezondheid van het hart?",
+              "question": "Welke lipiden zijn het ongezondst voor je hart?",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -7427,12 +6664,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Enkelvoudig onverzadigd",
+                  "text": "Onverzadigd",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Omega-3 meervoudig onverzadigd",
+                  "text": "Verzadigd",
                   "correct": false
                 },
                 {
@@ -7446,14 +6683,43 @@
                   "correct": false
                 }
               ]
+            },
+            {
+              "id": 6,
+              "question": "Voor een optimale gezondheid moet u proberen:?",
+              "category": {
+                "id": "category-0",
+                "text": "geven de voorkeur aan plantaardige vetten boven dierlijke vetten"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Onverzadigd",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "vermijd verpakte snacks",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "gebruik spreads met mate",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Alle vorige",
+                  "correct": false
+                }
+              ]
             }
           ],
           "messages": [
-            "Vetten en oliën zijn belangrijk voor een gezond en sterk lichaam, zolang ze met mate worden geconsumeerd!",
-            "Lipiden, de belangrijkste voedingsstof in vetten en oliën, zijn niet alleen van vitaal belang voor het leveren van energie aan het lichaam, maar ook voor het bouwen van celmembranen, het verbeteren van de absorptie van in vet oplosbare vitamines (d.w.z. vitamine A, D, E en K) en het ondersteunen van de regulatie van de lichaamstemperatuur.",
-            "Houd er rekening mee dat matiging bij het verbruik van vetten en oliën erg belangrijk is! Lipiden bevatten veel calorieën, dus overconsumerende vetten en oliën kunnen leiden tot overmatige gewichtstoename op de lange termijn.",
-            "Verzadigde lipiden, die worden aangetroffen in alle vetten op dieren en sommige plantaardige oliën (palm en kokosnoot), kunnen schadelijk zijn voor de gezondheid als ze in grote hoeveelheden worden geconsumeerd. Dus, geef een prioriteit aan gezonde plantaardige vetten/oliën!",
-            "Probeer translipiden volledig, indien mogelijk, te vermijden, omdat ze erg schadelijk zijn voor het hart en de vaten! Een eenvoudige manier om dit te bereiken is om prioriteit te geven aan vers hele voedingsmiddelen boven verwerkte geïndustrialiseerde."
+            "Vetten en oliën zijn belangrijk voor een gezond en sterk lichaam, maar kwaliteit telt!",
+            "Lipiden, de belangrijkste voedingsstof die in vetten en oliën wordt aangetroffen, zijn belangrijk voor het leveren van energie aan het lichaam, het sterk houden van de cellen, het helpen uw lichaam bepaalde vitamines te gebruiken en het beheersen van uw lichaamstemperatuur.",
+            "Houd er rekening mee dat matiging in de consumptie van vetten en oliën erg belangrijk is! De voedingsindustrie gebruikt ze op grote schaal om producten te maken die erg lekker zijn, maar ook energierijk en meestal een lage voedingswaarde hebben. Het regelmatig consumeren van deze producten kan op de lange termijn leiden tot overgewicht.",
+            "Probeer translipiden te vermijden, omdat dit de ongezondste lipiden voor het hart zijn! Een eenvoudige manier om dit te bereiken is door meer vers, volwaardig voedsel te eten en minder bewerkte, geïndustrialiseerde voedingsmiddelen."
           ]
         }
       ]
@@ -7461,12 +6727,12 @@
     {
       "id": 6,
       "title": "Hydratatie (HYD) quiz",
-      "description": "Een quizspel dat de kennis over gezonde manieren voor voldoende hydratatie wil vergroten, waarbij water en andere drankjes worden benadrukt door middel van opleiding/motivatie voor hun optimale consumptie.",
+      "description": "Vergroot uw kennis over hydratatie! Beantwoord de vragen en leer het belang van water en de superioriteit ervan ten opzichte van andere dranken voor het bereiken van voldoende hydratatie en het bevorderen van uw algehele gezondheid.",
       "levels": [
         {
           "id": 1,
           "title": "Kennis",
-          "description": "Vertrouwen met gezonde hydratatiemiddelen.",
+          "description": "Kennismaken met gezonde hydratatiemiddelen.",
           "questions": [
             {
               "id": 1,
@@ -7638,7 +6904,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Water met koolstofdioxide",
+                  "text": "Water met bubbels'(kooldioxide)",
                   "correct": true
                 },
                 {
@@ -7673,7 +6939,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Cafeïnehoudende water",
+                  "text": "Water met chocolade",
                   "correct": false
                 }
               ]
@@ -7801,9 +7067,9 @@
           ],
           "messages": [
             "Welkom in de wereld van hydratatie! Om gehydrateerd te blijven, kunt u een grote verscheidenheid aan vloeistoffen proberen:",
-            "Water, dat het belangrijkste drankje is in het menselijke dieet. Smaak uw water op met fruit, kruiden of groenten of probeer sprankelend/koolzuurhoudend water, voor meer plezier!",
+            "Water, de belangrijkste drank. Breng uw water op smaak met fruit, kruiden of groenten of probeer bruisend/koolzuurhoudend water, voor meer plezier!",
             "Verse vruchtensappen, zoals sinaasappelsap, die worden geproduceerd door knijpen of verse vruchten te mengen.",
-            "Melk, een zuivelproduct, en gefermenteerde/gekweekte melkproducten, zoals zure melk en kefir, die worden geproduceerd door de toevoeging van bacteriën of schimmels in melk.",
+            "Melk, een zuivelproduct, en gefermenteerde/gekweekte melkproducten, zoals kefir",
             "Kruideninfusies, die worden gemaakt door te duren en kruiden, kruiden, bloemen of andere plantaardige materialen in heet water (bijv. Kamille, salie, eucalyptus, pepermunt).",
             "Vermijd drankjes die cafeïne bevatten (bijv. Koffie, zwarte thee, colas, energiedranken), toegevoegde suikers (bijv. Fruitnectars, frisdranken, energiedranken en sportdranken) of alcohol (bier, wijn, sterke drank). Ze zijn geen goede middelen voor hydratatie en misschien ook schadelijk voor uw gezondheid."
           ]
@@ -7811,7 +7077,7 @@
         {
           "id": 2,
           "title": "Voedingswaarde",
-          "description": "Vertrouwen met de voedingswaarde van water en drankjes.",
+          "description": "Vertrouwd raken met de voedingswaarde van water en dranken.",
           "questions": [
             {
               "id": 1,
@@ -7845,7 +7111,7 @@
             },
             {
               "id": 2,
-              "question": "Welke van de volgende drankjes bevat vitamine C, wat belangrijk is voor het immuunsysteem?",
+              "question": "Welke van de volgende dranken bevat vitamine C, wat belangrijk is voor je afweersysteem?",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -7905,7 +7171,7 @@
             },
             {
               "id": 4,
-              "question": "Welke van de volgende drankjes bevat calcium, wat belangrijk is voor sterke botten en tanden?",
+              "question": "Welke van de volgende dranken bevat het mineraal calcium, dat belangrijk is voor sterke botten en tanden?",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -7935,7 +7201,7 @@
             },
             {
               "id": 5,
-              "question": "Welke van de volgende drankjes bevat nuttige bacteriën?",
+              "question": "Welke van de volgende dranken bevat nuttige kiemen?",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -7953,7 +7219,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Kefir",
+                  "text": "Zure melk",
                   "correct": true
                 },
                 {
@@ -7995,7 +7261,7 @@
             },
             {
               "id": 7,
-              "question": "Welke van de volgende drankjes bevat polyfenolen, die antioxiderende effecten hebben?",
+              "question": "Welke van de volgende dranken bevat fytochemicaliën (speciale verbindingen die planten smaak geven)?",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -8085,7 +7351,7 @@
             },
             {
               "id": 10,
-              "question": "Welke van de volgende drankjes bevat ethanol?",
+              "question": "Welke van de volgende dranken bevat alcohol?",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -8119,19 +7385,18 @@
             "Water is de beste manier om gehydrateerd te blijven. Je kunt het belang ervan gemakkelijk begrijpen als je denkt dat tot 60-70% van ons lichaam eigenlijk water is! Het bevat geen calorieën of vitamines, maar slechts kleine hoeveelheden mineralen, zoals calcium en magnesium.",
             "Andere gezonde dranken bevatten verschillende belangrijke voedingsstoffen:",
             "Melk is rijk aan calcium, wat essentieel is voor sterke botten en tanden.",
-            "Zure melk en kefir bevatten goede bacteriën genaamd 'probiotica', die de darm helpen goed te werken.",
+            "Zure melk en kefir bevatten nuttige ziektekiemen, die ervoor zorgen dat de darmen goed werken.",
             "Verse vruchtensappen zitten vol met belangrijke vitamines (bijv. Vitamine C); Ze hebben echter minder voedingsvezels in vergelijking met hele vruchten.",
-            "Niet-cafeïne kruideninfusies bevatten antioxiderende verbindingen die fytochemicaliën worden genoemd.",
             "Maar wees voorzichtig! Niet alle drankjes zijn voedzaam.",
-            "Verpakte vruchtensappen, frisdranken, sportdranken en energiedranken zijn ultra-verwerkt en beladen met suiker en chemische additieven/conserveermiddelen, die nadelige effecten op het lichaam hebben.",
+            "Verpakte vruchtensappen, frisdranken, sportdranken en energiedranken zijn ultrabewerkt en zitten boordevol suiker en additieven/conserveermiddelen, die schadelijke effecten hebben op het lichaam.",
             "Koffie, zwarte thee en energiedranken bevatten ook veel cafeïne, wat angst, prikkelbaarheid en slaapproblemen kan veroorzaken.",
-            "Alcoholische dranken bevatten ethanol, wat schadelijk is voor uw ontwikkeling en algehele gezondheid."
+            "Alcohol beschadigt uw hersenfunctie, uw gedrag en uw algehele ontwikkeling, dus u moet afzien van het drinken van alcohol, zelfs in zeldzame gevallen."
           ]
         },
         {
           "id": 3,
           "title": "Aanbevolen inname",
-          "description": "Vertrouwen met de aanbevolen inname van water en drankjes.",
+          "description": "Om vertrouwd te raken met de aanbevolen inname van water en dranken.",
           "questions": [
             {
               "id": 1,
@@ -8346,17 +7611,17 @@
           ],
           "messages": [
             "Het aanbevolen dagelijkse waterverbruik hangt af van leeftijd en geslacht. Het is:",
-            "1600 ml (~ 6-7 glazen) voor 4-8-jarige kinderen,",
-            "1900 ml (~ 7-8 glazen) voor 9-13-jarige meisjes of 2100 ml (~ 8-9 glazen) voor 9-13-jarige jongens,",
-            "2000 ml (~ 8 glazen) voor ≥14-jarige meisjes of 2500 ml (~ 10 glazen) voor ≥14-jarige jongens.",
+            "(6-7 glazen) voor kinderen van 4-8 jaar,",
+            "(7-8 glazen) voor 9-13-jarige meisjes of (8-9 glazen) voor 9-13-jarige jongens,",
+            "(8 glazen) voor meisjes ≥14 jaar of (10 glazen) voor jongens ≥14 jaar.",
             "Wist je dat wanneer de temperatuur hoog is (vooral in de zomer), of als je fysiek actief bent, je lichaam meer vloeistoffen nodig heeft om het water dat verloren gaat door zweten en zware ademhaling te vervangen? Andere situaties waarin u meer vloeistoffen nodig heeft, zijn wanneer u hoge koorts, diarree en braken heeft.",
-            "Onthoud: probeer voor een optimale ontwikkeling en gezondheid om verwerkte hoge suikerdranken volledig te vermijden (bijv. Fruitnectars, frisdranken en energiedranken), die die cafeïne bevatten (bijv. Koffie en zwarte thee) en alcoholische dranken!"
+            "Onthoud: probeer voor een optimale ontwikkeling en gezondheid bewerkte dranken met een hoog suikergehalte (bijv. fruitnectars, frisdranken en energiedranken), dranken die cafeïne bevatten (bijv. koffie en zwarte thee) en vooral dranken die alcohol bevatten volledig te vermijden!"
           ]
         },
         {
           "id": 4,
           "title": "Consumptiepraktijken",
-          "description": "Vertrouwen met best practices om gehydrateerd te blijven.",
+          "description": "Om vertrouwd te raken met de beste praktijken om gehydrateerd te blijven.",
           "questions": [
             {
               "id": 1,
@@ -8608,7 +7873,7 @@
         {
           "id": 5,
           "title": "Gezondheidseffecten",
-          "description": "Vertrouwen met de gezondheidseffecten van water en dranken, en de tekenen en gevolgen van uitdroging.",
+          "description": "Vertrouwd raken met de gezondheidseffecten van water en dranken, en de tekenen en gevolgen van uitdroging.",
           "questions": [
             {
               "id": 1,
@@ -8630,7 +7895,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Het neemt deel aan vele biochemische reacties",
+                  "text": "Het helpt je lichaam energie te maken en te groeien",
                   "correct": false
                 },
                 {
@@ -8685,7 +7950,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "U helpen beter te slapen",
+                  "text": "Helpt je vroeg te slapen",
                   "correct": false
                 },
                 {
@@ -8805,12 +8070,12 @@
                 },
                 {
                   "id": 2,
-                  "text": "Vermoeidheid en duizeligheid",
+                  "text": "Vermoeidheid",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Hoofdpijn",
+                  "text": "Hoofdpijn of duizeligheid",
                   "correct": false
                 },
                 {
@@ -8882,7 +8147,7 @@
             },
             {
               "id": 10,
-              "question": "Consumptie van alcoholische dranken is schadelijk voor:",
+              "question": "Consumptie van dranken met alcohol is schadelijk voor:",
               "category": {
                 "id": "category-0",
                 "text": "Niet -gedefinieerde categorie"
@@ -8914,9 +8179,9 @@
           "messages": [
             "Blijf gehydrateerd, blijf gezond!",
             "Het drinken van voldoende water is van vitaal belang voor uw lichaam. Water helpt belangrijke stoffen naar cellen door bloed te transporteren, afvalstoffen door urine te verwijderen en ondersteunt vele belangrijke functies van het lichaam. Het houdt je ook gefocust en energiek en regelt je lichaamstemperatuur.",
-            "Uitdroging, die optreedt wanneer uw lichaam meer vloeistoffen verliest dan het inneemt, kan zich vertonen met tekenen en symptomen zoals dorstigheid, duizeligheid, hoofdpijn, vermoeidheid, droge mond, niet-elastische huid en slechte adem. Wist u dat u uw hydratatiestatus kunt controleren door de kleur van uw urine te observeren? Donkere gele urine is een teken van uitdroging en dat je wat water moet drinken.",
+            "Uitdroging, die optreedt wanneer uw lichaam meer vocht verliest dan het opneemt, kan zich uiten in tekenen en symptomen zoals dorst, duizeligheid, vermoeidheid, vermoeidheid, droge mond, niet-elastische huid en slechte adem. Wist u dat u uw hydratatie kunt controleren door de kleur van uw urine te observeren? Donkergele urine is een teken van uitdroging en dat u wat water moet drinken. Streef naar lichtgekleurde urine, zoals een lichtgekleurde kamillethee.",
             "Vermijd drankjes met cafeïne, omdat ze overstimulatie kunnen veroorzaken en uw slaap kunnen verstoren.",
-            "Vermijd gezoete drankjes, omdat een hoge consumptie het risico op tandbederf en chronische ziekten, zoals obesitas en diabetes, op de lange termijn kan vergroten.",
+            "Vermijd met suiker gezoete dranken, omdat een hoge consumptie op de lange termijn het risico op tandbederf of zwaarlijvigheid kan vergroten.",
             "Het is cruciaal om alcoholgebruik te voorkomen, omdat het schadelijk is voor uw lever, botten, mentale en algehele gezondheid."
           ]
         }

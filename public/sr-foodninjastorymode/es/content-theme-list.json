@@ -3,27 +3,27 @@
     {
       "id": 1,
       "title": "Frutas y verduras",
-      "description": "Familiarización con el grupo de alimentos de frutas y verduras. La complejidad de la tarea se intensifica con el nivel de avance: al principio, el enfoque se centra en las frutas y las verduras solas, luego se introduce jugar con sus colores.",
+      "description": "¡Busca las frutas y verduras! Córtelos para ganar puntos y conozca su valor nutricional y su paleta de colores, cuántos debe consumir diariamente y formas inteligentes de agregarlos a su dieta.",
       "levels": [
         {
           "id": 1,
-          "title": "Su tarea es cortar solo las frutas que ves.",
+          "title": "¡Tu tarea es cortar las frutas!",
           "messages": [
             "¡Dale a Fruit una prioridad!",
-            "Las frutas se encuentran entre los alimentos, se recomienda que consuma a diario. En general, 2-3 frutas por día es su objetivo final. Seleccionar una fruta como refrigerio, en la escuela o por la tarde, lo ayudará a alcanzar su objetivo diario. Para hacerlo, dale a Fruit una prioridad: ¡primero coma la fruta, luego cualquier otra cosa!"
+            "Las frutas se encuentran entre los alimentos que debes consumir a diario. En general, tu objetivo final es 2-3 frutas al día. Seleccionar una fruta como merienda, en el colegio o por la tarde, te ayudará a conseguir tu objetivo diario. Para ello, dale prioridad a la fruta: ¡primero come la fruta y luego cualquier otra cosa!"
           ]
         },
         {
           "id": 2,
-          "title": "Su tarea es cortar solo las verduras que ves.",
+          "title": "¡Tu tarea es cortar las verduras!",
           "messages": [
             "¡Ve con una ensalada en tus comidas!",
-            "También se recomienda que las verduras, como las frutas, se consuman a diario. Se pueden servir como ensalada o incluso como plato principal. Para cumplir con su objetivo cotidiano, ¡acompañe sus comidas principales con verduras!"
+            "Las verduras, al igual que las frutas, deben consumirse a diario. Se pueden servir como ensalada o incluso como plato principal. ¡Para cumplir tu objetivo diario, acompaña tus comidas principales con verduras!"
           ]
         },
         {
           "id": 3,
-          "title": "Su tarea es cortar solo el F&V con color rojo.",
+          "title": "¡Tu tarea es cortar las frutas y verduras de color rojo!",
           "messages": [
             "¡Descubre la paleta de colores F&V!",
             "Las frutas y verduras son los grupos de alimentos más coloridos. Sin embargo, sus colores no son solo un placer para sus ojos, sino también para su cuerpo. Detrás de un color, existen ciertas sustancias que benefician específicamente a un sistema de su cuerpo. En otras palabras, los diferentes colores son buenos para diferentes sistemas del cuerpo. ¡Descúbrelos!"
@@ -34,27 +34,27 @@
     {
       "id": 2,
       "title": "Productos lácteos (DP)",
-      "description": "Familiarización con el grupo de alimentos de productos lácteos. La complejidad de la tarea aumenta con cada nivel: primero, el enfoque es identificar y cortar productos lácteos comunes; Luego, los alumnos pasan a cortar la imagen que muestra el consumo diario recomendado de productos lácteos; Finalmente, identifican y cortan la imagen que resalta el nutriente clave que se encuentra en las lecherías, es decir, calcio.",
+      "description": "¡Busca los productos lácteos! Córtelos para ganar puntos y conozca sus nutrientes clave, cuántos debe consumir diariamente, el tamaño de la porción y formas inteligentes de agregarlos a su dieta.",
       "levels": [
         {
           "id": 1,
-          "title": "Su tarea es cortar solo los productos lácteos que ve.",
+          "title": "¡Tu tarea es cortar los productos lácteos!",
           "messages": [
-            "¡Haga de las lecherías un hábito diario! ¡Incluirlos temprano en su día y construir hábitos saludables que duren!",
-            "Los productos lácteos como la leche, el yogurt y el queso son alimentos recomendados para el consumo diario porque proporcionan nutrientes clave para su crecimiento y desarrollo."
+            "¡Haz de los productos lácteos un hábito diario! ¡Inclúyalos temprano en su día y desarrolle hábitos saludables que duren!",
+            "Los productos lácteos como la leche, el yogur y el queso son alimentos que debes consumir a diario porque aportan nutrientes clave para tu crecimiento y desarrollo."
           ]
         },
         {
           "id": 2,
-          "title": "Su tarea es cortar solo el consumo diario recomendado de productos lácteos que ve.",
+          "title": "¡Tu tarea es reducir el consumo diario recomendado de productos lácteos!",
           "messages": [
-            "¡Ve con las lecherías todos los días!",
-            "Para cumplir con el objetivo de 3-4 porciones de productos lácteos por día, intente incluir un vaso de leche con desayuno, yogurt como bocadillo o queso con su almuerzo o cena. Haz que sea un hábito: ¡combina tus comidas o bocadillos con una opción de lácteos para mantenerte fuerte y saludable!"
+            "¡Consuma productos lácteos todos los días!",
+            "Para alcanzar el objetivo de 3-4 porciones de productos lácteos al día, intente incluir un vaso de leche en el desayuno, yogur como merienda o queso en el almuerzo o la cena. Conviértalo en un hábito: combine sus comidas o refrigerios con una opción de productos lácteos para mantenerse fuerte y saludable."
           ]
         },
         {
           "id": 3,
-          "title": "Su tarea es identificar lo que cuenta como una parte de un producto lácteo. Seleccione todos los elementos que representan una porción láctea estándar.",
+          "title": "Tu tarea es cortar lo que cuenta como una porción de un producto lácteo.",
           "messages": [
             "¿Qué cuenta como una porción de lácteos?",
             "Aquí hay una guía rápida: (1) 1 vaso (240 ml) de leche, (2) 1 olla (150 g) de yogurt y (3) 1 porción (o 30 g) de queso"
@@ -62,9 +62,9 @@
         },
         {
           "id": 4,
-          "title": "Su tarea es cortar solo el nutriente clave que se encuentra en los productos lácteos. Tenga en cuenta que: CA: Calcio, Fe: hierro.",
+          "title": "¡Tu tarea es dividir el nutriente clave que se encuentra en los productos lácteos! Tenga en cuenta que: Ca: calcio, Fe: hierro, vE: vitamina E.",
           "messages": [
-            "Los productos lácteos son una de las mejores fuentes de calcio (CA), que ayuda a construir huesos y dientes fuertes.",
+            "Los productos lácteos son una de las mejores fuentes de calcio, que ayuda a desarrollar huesos y dientes fuertes.",
             "Los productos lácteos también son fuentes importantes de proteínas de alta calidad, importantes para su crecimiento, vitaminas y minerales.",
             "Los productos lácteos bajos en grasa le brindan menos calorías y grasas, pero también son buenas fuentes de calcio y proteínas. ¡Elige ellos también!"
           ]

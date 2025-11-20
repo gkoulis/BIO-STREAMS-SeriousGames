@@ -8,7 +8,7 @@
         {
           "id": 1,
           "title": "Bekendtskab",
-          "description": "Fortrolighed med fødevaregrupperne af frugter og grøntsager.",
+          "description": "At blive fortrolig med fødevaregrupperne frugt og grønt.",
           "questions": [
             {
               "id": 1,
@@ -132,7 +132,7 @@
             },
             {
               "id": 5,
-              "question": "Hvilket af følgende er en grøntsag?",
+              "question": "Hvilken af ​​følgende er en grøntsag ud fra et ernæringsmæssigt synspunkt?",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -254,17 +254,18 @@
           "messages": [
             "Velkommen til verden af frugt og grøntsager!",
             "Frugtgruppen inkluderer alle friske frugter (f.eks. Orange, æble, pære, banan, fersken) og tørrede frugter (f.eks. Blommer, rosiner, abrikoser) samt friskpressede frugtsaft (dvs. 100% frugtsaft uden tilsat sukker). Husk: Pakkede frugteruicer med tilsat sukker, læskedrikke og andre forarbejdede frugtdrikke er ikke inkluderet i fødevaregruppen af frugter.",
-            "Grøntsagsgruppen inkluderer alle rå grøntsager (f.eks. Salat, kål, gulerod, tomat, agurk) og kogte grøntsager (f.eks. Broccoli, blomkål, zucchini, rødbeder). Husk: Stivelsesholdige grøntsager, dvs. majs, ærter og græskar, er også inkluderet i grøntsagens fødevaregruppe, men de er rige på stivelse, et komplekst kulhydrat, som ikke er til stede i andre grøntsager."
+            "Grøntsagsgruppen inkluderer alle rå grøntsager (f.eks. Salat, kål, gulerod, tomat, agurk) og kogte grøntsager (f.eks. Broccoli, blomkål, zucchini, rødbeder). Husk: Stivelsesholdige grøntsager, dvs. majs, ærter og græskar, er også inkluderet i grøntsagens fødevaregruppe, men de er rige på stivelse, et komplekst kulhydrat, som ikke er til stede i andre grøntsager.",
+            "Der er forskellige slags grøntsager, som grønne blade (f.eks. spinat), rod (f.eks. gulerod) eller korsblomstrede (f.eks. broccoli, blomkål). Stivelsesholdige grøntsager, det vil sige majs, ærter og græskar, indgår også i grøntsagsfødevaregruppen, men de er rige på stivelse, en type kulhydrat, der ikke findes i andre grøntsager."
           ]
         },
         {
           "id": 2,
           "title": "Ernæringsværdi",
-          "description": "Fortrolighed med ernæringsværdien af frugt og grøntsager.",
+          "description": "At blive fortrolig med næringsværdien af ​​frugt og grøntsager.",
           "questions": [
             {
               "id": 1,
-              "question": "Hvilket er de vigtigste næringsstoffrugter og grøntsager består af?",
+              "question": "Hvilket næringsstof består frugter af?",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -282,7 +283,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Fibre",
+                  "text": "Lipider",
                   "correct": false
                 },
                 {
@@ -536,14 +537,14 @@
           "messages": [
             "Frugt og grøntsager er en meget god kilde til en lang række vigtige næringsstoffer!",
             "De er primært sammensat af kulhydrater, der hovedsageligt er til stede i form af sukker og giver energi til kroppen.",
-            "De inkluderer også vitaminer (f.eks. C -vitamin, vitamin K, folsyre), mineraler (f.eks. Kalium, calcium), fibre og også andre forbindelser (f.eks. Fytokemikalier) vigtige for kroppens optimale funktion.",
+            "De omfatter også vitaminer (f.eks. C-vitamin, K-vitamin, folinsyre), mineraler (f.eks. kalium, calcium), fibre og også andre forbindelser, der er vigtige for kroppens optimale funktion.",
             "Selvom de er faste fødevarer, indeholder de masser af vand og kan også bidrage til kroppens hydrering."
           ]
         },
         {
           "id": 3,
           "title": "Anbefalet indtag",
-          "description": "Fortrolighed med den anbefalede indtag og delstørrelse af frugt og grøntsager.",
+          "description": "At blive fortrolig med det anbefalede indtag og portionsstørrelse af frugt og grøntsager.",
           "questions": [
             {
               "id": 1,
@@ -765,7 +766,7 @@
         {
           "id": 4,
           "title": "Forbrugspraksis",
-          "description": "Fortrolighed med bedste praksis til at håndtere og forbruge frugt og grøntsager.",
+          "description": "At blive fortrolig med bedste praksis for at håndtere og indtage frugt og grøntsager.",
           "questions": [
             {
               "id": 1,
@@ -937,7 +938,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Med mindre pesticider",
+                  "text": "Med færre pesticider (kemikalier brugt i gården til at beskytte planterne)",
                   "correct": true
                 },
                 {
@@ -988,7 +989,7 @@
         {
           "id": 5,
           "title": "Sundhedseffekter",
-          "description": "Fortrolighed med de sundhedsmæssige fordele ved frugt og grøntsager.",
+          "description": "At blive fortrolig med de sundhedsmæssige fordele ved frugt og grøntsager.",
           "questions": [
             {
               "id": 1,
@@ -1060,7 +1061,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "De øger dit immunsystem",
+                  "text": "De booster din krops forsvarssystem",
                   "correct": true
                 },
                 {
@@ -1114,13 +1115,13 @@
           "messages": [
             "Gå sundt med flere frugter og grøntsager!",
             "Frugt og grøntsager er en nøglekomponent i en sund kost.",
-            "Blandt deres mange sundhedsmæssige fordele understøtter de optimal vækst og udvikling, forbedrer immunsystemet og hjælper det kardiovaskulære system og mave -tarmkanalen fungerer korrekt."
+            "Blandt deres talrige sundhedsmæssige fordele understøtter de optimal vækst og udvikling, booster vores forsvarssystem og hjælper hjertet og tarmen med at fungere korrekt."
           ]
         },
         {
           "id": 6,
           "title": "Variation og sæsonbestemthed",
-          "description": "Fortrolighed med begreberne variation og sæsonbestemthed af frugt og grøntsager.",
+          "description": "At blive fortrolig med begreberne variation og sæsonbestemt frugt og grøntsager.",
           "questions": [
             {
               "id": 1,
@@ -1154,7 +1155,7 @@
             },
             {
               "id": 2,
-              "question": "Farven på frugt og grøntsager angiver deres indhold i:",
+              "question": "Hvilke af nedenstående forbindelser giver frugt og grøntsager deres særlige farve?:",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -1162,7 +1163,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Fytokemikalier",
+                  "text": "Særlige forbindelser kaldet fytokemikalier",
                   "correct": true
                 },
                 {
@@ -1344,7 +1345,7 @@
     {
       "id": 2,
       "title": "Mejeriprodukter (DP) quiz",
-      "description": "Et quizspil, der sigter mod at øge viden om mejeriproduktionsgruppen og motivere det optimale forbrug gennem forståelse af typer, ernæring, praksis, sikkerhed og sundhedsmæssige fordele.",
+      "description": "For at øge din viden om mejeriprodukter!. Besvar spørgsmålene og lær, hvad der tæller som mejeriprodukter ud fra et ernæringsmæssigt synspunkt, deres ernæringsmæssige værdi, hvor meget der anbefales at indtage og praktiske tips til at opfylde dine daglige behov og håndtere dem sikkert.",
       "levels": [
         {
           "id": 1,
@@ -1353,7 +1354,7 @@
           "questions": [
             {
               "id": 1,
-              "question": "Hvilket af følgende er en mejeriprodukter?",
+              "question": "Hvilket af følgende er et mejeriprodukt?",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -1383,7 +1384,7 @@
             },
             {
               "id": 2,
-              "question": "Hvilket af følgende er en mejeriprodukter?",
+              "question": "Hvilket af følgende er et mejeriprodukt?",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -1413,7 +1414,7 @@
             },
             {
               "id": 3,
-              "question": "Hvilket af følgende er en mejeriprodukter?",
+              "question": "Hvilket af følgende er et mejeriprodukt ud fra et ernæringsmæssigt synspunkt?",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -1431,7 +1432,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Kefir.",
+                  "text": "Ost.",
                   "correct": true
                 },
                 {
@@ -1443,7 +1444,7 @@
             },
             {
               "id": 4,
-              "question": "Hvilket af følgende hører ikke til Dairies 'Food Group?",
+              "question": "Hvilket af følgende er ikke et mejeriprodukt ud fra et ernæringsmæssigt synspunkt?",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -1503,7 +1504,7 @@
             },
             {
               "id": 6,
-              "question": "Hvilket af følgende er et gæret mejeriprodukt?",
+              "question": "Hvilke af følgende mejeriprodukter indeholder nyttige bakterier?",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -1533,15 +1534,15 @@
             }
           ],
           "messages": [
-            "Velkommen til mejeriens verden!",
-            "Mejerifødgruppen inkluderer fødevarer lavet af mælk - som mælk, almindelig yoghurt og ost. Husk: Produkter som yoghurt med masser af tilsat sukker, smør og plantebaserede eller chokolademælk tælles ikke som en del af mejeriproduktionen.",
-            "Forskellige mejeriprodukter har forskellige smag og teksturer, men inkluderer lignende næringsstoffer, der er vigtige for din vækst og sundhed."
+            "Velkommen til mejeriprodukternes verden!",
+            "Ud fra et ernæringsmæssigt synspunkt omfatter fødevaregruppen af ​​mejeriprodukter fødevarer fremstillet af mælk, som også indeholder lignende mængder af nogle næringsstoffer, såsom proteiner og calcium. Så mælk, almindelig yoghurt og ost hører til denne gruppe, mens smør, selvom det kommer fra mælk, tilhører fødevaregruppen fedtstoffer og olier",
+            "Husk, yoghurtdesserter ligner yoghurt, men indeholder tilsat sukker og konserveringsmidler, så de er mere som en dessert."
           ]
         },
         {
           "id": 2,
           "title": "Ernæringsværdi",
-          "description": "Fortrolighed med mejeriens ernæringsværdi.",
+          "description": "At blive fortrolig med mejeriprodukters ernæringsmæssige værdi.",
           "questions": [
             {
               "id": 1,
@@ -1553,12 +1554,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Fedt.",
+                  "text": "Lipider.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Protein.",
+                  "text": "Proteiner.",
                   "correct": true
                 },
                 {
@@ -1568,7 +1569,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Fiber.",
+                  "text": "Fibre.",
                   "correct": false
                 }
               ]
@@ -1604,36 +1605,6 @@
               ]
             },
             {
-              "id": 3,
-              "question": "Hvordan findes det naturlige sukker i mælk?",
-              "category": {
-                "id": "category-0",
-                "text": "Udefineret kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Saccharose.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Fruktose.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Glukose.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Lactose.",
-                  "correct": true
-                }
-              ]
-            },
-            {
               "id": 4,
               "question": "Hvilke af følgende produkter inkluderer ofte tilsat sukker?",
               "category": {
@@ -1665,7 +1636,7 @@
             },
             {
               "id": 5,
-              "question": "Hele og skummikks adskiller sig i deres:",
+              "question": "Fuld- og skummetmælk adskiller sig i deres:",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -1683,7 +1654,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Fedt indhold.",
+                  "text": "Lipidindhold.",
                   "correct": true
                 },
                 {
@@ -1695,7 +1666,7 @@
             },
             {
               "id": 6,
-              "question": "Hvad betyder mejeriprodukter med lavt fedtindhold eller reduceret fedtindhold?",
+              "question": "Hvad betyder 'fedtfattige' mejeriprodukter?",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -1703,7 +1674,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Indhold af lavere fedtindhold.",
+                  "text": "Mindre lipider.",
                   "correct": true
                 },
                 {
@@ -1725,7 +1696,7 @@
             },
             {
               "id": 7,
-              "question": "Hvad hjælper det fedt, der findes i mejeriprodukter, din krop med at gøre?",
+              "question": "Hvad hjælper lipiderne i mejeriprodukter din krop med at gøre?",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -1814,66 +1785,6 @@
               ]
             },
             {
-              "id": 10,
-              "question": "Hvilket vitamin hjælper din krop med at absorbere calcium bedre?",
-              "category": {
-                "id": "category-0",
-                "text": "Udefineret kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Vitamin D.",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Vitamin B12.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Vitamin A.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Vitamin E.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 11,
-              "question": "Hvilket mikronæringsstof i mejeriprodukter hjælper dit hjerte og muskler med at fungere korrekt?",
-              "category": {
-                "id": "category-0",
-                "text": "Udefineret kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Vitamin D.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Kalium.",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Zink.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Vitamin K.",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 12,
               "question": "Hvilke af følgende næringsstoffer findes normalt ikke i mælk og mejeriprodukter?",
               "category": {
@@ -1883,12 +1794,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Fiber.",
+                  "text": "Fibre.",
                   "correct": true
                 },
                 {
                   "id": 2,
-                  "text": "Natrium.",
+                  "text": "Proteiner.",
                   "correct": false
                 },
                 {
@@ -1904,38 +1815,8 @@
               ]
             },
             {
-              "id": 13,
-              "question": "Hvilket af følgende indeholder ubetydelige mængder lactose?",
-              "category": {
-                "id": "category-0",
-                "text": "Udefineret kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Mælk.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Yoghurt.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Fetaost.",
-                  "correct": true
-                },
-                {
-                  "id": 4,
-                  "text": "Gouda ost.",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 14,
-              "question": "Hvilken type ost er den rigeste i calcium?",
+              "question": "Hvilket af følgende gælder for calcium i ost?",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -1943,22 +1824,22 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Parmesan.",
+                  "text": "Jo mere gul osten er, jo mere calcium indeholder den.",
                   "correct": true
                 },
                 {
                   "id": 2,
-                  "text": "Sommerhus.",
+                  "text": "Jo hvidere osten er, jo mere calcium indeholder den.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Mozzarella.",
+                  "text": "Ost indeholder ikke calcium.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Flødeost.",
+                  "text": "Alle slags oste indeholder den samme mængde calcium.",
                   "correct": false
                 }
               ]
@@ -1983,28 +1864,28 @@
                 },
                 {
                   "id": 3,
-                  "text": "Er blevet befæstet med a/nogle næringsstof/s.",
+                  "text": "Tilsat ekstra næringsstoffer.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Indeholder fordelagtige for vores sundhedsmikroorganismer.",
+                  "text": "Indeholder nyttige bakterier for vores sundhed.",
                   "correct": true
                 }
               ]
             }
           ],
           "messages": [
-            "Mælk- og mejeriprodukter leverer proteiner af høj kvalitet, hvilket betyder, at de indeholder alle de essentielle aminosyrer, som kroppen har brug for for at bygge og bevare celler, organer og væv. De er også blandt de rigeste kilder til calcium i kosten.",
-            "Mejeriprodukter indeholder også vigtige vitaminer som D -vitamin, B12 og riboflavin såvel som mineraler såsom fosfor og kalium, der bidrager til det generelle helbred.",
-            "Mange mejeriprodukter inkluderer lactose, det naturlige sukker i mælk, der leverer energi. Nogle mennesker tolererer muligvis ikke laktose, og de skal vælge laktosefri mælk og yoghurt eller hårde oste, der indeholder ubetydelige mængder lactose.",
-            "Fermenterede fødevarer produceres gennem en proces kaldet Fermentering, hvor mikroorganismer som gær og bakterier nedbryder fødevarekomponenter og omdanner dem til nye stoffer."
+            "Mejeriprodukter giver proteiner af høj kvalitet, som blandt mange roller hjælper med at opbygge og genopbygge muskler.",
+            "De er også blandt de rigeste kilder til calcium i kosten, der er nødvendige for knogler og tænder.",
+            "Mejeriprodukter indeholder også andre vigtige mikronæringsstoffer vitaminer som vitamin D, B12 og B2 og mineraler som fosfor og kalium, der bidrager til den generelle sundhed.",
+            "Nogle mejeriprodukter, som yoghurt, produceres med tilsætning til mælk af nogle slags bakterier, som de producerer nyttige forbindelser, der er sunde for din tarm. Disse produkter kaldes fermenterede."
           ]
         },
         {
           "id": 3,
           "title": "Anbefalet forbrug & portionsstørrelser",
-          "description": "Fortrolighed med den anbefalede indtag og delstørrelse af mejeriprodukter.",
+          "description": "At blive fortrolig med det anbefalede indtag og portionsstørrelse af mejeriprodukter.",
           "questions": [
             {
               "id": 1,
@@ -2051,7 +1932,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "1 gryde (150 g) yoghurt.",
+                  "text": "1 kop (200 g) yoghurt.",
                   "correct": false
                 },
                 {
@@ -2106,7 +1987,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "En gryde (150 g) yoghurt.",
+                  "text": "en kop yoghurt.",
                   "correct": false
                 },
                 {
@@ -2116,42 +1997,12 @@
                 },
                 {
                   "id": 3,
-                  "text": "1/2 kop ricottaost.",
+                  "text": "1 kop hytteost.",
                   "correct": false
                 },
                 {
                   "id": 4,
                   "text": "Nogen af de foregående.",
-                  "correct": true
-                }
-              ]
-            },
-            {
-              "id": 5,
-              "question": "Hvilken type mælk indeholder lavere fedt?",
-              "category": {
-                "id": "category-0",
-                "text": "Udefineret kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Hele mælk.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Aromatiseret mælk.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Chokolademælk.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Skummet mælk.",
                   "correct": true
                 }
               ]
@@ -2181,7 +2032,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Inddampet mælk.",
+                  "text": "Kondenseret mælk.",
                   "correct": false
                 }
               ]
@@ -2212,36 +2063,6 @@
                 {
                   "id": 4,
                   "text": "Prismærke.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 8,
-              "question": "Hvilken slags mælk er bedst for børn med laktoseintolerance?",
-              "category": {
-                "id": "category-0",
-                "text": "Udefineret kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Chokolademælk.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Laktosefri mælk.",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Skummet mælk.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Der er ingen mælk til dem.",
                   "correct": false
                 }
               ]
@@ -2278,7 +2099,7 @@
             },
             {
               "id": 10,
-              "question": "I hvilken alder kan børn begynde at drikke fedtfattig (halvskummet) mælk?",
+              "question": "I hvilken alder kan børn begynde at drikke letmælk?",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -2308,16 +2129,17 @@
             }
           ],
           "messages": [
-            "Du skal forbruge mælk og mejeriprodukter dagligt som en del af en afbalanceret diæt med det formål at 3-4 portioner mejeri hver dag. En servering kan være 1 kop mælk, 1 gryde yoghurt eller 1 skive (30 gram) ost.",
-            "Hvis du ikke drikker mælk, kan du stadig få de fleste af dens næringsstoffer fra fødevarer som ost eller yoghurt, og i tilfælde af laktoseintolerance er laktosefri mælk en fantastisk mulighed.",
+            "Du bør indtage mælk og mejeriprodukter dagligt som en del af en afbalanceret kost, der sigter mod 3-4 portioner mejeriprodukter hver dag. En portion kan være 1 kop mælk, 1 kop yoghurt eller 1 skive (30 gram) ost.",
+            "Hvis du ikke drikker mælk, kan du stadig få de fleste af dens næringsstoffer fra fødevarer som ost eller yoghurt",
             "Det er også smart at tjekke yoghurtetiketter for tilsat sukker for at tage sundere valg.",
-            "For børn over 2 år er både fuldt fedtfattig og halvskummet (fedtfattig) mælk og yoghurt passende valg, afhængigt af energibehov og generel sundhed."
+            "For børn over 2 år er både fuldfedt og (fedtfattig) mælk og yoghurt passende valg, afhængigt af energibehov og overordnet helbred.",
+            "Tænk på, at nogle mennesker mange har fordøjelsesproblemer, når de drikker mælk. For dem er der en type mælk på markedet, der hedder \"laktosefri\"."
           ]
         },
         {
           "id": 4,
           "title": "Forbrugspraksis",
-          "description": "Fortrolighed med bedste praksis for at integrere mejeriprodukter i måltider, snacks og opskrifter.",
+          "description": "At blive fortrolig med bedste praksis for at integrere mejeriprodukter i måltider, snacks og opskrifter.",
           "questions": [
             {
               "id": 1,
@@ -2351,7 +2173,7 @@
             },
             {
               "id": 2,
-              "question": "Hvad er et godt valg at tilføje mejerier til din madkasse?",
+              "question": "Hvad er et godt valg til at tilføje mejeriprodukter til din madpakke?",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -2364,7 +2186,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "En dåse soda.",
+                  "text": "En dåse sodavand.",
                   "correct": false
                 },
                 {
@@ -2399,7 +2221,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Chips og soda.",
+                  "text": "Chips og sodavand.",
                   "correct": false
                 },
                 {
@@ -2464,14 +2286,14 @@
                 },
                 {
                   "id": 4,
-                  "text": "Almindelig græsk yoghurt.",
+                  "text": "Almindelig yoghurt.",
                   "correct": true
                 }
               ]
             },
             {
               "id": 6,
-              "question": "Hvad er en topping til frugtsalat til at tilsætte calcium og protein?",
+              "question": "Hvad er en sund topping til frugtsalat for at tilføje calcium og protein?",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -2489,7 +2311,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Pisket topping.",
+                  "text": "Pisket fløde.",
                   "correct": false
                 },
                 {
@@ -2519,7 +2341,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Føj wheep creme til dine frugter.",
+                  "text": "Tilføj flødeskum til dine frugter.",
                   "correct": false
                 },
                 {
@@ -2539,7 +2361,7 @@
         {
           "id": 5,
           "title": "Håndtering og opbevaringspraksis",
-          "description": "Fortrolighed med sikker opbevaring, forebyggelse og forurening og forståelse af udløbsdatoer og tegn på ødelæggelse af mejerifødevarer.",
+          "description": "At blive fortrolig med sikker opbevaring, forebyggelse og kontaminering og forstå udløbsdatoer og tegn på fordærv af mejeriprodukter.",
           "questions": [
             {
               "id": 1,
@@ -2603,7 +2425,7 @@
             },
             {
               "id": 3,
-              "question": "Udløbsdato eller bedst efter dato Se datoen for et mejeriprodukt:",
+              "question": "'Udløbsdato' refererer til datoen for et mejeriprodukt:",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -2664,14 +2486,14 @@
           ],
           "messages": [
             "For at holde mejeriprodukter sikre og friske, skal de altid opbevares i køleskabet mindst i 40 ° F (4 ° C). Lave temperaturer forhindrer skadelige bakterier i at vokse, hvilket kan gøre dig syg.",
-            "Kontroller altid \"udløbet\" eller \"bedst efter\" dato på etiketten. Dette fortæller dig den seneste dato for at bruge produktet til den bedste kvalitet og sikkerhed.",
-            "For at se, om mejeriproduktet stadig er godt, skal du lugte det, kontrollere tekstur og læse datoen. Hvis det lugter surt, ser mærkeligt ud eller er forbi sin dato, er det bedst ikke at spise eller drikke den."
+            "Tjek altid \"udløbsdatoen\" på etiketten. Dette fortæller dig den seneste dato for at bruge produktet for den bedste kvalitet og sikkerhed.",
+            "For at tjekke, om mejeriproduktet stadig er godt, bør du lugte det, tjekke konsistensen og læse datoen. Hvis det lugter surt, ser mærkeligt ud eller er over sin dato, er det bedst ikke at spise eller drikke det."
           ]
         },
         {
           "id": 6,
           "title": "Sundhedseffekter",
-          "description": "Fortrolighed med de sundhedsmæssige fordele ved mejeriprodukter.",
+          "description": "At blive fortrolig med de sundhedsmæssige fordele ved mejeriprodukter.",
           "questions": [
             {
               "id": 1,
@@ -2764,36 +2586,6 @@
               ]
             },
             {
-              "id": 4,
-              "question": "At foretrække skum versus helmælk eller yoghurt bidrager til:",
-              "category": {
-                "id": "category-0",
-                "text": "Udefineret kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Lavere mættet fedtindtag.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Normale blodlipidniveauer.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Mindre energiindtag.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Hele de foregående.",
-                  "correct": true
-                }
-              ]
-            },
-            {
               "id": 5,
               "question": "Fermenterede mejeriprodukter som almindelig yoghurt og kefir:",
               "category": {
@@ -2808,7 +2600,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Hjælp dit immunsystem.",
+                  "text": "Har flere nyttige bakterier.",
                   "correct": false
                 },
                 {
@@ -2826,9 +2618,9 @@
           ],
           "messages": [
             "Mejeriprodukter er vigtige, fordi de hjælper din krop med at blive stærk og forblive sund.",
-            "Calcium i mejerier bygger stærke knogler og tænder, mens proteiner understøtter muskeludvikling og vækst.",
-            "Eksperter anbefaler mejeriprodukter ikke kun for at vokse op stærk, men også fordi de hjælper sygdomsforebyggelse, såsom osteoporose, senere i livet.",
-            "Valg af lavt fedtindhold eller gærede mejeriprodukter kan beskytte dig mod forskellige sundhedsmæssige problemer."
+            "Kalcium i mejeriprodukter opbygger stærke knogler og tænder, mens proteiner understøtter muskeludvikling og vækst.",
+            "Eksperter anbefaler mejeriprodukter, ikke kun til at blive stærk, men også fordi de hjælper med at forebygge sygdom, såsom svage bomer senere i livet.",
+            "At vælge fedtfattige eller fermenterede mejeriprodukter kan beskytte dig mod forskellige sundhedsproblemer."
           ]
         }
       ]
@@ -2836,12 +2628,12 @@
     {
       "id": 3,
       "title": "Korn og kornprodukter (G & GP) quiz",
-      "description": "Et quizspil for at øge viden om kornkorn og fremme optimale forbrugsmønstre, herunder madtyper, ernæringsværdi og sundhedseffekter.",
+      "description": "Øg din viden om korn og kornprodukter! Besvar spørgsmålene og lær, hvilke fødevarer der er inkluderet, deres ernæringsmæssige værdi, anbefalinger til indtagelse af dem og valg af deres sundere former.",
       "levels": [
         {
           "id": 1,
           "title": "Bekendtskab",
-          "description": "Fortrolighed med madgruppen af korn.",
+          "description": "At blive fortrolig med fødevaregruppen af ​​korn.",
           "questions": [
             {
               "id": 1,
@@ -3038,7 +2830,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Bagels.",
+                  "text": "Hvidt Brød.",
                   "correct": false
                 },
                 {
@@ -3073,7 +2865,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Tahini (Sesame Pasta).",
+                  "text": "Jordnøddesmør.",
                   "correct": false
                 },
                 {
@@ -3085,16 +2877,15 @@
             }
           ],
           "messages": [
-            "Velkommen til kornverdenen!",
-            "Korngruppen inkluderer alle fødevarer lavet af hvede, ris, havre, byg osv. Disse korn bruges ofte til at fremstille produkter som brød, pasta, morgenmadsprodukter, tortillas og kiks.",
-            "Der er også andre mindre kendte korn kaldet pseudo-korn såsom hirse, sorghum, amaranth, boghvede, quinoa, teff, der også indeholder mange værdifulde næringsstoffer.",
-            "Korn er en væsentlig del af en afbalanceret diæt og fås i mange former - fra fuldkorn til raffinerede. At lære om korn hjælper dig med at tage sundere valg!"
+            "Velkommen til en verden af ​​korn og kornprodukter! Gruppen omfatter produkter fremstillet af planter som hvede, ris, havre, byg osv. Disse korn er meget brugt til at fremstille produkter som brød, pasta, morgenmadsprodukter, tortillas og kiks.",
+            "Der er også andre mindre kendte kornsorter som hirse, boghvede og quinoa, som anses for meget sunde.",
+            "Korn er en væsentlig del af en afbalanceret kost og fås i mange former, som adskiller sig i deres ernæringsmæssige værdi. At lære om korn dem hjælper dig med at træffe sundere valg!!"
           ]
         },
         {
           "id": 2,
           "title": "Ernæringsværdi",
-          "description": "Fortrolighed med ernæringsværdien af korn.",
+          "description": "At blive fortrolig med korns næringsværdi.",
           "questions": [
             {
               "id": 1,
@@ -3116,7 +2907,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Fedt.",
+                  "text": "Lipider.",
                   "correct": false
                 },
                 {
@@ -3158,7 +2949,7 @@
             },
             {
               "id": 3,
-              "question": "Hvilket af følgende er ikke en del af et fuldkorn:",
+              "question": "Hvilket af følgende er en del af et fuldkorn:",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -3171,17 +2962,47 @@
                 },
                 {
                   "id": 2,
-                  "text": "Kimen.",
+                  "text": "Bladene.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Endosperm.",
+                  "text": "Blomsten.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Bran.",
+                  "text": "Den (ydre del af frøet (kaldet klid).",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Hvad betyder udtrykket raffineret for kornene?",
+              "category": {
+                "id": "category-0",
+                "text": "Udefineret kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "De er dyre.",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "De har fjernet nogle dele af hele kornet.",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "De er farvede.",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "De vokser i tropiske miljøer.",
                   "correct": false
                 }
               ]
@@ -3231,17 +3052,17 @@
                 },
                 {
                   "id": 2,
-                  "text": "Fiber.",
+                  "text": "Fibre.",
                   "correct": true
                 },
                 {
                   "id": 3,
-                  "text": "Natrium.",
+                  "text": "Salt.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Mættet fedt.",
+                  "text": "Mættede lipider.",
                   "correct": false
                 }
               ]
@@ -3261,7 +3082,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Fiber.",
+                  "text": "Fibre.",
                   "correct": false
                 },
                 {
@@ -3277,38 +3098,8 @@
               ]
             },
             {
-              "id": 7,
-              "question": "Hvilken del af kornet giver mest fiber?",
-              "category": {
-                "id": "category-0",
-                "text": "Udefineret kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Endosperm.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Bran.",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Blade.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Kim.",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 8,
-              "question": "Udtrykket berigede korn betyder, at i disse korn:",
+              "question": "Udtrykket \"berigede korn\" betyder, at i disse korn:",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -3316,7 +3107,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "B -vitaminer er tilføjet.",
+                  "text": "De vitaminer, der blev fjernet med raffinement, er blevet tilføjet tilbage.",
                   "correct": true
                 },
                 {
@@ -3326,7 +3117,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Fedt er blevet fjernet.",
+                  "text": "lipider er blevet fjernet.",
                   "correct": false
                 },
                 {
@@ -3368,16 +3159,13 @@
             }
           ],
           "messages": [
-            "Mad fremstillet af hvede, ris, havre, majsmel, byg eller et andet kornkorn er kornprodukter.",
-            "Korn har to undergrupper: fuldkorn og raffinerede korn.",
-            "Korn, især fuldkorn, er vigtige kilder til mange næringsstoffer, herunder komplekse kulhydrater, fiber og B -vitaminer. De indeholder også essentielle mineraler som jern, magnesium og selen.",
-            "Helkorn bevarer deres klid og kim, der leverer fiber og næringsstoffer, i modsætning til raffinerede korn, der mister mange af disse under forarbejdning. Helkorn indeholder mere fiber end raffinerede korn og er vigtige for korrekt tarmfunktion."
+            "Korn kan findes som fuldkorn eller raffinerede korn. De adskiller sig på de dele, de indeholder. Fuldkorn har det oprindelige korn intakt (hele), mens de raffinerede har mistet nogle dele efter forarbejdning (forædling). Mens begge giver kulhydrater, indeholder fuldkorn også fibre, vitaminer og mineraler, der er gået tabt gennem forfining."
           ]
         },
         {
           "id": 3,
           "title": "Anbefalet indtag",
-          "description": "Fortrolighed med den anbefalede indtag og delstørrelse af korn.",
+          "description": "At blive fortrolig med det anbefalede indtag og portionsstørrelse af korn.",
           "questions": [
             {
               "id": 1,
@@ -3514,7 +3302,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Hele hvedebrød.",
+                  "text": "Fuldkornsbrød.",
                   "correct": true
                 },
                 {
@@ -3531,7 +3319,7 @@
             },
             {
               "id": 6,
-              "question": "Hvilket af følgende er ikke en del af fuldkorn?",
+              "question": "Hvilken af ​​følgende er ikke én portion fuldkorn?",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -3629,7 +3417,7 @@
         {
           "id": 4,
           "title": "Forbrugspraksis",
-          "description": "Fortrolighed med den bedste praksis til at forberede og forbruge korn.",
+          "description": "At blive fortrolig med den bedste praksis til at tilberede og indtage korn.",
           "questions": [
             {
               "id": 1,
@@ -3681,7 +3469,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Kogt, bagt eller rå.",
+                  "text": "Kogt.",
                   "correct": true
                 },
                 {
@@ -3701,7 +3489,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "En skål med hel-cerals med mælk.",
+                  "text": "En skål fuldkornsprodukter med mælk.",
                   "correct": true
                 },
                 {
@@ -3723,7 +3511,7 @@
             },
             {
               "id": 4,
-              "question": "Hvilket af følgende er et godt kornvalg til din frokost?",
+              "question": "Hvilket af følgende er et godt valg af korn til din hovedmåltid frokost?",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -3771,7 +3559,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Hele hvede tortillas.",
+                  "text": "Fuldkornsbrødstænger.",
                   "correct": true
                 },
                 {
@@ -3796,12 +3584,12 @@
                 },
                 {
                   "id": 2,
-                  "text": "Pandekager med hele hvede med honning.",
+                  "text": "Fuldkornspandekager med honning.",
                   "correct": true
                 },
                 {
                   "id": 3,
-                  "text": "Donut med Praline.",
+                  "text": "Kage med praline.",
                   "correct": false
                 },
                 {
@@ -3821,17 +3609,17 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Mere fiber.",
+                  "text": "Flere fibre.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Mere magnesium.",
+                  "text": "Flere mineraler.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Flere B -vitaminer.",
+                  "text": "Flere vitaminer.",
                   "correct": false
                 },
                 {
@@ -3874,15 +3662,14 @@
           ],
           "messages": [
             "Der er så mange måder at integrere korn i din diæt!",
-            "Forbrug kornprodukter som snacks hele dagen (vælg en skål med fuld hvedebrød og ost eller kiks med æg til en sund snack i skolen), brug dem til at lave næringsrige desserter (f.eks. Hjemmelavede kager og cookies) eller føje dem til dine måltider.",
-            "Prioritet til fuldkorn (i stedet for raffineret) for at få fordel af alle deres næringsstoffer (fibre, vitaminer og mineraler).",
-            "Vælg fuldkorn over raffinerede og forbered dem på enkle, sunde måder som bagt eller kogt. Undgå tilsætning af for meget fedt, sukker eller salt. Helkornsbrød, havregryn og brun ris er gode muligheder for fuldkorn."
+            "Brug kornprodukter som snacks (vælg en toast med fuldkornsbrød og ost eller kiks med æg til en sund snack i skolen), og tilføj dem til dine hovedmåltider.",
+            "Prioritér fuldkorn (i stedet for raffineret) for at få fordel af alle deres næringsstoffer (fibre, vitaminer og mineraler). Fuldkornsbrød, havregryn og brune ris er gode fuldkornsmuligheder. Tilbered dem på enkle måder, undgå at tilføje for meget fedt, sukker eller salt."
           ]
         },
         {
           "id": 5,
           "title": "Sundhedseffekter",
-          "description": "Fortrolighed med de sundhedsmæssige virkninger af korn.",
+          "description": "For at blive fortrolig med korns sundhedseffekter.",
           "questions": [
             {
               "id": 1,
@@ -3899,7 +3686,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Mister fedt.",
+                  "text": "Sover bedre.",
                   "correct": false
                 },
                 {
@@ -3909,7 +3696,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Beskyttelse af dit helbred.",
+                  "text": "Vokser godt.",
                   "correct": true
                 }
               ]
@@ -3946,7 +3733,7 @@
             },
             {
               "id": 3,
-              "question": "Magnesium:",
+              "question": "At spise fuldkorn giver næring til din krop med mineraler, der hjælper dig med:",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -3954,29 +3741,29 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Er vigtig for dine ører.",
+                  "text": "Byg dine knogler.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Hjælper dine muskler med at fungere bedre.",
+                  "text": "At få dine muskler til at fungere bedre.",
                   "correct": true
                 },
                 {
                   "id": 3,
-                  "text": "Hjælper dit immunsystem.",
+                  "text": "Boost dit forsvarssystem.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Ingen af de foregående.",
+                  "text": "Hele de foregående.",
                   "correct": false
                 }
               ]
             },
             {
               "id": 4,
-              "question": "Kornprodukter er rige på B -vitaminer, der hjælper:",
+              "question": "Kornprodukter er rige på vitaminer (B-gruppe), der hjælper:",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -3984,22 +3771,22 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Dine tænder er stærkere.",
+                  "text": "Produktionen af ​​dit blod.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Din tarm fungerer bedre.",
+                  "text": "Din hjerne til at fungere godt.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Du føler dig mere energisk.",
+                  "text": "At få energien lagret i fødevarer.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Dit nervesystem forbliver sundt.",
+                  "text": "Hele de foregående.",
                   "correct": true
                 }
               ]
@@ -4014,7 +3801,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "De hjælper dig med at kontrollere din vægt.",
+                  "text": "De hjælper dig med at holde en sund vægt.",
                   "correct": true
                 },
                 {
@@ -4024,7 +3811,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "De giver dig flere kulhydrater og protein.",
+                  "text": "De giver dig masser af kulhydrater og protein.",
                   "correct": false
                 },
                 {
@@ -4044,12 +3831,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Forstoppelsen.",
+                  "text": "Forstoppelse.",
                   "correct": true
                 },
                 {
                   "id": 2,
-                  "text": "Mavesmerter.",
+                  "text": "Din hørelse.",
                   "correct": false
                 },
                 {
@@ -4066,7 +3853,7 @@
             },
             {
               "id": 7,
-              "question": "Hvilket næringsstof, der findes i korn, er vigtig for korrekt tarmfunktion?",
+              "question": "Hvilket næringsstof, der findes i korn, er vigtigt for en korrekt tarmfunktion?",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -4074,131 +3861,41 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Protein.",
+                  "text": "Proteiner.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Fedt.",
+                  "text": "Lipider.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Fiber.",
+                  "text": "Fibre.",
                   "correct": true
                 },
                 {
                   "id": 4,
-                  "text": "Kulhydrat.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 8,
-              "question": "Hvilket vitamin, der findes i korn, er vigtigt for nervesystemet?",
-              "category": {
-                "id": "category-0",
-                "text": "Udefineret kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "B -vitaminer.",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Vitamin D.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Vitamin C.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Vitamin E.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 9,
-              "question": "Hvilket mineral, der findes i korn, er vigtig for knoglesundhed?",
-              "category": {
-                "id": "category-0",
-                "text": "Udefineret kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Magnesium.",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Kalcium.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Jern.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Selen.",
+                  "text": "Kulhydrater.",
                   "correct": false
                 }
               ]
             }
           ],
           "messages": [
-            "At spise korn, især fuldkorn, beskytte dit helbred og reducere risikoen for mange sygdomme.",
-            "Korn giver mange næringsstoffer, der er afgørende for sundhed og vedligeholdelse af dine kroppe, såsom fibre, B -vitaminer (thiamin, niacin, riboflavin) og mineraler som magnesium og selen.",
-            "Hele kornprodukter indeholder flere af de fordelagtige næringsstoffer, der er nævnt ovenfor sammenlignet med raffinerede korn, og udviser derfor flere sundhedsmæssige fordele."
+            "At spise korn, især fuldkorn, holder din krop sund.",
+            "Næringsstofferne i korn, fibre og mikronæringsstoffer (såsom B-vitaminer, jern, magnesium) spiller en afgørende rolle for mange funktioner i din krop.",
+            "Fuldkornsprodukter indeholder flere af disse gavnlige næringsstoffer sammenlignet med raffinerede korn, så de er endnu bedre for dit helbred."
           ]
         },
         {
           "id": 6,
           "title": "Typer og behandling",
-          "description": "Fortrolighed med begreberne typer og forarbejdning af korn.",
+          "description": "At blive fortrolig med begreberne typer og forarbejdning af korn.",
           "questions": [
             {
-              "id": 1,
-              "question": "Fuldkorn indeholder:",
-              "category": {
-                "id": "category-0",
-                "text": "Udefineret kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Kun klid.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Kun stivelse.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Kun endosperm.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Bran, kim og endosperm.",
-                  "correct": true
-                }
-              ]
-            },
-            {
               "id": 2,
-              "question": "Raffinerede korn har:",
+              "question": "Raffinerede korn har sammenlignet med fuldkorn: :",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -4206,12 +3903,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Lavere fiber.",
+                  "text": "Færre fibre.",
                   "correct": true
                 },
                 {
                   "id": 2,
-                  "text": "Lavere sukker.",
+                  "text": "Mindre sukker.",
                   "correct": false
                 },
                 {
@@ -4221,14 +3918,14 @@
                 },
                 {
                   "id": 4,
-                  "text": "Lavere kulhydrater.",
+                  "text": "Mindre kulhydrater.",
                   "correct": false
                 }
               ]
             },
             {
               "id": 3,
-              "question": "Fræsning er en proces, der:",
+              "question": "Fræsning (= forfining) er en proces, der:",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -4236,12 +3933,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Fjerner fra korn kim og klid.",
+                  "text": "Fjerner nogle dele fra korn.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Giver produktet en finere struktur.",
+                  "text": "Gør produktet finere.",
                   "correct": false
                 },
                 {
@@ -4271,7 +3968,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Raffinerede korn med tilsatte vitaminer.",
+                  "text": "Raffinerede korn med tilsat vitaminer tilbage.",
                   "correct": true
                 },
                 {
@@ -4296,7 +3993,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Hele hvedepasta.",
+                  "text": "Fuldkornspasta.",
                   "correct": false
                 },
                 {
@@ -4306,12 +4003,12 @@
                 },
                 {
                   "id": 3,
-                  "text": "Hvede tortilla.",
+                  "text": "Fuldkornskiks.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Havre brød.",
+                  "text": "Rugbrød.",
                   "correct": false
                 }
               ]
@@ -4341,7 +4038,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Flere vitaminer.",
+                  "text": "Ingen vitaminer.",
                   "correct": false
                 }
               ]
@@ -4361,12 +4058,12 @@
                 },
                 {
                   "id": 2,
-                  "text": "Smag dårligt.",
+                  "text": "Har et højere lipidindhold.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Lugt dårligt.",
+                  "text": "Gør dig træt.",
                   "correct": false
                 },
                 {
@@ -4396,7 +4093,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Beriget produkt",
+                  "text": "Vitaminkilde",
                   "correct": false
                 },
                 {
@@ -4408,10 +4105,9 @@
             }
           ],
           "messages": [
-            "Helkorn opretholder hele kornkernen, der inkluderer klid, kim og endosperm.",
-            "Raffinerede korn er blevet malet, det betyder, at de er blevet behandlet for at fjerne klid og kim. Denne proces sigter mod at give korn en finere struktur og forbedre deres holdbarhed. Desværre fjerner det også en masse fordelagtige næringsstoffer.",
-            "Raffinerede korn er ofte beriget. Dette betyder at tilføje visse B -vitaminer (thiamin, riboflavin, niacin, folinsyre) og jern, der blev tabt under fødevareforarbejdning. De forbliver dog dårlige kilder til fiber.",
-            "Vælg minimalt forarbejdede, lav-sukker- og lav-salt kornprodukter, når det er muligt. Læs etiketter til fuldkornsmuligheder for at få mest muligt ud af dine måltider!"
+            "Raffinerede korn er blevet formalet, det vil sige, at de er blevet behandlet for at fjerne nogle dele af det oprindelige korn. Denne proces har til formål at give korn en finere tekstur og forbedre deres holdbarhed. Desværre fjerner det også en masse gavnlige næringsstoffer.",
+            "Raffinerede korn er ofte beriget. Det betyder at tilføje visse B-vitaminer og jern tilbage, som er gået tabt under fødevareforarbejdningen. Men de forbliver dårlige kilder til fibre.",
+            "Vælg minimalt forarbejdede kornprodukter med lavt sukkerindhold og lavt saltindhold, når det er muligt. For emballerede produkter, læs etiketterne for fuldkornsmuligheder for at få mest muligt ud af det, du spiser!!"
           ]
         }
       ]
@@ -4419,12 +4115,12 @@
     {
       "id": 4,
       "title": "High-Protein Foods (HPF) Quiz",
-      "description": "Et quizspil, der sigter mod at øge viden om andre fødevarer med højt proteinindhold end mejeriprodukter og uddanne/motivere brugere til deres optimale forbrugsmønster.",
+      "description": "Øg din viden om fødevarer med højt proteinindhold, bortset fra mejeriprodukter! Besvar spørgsmålene og lær om de forskellige fødevarekategorier, der er inkluderet, hvordan du træffer de bedste valg, og hvor meget du bør spise for at få stærke og sunde effekter. .",
       "levels": [
         {
           "id": 1,
           "title": "Bekendtskab",
-          "description": "Fortrolighed med fødevarer med højt proteinindhold.",
+          "description": "At blive fortrolig med fødevarer med højt proteinindhold.",
           "questions": [
             {
               "id": 1,
@@ -4436,7 +4132,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Rødt/hvidt kød.",
+                  "text": "Rødt og hvidt kød.",
                   "correct": false
                 },
                 {
@@ -4446,7 +4142,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Pulser.",
+                  "text": "bælgfrugter (tørrede frø af bælgfrugter) .",
                   "correct": false
                 },
                 {
@@ -4637,36 +4333,6 @@
               ]
             },
             {
-              "id": 8,
-              "question": "Hvilket af følgende er en bælgplante?",
-              "category": {
-                "id": "category-0",
-                "text": "Udefineret kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Friske grønne bønner/ærter.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Pulser.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Sojabønner.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Hele de foregående.",
-                  "correct": true
-                }
-              ]
-            },
-            {
               "id": 9,
               "question": "Hvad er pulser?",
               "category": {
@@ -4697,6 +4363,36 @@
               ]
             },
             {
+              "id": 8,
+              "question": "Hvilket af følgende er en bælgplante?",
+              "category": {
+                "id": "category-0",
+                "text": "Udefineret kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Friske grønne bønner/ærter.",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Pulser.",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Sojabønner.",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Hele de foregående.",
+                  "correct": true
+                }
+              ]
+            },
+            {
               "id": 10,
               "question": "Hvilket af følgende er en puls?",
               "category": {
@@ -4706,7 +4402,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Tørte bønner/ærter.",
+                  "text": "Tørre ærter.",
                   "correct": false
                 },
                 {
@@ -4806,7 +4502,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Græsk fava.",
+                  "text": "Yoghurt.",
                   "correct": false
                 },
                 {
@@ -4818,17 +4514,17 @@
             }
           ],
           "messages": [
-            "Velkommen til verden af fødevarer med højt proteinindhold!",
-            "Dette tematiske område fokuserer på forskellige kød og plantealternativer, som sammen med mejeriprodukter dækker de fleste af dine daglige proteinbehov.",
-            "Dyrebaserede fødevarer med højt proteinindhold inkluderer rødt kød (f.eks. Oksekød, svinekød, kalvekød og lam), hvidt kød (f.eks. Kylling, kalkun og kanin), fisk, skaldyr (f.eks. Rejer, rejer, blæksprutte, blæksprutte, krebs, hummer, musling, lam, lysere og musling) og æg. Forarbejdede kødprodukter (f.eks. Pølse, skinke, salami, peperoni og bacon) er også inkluderet i denne kategori; De er produceret af rødt/hvidt kød gennem forskellige processer, såsom saltning, hærdning, gæring, rygning og tilsætning af kemiske konserveringsmidler.",
-            "Husk: mejeriprodukter (f.eks. Mælk, yoghurt og ost), der præsenteres i et tidligere tematisk område, er også dyrebaserede fødevarer med et højt proteinindhold og den vigtigste kilde til calcium!",
-            "Plantebaseret højt protein inkluderer pulser, som er de tørre spiselige frø inde i bælgplanterne, dvs. tørre bønner (f.eks. Sorte bønner, nyrebønner og lima-bønner), tørre ærter (f.eks. Black-eyed ærter og split gule/grønne ærter), lentils og kyllinger, såvel som sojebener og deres produkter (f.eks. Tofu)."
+            "Velkommen til en verden af ​​proteinrige fødevarer! I modsætning til de andre fødevaregrupper, du har mødt siden nu, er dette en mangfoldig gruppe af fødevarer, der indeholder både animalsk og planteføde. Ikke desto mindre er deres høje indhold af proteiner det, der til sidst grupperer dem sammen.",
+            "Dyrebaserede fødevarer med højt proteinindhold omfatter alle slags kød (rødt eller hvidt), fisk og skaldyr samt æg.",
+            "Forarbejdede kødprodukter (f.eks. pølse, skinke, spegepølse, peperoni), selvom de er fremstillet af rødt/hvidt kød, og de indeholder normalt mange tilsætningsstoffer og konserveringsmidler, der sænker næringsværdien.",
+            "Plantebaseret højprotein omfatter bælgfrugter, som er de tørre spiselige frø inde i bælgplanterne, dvs. tørre bønner, tørre ærter, linser og kikærter, samt sojabønner og deres produkter (f.eks. tofu, et produkt, der ligner hvid ost).",
+            "Husk: Mejeriprodukter, der blev præsenteret i et tidligere tematisk område, betragtes også som fødevarer med højt proteinindhold, men de udgør deres egen gruppe, i betragtning af deres indhold af calcium."
           ]
         },
         {
           "id": 2,
           "title": "Ernæringsværdi",
-          "description": "Fortrolighed med ernæringsværdien af fødevarer med højt proteinindhold.",
+          "description": "At blive fortrolig med næringsværdien af ​​fødevarer med højt proteinindhold.",
           "questions": [
             {
               "id": 1,
@@ -4861,36 +4557,6 @@
               ]
             },
             {
-              "id": 2,
-              "question": "Et \"komplet\" protein er et protein, der:",
-              "category": {
-                "id": "category-0",
-                "text": "Udefineret kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Indeholder ingen lipider.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Fordøjes fuldt ud i maven.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Findes i frugt og grøntsager.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Indeholder alle de essentielle aminosyrer.",
-                  "correct": true
-                }
-              ]
-            },
-            {
               "id": 3,
               "question": "Hvad er en aminosyre?",
               "category": {
@@ -4916,36 +4582,6 @@
                 {
                   "id": 4,
                   "text": "En fedtsyre findes i kød.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 4,
-              "question": "Hvilket af følgende indeholder \"komplette\" proteiner?",
-              "category": {
-                "id": "category-0",
-                "text": "Udefineret kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Brød.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Bønne.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Kylling.",
-                  "correct": true
-                },
-                {
-                  "id": 4,
-                  "text": "Mandel.",
                   "correct": false
                 }
               ]
@@ -4995,7 +4631,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Mættede lipider.",
+                  "text": "Lipider (mættede).",
                   "correct": true
                 },
                 {
@@ -5020,7 +4656,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Omega-3 flerumættede lipider.",
+                  "text": "Lipider (umættede).",
                   "correct": true
                 },
                 {
@@ -5101,96 +4737,6 @@
               ]
             },
             {
-              "id": 10,
-              "question": "Hvilket vitamin findes oftest i dyrebaserede fødevarer med højt proteinindhold og hjælper med at holde dit nervesystem sundt?",
-              "category": {
-                "id": "category-0",
-                "text": "Udefineret kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Vitamin C.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Vitamin B12.",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Vitamin K.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Vitamin E.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 11,
-              "question": "Hvilket vitamin findes oftest i dyrebaserede fødevarer med højt proteinindhold og er vigtigt for synet?",
-              "category": {
-                "id": "category-0",
-                "text": "Udefineret kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Vitamin K.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Vitamin C.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Vitamin A.",
-                  "correct": true
-                },
-                {
-                  "id": 4,
-                  "text": "Vitamin E.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 12,
-              "question": "Hvilket mineral, der findes i fødevarer med højt protein, er afgørende for overførsel af ilt via blodlegemer?",
-              "category": {
-                "id": "category-0",
-                "text": "Udefineret kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Jern.",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Kalcium.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Magnesium.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Alt det ovenstående.",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 13,
               "question": "Fra hvilken af de følgende fødevarer med højt proteinindhold absorberes jern bedre?",
               "category": {
@@ -5210,73 +4756,13 @@
                 },
                 {
                   "id": 3,
-                  "text": "Soya Bean.",
+                  "text": "været.",
                   "correct": false
                 },
                 {
                   "id": 4,
                   "text": "Oksekød.",
                   "correct": true
-                }
-              ]
-            },
-            {
-              "id": 14,
-              "question": "Hvilket mineral, der findes i fødevarer med højt protein, er vigtigt for stofskifte og immunsystemet?",
-              "category": {
-                "id": "category-0",
-                "text": "Udefineret kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Jod.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Kalcium.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Zink.",
-                  "correct": true
-                },
-                {
-                  "id": 4,
-                  "text": "Kalium.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 15,
-              "question": "Hvilket mineral, der findes i fødevarer med højt protein, er vigtigt for dine knogler og tænder?",
-              "category": {
-                "id": "category-0",
-                "text": "Udefineret kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Fosfor.",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Natrium.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Kobber.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Mangan.",
-                  "correct": false
                 }
               ]
             },
@@ -5290,7 +4776,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Mættet fedt.",
+                  "text": "Lipider.",
                   "correct": false
                 },
                 {
@@ -5300,7 +4786,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Kemiske konserveringsmidler.",
+                  "text": "Konserveringsmidler.",
                   "correct": false
                 },
                 {
@@ -5323,7 +4809,7 @@
         {
           "id": 3,
           "title": "Anbefalet indtag",
-          "description": "Fortrolighed med den anbefalede indtag og delstørrelse af fødevarer med højt proteinindhold.",
+          "description": "For at blive fortrolig med det anbefalede indtag og portionsstørrelse af fødevarer med højt proteinindhold.",
           "questions": [
             {
               "id": 1,
@@ -5387,7 +4873,7 @@
             },
             {
               "id": 3,
-              "question": "Hvor ofte skal man spise fedtholdigt/olieagtigt fisk, der er rige på omega-3 flerumættede lipider?",
+              "question": "Hvor ofte skal man spise fed/fed fisk, som er særligt rig på umættede lipider?",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -5477,7 +4963,7 @@
             },
             {
               "id": 6,
-              "question": "Hvilken af følgende fødevarer med højt proteinindhold skal undgås, hvis det er muligt, fordi de behandles?",
+              "question": "Hvilke af følgende fødevarer med højt proteinindhold bør undgås, fordi de er forarbejdet?",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -5508,16 +4994,16 @@
           ],
           "messages": [
             "Lav fødevarer med højt proteinindhold til en regelmæssig del af din diæt!",
-            "Fødevarer med højt proteinindhold kan konsumeres hver dag, men bør roteres hele ugen for at sikre variation. Sigt efter magert hvidt og/eller rødt kød 2-3 gange om ugen, fisk/skaldyr 2-3 gange om ugen og pulser mindst en gang om ugen.",
-            "Æg og oste er også værdifulde kilder til proteiner af høj kvalitet, der kan ledsage retter baseret på grøntsager, pasta eller andre kornprodukter, der ikke er høje i proteiner.",
-            "Den nøjagtige mængde proteiner, du har brug for, afhænger af din kropsvægt. En enkel måde at imødekomme dine behov på er at sikre, at fødevarer med højt proteinindhold dækker ca. ¼ af din plade i frokost og middag og også forbruge 2-3 portioner mejeriprodukter i morgenmad og snacks!",
+            "Fødevarer med højt proteinindhold kan indtages hver dag, men bør roteres i løbet af ugen for at sikre variation. Sigt efter hvidt og/eller rødt kød 2-3 gange om ugen, fisk/skaldyr 2-3 gange om ugen og bælgfrugter mindst en gang om ugen.",
+            "Æg er også værdifulde kilder til proteiner af høj kvalitet, der kan ledsage retter baseret på grøntsager, pasta eller andre kornprodukter, der ikke er høje i proteiner.",
+            "Den nøjagtige mængde proteiner, du har brug for, afhænger af din alder og kropsvægt. En praktisk måde at opfylde dine behov på er at sikre, at fødevarer med højt proteinindhold dækker omkring ¼ af din tallerken til frokost og aftensmad. Glem ikke, at mejeriprodukter også indeholder proteiner, så sigt efter at indtage 2-3 portioner i morgenmad og mellemmåltider!",
             "Husk: Prøv at undgå forarbejdede kød, såsom pølser og kolde snit, så meget som du kan!"
           ]
         },
         {
           "id": 4,
           "title": "Forbrugspraksis",
-          "description": "Fortrolighed med den bedste praksis til at håndtere og forbruge fødevarer med højt proteinindhold.",
+          "description": "At blive fortrolig med de bedste praksisser for at håndtere og indtage fødevarer med højt proteinindhold.",
           "questions": [
             {
               "id": 1,
@@ -5589,7 +5075,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Kogning og ristning.",
+                  "text": "Stegning.",
                   "correct": true
                 },
                 {
@@ -5604,7 +5090,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Grillning.",
+                  "text": "Grill.",
                   "correct": false
                 }
               ]
@@ -5670,38 +5156,8 @@
               ]
             },
             {
-              "id": 6,
-              "question": "Hvilket af følgende er en god måde at få proteiner med høj biologisk værdi gennem pulser?",
-              "category": {
-                "id": "category-0",
-                "text": "Udefineret kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Spise dem alene.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Kombination af dem med ris eller brød.",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Ved at tilføje citron.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Ved at koge dem længere.",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 7,
-              "question": "For at undgå overskydende mættede lipider, når man spiser rødt kød, skal man:",
+              "question": "For at undgå at spise for mange lipider, når du spiser rødt kød, bør du:",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -5731,7 +5187,7 @@
             },
             {
               "id": 8,
-              "question": "For at undgå overskydende mættede lipider, når man spiser fjerkræ, skal man:",
+              "question": "For at undgå at spise for mange lipider, når du spiser fjerkræ, bør du:",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -5739,7 +5195,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Undgå at spise deres hud.",
+                  "text": "Undgå at spise huden.",
                   "correct": true
                 },
                 {
@@ -5761,17 +5217,16 @@
             }
           ],
           "messages": [
-            "For at få de nødvendige proteiner og undgå store mængder mættede lipider: spis fjerkræ uden deres hud, skal du fjerne synligt fedt fra rødt kød (normalt det ydre lag), og vælg magert røde køddele, såsom dem bagpå kvæg (kort lænd, mørbrad og rund) eller svinekød (lænd og skinke).",
-            "Æg er et meget nærende valg til en højprotein-snack (f.eks. Kogt æg), som en erstatning for koldskæringer i sandwich/indpakninger eller endda et hovedmåltid (f.eks. Bagt æggekage med ost og grøntsager).",
-            "For at holde dine måltider så sunde som muligt skal du vælge dyrebaserede fødevarer med højt proteinindhold, der er kogt eller ristet, i stedet for stegt eller grillet.",
-            "Der er så mange måder at indarbejde pulser i din diæt! For at nævne nogle få kan du have dem som et hovedmåltid (f.eks. Linsesuppe), inkorporere dem i salater, bruge dem til at fremstille vegetariske burgere eller endda nyde dem som spredninger som hummus.",
-            "Vidste du, at du ved at kombinere impulser og korn, såsom ris eller brød, kan få komplette proteiner med alle de essentielle aminosyrer, der ligner kød?"
+            "For at få de nødvendige proteiner og undgå store mængder af mættede lipider: spis fjerkræ uden deres skind, fjern synligt fedt fra rødt kød (normalt det ydre lag).",
+            "Æg er et meget nærende valg til en proteinrig snack (f.eks. kogt æg), i stedet for til pålæg i sandwich/wraps, eller endda et hovedmåltid (f.eks. bagt omelet med ost og grøntsager).",
+            "For at holde dine måltider så sunde som muligt, skal du vælge animalske fødevarer med højt proteinindhold, der er kogt eller stegt i ovnen, og undgå stegt eller grillet, især grillet",
+            "Der er så mange måder at indarbejde pulser i din diæt! For at nævne nogle få kan du have dem som et hovedmåltid (f.eks. Linsesuppe), inkorporere dem i salater, bruge dem til at fremstille vegetariske burgere eller endda nyde dem som spredninger som hummus."
           ]
         },
         {
           "id": 5,
           "title": "Sundhedseffekter",
-          "description": "Fortrolighed med de sundhedsmæssige virkninger af fødevarer med højt proteinindhold.",
+          "description": "For at blive fortrolig med sundhedseffekterne af fødevarer med højt proteinindhold.",
           "questions": [
             {
               "id": 1,
@@ -5788,7 +5243,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "De fremmer vægttab.",
+                  "text": "De får dig til at tabe dig.",
                   "correct": false
                 },
                 {
@@ -5798,7 +5253,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "De bekæmper betændelse.",
+                  "text": "De gør dig sulten.",
                   "correct": false
                 }
               ]
@@ -5926,10 +5381,9 @@
           ],
           "messages": [
             "Fødevarer med højt proteinindhold er en væsentlig del af en afbalanceret diæt!",
-            "Vidste du, at alle kroppens organer og væv, såsom hjertet, lungerne, knoglerne, musklerne og huden, er sammensat af proteiner? Proteiner spiller en nøglerolle i bygning, vedligeholdelse og reparation af kroppens væv.",
-            "Fødevarer med højt proteinindhold understøtter også vigtige funktioner i immunsystemet, som forhindrer dig i at blive syg.",
-            "Et utilstrækkeligt forbrug af dyrebaserede fødevarer med højt proteinindhold kan føre til anæmi. Med enkle ord er anæmi manglen på sunde røde blodlegemer til at transportere ilt til kroppens væv. Det kan være forårsaget af et utilstrækkeligt indtag af jern og vitamin B12, som typisk findes i dyrebaserede fødevarer med højt proteinin.",
-            "Formålet med at følge de anbefalede indtag af fødevarer med højt proteinindhold i henhold til din alder og kropsvægt for at sikre et livslang tilstrækkeligt proteinindtag!"
+            "Vidste du, at alle dele af din krop, såsom hjertet, lungerne, knoglerne, musklerne og huden, består af proteiner? Proteiner spiller en nøglerolle i at opbygge, vedligeholde og reparere kroppens væv.",
+            "Fødevarer med højt proteinindhold hjælper også din krop med at bekæmpe bakterier, som forhindrer dig i at blive syg.",
+            "Husk dog, at overspisning af højproteinfødevarer, især rødt kød og kødprodukter, er dårligt for dit helbred."
           ]
         }
       ]
@@ -5937,12 +5391,12 @@
     {
       "id": 5,
       "title": "Fats & Oils (F&O) Quiz",
-      "description": "Et quizspil, der sigter mod at øge viden om gruppen af fedt og olier og uddanne/motivere brugere til deres optimale forbrugsmønster.",
+      "description": "Øg din viden om fedtstoffer og olier! Besvar spørgsmålene og vil lære om den slags fødevarer, der er inkluderet, forskellene i deres ernæringsmæssige værdi, og hvordan du bedst kan inkludere dem i din kost.",
       "levels": [
         {
           "id": 1,
           "title": "Bekendtskab",
-          "description": "Fortrolighed med gruppen af fedt og olier.",
+          "description": "At blive fortrolig med gruppen af ​​fedtstoffer og olier.",
           "questions": [
             {
               "id": 1,
@@ -6095,66 +5549,6 @@
               ]
             },
             {
-              "id": 6,
-              "question": "Hvad er tung fløde?",
-              "category": {
-                "id": "category-0",
-                "text": "Udefineret kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Den fedtede komponent skummet fra mælk",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Et cremet produkt lavet af kogende ost",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "En blanding af yoghurt med smør",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Det fedt afledt af svinekød",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 7,
-              "question": "Hvad er pisket fløde?",
-              "category": {
-                "id": "category-0",
-                "text": "Udefineret kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "En størknet version af solsikkeolie",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "En pasta lavet af mandler",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "En blanding af tung fløde og sukker",
-                  "correct": true
-                },
-                {
-                  "id": 4,
-                  "text": "Fedtet fra oksekød",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 8,
               "question": "Hvilket af følgende fedt/olier stammer fra rødt kød?",
               "category": {
@@ -6169,7 +5563,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Tung fløde",
+                  "text": "Solsikkeolie",
                   "correct": false
                 },
                 {
@@ -6246,7 +5640,7 @@
             },
             {
               "id": 11,
-              "question": "Hvilke af de følgende pastaer/spredninger produceres ved at bøje nødder/frø?",
+              "question": "Hvilken af ​​følgende pastaer/pålæg fremstilles ved at male nødder?",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -6336,7 +5730,7 @@
             },
             {
               "id": 14,
-              "question": "Hvilken af følgende frugter indeholder høje mængder fedt?",
+              "question": "Hvilken af ​​følgende frugter indeholder høje mængder lipider?",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -6366,22 +5760,15 @@
             }
           ],
           "messages": [
-            "Velkommen til verden af fedt og olier! Denne gruppe er meget forskelligartet og inkluderer:",
-            "Produkter fremstillet af mælk, f.eks. smør og tung fløde.",
-            "Produkter afledt af rødt kød, f.eks. Svinekød og oksekød tallow.",
-            "Oliven, frugten af oliventræet.",
-            "Nødder og frø, f.eks. Almond, Walnut, Peanut, Hazelnut, Pecan, Cashewn, Pistache, hør/linfrø, græskarfrø, solsikkefrø og sesamfrø.",
-            "Pastaer/opslag lavet af nødder/frø, f.eks. Jordnøddesmør, mandelsmør, hasselnøddesmør, valnøddesmør og tahini, der er lavet af jord -sesamfrø.",
-            "Planteolier afledt af frøene eller frugterne af planter (f.eks. Olivenolie, solsikkeolie, saflorolie, rapsolie, majsolie og palmeolie) eller fra bælgplanter (f.eks. Sojabønneolie).",
-            "Margarine, som er en størknet version af planteolier og bruges som smørstat.",
-            "Mayonnaise, som er en emulsion af olie- og æggeblommer, og andre saucer baseret på mayonnaise.",
-            "Vidste du, at avocado er en frugt, der for det meste indeholder fedt (enumættede lipider)?"
+            "Denne gruppe omfatter ingredienser, der primært bruges til madlavning, såvel som saucer eller smørepålæg. De gør det muligt at lave mad, og de giver smag og smag til retter og måltider. Deres fælles næringsstof er lipider.",
+            "Olier omfatter enhver spiselig (=kan spises) olie, der kommer fra planter (f.eks. olivenolie, solsikkeolie, sojaolie).",
+            "Fedtstoffer omfatter den faste form af lipider, enten fra planter eller dyr: a) Plantekilder: smørepålæg som margarine og mayonnaise, alle nødder og frø (f.eks. mandler, valnødder, jordnødder, sesam) og deres smør/pastaer brugt i smørepålæg (f.eks. jordnøddesmør, tahini). Også olivenolie og avocado.b) Animalske kilder: fra rødt kød (f.eks. svinefedt, oksetalg), fra mælk (smør)."
           ]
         },
         {
           "id": 2,
           "title": "Ernæringsværdi",
-          "description": "Fortrolighed med ernæringsværdien af fedt og olier.",
+          "description": "At blive fortrolig med næringsværdien af ​​fedtstoffer og olier.",
           "questions": [
             {
               "id": 1,
@@ -6423,7 +5810,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Kalorier/energi",
+                  "text": "Energi (kalorier)",
                   "correct": true
                 },
                 {
@@ -6504,68 +5891,8 @@
               ]
             },
             {
-              "id": 5,
-              "question": "Hvad er den vigtigste type lipider, der findes i oliven og olivenolie?",
-              "category": {
-                "id": "category-0",
-                "text": "Udefineret kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Mættet",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Enumættet",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Flerumættet",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Omega-3",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 6,
-              "question": "Hvad er den vigtigste type lipider, der findes i avocado?",
-              "category": {
-                "id": "category-0",
-                "text": "Udefineret kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Mættet",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Enumættet",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Flerumættet",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Omega-3",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 7,
-              "question": "Hvad er den vigtigste type lipider, der findes i palme- og kokosnøddeolier?",
+              "question": "I modsætning til andre planteolier indeholder palmeolie og kokosolie?",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -6573,22 +5900,22 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Mættet",
+                  "text": "For det meste mættede lipider",
                   "correct": true
                 },
                 {
                   "id": 2,
-                  "text": "Enumættet",
+                  "text": "Flere umættede lipider",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Flerumættet",
+                  "text": "Flere lipider i alt",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Omega-3",
+                  "text": "Flere vitaminer",
                   "correct": false
                 }
               ]
@@ -6624,68 +5951,8 @@
               ]
             },
             {
-              "id": 9,
-              "question": "Hvilken er olivenolie af den bedste kvalitet?",
-              "category": {
-                "id": "category-0",
-                "text": "Udefineret kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Raffineret olivenolie",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Ekstra jomfru olivenolie",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Uforarbejdet olivenolie",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Oliven pomaceolie",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 10,
-              "question": "Hvilket af følgende findes i olivenolie og hjælper med at bekæmpe oxidativ stress?",
-              "category": {
-                "id": "category-0",
-                "text": "Udefineret kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Polyfenoler",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Probiotika",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "C -vitamin",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Sukker",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 11,
-              "question": "Trans lipider dannes, når planteolier:",
+              "question": "Hvad er translipider:",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -6693,17 +5960,17 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Bruges rå i salater",
+                  "text": "Lipider, der bruges rå i salater",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Størknes eller koges ved høj temperatur",
+                  "text": "Lipider, der er størknet eller kogt ved høj temperatur",
                   "correct": true
                 },
                 {
                   "id": 3,
-                  "text": "Opbevares i mere end 1 måned",
+                  "text": "Lipider tgat opbevares i mere end 1 måned",
                   "correct": false
                 },
                 {
@@ -6723,12 +5990,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Hårdt grøntsagsfedt",
+                  "text": "Småkager sælges i supermarkedet",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Bagt/stegte kager og snacks",
+                  "text": "Bagte kager og snacks",
                   "correct": false
                 },
                 {
@@ -6805,19 +6072,19 @@
             }
           ],
           "messages": [
-            "Fedt og olier består primært af lipider, der giver energi til kroppen.",
+            "Fedtstoffer og olier består primært af lipider, hvis hovedrolle for kroppen er at lagre energi.",
             "Kvaliteten af lipider adskiller sig imidlertid markant blandt de forskellige fedt/olier:",
-            "Dyrbaserede fedt/olier, f.eks. Smør, tung fløde og smult/talg indeholder for det meste mættede lipider, som skal forbruges i moderation for optimal helbred.",
-            "Plantebaserede fedt/olier, f.eks. Oliven, nødder/frø, planteolier og avocado indeholder for det meste umættede (mono- og poly-umættede) lipider, som er gavnlige for hjertet og karene. En undtagelse er palme- og kokosnøddeolier, som er meget rige på mættede lipider og bør undgås.",
-            "De fleste planteolier er rige på E -vitamin, der beskytter kroppens celler mod oxidation.",
-            "Blandt de forskellige planteolier betragtes olivenolie, især ekstra jomfru olivenolie, som et af de sundeste valg, da det er minimalt forarbejdet og indeholder en lang række andre antioxidanter!",
-            "Vidste du, at når planteolier behandles til at blive faste eller kogte ved høje temperatur, kan trans -lipider dannes? Disse lipider er meget skadelige for helbredet og kan findes i hårde vegetabilske fedtstoffer (f.eks. Forkortelse og nogle hårde margariner) og forskellige forarbejdede fødevarer, såsom bagt kager, salt snacks, klar til at spise måltider og fastfood. Madetiketter kan hjælpe dig med at identificere disse fødevarer: Søg efter ordet 'trans' i ernæringsfakta -sektionen eller udtrykket 'delvist hydrogeneret olie' på listen over ingredienser."
+            "Animalsk fedt, f.eks. smør, fløde og svinefedt/talg, indeholder for det meste mættede lipider, som bør indtages i moderate mængder for optimal sundhed.",
+            "Plantefedt , f.eks. oliven, nødder/frø, planteolier og avocado, indeholder for det meste umættede lipider, som er gavnlige for hjertet. En undtagelse er palme- og kokosolie, som er meget rige på mættede lipider og bør undgås.",
+            "De fleste planteolier er rige på vitamin E, som holder din krops cellers sundhed.",
+            "Blandt de forskellige planteolier anses olivenolie, især ekstra jomfruolivenolie, som et af de sundeste valg, da den ikke er forarbejdet og indeholder en lang række sunde komponenter!",
+            "Men vær forsigtig! Når nogle planteolier omdannes til faste fedtstoffer eller koges ved meget høj varme, ændres deres struktur, hvilket gør dem til de mest usunde lipider af alle. De kaldes translipider og kan findes i forarbejdede fødevarer som kager, salt snack og fastfood."
           ]
         },
         {
           "id": 3,
           "title": "Anbefalet indtag",
-          "description": "Fortrolighed med det anbefalede indtag af fedt og olier med hensyn til mængde og kvalitet.",
+          "description": "At blive fortrolig med det anbefalede indtag af fedtstoffer og olier med hensyn til mængde og kvalitet.",
           "questions": [
             {
               "id": 1,
@@ -6829,17 +6096,17 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Kun planteolier, der bruges til madlavning",
+                  "text": "Planteolier brugt i madlavning",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Kun smør, der blev brugt som en spredning til brød",
+                  "text": "Smør bruges som smørepålæg til brød",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Kun nødder/frø, der forbruges som en snack",
+                  "text": "Nødder/frø indtaget som snack",
                   "correct": false
                 },
                 {
@@ -6864,24 +6131,24 @@
                 },
                 {
                   "id": 2,
-                  "text": "Tung fløde og mayonnaise-baserede saucer",
+                  "text": "Mayonnaise-baserede saucer",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Sunde planteolier, der bruges til madlavning og salater",
+                  "text": "Planteolier brugt i madlavning og salater",
                   "correct": true
                 },
                 {
                   "id": 4,
-                  "text": "Pisket fløde i slik",
+                  "text": "Fløde i slik",
                   "correct": false
                 }
               ]
             },
             {
               "id": 3,
-              "question": "Hvad er en god måde at undgå overforbrug af fedt/olier i madlavning?",
+              "question": "Hvad er en god måde at undgå at bruge for meget fedt/olier i madlavningen?",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -6972,14 +6239,14 @@
           ],
           "messages": [
             "Nyd fedt og olier i moderation!",
-            "Tilføjet fedt/olier, der bruges til madlavning og salater (f.eks. Planteolier, smør), såvel som fødevarer, der er rige på lipider (f.eks. Nødder/frø, oliven) kan konsumeres hver dag, men deres mængde betyder noget! Alle er meget rige på kalorier, så moderation i deres forbrug er vigtig for at forhindre overskydende vægtøgning.",
-            "Husk: For optimal helbred, prioriterer sunde planteolier (f.eks. Olivenolie, solsikkeolie, saflorolie og rapsolie) og nødder/frø over dyrebaserede fedt (f.eks. Svod/talg, smør og tung fløde), og prøv at undgå forarbejdede fødevarer, der kan indeholde trans-lipider så meget som du kan!"
+            "Deres lipidindhold gør fedtstoffer og olier, samt produkterne, der har disse som ingredienser, energitætte fødevarer, hvilket betyder, at de giver en masse energi (kalorier) for en given mængde. Derfor anbefales moderation i deres mængde.",
+            "Men deres kvalitet betyder også noget! Husk: For optimal sundhed skal du prioritere sunde planteolier (f.eks. olivenolie, solsikkeolie, tidselolie) og nødder/frø frem for animalske fedtstoffer (f.eks. svinefedt/talg, smør og fløde), og prøv at undgå forarbejdede fødevarer, der kan indeholde translipider, så meget du kan!"
           ]
         },
         {
           "id": 4,
           "title": "Forbrugspraksis",
-          "description": "Fortrolighed med den bedste praksis til at håndtere og forbruge fedt og olier.",
+          "description": "At blive fortrolig med den bedste praksis til at håndtere og indtage fedtstoffer og olier.",
           "questions": [
             {
               "id": 1,
@@ -7103,7 +6370,7 @@
             },
             {
               "id": 5,
-              "question": "Hvilket af følgende er en god måde at inkorporere nødder og frø i din diæt?",
+              "question": "Hvilken af ​​følgende er en god måde at tilføje nødder og frø i din kost?",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -7163,7 +6430,7 @@
             },
             {
               "id": 7,
-              "question": "Hvilket af følgende er en god måde at inkorporere Tahini eller nøddesmør i din diæt?",
+              "question": "Hvilken af ​​følgende er en god måde at tilføje nøddesmør til din kost?",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -7193,7 +6460,7 @@
             },
             {
               "id": 8,
-              "question": "Hvilket af følgende er en god måde at inkorporere avocado i din diæt?",
+              "question": "Hvilken af ​​følgende er en god måde at tilføje avocado i din kost?",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -7283,19 +6550,19 @@
             }
           ],
           "messages": [
-            "Høj temperatur kan få planteolier til at miste vigtige næringsstoffer. I stedet for at udbryde fødevarer, er det bedst at bruge små mængder planteolier i slutningen af madlavning i gryden eller i ovnen.",
-            "Den samme planteolie bør ikke bruges flere gange til madlavning, da gentagen opvarmning kan forårsage produktion af skadelige stoffer.",
-            "Husk: Olivenolie, især ekstra jomfru, er speciel! Den er rig på antioxidanter og dermed resistent i varme under madlavning, hvilket betyder, at det bevarer de fleste af sine fordelagtige næringsstoffer og går ikke dårligt.",
+            "Høj temperatur kan få planteolier til at miste vigtige næringsstoffer. I stedet for friturestegninger er det bedst at bruge små mængder planteolier i slutningen af ​​madlavningen.",
+            "Brug ikke den samme olie igen og igen, for opvarmning af den mange gange kan gøre den usund.",
+            "Undtagelse: olivenolie, især ekstra jomfru, ødelægges ikke i varmen under tilberedning og kan sikkert bruges flere gange, før den kasseres.",
             "Nødder og frø kan forbruges som en let at bære snack eller føjes til yoghurt, morgenmadsprodukter, hjemmelavede desserter og salater. For en endnu sundere mulighed, vælg rå og usalterede nødder!",
-            "Nøddesmør og tahini er fulde af sunde fedtstoffer! Du kan bruge dem i yoghurt, som en spredning til brød eller i hjemmelavede desserter (f.eks. Cookies eller kornstænger) i stedet for smør eller margarine.",
+            "Nøddesmør er fyldt med sunde fedtstoffer! Du kan bruge dem i yoghurt, som smørepålæg til brød eller i hjemmelavede desserter (f.eks. småkager eller kornbarer) i stedet for smør eller margarine.",
             "Avocados er lækre! Du kan prøve dem i salater eller mos som en dukkert eller spredt til toast.",
-            "Sørg for at opbevare fedt og olier korrekt. Smør, margarine og tung fløde skal opbevares i køleskabet, mens planteolier kan opbevares i stuetemperatur, men på et køligt og mørkt sted."
+            "Sørg for at opbevare fedtstoffer og olier korrekt. Smør, margarine og fløde skal opbevares i køleskabet, hvorimod planteolier kan opbevares ved stuetemperatur, men et køligt og mørkt sted."
           ]
         },
         {
           "id": 5,
           "title": "Sundhedseffekter",
-          "description": "Fortrolighed med de sundhedsmæssige virkninger af fedt og olier.",
+          "description": "At blive fortrolig med de sundhedsmæssige virkninger af fedtstoffer og olier.",
           "questions": [
             {
               "id": 1,
@@ -7388,38 +6655,8 @@
               ]
             },
             {
-              "id": 4,
-              "question": "Hvilke lipider kan være skadelige for helbredet, når de indtages i store mængder?",
-              "category": {
-                "id": "category-0",
-                "text": "Udefineret kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Mættet",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Enumættet",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Flerumættet",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Hele de foregående",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 5,
-              "question": "Hvilke lipider er meget skadelige for hjertesundhed?",
+              "question": "Hvilke lipider er de mest usunde for dit hjerte?",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -7427,12 +6664,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Enumættet",
+                  "text": "Umættet",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Omega-3 flerumættet",
+                  "text": "Mættet",
                   "correct": false
                 },
                 {
@@ -7446,14 +6683,43 @@
                   "correct": false
                 }
               ]
+            },
+            {
+              "id": 6,
+              "question": "For optimal sundhed bør du prøve at:?",
+              "category": {
+                "id": "category-0",
+                "text": "foretrækker plantebaserede fedtstoffer frem for animalske fedtstoffer"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Umættet",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "undgå pakkede snacks",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "brug opslag med måde",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Hele de foregående",
+                  "correct": false
+                }
+              ]
             }
           ],
           "messages": [
-            "Fedt og olier er vigtige for en sund og stærk krop, så længe de forbruges i moderation!",
-            "Lipider, det vigtigste næringsstof, der findes i fedt og olier, er ikke kun vigtige for at tilvejebringe energi til kroppen, men også for at bygge cellemembraner, forbedre absorptionen af fedtopløselige vitaminer (dvs. vitamin A, D, E og K) og understøtte reguleringen af kropstemperaturen.",
-            "Husk, at moderation i forbruget af fedt og olier er meget vigtigt! Lipider indeholder mange kalorier, så overforstående fedtstoffer og olier kan føre til overskydende vægtøgning på lang sigt.",
-            "Mættede lipider, der findes i alle dyrebaserede fedtstoffer og nogle planteolier (palme og kokosnød), kan være skadelig for helbredet, hvis de indtages i store mængder. Så prioritet til sunde plantebaserede fedt/olier!",
-            "Forsøg at undgå trans -lipider fuldstændigt, hvis det er muligt, fordi de er meget skadelige for hjertet og karene! En enkel måde at opnå dette på er at prioritere friske hele fødevarer frem for forarbejdede industrialiserede."
+            "Fedtstoffer og olier er vigtige for en sund og stærk krop, men kvalitet betyder noget!",
+            "Lipider, det vigtigste næringsstof, der findes i fedtstoffer og olier, er vigtige for at give energi til kroppen, holde cellerne stærke, hjælpe din krop med at bruge nogle vitaminer og kontrollere din krops temperatur.",
+            "Husk at mådehold i forbruget af fedtstoffer og olier er meget vigtigt! Fødevareindustrien bruger dem i vid udstrækning til at lave produkter, der er meget velsmagende, men de er også energitætte og normalt af lav næringsværdi. Hyppigt forbrug af disse produkter kan føre til overvægt på lang sigt.",
+            "Prøv at undgå translipider, , fordi de er de usundeste lipider for hjertet! En enkel måde at opnå dette på er at spise mere friske hele fødevarer og mindre forarbejdede industrialiserede."
           ]
         }
       ]
@@ -7461,12 +6727,12 @@
     {
       "id": 6,
       "title": "Hydrering (Hyd) quiz",
-      "description": "Et quizspil, der sigter mod at øge viden om sunde måder til tilstrækkelig hydrering, der understreger vand og andre drinks gennem uddannelse/motivation over for deres optimale forbrug.",
+      "description": "Øg din viden om hydrering! Besvar spørgsmålene og lær vigtigheden af ​​vand og dets overlegenhed i forhold til andre drikkevarer for at opnå tilstrækkelig hydrering og fremme dit generelle helbred.",
       "levels": [
         {
           "id": 1,
           "title": "Bekendtskab",
-          "description": "Fortrolighed med sunde hydratiseringsmidler.",
+          "description": "At blive fortrolig med sunde midler til hydrering.",
           "questions": [
             {
               "id": 1,
@@ -7638,7 +6904,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Vand med kuldioxid",
+                  "text": "Vand med bobler (kuldioxid)",
                   "correct": true
                 },
                 {
@@ -7673,7 +6939,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Koffeinholdigt vand",
+                  "text": "Vand med chokolade",
                   "correct": false
                 }
               ]
@@ -7801,9 +7067,9 @@
           ],
           "messages": [
             "Velkommen til hydratiseringsverdenen! For at forblive hydreret kan du prøve en stor række væsker:",
-            "Vand, som er den vigtigste drink i den menneskelige diæt. Smag dit vand med frugter, urter eller grøntsager eller prøv glitrende/kulsyreholdigt vand for sjovere!",
+            "Vand, som er den vigtigste drik. Smag dit vand til med frugt, urter eller grøntsager eller prøv mousserende/kulsyreholdigt vand, for mere sjov!",
             "Friske frugtsaft, som appelsinsaft, der produceres ved at presse eller blande friske frugter.",
-            "Mælk, som er et mejeriprodukt, og gærede/dyrkede mælkeprodukter, såsom sur mælk og kefir, der produceres gennem tilsætning af bakterier eller svampe i mælk.",
+            "Mælk, som er et mejeriprodukt, og fermenterede/dyrkede mælkeprodukter, såsom kefir",
             "Urteinfusioner, der er lavet af steeping og blødgøring af urter, krydderier, blomster eller andre plantematerialer i varmt vand (f.eks. Kamile, salvie, eukalyptus, pebermynte).",
             "Undgå drikkevarer, der indeholder koffein (f.eks. Kaffe, sort te, colas, energidrikke), tilsat sukker (f.eks. Frugtnektarer, læskedrikke, energidrikke og sportsdrikke) eller alkohol (øl, vin, spiritus). De er ikke gode midler til hydrering og måske også skadelige for dit helbred."
           ]
@@ -7811,7 +7077,7 @@
         {
           "id": 2,
           "title": "Ernæringsværdi",
-          "description": "Fortrolighed med ernæringsværdien af vand og drikke.",
+          "description": "For at blive fortrolig med den ernæringsmæssige værdi af vand og drikkevarer.",
           "questions": [
             {
               "id": 1,
@@ -7845,7 +7111,7 @@
             },
             {
               "id": 2,
-              "question": "Hvilken af følgende drinks indeholder C -vitamin, hvilket er vigtigt for immunsystemet?",
+              "question": "Hvilken af ​​følgende drikkevarer indeholder C-vitamin, hvilket er vigtigt for dit forsvarssystem?",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -7905,7 +7171,7 @@
             },
             {
               "id": 4,
-              "question": "Hvilken af følgende drinks indeholder calcium, som er vigtig for stærke knogler og tænder?",
+              "question": "Hvilken af ​​følgende drikkevarer indeholder mineralet calcium, som er vigtigt for stærke knogler og tænder?",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -7935,7 +7201,7 @@
             },
             {
               "id": 5,
-              "question": "Hvilken af følgende drinks indeholder gavnlige bakterier?",
+              "question": "Hvilken af ​​følgende drikkevarer indeholder gavnlig bakterie?",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -7953,7 +7219,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Kefir",
+                  "text": "Sur mælk",
                   "correct": true
                 },
                 {
@@ -7995,7 +7261,7 @@
             },
             {
               "id": 7,
-              "question": "Hvilken af følgende drinks indeholder polyfenoler, der har antioxidantvirkninger?",
+              "question": "Hvilken af ​​følgende drikkevarer indeholder fytokemikalier (særlige forbindelser, der giver planter smag)?",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -8085,7 +7351,7 @@
             },
             {
               "id": 10,
-              "question": "Hvilken af følgende drinks indeholder ethanol?",
+              "question": "Hvilken af ​​følgende drikkevarer indeholder alkohol?",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -8119,19 +7385,18 @@
             "Vand er den bedste måde at forblive hydreret på. Du kan nemt forstå dens betydning, hvis du tror, at op til 60-70% af vores krop faktisk er vand! Det indeholder ikke kalorier eller vitaminer, men kun små mængder mineraler, som calcium og magnesium.",
             "Andre sunde drikkevarer indeholder forskellige vigtige næringsstoffer:",
             "Mælk er rig på calcium, hvilket er vigtigt for stærke knogler og tænder.",
-            "Sure mælk og kefir indeholder gode bakterier kaldet 'probiotika', som hjælper tarmen med at fungere korrekt.",
+            "Surmælk og kefir indeholder gavnlige bakterier, som hjælper tarmen til at fungere korrekt.",
             "Friske frugtsaft er fyldt med vigtige vitaminer (f.eks. C -vitamin); De har imidlertid færre diætfibre sammenlignet med hele frugter.",
-            "Ikke-koffein urteinfusioner indeholder antioxidantforbindelser kaldet fytokemikalier.",
             "Men vær forsigtig! Ikke alle drinks er næringsrige.",
-            "Pakket frugtsaft, læskedrikke, sportsdrikke og energidrikke er ultraforarbejdede og fyldt med sukker og kemiske tilsætningsstoffer/konserveringsmidler, som har skadelige virkninger på kroppen.",
+            "Emballerede frugtjuicer, læskedrikke, sportsdrikke og energidrikke er ultraforarbejdede og fyldt med sukker og tilsætningsstoffer/konserveringsmidler, som har skadelige virkninger på kroppen.",
             "Kaffe, sort te og energidrikke indeholder også masser af koffein, hvilket kan forårsage angst, irritabilitet og søvnproblemer.",
-            "Alkoholiske drikkevarer indeholder ethanol, som er skadelig for din udvikling og generelle helbred."
+            "Alkohol skader din hjernefunktion, din adfærd og generelle udvikling, så du bør afholde dig fra at drikke alkohol, selv sjældent."
           ]
         },
         {
           "id": 3,
           "title": "Anbefalet indtag",
-          "description": "Fortrolighed med det anbefalede indtag af vand og drikke.",
+          "description": "At blive fortrolig med det anbefalede indtag af vand og drikkevarer.",
           "questions": [
             {
               "id": 1,
@@ -8346,17 +7611,17 @@
           ],
           "messages": [
             "Det anbefalede daglige forbrug af vand afhænger af alder og køn. Det er:",
-            "1600 ml (~ 6-7 briller) for 4-8-årige børn,",
-            "1900 ml (~ 7-8 briller) for 9-13-årige piger eller 2100 ml (~ 8-9 briller) for 9-13-årige drenge,",
-            "2000 ml (~ 8 briller) for ≥14 år gamle piger eller 2500 ml (~ 10 glas) for ≥14 år gamle drenge.",
+            "(6-7 glas) til 4-8-årige børn,",
+            "(7-8 glas) til 9-13-årige piger eller (8-9 glas) til 9-13-årige drenge,",
+            "(8 glas) til ≥14-årige piger eller (10 glas) til ≥14-årige drenge.",
             "Vidste du, at når temperaturen er høj (især i løbet af sommeren), eller hvis du er fysisk aktiv, har din krop brug for flere væsker til at erstatte vandet, der går tabt gennem sved og kraftig vejrtrækning? Andre situationer, hvor du har brug for flere væsker, er, når du har høj feber, diarré og opkast.",
-            "Husk: For optimal udvikling og sundhed prøv at undgå fuldstændigt forarbejdede drikkevarer med høj sukker (f.eks. Frugtnektarer, læskedrikke og energidrikke), dem, der indeholder koffein (f.eks. Kaffe og sort te) og alkoholholdige drikkevarer!"
+            "Husk: For optimal udvikling og sundhed forsøg helt at undgå forarbejdede drikke med højt sukkerindhold (f.eks. frugtnektar, sodavand og energidrikke), dem, der indeholder koffein (f.eks. kaffe og sort te) og mest af alt drikke, der indeholder alkohol!"
           ]
         },
         {
           "id": 4,
           "title": "Forbrugspraksis",
-          "description": "Fortrolighed med bedste praksis for at forblive hydreret.",
+          "description": "At blive fortrolig med bedste praksis for at forblive hydreret.",
           "questions": [
             {
               "id": 1,
@@ -8608,7 +7873,7 @@
         {
           "id": 5,
           "title": "Sundhedseffekter",
-          "description": "Fortrolighed med de sundhedsmæssige virkninger af vand og drikkevarer og tegn og konsekvenser af dehydrering.",
+          "description": "At blive fortrolig med de sundhedsmæssige virkninger af vand og drikke samt tegn og konsekvenser af dehydrering.",
           "questions": [
             {
               "id": 1,
@@ -8630,7 +7895,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Det deltager i mange biokemiske reaktioner",
+                  "text": "Det hjælper din krop med at skabe energi og vokse",
                   "correct": false
                 },
                 {
@@ -8685,7 +7950,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Hjælper dig med at sove bedre",
+                  "text": "Hjælper dig med at sove tidligt",
                   "correct": false
                 },
                 {
@@ -8805,12 +8070,12 @@
                 },
                 {
                   "id": 2,
-                  "text": "Træthed og svimmelhed",
+                  "text": "Træthed",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Hovedpine",
+                  "text": "Hovedpine eller svimmelhed",
                   "correct": false
                 },
                 {
@@ -8882,7 +8147,7 @@
             },
             {
               "id": 10,
-              "question": "Forbrug af alkoholholdige drikkevarer er skadeligt for:",
+              "question": "Indtagelse af drikkevarer med alkohol er skadeligt for:",
               "category": {
                 "id": "category-0",
                 "text": "Udefineret kategori"
@@ -8914,9 +8179,9 @@
           "messages": [
             "Bliv hydreret, bliv sund!",
             "At drikke nok vand er afgørende for din krop. Vand hjælper med at transportere vigtige stoffer til celler gennem blod, fjerne affaldsstoffer gennem urin og understøtter mange nøglefunktioner i kroppen. Det holder dig også fokuseret og energisk og regulerer din kropstemperatur.",
-            "Dehydrering, der opstår, når din krop mister flere væsker, end den tager i, kan præsentere med tegn og symptomer som tørstighed, svimmelhed, hovedpine, træthed, tør mund, ikke-elastisk hud og dårlig ånde. Vidste du, at du kan kontrollere din hydratiseringsstatus ved at observere farven på din urin? Mørk gul urin er et tegn på dehydrering, og at du skal drikke lidt vand.",
+            "Dehydrering, som opstår, når din krop mister mere væske, end den optager, kan vise sig med tegn og symptomer som tørst, svimmelhed, træthed, træthed, mundtørhed, ikke-elastisk hud og dårlig ånde. Vidste du, at du kan kontrollere din hydrering ved at observere farven på din urin? Mørkegul urin er et tegn på dehydrering, og at du bør drikke noget vand. Sigt efter lysfarvede uriner, som en lys kamillete.",
             "Undgå drikkevarer med koffein, da de kan forårsage overstimulering og forstyrre din søvn.",
-            "Undgå sukker sødede drikkevarer, da et højt forbrug kan øge risikoen for tandfald og kroniske sygdomme, såsom fedme og diabetes, på lang sigt.",
+            "Undgå sukkersødede drikke, da et højt forbrug kan øge risikoen for huller i tænderne eller fedme på lang sigt.",
             "Det er vigtigt at undgå alkoholforbrug, da det er skadeligt for din lever, knogler, mental og generel sundhed."
           ]
         }

@@ -8,7 +8,7 @@
         {
           "id": 1,
           "title": "Conocido",
-          "description": "Familiarización con los grupos de alimentos de frutas y verduras.",
+          "description": "Familiarizarse con los grupos de alimentos de frutas y verduras.",
           "questions": [
             {
               "id": 1,
@@ -132,7 +132,7 @@
             },
             {
               "id": 5,
-              "question": "¿Cuál de los siguientes es un vegetal?",
+              "question": "¿Cuál de los siguientes es un vegetal, desde el punto de vista nutricional?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -254,17 +254,18 @@
           "messages": [
             "¡Bienvenido al mundo de las frutas y verduras!",
             "El grupo de frutas incluye todas las frutas frescas (por ejemplo, naranja, manzana, pera, plátano, durazno) y frutas secas (por ejemplo, ciruelas, pasas, albaricoques), así como jugos de frutas recién exprimidas (es decir, 100% de jugo de fruta sin azúcares agregados). Recuerde: los jugos de frutas envasadas con azúcar agregada, refrescos y otras bebidas de frutas procesadas no están incluidos en el grupo de alimentos de frutas.",
-            "El grupo de verduras incluye todas las verduras crudas (por ejemplo, lechuga, repollo, zanahoria, tomate, pepino) y verduras cocidas (por ejemplo, brócoli, coliflor, calabacín, remolacha). Recuerde: las verduras con almidón, es decir, maíz, guisantes y calabaza, también se incluyen en el grupo de alimentos vegetales, pero son ricos en almidón, un carbohidrato complejo, que no está presente en otras verduras."
+            "El grupo de verduras incluye todas las verduras crudas (por ejemplo, lechuga, repollo, zanahoria, tomate, pepino) y verduras cocidas (por ejemplo, brócoli, coliflor, calabacín, remolacha). Recuerde: las verduras con almidón, es decir, maíz, guisantes y calabaza, también se incluyen en el grupo de alimentos vegetales, pero son ricos en almidón, un carbohidrato complejo, que no está presente en otras verduras.",
+            "Hay diferentes tipos de verduras, como las de hojas verdes (p. ej., espinacas), las de raíz (p. ej., zanahoria) o las crucíferas (p. ej., brócoli, coliflor). Las verduras con almidón, es decir, el maíz, los guisantes y la calabaza, también se incluyen en el grupo de alimentos vegetales, pero son ricas en almidón, un tipo de carbohidrato que no está presente en otras verduras."
           ]
         },
         {
           "id": 2,
           "title": "Valor nutricional",
-          "description": "Familiarización con el valor nutricional de las frutas y verduras.",
+          "description": "Familiarizarse con el valor nutricional de las frutas y verduras.",
           "questions": [
             {
               "id": 1,
-              "question": "¿Cuál es las principales frutas y verduras de nutrientes?",
+              "question": "¿Cuál es el principal nutriente que componen las frutas?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -282,7 +283,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Fibras",
+                  "text": "Lípidos",
                   "correct": false
                 },
                 {
@@ -536,14 +537,14 @@
           "messages": [
             "¡Las frutas y verduras son una muy buena fuente de una amplia gama de nutrientes importantes!",
             "Están compuestos principalmente a partir de carbohidratos que están presentes principalmente en forma de azúcares y proporcionan energía al cuerpo.",
-            "También incluyen vitaminas (por ejemplo, vitamina C, vitamina K, ácido fólico), minerales (por ejemplo, potasio, calcio), fibras y también otros compuestos (por ejemplo, fitoquímicos) importantes para la función óptima del cuerpo.",
+            "También incluyen vitaminas (por ejemplo, vitamina C, vitamina K, ácido fólico), minerales (por ejemplo, potasio, calcio), fibras y también otros compuestos importantes para el funcionamiento óptimo del cuerpo.",
             "Aunque son alimentos sólidos, contienen mucha agua y también pueden contribuir a la hidratación del cuerpo."
           ]
         },
         {
           "id": 3,
           "title": "Ingesta recomendada",
-          "description": "Familiarización con la ingesta recomendada y el tamaño de la porción de frutas y verduras.",
+          "description": "Familiarizarse con la ingesta recomendada y el tamaño de las porciones de frutas y verduras.",
           "questions": [
             {
               "id": 1,
@@ -765,7 +766,7 @@
         {
           "id": 4,
           "title": "Prácticas de consumo",
-          "description": "Familiarización con las mejores prácticas para manejar y consumir frutas y verduras.",
+          "description": "Familiarizarse con las mejores prácticas para manipular y consumir frutas y verduras.",
           "questions": [
             {
               "id": 1,
@@ -937,7 +938,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Con menos pesticidas",
+                  "text": "Con menos pesticidas (químicos utilizados en la finca para proteger las plantas)",
                   "correct": true
                 },
                 {
@@ -988,7 +989,7 @@
         {
           "id": 5,
           "title": "Efectos sobre la salud",
-          "description": "Familiarización con los beneficios para la salud de las frutas y verduras.",
+          "description": "Familiarizarse con los beneficios para la salud de las frutas y verduras.",
           "questions": [
             {
               "id": 1,
@@ -1060,7 +1061,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Aumentan su sistema inmunológico",
+                  "text": "Potencian el sistema de defensa de tu cuerpo.",
                   "correct": true
                 },
                 {
@@ -1114,13 +1115,13 @@
           "messages": [
             "¡Vaya sano con más frutas y verduras!",
             "Las frutas y verduras son un componente clave de una dieta saludable.",
-            "Entre sus numerosos beneficios para la salud, apoyan el crecimiento y el desarrollo óptimos, mejoran el sistema inmune y ayudan al sistema cardiovascular y al tracto gastrointestinal funcionan correctamente."
+            "Entre sus numerosos beneficios para la salud, apoyan el crecimiento y desarrollo óptimos, estimulan nuestro sistema de defensa y ayudan al corazón y al intestino a funcionar correctamente."
           ]
         },
         {
           "id": 6,
           "title": "Variedad y estacionalidad",
-          "description": "Familiarización con los conceptos de variedad y estacionalidad de frutas y verduras.",
+          "description": "Familiarizarse con los conceptos de variedad y estacionalidad de frutas y verduras.",
           "questions": [
             {
               "id": 1,
@@ -1154,7 +1155,7 @@
             },
             {
               "id": 2,
-              "question": "El color de las frutas y verduras indica su contenido en:",
+              "question": "¿Cuál de los siguientes compuestos da a las frutas y verduras su color particular?:",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -1162,7 +1163,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Fitoquímicos",
+                  "text": "Compuestos especiales llamados fitoquímicos.",
                   "correct": true
                 },
                 {
@@ -1344,7 +1345,7 @@
     {
       "id": 2,
       "title": "Prueba de productos lácteos (DP)",
-      "description": "Un juego de cuestionario con el objetivo de aumentar el conocimiento sobre el grupo de alimentos lácteos y motivar el consumo óptimo a través de la comprensión de los tipos, nutrición, prácticas, seguridad y beneficios para la salud.",
+      "description": "¡A Incrementar tus conocimientos sobre los productos lácteos!. Responde las preguntas y aprende qué se considera un producto lácteo desde el punto de vista nutricional, su valor nutricional, cuánto se recomienda consumir y consejos prácticos para cubrir tus necesidades diarias y manipularlos de forma segura.",
       "levels": [
         {
           "id": 1,
@@ -1353,7 +1354,7 @@
           "questions": [
             {
               "id": 1,
-              "question": "¿Cuál de los siguientes es una comida lechera?",
+              "question": "¿Cuál de los siguientes es un producto lácteo?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -1383,7 +1384,7 @@
             },
             {
               "id": 2,
-              "question": "¿Cuál de los siguientes es una comida lechera?",
+              "question": "¿Cuál de los siguientes es un producto lácteo?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -1413,7 +1414,7 @@
             },
             {
               "id": 3,
-              "question": "¿Cuál de los siguientes es una comida lechera?",
+              "question": "¿Cuál de los siguientes es un producto lácteo desde el punto de vista nutricional?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -1431,7 +1432,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Kefir.",
+                  "text": "Queso.",
                   "correct": true
                 },
                 {
@@ -1443,7 +1444,7 @@
             },
             {
               "id": 4,
-              "question": "¿Cuál de los siguientes no pertenece al grupo de alimentos de las lecherías?",
+              "question": "¿Cuál de los siguientes no es un producto lácteo desde el punto de vista nutricional?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -1473,7 +1474,7 @@
             },
             {
               "id": 5,
-              "question": "¿Qué ingrediente tienen todos los alimentos lácteos en común?",
+              "question": "¿Qué ingrediente tienen todos los productos lácteos en común?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -1503,7 +1504,7 @@
             },
             {
               "id": 6,
-              "question": "¿Cuál de los siguientes es un producto lácteo fermentado?",
+              "question": "¿Cuál de los siguientes productos lácteos contiene gérmenes útiles?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -1533,15 +1534,15 @@
             }
           ],
           "messages": [
-            "¡Bienvenido al mundo de los lácteos!",
-            "El grupo de alimentos Dairies incluye alimentos hechos de leche, como leche, yogurt liso y queso. Recuerde: los productos como yogurt con mucho azúcar agregado, mantequilla y leches de chocolate o a base de plantas no se cuentan como parte del grupo de alimentos lácteos.",
-            "Varios productos lácteos tienen diferentes gustos y texturas, pero incluyen nutrientes similares importantes para su crecimiento y salud."
+            "¡Bienvenidos al mundo de los productos lácteos!",
+            "Desde el punto de vista nutricional, el grupo de alimentos de los productos lácteos incluye alimentos elaborados a partir de leche que también contienen cantidades similares de algunos nutrientes, como proteínas y calcio. Así, la leche, el yogur natural y el queso pertenecen a este grupo, mientras que la mantequilla, aunque procede de la leche, pertenece al grupo de las grasas y aceites.",
+            "Recuerde, los postres de yogur parecen yogur pero contienen azúcar y conservantes añadidos, por lo que se parecen más a un postre."
           ]
         },
         {
           "id": 2,
           "title": "Valor nutricional",
-          "description": "Familiarización con el valor nutricional de los lácteos.",
+          "description": "Familiarizarse con el valor nutricional de los lácteos.",
           "questions": [
             {
               "id": 1,
@@ -1553,22 +1554,22 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Gordo.",
+                  "text": "Lípidos.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Proteína.",
+                  "text": "Proteínas.",
                   "correct": true
                 },
                 {
                   "id": 3,
-                  "text": "Azúcar.",
+                  "text": "Azúcares.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Fibra.",
+                  "text": "Fibras.",
                   "correct": false
                 }
               ]
@@ -1604,36 +1605,6 @@
               ]
             },
             {
-              "id": 3,
-              "question": "¿Cómo se llama el azúcar natural en la leche?",
-              "category": {
-                "id": "category-0",
-                "text": "Categoría indefinida"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Sacarosa.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Fructosa.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Glucosa.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Lactosa.",
-                  "correct": true
-                }
-              ]
-            },
-            {
               "id": 4,
               "question": "¿Cuál de los siguientes productos a menudo incluye azúcares agregados?",
               "category": {
@@ -1665,7 +1636,7 @@
             },
             {
               "id": 5,
-              "question": "Las leches enteras y descuidadas difieren en su:",
+              "question": "Las leches enteras y descremadas se diferencian en:",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -1683,7 +1654,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Contenido de grasa.",
+                  "text": "Contenido de lípidos.",
                   "correct": true
                 },
                 {
@@ -1695,7 +1666,7 @@
             },
             {
               "id": 6,
-              "question": "¿Qué significa los productos lácteos bajos en grasas o reducidos en grasa?",
+              "question": "¿Qué significan los productos lácteos \"bajos en grasa\"?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -1703,7 +1674,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Contenido de grasa más bajo.",
+                  "text": "Menos lípidos.",
                   "correct": true
                 },
                 {
@@ -1725,7 +1696,7 @@
             },
             {
               "id": 7,
-              "question": "¿Qué le ayuda a hacer los productos lácteos que se encuentran la grasa en los productos lácteos?",
+              "question": "¿Qué ayudan a tu cuerpo los lípidos que se encuentran en los productos lácteos?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -1814,66 +1785,6 @@
               ]
             },
             {
-              "id": 10,
-              "question": "¿Qué vitamina ayuda a su cuerpo a absorber mejor el calcio?",
-              "category": {
-                "id": "category-0",
-                "text": "Categoría indefinida"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Vitamina D.",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Vitamina B12.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Vitamina A.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Vitamina E.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 11,
-              "question": "¿Qué micronutriente de productos lácteos ayuda a que su corazón y sus músculos funcionen correctamente?",
-              "category": {
-                "id": "category-0",
-                "text": "Categoría indefinida"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Vitamina D.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Potasio.",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Zinc.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Vitamina K.",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 12,
               "question": "¿Cuál de los siguientes nutrientes no generalmente se encuentra en la leche y los productos lácteos?",
               "category": {
@@ -1883,12 +1794,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Fibra.",
+                  "text": "Fibras.",
                   "correct": true
                 },
                 {
                   "id": 2,
-                  "text": "Sodio.",
+                  "text": "Proteínas.",
                   "correct": false
                 },
                 {
@@ -1904,38 +1815,8 @@
               ]
             },
             {
-              "id": 13,
-              "question": "¿Cuál de los siguientes contiene cantidades insignificantes de lactosa?",
-              "category": {
-                "id": "category-0",
-                "text": "Categoría indefinida"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Leche.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Yogur.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Queso feta.",
-                  "correct": true
-                },
-                {
-                  "id": 4,
-                  "text": "Queso gouda.",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 14,
-              "question": "¿Qué tipo de queso es el más rico en calcio?",
+              "question": "¿Cuál de las siguientes afirmaciones es cierta para el calcio en el queso?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -1943,22 +1824,22 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Parmesano.",
+                  "text": "Cuanto más amarillo es el queso, más calcio contiene.",
                   "correct": true
                 },
                 {
                   "id": 2,
-                  "text": "Cabaña.",
+                  "text": "Cuanto más blanco es el queso más calcio contiene.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Queso Mozzarella.",
+                  "text": "El queso no contiene calcio.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Queso crema.",
+                  "text": "Todos los tipos de queso contienen la misma cantidad de calcio.",
                   "correct": false
                 }
               ]
@@ -1983,28 +1864,28 @@
                 },
                 {
                   "id": 3,
-                  "text": "Ha sido fortificado con A/algunos nutrientes/s.",
+                  "text": "Tiene nutrientes adicionales añadidos.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Contiene beneficiosos para nuestros microorganismos de salud.",
+                  "text": "Contiene gérmenes útiles para nuestra salud.",
                   "correct": true
                 }
               ]
             }
           ],
           "messages": [
-            "La leche y los productos lácteos proporcionan proteínas de alta calidad, lo que significa que contienen todos los aminoácidos esenciales que el cuerpo necesita para construir y preservar células, órganos y tejidos. También se encuentran entre las fuentes más ricas de calcio en la dieta.",
-            "Los productos lácteos también contienen vitaminas importantes como la vitamina D, B12 y la riboflavina, así como minerales como el fósforo y el potasio, que contribuyen a la salud general.",
-            "Muchos productos lácteos incluyen lactosa, el azúcar natural en la leche, que proporciona energía. Algunas personas pueden no tolerar la lactosa y deben elegir leche y yogurt o quesos duros sin lactosa que contengan cantidades insignificantes de lactosa.",
-            "Los alimentos fermentados se producen a través de un proceso llamado fermentación, donde los microorganismos como la levadura y las bacterias descomponen los componentes de los alimentos, transformándolos en nuevas sustancias."
+            "Los productos lácteos proporcionan proteínas de alta calidad, que entre muchas funciones ayudan a desarrollar y reparar los músculos.",
+            "También se encuentran entre las fuentes más ricas de calcio en la dieta, necesario para los huesos y los dientes.",
+            "Los productos lácteos también contienen otros micronutrientes importantes, vitaminas como la vitamina D, B12 y B2, y minerales como el fósforo y el potasio, que contribuyen a la salud en general.",
+            "Algunos productos lácteos, como el yogur, se elaboran añadiendo a la leche algunos tipos de gérmenes que producen compuestos útiles y saludables para el intestino. Estos productos se llaman fermentados."
           ]
         },
         {
           "id": 3,
           "title": "Consumo recomendado y tamaños de porciones",
-          "description": "Familiarización con la ingesta recomendada y el tamaño de la porción de los productos lácteos.",
+          "description": "Familiarizarse con la ingesta recomendada y el tamaño de las porciones de productos lácteos.",
           "questions": [
             {
               "id": 1,
@@ -2051,7 +1932,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "1 bote (150 g) de yogurt.",
+                  "text": "1 taza (200 g) de yogur.",
                   "correct": false
                 },
                 {
@@ -2106,7 +1987,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Una olla (150 g) de yogurt.",
+                  "text": "una taza de yogur.",
                   "correct": false
                 },
                 {
@@ -2116,42 +1997,12 @@
                 },
                 {
                   "id": 3,
-                  "text": "1/2 taza de queso ricotta.",
+                  "text": "1 taza de requesón.",
                   "correct": false
                 },
                 {
                   "id": 4,
                   "text": "Cualquiera de los anteriores.",
-                  "correct": true
-                }
-              ]
-            },
-            {
-              "id": 5,
-              "question": "¿Qué tipo de leche contiene grasa más baja?",
-              "category": {
-                "id": "category-0",
-                "text": "Categoría indefinida"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Leche entera.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Leche con sabor.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Leche de chocolate.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Leche desnatada.",
                   "correct": true
                 }
               ]
@@ -2181,7 +2032,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Leche evaporada.",
+                  "text": "Leche condensada.",
                   "correct": false
                 }
               ]
@@ -2212,36 +2063,6 @@
                 {
                   "id": 4,
                   "text": "Etiqueta de precio.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 8,
-              "question": "¿Qué tipo de leche es mejor para los niños con intolerancia a la lactosa?",
-              "category": {
-                "id": "category-0",
-                "text": "Categoría indefinida"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Leche de chocolate.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Leche sin lactosa.",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Leche desnatada.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "No hay leche para ellos.",
                   "correct": false
                 }
               ]
@@ -2278,7 +2099,7 @@
             },
             {
               "id": 10,
-              "question": "¿A qué edad pueden los niños comenzar a beber leche baja en grasa (semi-skimmed)?",
+              "question": "¿A qué edad pueden empezar los niños a tomar leche desnatada?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -2308,16 +2129,17 @@
             }
           ],
           "messages": [
-            "Debe consumir leche y productos lácteos diariamente como parte de una dieta equilibrada, con el objetivo de 3 a 4 porciones de lácteos cada día. Una porción puede ser 1 taza de leche, 1 olla de yogurt o 1 porción (30 gramos) de queso.",
-            "Si no bebe leche, aún puede obtener la mayoría de sus nutrientes de alimentos como queso o yogurt, y en caso de intolerancia a la lactosa, la leche sin lactosa es una excelente opción.",
+            "Debe consumir leche y productos lácteos a diario como parte de una dieta equilibrada, con el objetivo de consumir de 3 a 4 porciones de lácteos al día. Una porción puede ser 1 taza de leche, 1 taza de yogur o 1 rebanada (30 gramos) de queso.",
+            "Si no bebes leche, aún puedes obtener la mayoría de sus nutrientes de alimentos como el queso o el yogur.",
             "También es inteligente verificar las etiquetas de yogurt para el azúcar agregado para tomar decisiones más saludables.",
-            "Para los niños mayores de 2 años, tanto la leche y los yogures semi-grasos y semi-skimmed (bajos en grasas) son opciones adecuadas, dependiendo de las necesidades de energía y la salud en general."
+            "Para los niños mayores de 2 años, la leche y los yogures, tanto enteros como bajos en grasa, son opciones adecuadas, según las necesidades energéticas y la salud general.",
+            "Tenga en cuenta que algunas personas pueden tener problemas digestivos al beber leche. Para ellos, existe en el mercado un tipo de leche llamada “sin lactosa”."
           ]
         },
         {
           "id": 4,
           "title": "Prácticas de consumo",
-          "description": "Familiarización con las mejores prácticas para integrar alimentos lácteos en comidas, bocadillos y recetas.",
+          "description": "Familiarizarse con las mejores prácticas para integrar productos lácteos en comidas, refrigerios y recetas.",
           "questions": [
             {
               "id": 1,
@@ -2351,7 +2173,7 @@
             },
             {
               "id": 2,
-              "question": "¿Cuál es una buena opción para agregar lecherías a su lonchera?",
+              "question": "¿Cuál es una buena opción para agregar productos lácteos a tu lonchera?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -2364,7 +2186,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Una lata de refrescos.",
+                  "text": "Una lata de refresco.",
                   "correct": false
                 },
                 {
@@ -2399,7 +2221,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Chips y refrescos.",
+                  "text": "Patatas fritas y refresco.",
                   "correct": false
                 },
                 {
@@ -2464,14 +2286,14 @@
                 },
                 {
                   "id": 4,
-                  "text": "Yogurt griego simple.",
+                  "text": "Yogurt simple.",
                   "correct": true
                 }
               ]
             },
             {
               "id": 6,
-              "question": "¿Qué es una cobertura para la ensalada de frutas para agregar calcio y proteína?",
+              "question": "¿Cuál es un aderezo saludable para ensalada de frutas para agregar calcio y proteínas?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -2489,7 +2311,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Cobertura batida.",
+                  "text": "Crema batida.",
                   "correct": false
                 },
                 {
@@ -2519,7 +2341,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Agregue crema de wheep a sus frutas.",
+                  "text": "Agrega crema batida a tus frutas.",
                   "correct": false
                 },
                 {
@@ -2539,7 +2361,7 @@
         {
           "id": 5,
           "title": "Prácticas de manejo y almacenamiento",
-          "description": "Familiarización con el almacenamiento seguro, la prevención y la contaminación, y la comprensión de las fechas de vencimiento y los signos de deterioro de los alimentos lácteos.",
+          "description": "Familiarizarse con el almacenamiento seguro, la prevención y la contaminación, y comprender las fechas de vencimiento y los signos de deterioro de los productos lácteos.",
           "questions": [
             {
               "id": 1,
@@ -2603,7 +2425,7 @@
             },
             {
               "id": 3,
-              "question": "Fecha de vencimiento o mejor por fecha consulte la fecha en que un producto lácteo:",
+              "question": "La 'fecha de caducidad' se refiere a la fecha en que un producto lácteo:",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -2664,14 +2486,14 @@
           ],
           "messages": [
             "Para mantener los productos lácteos seguros y frescos, siempre deben almacenarse en el refrigerador al menos en 40 ° F (4 ° C). Las bajas temperaturas evitan que el crecimiento de las bacterias dañinas, lo que puede enfermarlo.",
-            "Siempre verifique la fecha de \"vencimiento\" o \"mejor por\" en la etiqueta. Esto le indica la última fecha para usar el producto para obtener la mejor calidad y seguridad.",
-            "Para ver si el producto lácteo sigue siendo bueno, debe olerlo, verificar la textura y leer la fecha. Si huele agrio, se ve extraño o pasa su cita, es mejor no comerlo o beberlo."
+            "Siempre verifique la fecha de “vencimiento” en la etiqueta. Esto le indica la última fecha para utilizar el producto para obtener la mejor calidad y seguridad.",
+            "Para comprobar si el producto lácteo aún está en buen estado, debes olerlo, comprobar la textura y leer la fecha. Si huele agrio, tiene un aspecto extraño o ha caducado, es mejor no comerlo ni beberlo."
           ]
         },
         {
           "id": 6,
           "title": "Efectos sobre la salud",
-          "description": "Familiarización con los beneficios para la salud de los productos lácteos.",
+          "description": "Familiarizarse con los beneficios para la salud de los productos lácteos.",
           "questions": [
             {
               "id": 1,
@@ -2764,36 +2586,6 @@
               ]
             },
             {
-              "id": 4,
-              "question": "Prefirir la leche o el yogur de Skim versus entero contribuye a:",
-              "category": {
-                "id": "category-0",
-                "text": "Categoría indefinida"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Ingesta de grasas saturadas más baja.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Niveles normales de lípidos en sangre.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Menos ingesta de energía.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Todo el anterior.",
-                  "correct": true
-                }
-              ]
-            },
-            {
               "id": 5,
               "question": "Productos lácteos fermentados como yogurt y kéfir lisos:",
               "category": {
@@ -2808,7 +2600,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Ayuda a tu sistema inmunológico.",
+                  "text": "Tener más gérmenes útiles.",
                   "correct": false
                 },
                 {
@@ -2826,9 +2618,9 @@
           ],
           "messages": [
             "Los productos lácteos son importantes porque ayudan a su cuerpo a crecer fuerte y mantenerse saludable.",
-            "El calcio en las lecherías desarrolla huesos y dientes fuertes, mientras que las proteínas apoyan el desarrollo y el crecimiento muscular.",
-            "Los expertos recomiendan alimentos lácteos no solo para crecer fuertes, sino también porque ayudan a la prevención de enfermedades, como la osteoporosis, más adelante en la vida.",
-            "Elegir productos lácteos bajos en grasas o fermentados puede protegerlo de varios problemas de salud."
+            "El calcio de los productos lácteos fortalece los huesos y los dientes, mientras que las proteínas favorecen el desarrollo y el crecimiento muscular.",
+            "Los expertos recomiendan los productos lácteos no sólo para crecer fuertes, sino también porque ayudan a prevenir enfermedades, como la debilidad del cuerpo en una etapa más avanzada de la vida.",
+            "Elegir productos lácteos fermentados o bajos en grasa puede protegerlo de diversos problemas de salud."
           ]
         }
       ]
@@ -2836,12 +2628,12 @@
     {
       "id": 3,
       "title": "Prueba de granos y productos de granos (G & GP)",
-      "description": "Un juego de cuestionario para aumentar el conocimiento sobre los granos de cereales y promover patrones de consumo óptimos, incluidos los tipos de alimentos, el valor nutricional y los efectos sobre la salud.",
+      "description": "¡Aumenta tus conocimientos sobre cereales y productos de cereales! Responde las preguntas y conoce qué alimentos están incluidos, su valor nutricional, recomendaciones para consumirlos y elegir sus formas más saludables.",
       "levels": [
         {
           "id": 1,
           "title": "Conocido",
-          "description": "Familiarización con el grupo de alimentos de granos.",
+          "description": "Familiarizarse con el grupo de alimentos de los cereales.",
           "questions": [
             {
               "id": 1,
@@ -3038,7 +2830,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Bagels.",
+                  "text": "Pan blanco.",
                   "correct": false
                 },
                 {
@@ -3073,7 +2865,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Tahini (pasta de sésamo).",
+                  "text": "Manteca de cacahuete.",
                   "correct": false
                 },
                 {
@@ -3085,16 +2877,15 @@
             }
           ],
           "messages": [
-            "¡Bienvenido al mundo de los granos de cereales!",
-            "El grupo de cereales de granos incluye todos los alimentos hechos de trigo, arroz, avena, cebada, etc. Estos granos a menudo se usan para fabricar productos como pan, pasta, cereales para el desayuno, tortillas y galletas.",
-            "También hay otros granos menos conocidos llamados pseudo-granos como el mijo, el sorgo, el amaranto, el trigo sarraceno, la quinua, el teff que también tienen un alto contenido de nutrientes valiosos.",
-            "Los granos son una parte esencial de una dieta equilibrada y están disponibles en muchas formas, desde granos integrales hasta refinados. ¡Aprender sobre los granos te ayuda a tomar decisiones más saludables!"
+            "¡Bienvenido al mundo de los cereales y sus productos! El grupo incluye productos elaborados a partir de plantas como trigo, arroz, avena, cebada, etc. Estos granos se utilizan ampliamente para elaborar productos como pan, pasta, cereales para el desayuno, tortillas y galletas saladas.",
+            "También existen otros cereales menos conocidos como el mijo, el trigo sarraceno y la quinoa, que se consideran muy saludables.",
+            "Los cereales son una parte esencial de una dieta equilibrada y están disponibles en muchas formas, que difieren en su valor nutricional. ¡¡Aprender sobre los cereales te ayuda a tomar decisiones más saludables!!"
           ]
         },
         {
           "id": 2,
           "title": "Valor nutricional",
-          "description": "Familiarización con el valor nutricional de los granos.",
+          "description": "Familiarizarse con el valor nutricional de los cereales.",
           "questions": [
             {
               "id": 1,
@@ -3116,7 +2907,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Grasas.",
+                  "text": "Lípidos.",
                   "correct": false
                 },
                 {
@@ -3158,7 +2949,7 @@
             },
             {
               "id": 3,
-              "question": "¿Cuál de los siguientes no es parte de un grano entero?",
+              "question": "¿Cuál de los siguientes es parte de un grano integral?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -3171,17 +2962,47 @@
                 },
                 {
                   "id": 2,
-                  "text": "El germen.",
+                  "text": "Las hojas.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "El endospermo.",
+                  "text": "La flor.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "El salvado.",
+                  "text": "La (parte exterior de la semilla (llamada salvado).",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "¿Qué significa el término refinado para los cereales?",
+              "category": {
+                "id": "category-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Son caros.",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Se les quitan algunas partes del grano entero.",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Son de colores.",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Crecen en ambientes tropicales.",
                   "correct": false
                 }
               ]
@@ -3231,17 +3052,17 @@
                 },
                 {
                   "id": 2,
-                  "text": "Fibra.",
+                  "text": "Fibras.",
                   "correct": true
                 },
                 {
                   "id": 3,
-                  "text": "Sodio.",
+                  "text": "Sal.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Grasa saturada.",
+                  "text": "Lípidos saturados.",
                   "correct": false
                 }
               ]
@@ -3261,7 +3082,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Fibra.",
+                  "text": "Fibras.",
                   "correct": false
                 },
                 {
@@ -3277,38 +3098,8 @@
               ]
             },
             {
-              "id": 7,
-              "question": "¿Qué parte del grano proporciona la mayor fibra?",
-              "category": {
-                "id": "category-0",
-                "text": "Categoría indefinida"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Endosperma.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Salvado.",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Hojas.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Germen.",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 8,
-              "question": "El término granos enriquecidos significa que en estos granos:",
+              "question": "El término \"granos enriquecidos\" significa que en estos granos:",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -3316,7 +3107,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Se han agregado vitaminas B.",
+                  "text": "Las vitaminas que se eliminaron con el refinamiento se han vuelto a agregar.",
                   "correct": true
                 },
                 {
@@ -3326,7 +3117,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Se han eliminado las grasas.",
+                  "text": "Se han eliminado los lípidos.",
                   "correct": false
                 },
                 {
@@ -3368,16 +3159,13 @@
             }
           ],
           "messages": [
-            "Los alimentos hechos de trigo, arroz, avena, harina de maíz, cebada u otro grano de cereal son productos de granos.",
-            "Los granos tienen dos subgrupos: granos integrales y granos refinados.",
-            "Los granos, especialmente los granos integrales, son fuentes importantes de muchos nutrientes, incluidos carbohidratos complejos, fibra y vitaminas B. También contienen minerales esenciales como hierro, magnesio y selenio.",
-            "Los granos integrales retienen su salvado y germen, que proporcionan fibra y nutrientes, a diferencia de los granos refinados que pierden muchos de estos durante el procesamiento. Los granos integrales contienen más granos de fibra que los granos refinados y son importantes para la función intestinal adecuada."
+            "Los cereales pueden encontrarse como cereales integrales o cereales refinados. Se diferencian por las partes que contienen. Los cereales integrales tienen el grano original intacto (entero), mientras que los refinados han perdido algunas partes tras su procesamiento (refinamiento). Si bien ambos proporcionan carbohidratos, los cereales integrales también contienen fibras, vitaminas y minerales que se han perdido debido al refinamiento."
           ]
         },
         {
           "id": 3,
           "title": "Ingesta recomendada",
-          "description": "Familiarización con la ingesta recomendada y el tamaño de la porción de los granos.",
+          "description": "Familiarizarse con la ingesta recomendada y el tamaño de las porciones de cereales.",
           "questions": [
             {
               "id": 1,
@@ -3514,7 +3302,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Pan de trigo entero.",
+                  "text": "Pan integral.",
                   "correct": true
                 },
                 {
@@ -3531,7 +3319,7 @@
             },
             {
               "id": 6,
-              "question": "¿Cuál de las siguientes no es una porción de granos enteros?",
+              "question": "¿Cuál de los siguientes no es una porción de cereales integrales?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -3629,7 +3417,7 @@
         {
           "id": 4,
           "title": "Prácticas de consumo",
-          "description": "Familiarización con las mejores prácticas para preparar y consumir granos.",
+          "description": "Familiarizarse con las mejores prácticas para preparar y consumir granos.",
           "questions": [
             {
               "id": 1,
@@ -3681,7 +3469,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Hervido, horneado o crudo.",
+                  "text": "Hervido.",
                   "correct": true
                 },
                 {
@@ -3701,7 +3489,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Un tazón de cereales enteros con leche.",
+                  "text": "Un plato de cereales integrales con leche.",
                   "correct": true
                 },
                 {
@@ -3723,7 +3511,7 @@
             },
             {
               "id": 4,
-              "question": "¿Cuál de los siguientes es una buena opción de grano para su almuerzo?",
+              "question": "¿Cuál de los siguientes es una buena opción de cereales para su comida principal?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -3771,7 +3559,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Tortillas de trigo integral.",
+                  "text": "Palitos de pan integrales.",
                   "correct": true
                 },
                 {
@@ -3796,12 +3584,12 @@
                 },
                 {
                   "id": 2,
-                  "text": "Panqueques de trigo integral con miel.",
+                  "text": "Tortitas integrales con miel.",
                   "correct": true
                 },
                 {
                   "id": 3,
-                  "text": "Donut con praline.",
+                  "text": "Pastel con praliné.",
                   "correct": false
                 },
                 {
@@ -3821,17 +3609,17 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Más fibra.",
+                  "text": "Más fibras.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Más magnesio.",
+                  "text": "Más minerales.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Más vitaminas B.",
+                  "text": "Más vitaminas.",
                   "correct": false
                 },
                 {
@@ -3874,15 +3662,14 @@
           ],
           "messages": [
             "¡Hay muchas maneras de incorporar granos en su dieta!",
-            "Consume los productos de granos como bocadillos durante todo el día (elija una tostada con pan de trigo integral y queso o galletas con huevo para un refrigerio saludable en la escuela), úselos para hacer postres nutritivos (por ejemplo, pasteles y galletas caseros), o agréguelos a sus comidas.",
-            "Dar prioridad a los granos enteros (en lugar de refinado) para aprovechar todos sus nutrientes (fibras, vitaminas y minerales).",
-            "Elija granos integrales sobre los refinados y prepárelos de manera simple y saludable como horneado o hervido. Evite agregar demasiada grasa, azúcar o sal. El pan integral, la avena y el arroz integral son excelentes opciones de granos integrales."
+            "Consume productos de cereales como snacks (elige una tostada con pan integral y queso o galletas saladas con huevo para un snack saludable en el colegio), y agrégalos a tus comidas principales.",
+            "Dar prioridad a los cereales integrales (en lugar de refinados) para aprovechar todos sus nutrientes (fibras, vitaminas y minerales). El pan integral, la avena y el arroz integral son excelentes opciones integrales. Prepárelos de manera sencilla, evitando agregar demasiada grasa, azúcar o sal."
           ]
         },
         {
           "id": 5,
           "title": "Efectos sobre la salud",
-          "description": "Familiarización con los efectos sobre la salud de los granos.",
+          "description": "Familiarizarse con los efectos de los cereales sobre la salud.",
           "questions": [
             {
               "id": 1,
@@ -3899,7 +3686,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Perder grasa.",
+                  "text": "Dormir mejor.",
                   "correct": false
                 },
                 {
@@ -3909,7 +3696,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Protegiendo su salud.",
+                  "text": "Creciendo bien.",
                   "correct": true
                 }
               ]
@@ -3946,7 +3733,7 @@
             },
             {
               "id": 3,
-              "question": "Magnesio:",
+              "question": "Comer cereales integrales alimenta tu cuerpo con minerales que te ayudan con:",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -3954,29 +3741,29 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Es importante para tus oídos.",
+                  "text": "Construyendo tus huesos.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Ayuda a que sus músculos funcionen mejor.",
+                  "text": "Hacer que tus músculos funcionen mejor.",
                   "correct": true
                 },
                 {
                   "id": 3,
-                  "text": "Ayuda a su sistema inmunológico.",
+                  "text": "Potencia tu sistema de defensa.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Ninguno de los anteriores.",
+                  "text": "Todo el anterior.",
                   "correct": false
                 }
               ]
             },
             {
               "id": 4,
-              "question": "Los productos de granos son ricos en vitaminas B que ayudan:",
+              "question": "Los productos de cereales son ricos en vitaminas(grupo B) que ayudan a:",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -3984,22 +3771,22 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Tus dientes son más fuertes.",
+                  "text": "La producción de tu sangre.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Tu intestino funciona mejor.",
+                  "text": "Tu cerebro para funcionar bien.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Te sientes más enérgico.",
+                  "text": "Obtener la energía almacenada en los alimentos.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Su sistema nervioso se mantiene saludable.",
+                  "text": "Todo el anterior.",
                   "correct": true
                 }
               ]
@@ -4014,7 +3801,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Te ayudan a controlar tu peso.",
+                  "text": "Te ayudan a mantener un peso saludable.",
                   "correct": true
                 },
                 {
@@ -4024,7 +3811,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Te dan más carbohidratos y proteínas.",
+                  "text": "Te aportan muchos carbohidratos y proteínas.",
                   "correct": false
                 },
                 {
@@ -4044,12 +3831,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "El estreñimiento.",
+                  "text": "Constipación.",
                   "correct": true
                 },
                 {
                   "id": 2,
-                  "text": "El dolor abdominal.",
+                  "text": "Tu audiencia.",
                   "correct": false
                 },
                 {
@@ -4066,7 +3853,7 @@
             },
             {
               "id": 7,
-              "question": "¿Qué nutriente, que se encuentra en los granos, es importante para la función intestinal adecuada?",
+              "question": "¿Qué nutriente, que se encuentra en los cereales, es importante para el funcionamiento intestinal adecuado?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -4074,131 +3861,41 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Proteína.",
+                  "text": "Proteínas.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Gordo.",
+                  "text": "Lípidos.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Fibra.",
+                  "text": "Fibras.",
                   "correct": true
                 },
                 {
                   "id": 4,
-                  "text": "Carbohidrato.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 8,
-              "question": "¿Qué vitamina, que se encuentra en los granos, es importante para el sistema nervioso?",
-              "category": {
-                "id": "category-0",
-                "text": "Categoría indefinida"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "B vitaminas.",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Vitamina D.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Vitamina C.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Vitamina E.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 9,
-              "question": "¿Qué mineral, que se encuentra en los granos, es importante para la salud ósea?",
-              "category": {
-                "id": "category-0",
-                "text": "Categoría indefinida"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Magnesio.",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Calcio.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Hierro.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Selenio.",
+                  "text": "Carbohidratos.",
                   "correct": false
                 }
               ]
             }
           ],
           "messages": [
-            "Comer granos, especialmente granos integrales, proteger su salud y reducir el riesgo de muchas enfermedades.",
-            "Los granos proporcionan muchos nutrientes que son vitales para la salud y el mantenimiento de sus cuerpos, como fibras, vitaminas B (tiamina, niacina, riboflavina) y minerales como el magnesio y el selenio.",
-            "Los productos integrales de grano contienen más de los nutrientes beneficiosos mencionados anteriormente en comparación con los cereales refinados y, por lo tanto, exhiben más beneficios para la salud."
+            "Comer cereales, especialmente cereales integrales, mantiene tu cuerpo sano.",
+            "Los nutrientes contenidos en los cereales, las fibras y los micronutrientes (como las vitaminas B, el hierro y el magnesio) desempeñan un papel vital para muchas funciones del cuerpo.",
+            "Los productos integrales contienen más de estos nutrientes beneficiosos en comparación con los cereales refinados, por lo que son aún mejores para la salud."
           ]
         },
         {
           "id": 6,
           "title": "Tipos y procesamiento",
-          "description": "Familiarización con los conceptos de tipos y procesamiento de granos.",
+          "description": "Familiarizarse con los conceptos de tipos y procesamiento de granos.",
           "questions": [
             {
-              "id": 1,
-              "question": "Los granos enteros contienen:",
-              "category": {
-                "id": "category-0",
-                "text": "Categoría indefinida"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Solo salvado.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Solo almidón.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Solo endospermo.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Bran, germen y endospermo.",
-                  "correct": true
-                }
-              ]
-            },
-            {
               "id": 2,
-              "question": "Los granos refinados tienen:",
+              "question": "Los cereales refinados, en comparación con los cereales integrales, tienen:",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -4206,12 +3903,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Fibra inferior.",
+                  "text": "Menos fibras.",
                   "correct": true
                 },
                 {
                   "id": 2,
-                  "text": "Inferior de azúcar.",
+                  "text": "Menos azúcares.",
                   "correct": false
                 },
                 {
@@ -4221,14 +3918,14 @@
                 },
                 {
                   "id": 4,
-                  "text": "Carbohidratos inferiores.",
+                  "text": "Menos carbohidratos.",
                   "correct": false
                 }
               ]
             },
             {
               "id": 3,
-              "question": "La fresación es un proceso que:",
+              "question": "La molienda (= refinamiento) es un proceso que:",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -4236,12 +3933,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Elimina de los granos el germen y el salvado.",
+                  "text": "Elimina algunas partes de los granos.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Le da al producto una textura más fina.",
+                  "text": "Afina el producto.",
                   "correct": false
                 },
                 {
@@ -4271,7 +3968,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Granos refinados con vitaminas agregadas.",
+                  "text": "Granos refinados con vitaminas añadidas.",
                   "correct": true
                 },
                 {
@@ -4296,7 +3993,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Pasta de trigo integral.",
+                  "text": "Pastas integrales.",
                   "correct": false
                 },
                 {
@@ -4306,12 +4003,12 @@
                 },
                 {
                   "id": 3,
-                  "text": "Tortilla de trigo.",
+                  "text": "Galletas integrales.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Pan de avena.",
+                  "text": "Pan de centeno.",
                   "correct": false
                 }
               ]
@@ -4341,7 +4038,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Más vitaminas.",
+                  "text": "Sin vitaminas.",
                   "correct": false
                 }
               ]
@@ -4361,12 +4058,12 @@
                 },
                 {
                   "id": 2,
-                  "text": "Sabe mal.",
+                  "text": "Tienen un mayor contenido de lípidos.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Huele mal.",
+                  "text": "Hacerte cansado.",
                   "correct": false
                 },
                 {
@@ -4396,7 +4093,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Producto enriquecido",
+                  "text": "fuente de vitamina",
                   "correct": false
                 },
                 {
@@ -4408,10 +4105,9 @@
             }
           ],
           "messages": [
-            "Los granos integrales mantienen todo el núcleo de grano, que incluye el salvado, el germen y el endospermo.",
-            "Los granos refinados se han molido, eso significa que han sido procesados para eliminar el salvado y el germen. Este proceso tiene como objetivo dar a los granos una textura más fina y mejorar su vida útil. Desafortunadamente, también elimina muchos nutrientes beneficiosos.",
-            "Los granos refinados a menudo se enriquecen. Esto significa agregar ciertas vitaminas B (tiamina, riboflavina, niacina, ácido fólico) y hierro que se perdieron durante el procesamiento de alimentos. Sin embargo, siguen siendo pobres fuentes de fibra.",
-            "Elija productos mínimamente procesados, bajos en azúcar y bajos de saldo cuando sea posible. ¡Lea las etiquetas para opciones de granos integrales para aprovechar al máximo sus comidas!"
+            "Los granos refinados han sido molidos, es decir, han sido procesados ​​para eliminar algunas partes del grano original. Este proceso tiene como objetivo dar a los granos una textura más fina y mejorar su vida útil. Desafortunadamente, también elimina muchos nutrientes beneficiosos.",
+            "Los cereales refinados suelen estar enriquecidos. Esto significa recuperar ciertas vitaminas B y hierro que se perdieron durante el procesamiento de los alimentos. Sin embargo, siguen siendo malas fuentes de fibras.",
+            "Elija productos de cereales mínimamente procesados, bajos en azúcar y sal cuando sea posible. Para productos envasados, lea las etiquetas de las opciones de cereales integrales para aprovechar al máximo lo que come."
           ]
         }
       ]
@@ -4419,12 +4115,12 @@
     {
       "id": 4,
       "title": "Cuestionario de alimentos altos en proteínas (HPF)",
-      "description": "Un juego de cuestionario con el objetivo de aumentar el conocimiento sobre los alimentos altos en proteínas que no sean productos lácteos y educar/motivar a los usuarios hacia su patrón de consumo óptimo.",
+      "description": "¡Aumente su conocimiento sobre los alimentos ricos en proteínas, además de los productos lácteos! Responda las preguntas y aprenda sobre las diferentes categorías de alimentos incluidas, cómo tomar las mejores decisiones y cuánto debe comer para obtener efectos fuertes y saludables. .",
       "levels": [
         {
           "id": 1,
           "title": "Conocido",
-          "description": "Familiarización con alimentos altos en proteínas.",
+          "description": "Familiarizarse con los alimentos ricos en proteínas.",
           "questions": [
             {
               "id": 1,
@@ -4436,7 +4132,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Carnes rojas/blancas.",
+                  "text": "Carnes rojas y blancas.",
                   "correct": false
                 },
                 {
@@ -4446,7 +4142,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Pulsos.",
+                  "text": "Legumbres (semillas secas de legumbres).",
                   "correct": false
                 },
                 {
@@ -4637,36 +4333,6 @@
               ]
             },
             {
-              "id": 8,
-              "question": "¿Cuál de las siguientes es una leguminosa?",
-              "category": {
-                "id": "category-0",
-                "text": "Categoría indefinida"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Judías verdes frescas/guisantes.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Pulsos.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Soja.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Todo el anterior.",
-                  "correct": true
-                }
-              ]
-            },
-            {
               "id": 9,
               "question": "¿Qué son los pulsos?",
               "category": {
@@ -4697,6 +4363,36 @@
               ]
             },
             {
+              "id": 8,
+              "question": "¿Cuál de las siguientes es una leguminosa?",
+              "category": {
+                "id": "category-0",
+                "text": "Categoría indefinida"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Judías verdes frescas/guisantes.",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Pulsos.",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Soja.",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Todo el anterior.",
+                  "correct": true
+                }
+              ]
+            },
+            {
               "id": 10,
               "question": "¿Cuál de los siguientes es un pulso?",
               "category": {
@@ -4706,7 +4402,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Frijoles secos/guisantes.",
+                  "text": "Guisantes secos.",
                   "correct": false
                 },
                 {
@@ -4806,7 +4502,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Fava griega.",
+                  "text": "Yogur.",
                   "correct": false
                 },
                 {
@@ -4818,17 +4514,17 @@
             }
           ],
           "messages": [
-            "¡Bienvenido al mundo de los alimentos de alta proteína!",
-            "Esta área temática se centra en varias carnes y alternativas de plantas, que junto con productos lácteos cubren la mayoría de sus necesidades de proteínas diarias.",
-            "Los alimentos altos de alta proteína a base de animales incluyen carne roja (por ejemplo, carne de res, carne de cerdo, ternera y cordero), carne blanca (por ejemplo, pollo, pavo y conejo), pescado, mariscos (por ejemplo, camarones, langostinos, pulpo, calamares, cangrejos de río, langosta, almeja, ostras y música de huevos) y huevos. Los productos cárnicos procesados (por ejemplo, salchichas, jamón, salami, peperoni y tocino) también se incluyen en esta categoría; Se producen a partir de carnes rojas/blancas a través de diversos procesos, como saling, curado, fermentación, fumar y la adición de conservantes químicos.",
-            "¡Recuerde: los productos lácteos (por ejemplo, leche, yogurt y queso), que se presentan en un área temática anterior, también son alimentos a base de animales con un alto contenido de proteínas y la fuente más importante de calcio!",
-            "La alta proteína a base de plantas incluye pulsos, que son las semillas comestibles secas dentro de las vainas de leguminosas, es decir, frijoles secos (por ejemplo, frijoles negros, frijoles y frijoles de lima), guisantes secos (por ejemplo, guisantes de ojos negros y guisantes amarillos/verdes divididos), lentejas y garbanzos, así como soiles y sus productos (eg.)."
+            "¡Bienvenido al mundo de los alimentos ricos en proteínas! A diferencia de los otros grupos de alimentos que ha conocido desde ahora, este es un grupo diverso de alimentos que contiene tanto alimentos animales como vegetales. Sin embargo, su alto contenido en proteínas es lo que finalmente los agrupa.",
+            "Los alimentos de origen animal ricos en proteínas incluyen todo tipo de carnes (rojas o blancas), pescados y mariscos, así como huevos.",
+            "Los productos cárnicos procesados ​​(por ejemplo, salchichas, jamón, salami, peperoni), aunque se elaboran a partir de carnes rojas y blancas, suelen contener muchos aditivos y conservantes que reducen su valor nutricional.",
+            "Los vegetales ricos en proteínas incluyen las legumbres, que son las semillas secas comestibles dentro de las vainas de las leguminosas, es decir, frijoles secos, guisantes secos, lentejas y garbanzos, así como la soja y sus productos (por ejemplo, el tofu, un producto que parece queso blanco).",
+            "Recuerde: Los productos lácteos, presentados en un área temática anterior, también se consideran alimentos ricos en proteínas pero forman su propio grupo, considerando su contenido en calcio."
           ]
         },
         {
           "id": 2,
           "title": "Valor nutricional",
-          "description": "Familiarización con el valor nutricional de los alimentos altos en proteínas.",
+          "description": "Familiarizarse con el valor nutricional de los alimentos ricos en proteínas.",
           "questions": [
             {
               "id": 1,
@@ -4861,36 +4557,6 @@
               ]
             },
             {
-              "id": 2,
-              "question": "Una proteína \"completa\" es una proteína que:",
-              "category": {
-                "id": "category-0",
-                "text": "Categoría indefinida"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "No contiene lípidos.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Está completamente digerido en el estómago.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Se encuentra en frutas y verduras.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Contiene todos los aminoácidos esenciales.",
-                  "correct": true
-                }
-              ]
-            },
-            {
               "id": 3,
               "question": "¿Qué es un aminoácido?",
               "category": {
@@ -4916,36 +4582,6 @@
                 {
                   "id": 4,
                   "text": "Un ácido graso que se encuentra en las carnes.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 4,
-              "question": "¿Cuál de las siguientes opciones contiene proteínas \"completas\"?",
-              "category": {
-                "id": "category-0",
-                "text": "Categoría indefinida"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Pan.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Frijol.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Pollo.",
-                  "correct": true
-                },
-                {
-                  "id": 4,
-                  "text": "Almendra.",
                   "correct": false
                 }
               ]
@@ -4995,7 +4631,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Lípidos saturados.",
+                  "text": "Lípidos (saturados).",
                   "correct": true
                 },
                 {
@@ -5020,7 +4656,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Omega-3 lípidos poliinsaturados.",
+                  "text": "Lípidos (insaturados).",
                   "correct": true
                 },
                 {
@@ -5101,96 +4737,6 @@
               ]
             },
             {
-              "id": 10,
-              "question": "¿Qué vitamina se encuentra más comúnmente en los alimentos de alta proteína a base de animales y ayuda a mantener su sistema nervioso saludable?",
-              "category": {
-                "id": "category-0",
-                "text": "Categoría indefinida"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Vitamina C.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Vitamina B12.",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Vitamina K.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Vitamina E.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 11,
-              "question": "¿Qué vitamina se encuentra más comúnmente en los alimentos de alta proteína a base de animales y es importante para la vista?",
-              "category": {
-                "id": "category-0",
-                "text": "Categoría indefinida"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Vitamina K.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Vitamina C.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Vitamina A.",
-                  "correct": true
-                },
-                {
-                  "id": 4,
-                  "text": "Vitamina E.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 12,
-              "question": "¿Qué mineral, que se encuentra en los alimentos altos en proteínas, es esencial para la transferencia de oxígeno a través de las células sanguíneas?",
-              "category": {
-                "id": "category-0",
-                "text": "Categoría indefinida"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Hierro.",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Calcio.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Magnesio.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Todo lo anterior.",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 13,
               "question": "¿De cuál de los siguientes alimentos de alta proteína se absorbe mejor?",
               "category": {
@@ -5210,73 +4756,13 @@
                 },
                 {
                   "id": 3,
-                  "text": "Soja frijol.",
+                  "text": "Estado.",
                   "correct": false
                 },
                 {
                   "id": 4,
                   "text": "Carne de res.",
                   "correct": true
-                }
-              ]
-            },
-            {
-              "id": 14,
-              "question": "¿Qué mineral, que se encuentra en los alimentos altos en proteínas, es importante para el metabolismo y el sistema inmune?",
-              "category": {
-                "id": "category-0",
-                "text": "Categoría indefinida"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Yodo.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Calcio.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Zinc.",
-                  "correct": true
-                },
-                {
-                  "id": 4,
-                  "text": "Potasio.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 15,
-              "question": "¿Qué mineral, que se encuentra en los alimentos altos en proteínas, es importante para sus huesos y dientes?",
-              "category": {
-                "id": "category-0",
-                "text": "Categoría indefinida"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Fósforo.",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Sodio.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Cobre.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Manganeso.",
-                  "correct": false
                 }
               ]
             },
@@ -5290,7 +4776,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Grasas saturadas.",
+                  "text": "Lípidos.",
                   "correct": false
                 },
                 {
@@ -5300,7 +4786,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Conservantes químicos.",
+                  "text": "Conservantes.",
                   "correct": false
                 },
                 {
@@ -5323,7 +4809,7 @@
         {
           "id": 3,
           "title": "Ingesta recomendada",
-          "description": "Familiarización con la ingesta recomendada y el tamaño de la porción de los alimentos altos en proteínas.",
+          "description": "Familiarizarse con la ingesta recomendada y el tamaño de las porciones de alimentos ricos en proteínas.",
           "questions": [
             {
               "id": 1,
@@ -5387,7 +4873,7 @@
             },
             {
               "id": 3,
-              "question": "¿Con qué frecuencia se debe comer pescado graso/grasa, que son ricos en lípidos poliinsaturados omega-3?",
+              "question": "¿Con qué frecuencia se debe comer pescado graso/azul, que es especialmente rico en lípidos insaturados?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -5477,7 +4963,7 @@
             },
             {
               "id": 6,
-              "question": "¿Cuál de los siguientes alimentos altos en proteínas debe evitarse, completamente, si es posible, porque se procesan?",
+              "question": "¿Cuál de los siguientes alimentos ricos en proteínas se debe evitar porque están procesados?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -5508,16 +4994,16 @@
           ],
           "messages": [
             "¡Haz que los alimentos altos en proteínas sean una parte regular de tu dieta!",
-            "Los alimentos altos en proteínas se pueden consumir todos los días, pero se deben girar durante toda la semana para garantizar la variedad. Apunte a la carne blanca y/o roja magra 2-3 veces por semana, pescado/mariscos 2-3 veces por semana y pulsos al menos una vez por semana.",
-            "Los huevos y los quesos también son fuentes valiosas de proteínas de alta calidad que pueden acompañar a los platos basados en verduras, pasta u otros productos de granos que no tienen altas proteínas.",
-            "La cantidad exacta de proteínas que necesita depende de su peso corporal. ¡Una manera simple de satisfacer sus necesidades es asegurarse de que los alimentos altos en proteínas cubran aproximadamente ¼ de su plato en el almuerzo y la cena y también consumir 2-3 porciones de productos lácteos en el desayuno y los bocadillos!",
+            "Los alimentos ricos en proteínas se pueden consumir todos los días, pero se deben rotar a lo largo de la semana para garantizar la variedad. Intente consumir carnes blancas y/o rojas 2 o 3 veces por semana, pescado/marisco 2 o 3 veces por semana y legumbres al menos una vez por semana.",
+            "Los huevos también son fuentes valiosas de proteínas de alta calidad que pueden acompañar platos a base de verduras, pasta u otros productos de cereales que no sean ricos en proteínas.",
+            "La cantidad exacta de proteínas que necesita depende de su edad y peso corporal. Una forma práctica de satisfacer tus necesidades es asegurarte de que los alimentos ricos en proteínas cubran aproximadamente ¼ de tu plato en el almuerzo y la cena. No olvides que los productos lácteos también contienen proteínas, ¡así que intenta consumir 2-3 porciones en el desayuno y la merienda!",
             "Recuerde: ¡trate de evitar las carnes procesadas, como salchichas y cortes en frío, tanto como pueda!"
           ]
         },
         {
           "id": 4,
           "title": "Prácticas de consumo",
-          "description": "Familiarización con las mejores prácticas para manejar y consumir alimentos altos de proteínas.",
+          "description": "Familiarizarse con las mejores prácticas para manipular y consumir alimentos ricos en proteínas.",
           "questions": [
             {
               "id": 1,
@@ -5589,7 +5075,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Ebullición y tostado.",
+                  "text": "Asado.",
                   "correct": true
                 },
                 {
@@ -5604,7 +5090,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Interrogatorio intenso.",
+                  "text": "Parilla.",
                   "correct": false
                 }
               ]
@@ -5670,38 +5156,8 @@
               ]
             },
             {
-              "id": 6,
-              "question": "¿Cuál de las siguientes es una buena manera de obtener proteínas de alto valor biológico a través de pulsos?",
-              "category": {
-                "id": "category-0",
-                "text": "Categoría indefinida"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Comiéndolos solos.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Combinándolos con arroz o pan.",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Agregando limón.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Al hervirlos por más tiempo.",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 7,
-              "question": "Para evitar el exceso de lípidos saturados al comer carne roja, uno debería:",
+              "question": "Para evitar ingerir demasiados lípidos al comer carnes rojas, debes:",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -5731,7 +5187,7 @@
             },
             {
               "id": 8,
-              "question": "Para evitar el exceso de lípidos saturados al comer aves de corral, uno debería:",
+              "question": "Para evitar ingerir demasiados lípidos al comer aves, usted debe:",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -5739,7 +5195,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Evite comer su piel.",
+                  "text": "Evite comer la piel.",
                   "correct": true
                 },
                 {
@@ -5761,17 +5217,16 @@
             }
           ],
           "messages": [
-            "Para obtener las proteínas necesarias y evitar grandes cantidades de lípidos saturados: coma aves de corral sin su piel, elimine la grasa visible de la carne roja (generalmente la capa externa) y elija partes de carne roja magra, como las de la parte posterior del ganado (lomo corto, solomillo y redondo) o cerdo (lún y jamón).",
-            "Los huevos son una opción muy nutritiva para un refrigerio alto en proteínas (por ejemplo, huevo hervido), como un sustituto de los cortes fríos en sándwiches/envolturas, o incluso una comida principal (por ejemplo, tortilla horneada con queso y verduras).",
-            "Para mantener sus comidas lo más saludables posible, elija alimentos con alto contenido de proteínas a base de animales que se hervan o se asan, en lugar de fritos o a la parrilla.",
-            "¡Hay muchas maneras de incorporar pulsos en su dieta! Por nombrar algunos, puede tenerlos como una comida principal (por ejemplo, sopa de lentejas), incorporarlos en ensaladas, usarlas para hacer hamburguesas vegetarianas o incluso disfrutarlas como propagaciones como hummus.",
-            "¿Sabía que al combinar pulsos y granos, como arroz o pan, puede obtener proteínas completas con todos los aminoácidos esenciales, similares a los de la carne?"
+            "Para obtener las proteínas necesarias y evitar grandes cantidades de lípidos saturados: coma aves sin piel, elimine la grasa visible de las carnes rojas (normalmente la capa exterior).",
+            "Los huevos son una opción muy nutritiva como tentempié rico en proteínas (por ejemplo, huevo cocido), en lugar de embutidos en sándwiches o wraps, o incluso como comida principal (por ejemplo, tortilla al horno con queso y verduras).",
+            "Para mantener tus comidas lo más saludables posible, elige alimentos ricos en proteínas de origen animal, hervidos o asados ​​al horno, y evita los fritos o a la parrilla, especialmente a la parrilla.",
+            "¡Hay muchas maneras de incorporar pulsos en su dieta! Por nombrar algunos, puede tenerlos como una comida principal (por ejemplo, sopa de lentejas), incorporarlos en ensaladas, usarlas para hacer hamburguesas vegetarianas o incluso disfrutarlas como propagaciones como hummus."
           ]
         },
         {
           "id": 5,
           "title": "Efectos sobre la salud",
-          "description": "Familiarización con los efectos sobre la salud de los alimentos altos en proteínas.",
+          "description": "Familiarizarse con los efectos sobre la salud de los alimentos ricos en proteínas.",
           "questions": [
             {
               "id": 1,
@@ -5788,7 +5243,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Promueven la pérdida de peso.",
+                  "text": "Te hacen perder peso.",
                   "correct": false
                 },
                 {
@@ -5798,7 +5253,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Luchan contra la inflamación.",
+                  "text": "Te dan hambre.",
                   "correct": false
                 }
               ]
@@ -5926,10 +5381,9 @@
           ],
           "messages": [
             "¡Los alimentos altos en proteínas son una parte esencial de una dieta equilibrada!",
-            "¿Sabía que todos los órganos y tejidos del cuerpo, como el corazón, los pulmones, los huesos, los músculos y la piel, están formados por proteínas? Las proteínas juegan un papel clave en la construcción, mantenimiento y reparación de los tejidos del cuerpo.",
-            "Los alimentos altos en proteínas también apoyan funciones importantes del sistema inmunitario, lo que evita que se enferme.",
-            "Un consumo inadecuado de alimentos altos de alta proteína a base de animales puede conducir a la anemia. En palabras simples, la anemia es la falta de glóbulos rojos sanos para transportar oxígeno a los tejidos del cuerpo. Puede ser causado por una ingesta inadecuada de hierro y vitamina B12 que generalmente se encuentran en alimentos de alta proteína a base de animales.",
-            "¡Intenta seguir las ingestas recomendadas de alimentos altos en proteínas de acuerdo con tu edad y peso corporal para garantizar una ingesta de proteínas adecuada de por vida!"
+            "¿Sabías que todas las partes de tu cuerpo, como el corazón, los pulmones, los huesos, los músculos y la piel, están formadas por proteínas? Las proteínas desempeñan un papel clave en la construcción, mantenimiento y reparación de los tejidos del cuerpo.",
+            "Los alimentos ricos en proteínas también ayudan a tu cuerpo a combatir los gérmenes, lo que evita que te enfermes.",
+            "Sin embargo, tenga en cuenta que comer en exceso alimentos ricos en proteínas, especialmente carnes rojas y productos cárnicos, es perjudicial para la salud."
           ]
         }
       ]
@@ -5937,12 +5391,12 @@
     {
       "id": 5,
       "title": "Gases y aceites (F&O) cuestionario",
-      "description": "Un juego de cuestionario con el objetivo de aumentar el conocimiento sobre el grupo de grasas y aceites y educar/motivar a los usuarios hacia su patrón de consumo óptimo.",
+      "description": "¡Aumenta tus conocimientos sobre grasas y aceites! Responda las preguntas y aprenderá sobre el tipo de alimentos incluidos, las diferencias en su valor nutricional y la mejor manera de incluirlos en su dieta.",
       "levels": [
         {
           "id": 1,
           "title": "Conocido",
-          "description": "Familiarización con el grupo de grasas y aceites.",
+          "description": "Familiarizarse con el grupo de grasas y aceites.",
           "questions": [
             {
               "id": 1,
@@ -6095,66 +5549,6 @@
               ]
             },
             {
-              "id": 6,
-              "question": "¿Qué es la crema espesa?",
-              "category": {
-                "id": "category-0",
-                "text": "Categoría indefinida"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "El componente graso escabricado por la leche",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Un producto cremoso hecho por queso hirviendo",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Una mezcla de yogur con mantequilla",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "La grasa derivada de la carne de cerdo",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 7,
-              "question": "¿Qué es la crema batida?",
-              "category": {
-                "id": "category-0",
-                "text": "Categoría indefinida"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Una versión solidificada de aceite de girasol",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Una pasta hecha de almendras",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Una mezcla de crema espesa y azúcar",
-                  "correct": true
-                },
-                {
-                  "id": 4,
-                  "text": "La grasa de la carne",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 8,
               "question": "¿Cuál de las siguientes grasas/aceites deriva de la carne roja?",
               "category": {
@@ -6169,7 +5563,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Crema espesa",
+                  "text": "Aceite de girasol",
                   "correct": false
                 },
                 {
@@ -6246,7 +5640,7 @@
             },
             {
               "id": 11,
-              "question": "¿Cuál de las siguientes pastas/propagaciones se produce mediante tuercas/semillas dobladas?",
+              "question": "¿Cuál de las siguientes pastas/pastas para untar se produce moliendo nueces?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -6336,7 +5730,7 @@
             },
             {
               "id": 14,
-              "question": "¿Cuál de las siguientes frutas contiene altas cantidades de grasa?",
+              "question": "¿Cuál de las siguientes frutas contiene altas cantidades de lípidos?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -6366,22 +5760,15 @@
             }
           ],
           "messages": [
-            "¡Bienvenido al mundo de las grasas y los aceites! Este grupo es muy diverso e incluye:",
-            "Productos hechos de leche, p. mantequilla y crema espesa.",
-            "Productos derivados de la carne roja, p. Mantras de cerdo y sebo de carne de res.",
-            "Olivas, el fruto del olivo.",
-            "Nueces y semillas, p. almendras, nogal, maní, avellana, nueces, anacardos, pistacho, lino/linaza, semilla de calabaza, semilla de girasol y semillas de sésamo.",
-            "Pastas/propagaciones hechas de nueces/semillas, p. Mantequilla de maní, mantequilla de almendras, mantequilla de avellana, mantequilla de nogal y tahini que está hecho de semillas de sésamo molido.",
-            "Los aceites vegetales derivados de las semillas o frutas de las plantas (por ejemplo, aceite de oliva, aceite de girasol, aceite de cártamo, aceite de canola, aceite de maíz y aceite de palma) o de legumbres (por ejemplo, aceite de soja).",
-            "Margarina, que es una versión solidificada de aceites vegetales y se usa como sustituto de mantequilla.",
-            "Mayonesa, que es una emulsión de aceite y yemas de huevo, y otras salsas basadas en mayonesa.",
-            "¿Sabías que el aguacate es una fruta que contiene principalmente grasa (lípidos monoinsaturados)?"
+            "Este grupo incluye ingredientes utilizados principalmente para cocinar, así como salsas o productos para untar. Permiten cocinar los alimentos y dan sabor y sabor a platos y comidas. Su nutriente común son los lípidos.",
+            "Los aceites incluyen cualquier aceite comestible (=que se pueda comer) procedente de plantas (por ejemplo, aceite de oliva, aceite de girasol, aceite de soja).",
+            "Las grasas incluyen la forma sólida de lípidos, ya sea provenientes de plantas o animales: a) Fuentes vegetales: productos para untar como margarina y mayonesa, todos los frutos secos y semillas (p. ej., almendras, nueces, maní, sésamo) y sus mantequillas/pastas utilizadas en productos para untar (p. ej., mantequilla de maní, tahini). Además, aceites de oliva y aguacate. b) Fuentes animales: de carnes rojas (p. ej., manteca de cerdo, sebo de res), de leche (mantequilla)."
           ]
         },
         {
           "id": 2,
           "title": "Valor nutricional",
-          "description": "Familiarización con el valor nutricional de las grasas y los aceites.",
+          "description": "Familiarizarse con el valor nutricional de las grasas y aceites.",
           "questions": [
             {
               "id": 1,
@@ -6423,7 +5810,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Calorías/energía",
+                  "text": "Energía (calorías)",
                   "correct": true
                 },
                 {
@@ -6504,68 +5891,8 @@
               ]
             },
             {
-              "id": 5,
-              "question": "¿Cuál es el tipo principal de lípidos que se encuentran en las aceitunas y el aceite de oliva?",
-              "category": {
-                "id": "category-0",
-                "text": "Categoría indefinida"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Saturado",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Monoinsaturado",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Poliinsaturado",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Omega-3",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 6,
-              "question": "¿Cuál es el tipo principal de lípidos que se encuentran en el aguacate?",
-              "category": {
-                "id": "category-0",
-                "text": "Categoría indefinida"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Saturado",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Monoinsaturado",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Poliinsaturado",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Omega-3",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 7,
-              "question": "¿Cuál es el tipo principal de lípidos que se encuentran en los aceites de palma y coco?",
+              "question": "A diferencia de otros aceites vegetales, ¿contienen el aceite de palma y el aceite de coco?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -6573,22 +5900,22 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Saturado",
+                  "text": "Lípidos principalmente saturados",
                   "correct": true
                 },
                 {
                   "id": 2,
-                  "text": "Monoinsaturado",
+                  "text": "Más lípidos insaturados",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Poliinsaturado",
+                  "text": "Más lípidos en total",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Omega-3",
+                  "text": "Más vitaminas",
                   "correct": false
                 }
               ]
@@ -6624,68 +5951,8 @@
               ]
             },
             {
-              "id": 9,
-              "question": "¿Cuál es el aceite de oliva de la mejor calidad?",
-              "category": {
-                "id": "category-0",
-                "text": "Categoría indefinida"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Aceite de oliva refinado",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Aceite de oliva virgen extra",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Aceite de oliva sin procesar",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Aceite de oliva",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 10,
-              "question": "¿Cuál de los siguientes se encuentra en el aceite de oliva y ayuda a combatir el estrés oxidativo?",
-              "category": {
-                "id": "category-0",
-                "text": "Categoría indefinida"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Polifenoles",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Probióticos",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Vitamina C",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Azúcar",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 11,
-              "question": "Los lípidos trans se forman cuando los aceites vegetales:",
+              "question": "¿Qué son los lípidos trans?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -6693,17 +5960,17 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Se usan crudos en ensaladas",
+                  "text": "Lípidos que se utilizan crudos en ensaladas.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Se solidifican o cocinan a alta temperatura",
+                  "text": "Lípidos que se solidifican o se cocinan a alta temperatura.",
                   "correct": true
                 },
                 {
                   "id": 3,
-                  "text": "Se almacenan por más de 1 mes",
+                  "text": "Los lípidos tgat se almacenan durante más de 1 mes.",
                   "correct": false
                 },
                 {
@@ -6723,12 +5990,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Grasas vegetales duras",
+                  "text": "Galletas vendidas en el supermercado.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Pasteles y bocadillos horneados/fritos",
+                  "text": "Bollería y snacks al horno",
                   "correct": false
                 },
                 {
@@ -6805,19 +6072,19 @@
             }
           ],
           "messages": [
-            "Las grasas y los aceites se forman principalmente a partir de lípidos, que proporcionan energía al cuerpo.",
+            "Las grasas y los aceites se componen principalmente de lípidos, cuya función principal para el organismo es almacenar energía.",
             "Sin embargo, la calidad de los lípidos difiere significativamente entre las diversas grasas/aceites:",
-            "Gras/aceites a base de animales, p. La mantequilla, la crema espesa y la manteca/sebo, contienen mayormente lípidos saturados, que deben consumirse con moderación para una salud óptima.",
-            "Gras/aceites a base de plantas, p. Oliva, nueces/semillas, aceites vegetales y aguacate, contienen en su mayoría lípidos insaturados (mono y poli-insaturados), que son beneficiosos para el corazón y los vasos. Una excepción son los aceites de palma y coco, que son muy ricos en lípidos saturados y deben evitarse.",
-            "La mayoría de los aceites vegetales son ricos en vitamina E, lo que protege a las células del cuerpo de la oxidación.",
-            "Entre los diversos aceites vegetales, el aceite de oliva, especialmente el aceite de oliva virgen extra, se considera una de las opciones más saludables, ya que se procesa mínimamente y contiene una amplia gama de otros antioxidantes.",
-            "¿Sabía que cuando se procesan los aceites vegetales para que se vuelvan sólidos o cocinados a alta temperatura de lípidos trans? Estos lípidos son muy perjudiciales para la salud y se pueden encontrar en grasas vegetales duras (por ejemplo, acortamiento y algunas margarinas duras) y varios alimentos procesados, como pasteles horneados, bocadillos salados, comidas listas para comer y comidas rápidas. Las etiquetas de los alimentos pueden ayudarlo a identificar estos alimentos: busque la palabra 'trans' en la sección de datos nutricionales o la frase 'aceite parcialmente hidrogenado' en la lista de ingredientes."
+            "Grasas animales, p.e. La mantequilla, la nata y la manteca de cerdo/sebo contienen principalmente lípidos saturados, que deben consumirse con moderación para una salud óptima.",
+            "Grasas vegetales, p.e. La oliva, las nueces/semillas, los aceites vegetales y el aguacate contienen principalmente lípidos insaturados, que son beneficiosos para el corazón. Una excepción son los aceites de palma y coco, que son muy ricos en lípidos saturados y conviene evitarlos.",
+            "La mayoría de los aceites vegetales son ricos en vitamina E, que mantiene la salud de las células del cuerpo.",
+            "Entre los diversos aceites vegetales, el aceite de oliva, especialmente el aceite de oliva virgen extra, se considera una de las opciones más saludables, ya que no está procesado y contiene una amplia gama de componentes saludables.",
+            "¡Pero ten cuidado! Cuando algunos aceites vegetales se convierten en grasas sólidas o se cocinan a fuego muy alto, su estructura cambia, lo que los convierte en los lípidos menos saludables de todos. Se llaman lípidos trans y se pueden encontrar en alimentos procesados ​​como bollería, snacks salados y comida rápida."
           ]
         },
         {
           "id": 3,
           "title": "Ingesta recomendada",
-          "description": "Familiarización con la ingesta recomendada de grasas y aceites en términos de cantidad y calidad.",
+          "description": "Conocer el consumo recomendado de grasas y aceites en cantidad y calidad.",
           "questions": [
             {
               "id": 1,
@@ -6829,17 +6096,17 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Solo los aceites vegetales utilizados para cocinar",
+                  "text": "Aceites vegetales utilizados en la cocina.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Solo mantequilla usada como un propagación para el pan",
+                  "text": "Mantequilla utilizada para untar pan",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Solo nueces/semillas consumidas como bocadillo",
+                  "text": "Nueces/semillas consumidas como snack",
                   "correct": false
                 },
                 {
@@ -6864,24 +6131,24 @@
                 },
                 {
                   "id": 2,
-                  "text": "Salas a base de crema espesa y mayonesa",
+                  "text": "Salsas a base de mayonesa",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Aceites vegetales saludables utilizados para cocinar y ensaladas",
+                  "text": "Aceites vegetales utilizados en cocina y ensaladas.",
                   "correct": true
                 },
                 {
                   "id": 4,
-                  "text": "Crema batida en dulces",
+                  "text": "Crema en dulces",
                   "correct": false
                 }
               ]
             },
             {
               "id": 3,
-              "question": "¿Cuál es una buena manera de evitar usar en exceso las grasas/aceites en la cocción?",
+              "question": "¿Cuál es una buena manera de evitar el uso de demasiadas grasas/aceites al cocinar?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -6972,14 +6239,14 @@
           ],
           "messages": [
             "¡Disfruta de las grasas y los aceites con moderación!",
-            "Se agregan grasas/aceites utilizados en cocción y ensaladas (por ejemplo, aceites vegetales, mantequilla), así como alimentos que son ricos en lípidos (por ejemplo, nueces/semillas, aceitunas) se pueden consumir todos los días. Todos son muy ricos en calorías, por lo que la moderación en su consumo es importante para prevenir el aumento de peso en exceso.",
-            "Recuerde: para una salud óptima, brinde una prioridad a los aceites vegetales saludables (por ejemplo, aceite de oliva, aceite de girasol, aceite de cártamo y aceite de canola) y nueces/semillas sobre las grasas a base de animales (por ejemplo, manteca/alilo, mantequilla y crema espesa), y trate de evitar los alimentos procesados que pueden contener lípidos trans trans."
+            "Su contenido en lípidos hace que las grasas y los aceites, así como los productos que los contienen como ingredientes, sean alimentos densos en energía, es decir, que aportan mucha energía (calorías) por una determinada cantidad. Por eso se recomienda moderación en su cantidad.",
+            "¡Pero su calidad también importa! Recuerde: para una salud óptima, dé prioridad a los aceites vegetales saludables (por ejemplo, aceite de oliva, aceite de girasol, aceite de cártamo) y nueces/semillas sobre las grasas de origen animal (por ejemplo, manteca de cerdo/sebo, mantequilla y nata), y trate de evitar en la medida de lo posible los alimentos procesados ​​que puedan contener lípidos trans."
           ]
         },
         {
           "id": 4,
           "title": "Prácticas de consumo",
-          "description": "Familiarización con las mejores prácticas para manejar y consumir grasas y aceites.",
+          "description": "Familiarizarse con las mejores prácticas para manipular y consumir grasas y aceites.",
           "questions": [
             {
               "id": 1,
@@ -7103,7 +6370,7 @@
             },
             {
               "id": 5,
-              "question": "¿Cuál de las siguientes es una buena manera de incorporar nueces y semillas en su dieta?",
+              "question": "¿Cuál de las siguientes es una buena manera de agregar nueces y semillas a su dieta?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -7163,7 +6430,7 @@
             },
             {
               "id": 7,
-              "question": "¿Cuál de los siguientes es una buena manera de incorporar tahini o mantequilla de nueces en su dieta?",
+              "question": "¿Cuál de las siguientes es una buena forma de agregar mantequilla de nueces a su dieta?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -7193,7 +6460,7 @@
             },
             {
               "id": 8,
-              "question": "¿Cuál de las siguientes es una buena manera de incorporar el aguacate en su dieta?",
+              "question": "¿Cuál de las siguientes es una buena forma de agregar aguacate a su dieta?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -7283,19 +6550,19 @@
             }
           ],
           "messages": [
-            "La temperatura alta puede hacer que los aceites vegetales pierdan nutrientes importantes. Por lo tanto, en lugar de los alimentos que se frezan, es mejor usar pequeñas cantidades de aceites vegetales al final de la cocción en la olla o en el horno.",
-            "El mismo aceite vegetal no debe usarse varias veces para cocinar, ya que el calentamiento repetido puede causar la producción de sustancias nocivas.",
-            "Recuerde: el aceite de oliva, especialmente Virgin Extra, es especial! Es rico en antioxidantes y, por lo tanto, resistente a calor durante la cocción, lo que significa que conserva la mayoría de sus nutrientes beneficiosos y no sale mal fácilmente.",
+            "Las altas temperaturas pueden hacer que los aceites vegetales pierdan nutrientes importantes. En lugar de freír los alimentos, es mejor utilizar pequeñas cantidades de aceites vegetales al final de la cocción.",
+            "No utilices el mismo aceite una y otra vez, porque calentarlo muchas veces puede volverlo poco saludable.",
+            "Excepción: el aceite de oliva, especialmente el virgen extra, no se echa a perder con el calor durante la cocción y se puede utilizar de forma segura varias veces antes de desecharlo.",
             "Las nueces y las semillas se pueden consumir como un refrigerio fácil de transportar o agregar a yogur, cereales para el desayuno, postres caseros y ensaladas. Para una opción aún más saludable, ¡elija nueces crudas y sin sal!",
-            "¡Las mantequillas y el tahini están llenos de grasas saludables! Puede usarlos en yogur, como una propagación para el pan o en postres caseros (por ejemplo, galletas o barras de cereales) en lugar de mantequilla o margarina.",
+            "¡Las mantequillas de nueces están llenas de grasas saludables! Puedes utilizarlos en yogur, para untar pan o en postres caseros (por ejemplo, galletas o barritas de cereales) en lugar de mantequilla o margarina.",
             "¡Los aguacates son deliciosos! Puede probarlos en ensaladas o puré como un chapuzón o extender por tostadas.",
-            "Asegúrese de almacenar grasas y aceites correctamente. La mantequilla, la margarina y la crema espesa deben almacenarse en el refrigerador, mientras que los aceites vegetales se pueden almacenar a temperatura ambiente pero en un lugar fresco y oscuro."
+            "Asegúrese de almacenar las grasas y los aceites correctamente. La mantequilla, la margarina y la nata deben conservarse en el frigorífico, mientras que los aceites vegetales se pueden conservar a temperatura ambiente pero en un lugar fresco y oscuro."
           ]
         },
         {
           "id": 5,
           "title": "Efectos sobre la salud",
-          "description": "Familiarización con los efectos sobre la salud de las grasas y los aceites.",
+          "description": "Familiarizarse con los efectos de las grasas y aceites sobre la salud.",
           "questions": [
             {
               "id": 1,
@@ -7388,38 +6655,8 @@
               ]
             },
             {
-              "id": 4,
-              "question": "¿Qué lípidos pueden ser perjudiciales para la salud cuando se consumen en grandes cantidades?",
-              "category": {
-                "id": "category-0",
-                "text": "Categoría indefinida"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Saturado",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Monoinsaturado",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Poliinsaturado",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Todo el anterior",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 5,
-              "question": "¿Qué lípidos son muy perjudiciales para la salud del corazón?",
+              "question": "¿Qué lípidos son los menos saludables para tu corazón?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -7427,12 +6664,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Monoinsaturado",
+                  "text": "Insaturado",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Omega-3 poliinsaturado",
+                  "text": "Ssaturado",
                   "correct": false
                 },
                 {
@@ -7446,14 +6683,43 @@
                   "correct": false
                 }
               ]
+            },
+            {
+              "id": 6,
+              "question": "Para una salud óptima usted debe intentar:?",
+              "category": {
+                "id": "category-0",
+                "text": "Prefiera las grasas de origen vegetal a las de origen animal."
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Insaturado",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Evite los bocadillos empaquetados.",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "utilizar spreads con moderación",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Todo el anterior",
+                  "correct": false
+                }
+              ]
             }
           ],
           "messages": [
-            "¡Las grasas y los aceites son importantes para un cuerpo sano y fuerte, siempre y cuando se consuman con moderación!",
-            "Los lípidos, el nutriente principal que se encuentra en las grasas y los aceites, son vitales no solo para proporcionar energía al cuerpo, sino también para construir membranas celulares, mejorar la absorción de vitaminas solubles en grasas (es decir, vitaminas A, D, E y K) y apoyando la regulación de la temperatura corporal.",
-            "¡Tenga en cuenta que la moderación en el consumo de grasas y aceites es muy importante! Los lípidos contienen muchas calorías, por lo que las grasas y los aceites que sobreconsumieran pueden conducir a un aumento de peso en exceso a largo plazo.",
-            "Los lípidos saturados, que se encuentran en todas las grasas a base de animales y algunos aceites vegetales (palma y coco), pueden ser perjudiciales para la salud si se consumen en grandes cantidades. Por lo tanto, ¡da una prioridad a las grasas/aceites saludables a base de plantas!",
-            "¡Trate de evitar los lípidos trans por completo, si es posible, porque son muy perjudiciales para el corazón y los vasos! Una manera simple de lograr esto es priorizar los alimentos integrales frescos sobre los industrializados procesados."
+            "Las grasas y los aceites son importantes para un cuerpo sano y fuerte, ¡pero la calidad importa!",
+            "Los lípidos, el principal nutriente que se encuentra en las grasas y los aceites, son importantes para proporcionar energía al cuerpo, mantener las células fuertes, ayudar al cuerpo a utilizar algunas vitaminas y controlar la temperatura corporal.",
+            "¡Ten en cuenta que la moderación en el consumo de grasas y aceites es muy importante! La industria alimentaria los utiliza ampliamente para elaborar productos que son muy sabrosos, pero también son ricos en energía y, por lo general, de bajo valor nutricional. El consumo frecuente de estos productos puede provocar un aumento excesivo de peso a largo plazo.",
+            "¡Intenta evitar los lípidos trans, porque son los lípidos menos saludables para el corazón! Una forma sencilla de conseguirlo es comer más alimentos integrales frescos y menos procesados ​​industrializados."
           ]
         }
       ]
@@ -7461,12 +6727,12 @@
     {
       "id": 6,
       "title": "Prueba de hidratación (HYD)",
-      "description": "Un juego de cuestionario con el objetivo de aumentar el conocimiento sobre formas saludables para una hidratación adecuada, enfatizando el agua y otras bebidas a través de la educación/motivación hacia su consumo óptimo.",
+      "description": "¡Aumenta tus conocimientos sobre hidratación! Responde las preguntas y aprende la importancia del agua y su superioridad frente a otras bebidas para conseguir una hidratación adecuada y favorecer tu salud general.",
       "levels": [
         {
           "id": 1,
           "title": "Conocido",
-          "description": "Familiarización con medios saludables de hidratación.",
+          "description": "Familiarizarse con medios saludables de hidratación.",
           "questions": [
             {
               "id": 1,
@@ -7638,7 +6904,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Agua con dióxido de carbono",
+                  "text": "Agua con burbujas`(dióxido de carbono)",
                   "correct": true
                 },
                 {
@@ -7673,7 +6939,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Agua con cafeína",
+                  "text": "agua con chocolate",
                   "correct": false
                 }
               ]
@@ -7801,9 +7067,9 @@
           ],
           "messages": [
             "¡Bienvenido al mundo de la hidratación! Para mantenerse hidratado, puede probar una gran variedad de líquidos:",
-            "Agua, que es la bebida más importante en la dieta humana. ¡Cabe su agua con frutas, hierbas o verduras o intente agua con gasolina/carbonatado, para más divertirse!",
+            "Agua, que es la bebida más importante. Dale sabor a tu agua con frutas, hierbas o verduras o prueba agua con gas o carbonatada, ¡para divertirte más!",
             "Los jugos de frutas frescas, como el jugo de naranja, que se producen a través de la exprimencia o la mezcla de frutas frescas.",
-            "La leche, que es un producto lácteo y productos lácteos fermentados/cultivados, como la leche agria y el kéfir, que se producen mediante la adición de bacterias o hongos en la leche.",
+            "Leche, que es un producto lácteo, y productos lácteos fermentados/cultivados, como el kéfir.",
             "Infusiones a base de hierbas, que se realizan por hierbas empapadas y empapadas, especias, flores u otros materiales vegetales en agua caliente (por ejemplo, manzanilla, salvia, eucalipto, menta).",
             "Evite las bebidas que contienen cafeína (por ejemplo, café, té negro, colas, bebidas energéticas), azúcares agregados (por ejemplo, néctares de frutas, refrescos, bebidas energéticas y bebidas deportivas) o alcohol (cerveza, vino, licores). No son buenos medios para la hidratación y tal vez también dañinos para su salud."
           ]
@@ -7811,7 +7077,7 @@
         {
           "id": 2,
           "title": "Valor nutricional",
-          "description": "Familiarización con el valor nutricional del agua y las bebidas.",
+          "description": "Familiarizarse con el valor nutricional del agua y las bebidas.",
           "questions": [
             {
               "id": 1,
@@ -7845,7 +7111,7 @@
             },
             {
               "id": 2,
-              "question": "¿Cuál de las siguientes bebidas contiene vitamina C, que es importante para el sistema inmunitario?",
+              "question": "¿Cuál de las siguientes bebidas contiene vitamina C, que es importante para tu sistema de defensas?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -7905,7 +7171,7 @@
             },
             {
               "id": 4,
-              "question": "¿Cuál de las siguientes bebidas contiene calcio, que es importante para huesos y dientes fuertes?",
+              "question": "¿Cuál de las siguientes bebidas contiene el mineral calcio, que es importante para tener huesos y dientes fuertes?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -7935,7 +7201,7 @@
             },
             {
               "id": 5,
-              "question": "¿Cuál de las siguientes bebidas contiene bacterias beneficiosas?",
+              "question": "¿Cuál de las siguientes bebidas contiene gérmenes beneficiosos?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -7953,7 +7219,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Kéfir",
+                  "text": "Leche agria",
                   "correct": true
                 },
                 {
@@ -7995,7 +7261,7 @@
             },
             {
               "id": 7,
-              "question": "¿Cuál de las siguientes bebidas contiene polifenoles, que tienen efectos antioxidantes?",
+              "question": "¿Cuál de las siguientes bebidas contiene fitoquímicos (compuestos especiales que dan sabor a las plantas)?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -8085,7 +7351,7 @@
             },
             {
               "id": 10,
-              "question": "¿Cuál de las siguientes bebidas contiene etanol?",
+              "question": "¿Cuál de las siguientes bebidas contiene alcohol?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -8119,19 +7385,18 @@
             "El agua es la mejor manera de mantenerse hidratado. ¡Puede comprender fácilmente su importancia si cree que hasta el 60-70% de nuestro cuerpo es realmente agua! No contiene calorías o vitaminas, sino solo pequeñas cantidades de minerales, como el calcio y el magnesio.",
             "Otras bebidas saludables contienen varios nutrientes importantes:",
             "La leche es rica en calcio, que es esencial para huesos y dientes fuertes.",
-            "La leche agria y el kéfir contienen bacterias buenas llamadas 'probióticos', que ayudan a que el intestino funcione correctamente.",
+            "La leche agria y el kéfir contienen gérmenes beneficiosos que ayudan al intestino a funcionar correctamente.",
             "Los jugos de frutas frescas están llenas de vitaminas importantes (por ejemplo, vitamina C); Sin embargo, tienen menos fibras dietéticas en comparación con las frutas enteras.",
-            "Las infusiones herbales no consultoras contienen compuestos antioxidantes llamados fitoquímicos.",
             "¡Pero ten cuidado! No todas las bebidas son nutritivas.",
-            "Los jugos de frutas envasadas, refrescos, bebidas deportivas y bebidas energéticas están ultraprocesados y cargados de azúcar y aditivos/conservantes químicos, que tienen efectos perjudiciales en el cuerpo.",
+            "Los zumos de frutas, refrescos, bebidas deportivas y bebidas energéticas envasados ​​son ultraprocesados ​​y cargados de azúcar y aditivos/conservantes, que tienen efectos perjudiciales para el organismo.",
             "El café, el té negro y las bebidas energéticas también contienen mucha cafeína, lo que puede causar ansiedad, irritabilidad y problemas de sueño.",
-            "Las bebidas alcohólicas contienen etanol, que es perjudicial para su desarrollo y salud en general."
+            "El alcohol daña la función cerebral, el comportamiento y el desarrollo general, por lo que debes abstenerte de beber alcohol, aunque sea en raras ocasiones."
           ]
         },
         {
           "id": 3,
           "title": "Ingesta recomendada",
-          "description": "Familiarización con la ingesta recomendada de agua y bebidas.",
+          "description": "Familiarizarse con la ingesta recomendada de agua y bebidas.",
           "questions": [
             {
               "id": 1,
@@ -8346,17 +7611,17 @@
           ],
           "messages": [
             "El consumo diario recomendado de agua depende de la edad y el sexo. Es:",
-            "1600 ml (~ 6-7 gafas) para niños de 4-8 años,",
-            "1900 ml (~ 7-8 gafas) para niñas de 9 a 13 años o 2100 ml (~ 8-9 gafas) para niños de 9-13 años,",
-            "2000 ml (~ 8 vasos) para niñas ≥14 años o 2500 ml (~ 10 gafas) para niños ≥14 años.",
+            "(6-7 vasos) para niños de 4 a 8 años,",
+            "(7-8 vasos) para niñas de 9 a 13 años o (8-9 vasos) para niños de 9 a 13 años,",
+            "(8 vasos) para niñas ≥14 años o (10 vasos) para niños ≥14 años.",
             "¿Sabía que cuando la temperatura es alta (especialmente durante el verano), o si está físicamente activo, su cuerpo necesita más líquidos para reemplazar el agua perdida a través de la sudoración y la respiración pesada? Otras situaciones en las que necesita más líquidos son cuando tiene fiebre alta, diarrea y vómitos.",
-            "Recuerde: para un desarrollo y salud óptimos, trate de evitar completamente las bebidas procesadas de azúcar (por ejemplo, néctares de frutas, refrescos y bebidas energéticas), las que contienen cafeína (por ejemplo, café y té negro) y bebidas alcohólicas."
+            "Recuerde: para un desarrollo y una salud óptimos, trate de evitar por completo las bebidas procesadas con alto contenido de azúcar (por ejemplo, néctares de frutas, refrescos y bebidas energéticas), aquellas que contienen cafeína (por ejemplo, café y té negro) y, sobre todo, las bebidas que contienen alcohol."
           ]
         },
         {
           "id": 4,
           "title": "Prácticas de consumo",
-          "description": "Familiarización con las mejores prácticas para mantenerse hidratado.",
+          "description": "Familiarizarse con las mejores prácticas para mantenerse hidratado.",
           "questions": [
             {
               "id": 1,
@@ -8608,7 +7873,7 @@
         {
           "id": 5,
           "title": "Efectos sobre la salud",
-          "description": "Familiarización con los efectos en la salud del agua y las bebidas, y los signos y consecuencias de la deshidratación.",
+          "description": "Familiarizarse con los efectos del agua y las bebidas sobre la salud, y los signos y consecuencias de la deshidratación.",
           "questions": [
             {
               "id": 1,
@@ -8630,7 +7895,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Participa en muchas reacciones bioquímicas",
+                  "text": "Ayuda a tu cuerpo a producir energía y crecer.",
                   "correct": false
                 },
                 {
@@ -8685,7 +7950,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Ayudándote a dormir mejor",
+                  "text": "Ayudándote a dormir temprano",
                   "correct": false
                 },
                 {
@@ -8805,12 +8070,12 @@
                 },
                 {
                   "id": 2,
-                  "text": "Fatiga y mareos",
+                  "text": "cansancio",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Dolor de cabeza",
+                  "text": "Dolor de cabeza o mareos.",
                   "correct": false
                 },
                 {
@@ -8882,7 +8147,7 @@
             },
             {
               "id": 10,
-              "question": "El consumo de bebidas alcohólicas es perjudicial para:",
+              "question": "El consumo de bebidas con alcohol es perjudicial para:",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -8914,9 +8179,9 @@
           "messages": [
             "¡Manténgase hidratado, manténgase saludable!",
             "Beber suficiente agua es vital para su cuerpo. El agua ayuda a transportar sustancias importantes a las células a través de la sangre, eliminar sustancias residuales a través de la orina y apoya muchas funciones clave del cuerpo. También lo mantiene enfocado y enérgico, y regula la temperatura de su cuerpo.",
-            "La deshidratación, que ocurre cuando su cuerpo pierde más líquidos de los que recibe, puede presentarse con signos y síntomas como sed, mareos, dolor de cabeza, fatiga, boca seca, piel no elástica y mal aliento. ¿Sabía que puede verificar su estado de hidratación observando el color de su orina? La orina amarilla oscura es un signo de deshidratación y que debe beber un poco de agua.",
+            "La deshidratación, que ocurre cuando el cuerpo pierde más líquidos de los que ingresa, puede presentarse con signos y síntomas como sed, mareos, cansancio, fatiga, sequedad de boca, piel no elástica y mal aliento. ¿Sabías que puedes comprobar tu hidratación observando el color de tu orina? La orina de color amarillo oscuro es un signo de deshidratación y es necesario beber un poco de agua. Trate de orinar de color claro, como un té de manzanilla de color claro.",
             "Evite las bebidas con cafeína, ya que pueden causar sobreestimulación e interrumpir su sueño.",
-            "Evite las bebidas endulzadas de azúcar, ya que un alto consumo puede aumentar el riesgo de caries y enfermedades crónicas, como la obesidad y la diabetes, a largo plazo.",
+            "Evite las bebidas azucaradas, ya que un consumo elevado puede aumentar el riesgo de caries u obesidad, a largo plazo.",
             "Es crucial evitar el consumo de alcohol, ya que es perjudicial para su hígado, huesos, salud mental y en general."
           ]
         }

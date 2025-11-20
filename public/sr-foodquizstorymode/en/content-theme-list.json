@@ -8,7 +8,7 @@
         {
           "id": 1,
           "title": "Acquaintance",
-          "description": "Familiarisation with the food groups of fruits and vegetables.",
+          "description": "To get familiar with the food groups of fruits and vegetables.",
           "questions": [
             {
               "id": 1,
@@ -132,7 +132,7 @@
             },
             {
               "id": 5,
-              "question": "Which of the following is a vegetable?",
+              "question": "Which of the following is a vegetable, from a nutritional point of view?",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -254,17 +254,18 @@
           "messages": [
             "Welcome to the world of fruits and vegetables!",
             "The fruit group includes all fresh fruits (e.g. orange, apple, pear, banana, peach) and dried fruits (e.g. plums, raisins, apricots), as well as freshly squeezed fruit juices (i.e., 100% fruit juice without added sugars). Remember: packaged fruits juices with added sugar, soft drinks and other processed fruit drinks are not included in the food group of fruits.",
-            "The vegetable group includes all raw vegetables (e.g. lettuce, cabbage, carrot, tomato, cucumber) and cooked vegetables (e.g. broccoli, cauliflower, zucchini, beets). Remember: starchy vegetables, i.e. corn, peas and pumpkin, are also included in the vegetable food group, but they are rich in starch, a complex carbohydrate, which is not present in other vegetables."
+            "The vegetable group includes all raw vegetables (e.g. lettuce, cabbage, carrot, tomato, cucumber) and cooked vegetables (e.g. broccoli, cauliflower, zucchini, beets). Remember: starchy vegetables, i.e. corn, peas and pumpkin, are also included in the vegetable food group, but they are rich in starch, a complex carbohydrate, which is not present in other vegetables.",
+            "There are different kinds of vegetables, like green leafy (e.g. spinach), root (e.g. carrot) or cruciferous (e.g. broccoli, cauliflower). Starchy vegetables, i.e. corn, peas and pumpkin, are also included in the vegetable food group, but they are rich in starch, a type of carbohydrate that is not present in other vegetables."
           ]
         },
         {
           "id": 2,
           "title": "Nutritional value",
-          "description": "Familiarisation with the nutritional value of fruits and vegetables.",
+          "description": "To get familiar with the nutritional value of fruits and vegetables.",
           "questions": [
             {
               "id": 1,
-              "question": "Which is the main nutrient fruits and vegetables consist of?",
+              "question": "Which is the main nutrient fruits consist of?",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -282,7 +283,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Fibres",
+                  "text": "Lipids",
                   "correct": false
                 },
                 {
@@ -536,14 +537,14 @@
           "messages": [
             "Fruits and vegetables are a very good source of a wide range of important nutrients!",
             "They are primarily made up from carbohydrates which are mainly present in the form of sugars and provide energy to the body.",
-            "They also include vitamins (e.g. vitamin C, vitamin K, folic acid), minerals (e.g. potassium, calcium), fibres and also other compounds (e.g. phytochemicals) important for the optimal function of the body.",
+            "They also include vitamins (e.g. vitamin C, vitamin K, folic acid), minerals (e.g. potassium, calcium), fibres and also other compounds important for the optimal function of the body.",
             "Even though they are solid foods, they contain lots of water and can also contribute to the body’s hydration."
           ]
         },
         {
           "id": 3,
           "title": "Recommended intake",
-          "description": "Familiarisation with the recommended intake and portion size of fruits and vegetables.",
+          "description": "To get familiar with the recommended intake and portion size of fruits and vegetables.",
           "questions": [
             {
               "id": 1,
@@ -765,7 +766,7 @@
         {
           "id": 4,
           "title": "Consumption practices",
-          "description": "Familiarisation with best practices to handle and consume fruits and vegetables.",
+          "description": "To get familiar with best practices to handle and consume fruits and vegetables.",
           "questions": [
             {
               "id": 1,
@@ -937,7 +938,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "With less pesticides",
+                  "text": "With less pesticides (chemicals used in the farm to protect the plants)",
                   "correct": true
                 },
                 {
@@ -988,7 +989,7 @@
         {
           "id": 5,
           "title": "Health effects",
-          "description": "Familiarisation with the health benefits of fruits and vegetables.",
+          "description": "To get familiar with the health benefits of fruits and vegetables.",
           "questions": [
             {
               "id": 1,
@@ -1060,7 +1061,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "They boost your immune system",
+                  "text": "They boost your body’s defence system",
                   "correct": true
                 },
                 {
@@ -1114,13 +1115,13 @@
           "messages": [
             "Go healthy with more fruits and vegetables!",
             "Fruits and vegetables are a key component of a healthy diet.",
-            "Among their numerous health benefits, they support optimal growth and development, enhance the immune system, and help the cardiovascular system and the gastrointestinal tract work properly."
+            "Among their numerous health benefits, they support optimal growth and development, boost our defence system, and help the heart and gut work properly."
           ]
         },
         {
           "id": 6,
           "title": "Variety and seasonality",
-          "description": "Familiarisation with the concepts of variety and seasonality of fruits and vegetables.",
+          "description": " To get familiar with the concepts of variety and seasonality of fruits and vegetables.",
           "questions": [
             {
               "id": 1,
@@ -1154,7 +1155,7 @@
             },
             {
               "id": 2,
-              "question": "The colour of fruits and vegetables indicates their content in:",
+              "question": "Which of the compounds below give fruits and vegetables their particular colour?:",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -1162,7 +1163,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Phytochemicals",
+                  "text": " Special compounds called phytochemicals",
                   "correct": true
                 },
                 {
@@ -1344,7 +1345,7 @@
     {
       "id": 2,
       "title": "Dairy Products (DP) Quiz",
-      "description": "A quiz game aiming to increase knowledge about the dairy food group and motivate optimal consumption through understanding of types, nutrition, practices, safety, and health benefits.",
+      "description": "To Increase your knowledge about dairy products!. Answer the questions and learn what counts as a dairy products from a nutritional point of view, their nutritional value , how much is recommended to consume and practical tips to meet your daily needs and handle them safely.",
       "levels": [
         {
           "id": 1,
@@ -1353,7 +1354,7 @@
           "questions": [
             {
               "id": 1,
-              "question": "Which of the following is a dairy food?",
+              "question": "Which of the following is a dairy product?",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -1383,7 +1384,7 @@
             },
             {
               "id": 2,
-              "question": "Which of the following is a dairy food?",
+              "question": "Which of the following is a dairy product?",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -1413,7 +1414,7 @@
             },
             {
               "id": 3,
-              "question": "Which of the following is a dairy food?",
+              "question": "Which of the following is a dairy product from a nutritional point of view?",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -1431,7 +1432,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Kefir.",
+                  "text": "Cheese.",
                   "correct": true
                 },
                 {
@@ -1443,7 +1444,7 @@
             },
             {
               "id": 4,
-              "question": "Which of the following does not belong to the dairies' food group?",
+              "question": "Which of the following is not a dairy product from a nutritional point of view?",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -1473,7 +1474,7 @@
             },
             {
               "id": 5,
-              "question": "Which ingredient have all dairy foods in common?",
+              "question": "Which ingredient have all dairy products in common?",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -1503,7 +1504,7 @@
             },
             {
               "id": 6,
-              "question": "Which of the following is a fermented dairy product?",
+              "question": "Which of the following dairy products contains useful germs?",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -1533,15 +1534,15 @@
             }
           ],
           "messages": [
-            "Welcome to the world of dairy!",
-            "The dairies food group includes foods made from milk - like milk, plain yogurt, and cheese. Remember: products like yogurt with lots of added sugar, butter, and plant-based or chocolate milks are not counted as part of the dairy food group.",
-            "Various dairy products have different tastes and textures, but include similar nutrients important for your growth and health."
+            "Welcome to the world of dairy products!",
+            "From a nutritional point of view, the food group of dairy products includes foods made from milk which also contain similar amounts of some nutrients, like proteins and calcium. So, milk, plain yogurt, and cheese belong to this group, while butter, even though coming from milk, belongs to the fats and oils food group",
+            "Remember, yogurt desserts look like yogurt but contain added sugar and preservatives, so they are more like a dessert.."
           ]
         },
         {
           "id": 2,
           "title": "Nutritional value",
-          "description": "Familiarisation with the nutritional value of dairy.",
+          "description": "To get familiar with the nutritional value of dairy.",
           "questions": [
             {
               "id": 1,
@@ -1553,22 +1554,22 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Fat.",
+                  "text": "Lipids.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Protein.",
+                  "text": "Proteins.",
                   "correct": true
                 },
                 {
                   "id": 3,
-                  "text": "Sugar.",
+                  "text": "Sugars.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Fiber.",
+                  "text": "Fibres.",
                   "correct": false
                 }
               ]
@@ -1603,36 +1604,10 @@
                 }
               ]
             },
-            {
-              "id": 3,
-              "question": "How is the natural sugar found in milk called?",
-              "category": {
-                "id": "category-0",
-                "text": "Undefined Category"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Sucrose.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Fructose.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Glucose.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Lactose.",
-                  "correct": true
-                }
-              ]
-            },
+
+
+
+
             {
               "id": 4,
               "question": "Which of the following products often include added sugars?",
@@ -1665,7 +1640,7 @@
             },
             {
               "id": 5,
-              "question": "Whole and skim milks differ in their:",
+              "question": "Whole-fat and skim milks differ in their:",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -1683,7 +1658,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Fat content.",
+                  "text": "Lipids content.",
                   "correct": true
                 },
                 {
@@ -1695,7 +1670,7 @@
             },
             {
               "id": 6,
-              "question": "What does low-fat or reduced-fat dairy products mean?",
+              "question": "What does 'low-fat' dairy products mean?",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -1703,7 +1678,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Lower fat content.",
+                  "text": "Less Lipids.",
                   "correct": true
                 },
                 {
@@ -1725,7 +1700,7 @@
             },
             {
               "id": 7,
-              "question": "What does the fat found in dairy products help your body do?",
+              "question": "What do the lipids found in dairy products help your body do?",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -1813,66 +1788,7 @@
                 }
               ]
             },
-            {
-              "id": 10,
-              "question": "Which vitamin helps your body absorb calcium better?",
-              "category": {
-                "id": "category-0",
-                "text": "Undefined Category"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Vitamin D.",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Vitamin B12.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Vitamin A.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Vitamin E.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 11,
-              "question": "Which micronutrient in dairy products helps your heart and muscles work properly?",
-              "category": {
-                "id": "category-0",
-                "text": "Undefined Category"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Vitamin D.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Potassium.",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Zinc.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Vitamin K.",
-                  "correct": false
-                }
-              ]
-            },
+
             {
               "id": 12,
               "question": "Which of the following nutrients is not usually found in milk and dairy products?",
@@ -1883,12 +1799,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Fibre.",
+                  "text": "Fibres.",
                   "correct": true
                 },
                 {
                   "id": 2,
-                  "text": "Sodium.",
+                  "text": "Proteins.",
                   "correct": false
                 },
                 {
@@ -1903,39 +1819,10 @@
                 }
               ]
             },
-            {
-              "id": 13,
-              "question": "Which of the following contains negligible amounts of lactose?",
-              "category": {
-                "id": "category-0",
-                "text": "Undefined Category"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Milk.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Yogurt.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Feta cheese.",
-                  "correct": true
-                },
-                {
-                  "id": 4,
-                  "text": "Gouda cheese.",
-                  "correct": false
-                }
-              ]
-            },
+
             {
               "id": 14,
-              "question": "Which type of cheese is the richest in calcium?",
+              "question": "Which of the following is true for calcium in cheese?",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -1943,22 +1830,22 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Parmesan.",
+                  "text": "The more yellow the cheese the more calcium it contains.",
                   "correct": true
                 },
                 {
                   "id": 2,
-                  "text": "Cottage.",
+                  "text": "The whiter the cheese the more calcium it contains.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Mozzarella.",
+                  "text": "Cheese does not contain calcium.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Cream cheese.",
+                  "text": "All kinds of cheese contain the same amount of calcium.",
                   "correct": false
                 }
               ]
@@ -1983,28 +1870,28 @@
                 },
                 {
                   "id": 3,
-                  "text": "Has been fortified with a/some nutrient/s.",
+                  "text": "Has extra nutrients added/s.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Contains beneficial for our health microorganisms.",
+                  "text": "Contains useful germs for our health.",
                   "correct": true
                 }
               ]
             }
           ],
           "messages": [
-            "Milk and dairy products provide high-quality proteins, which means they contain all the essential amino acids that the body needs to build and preserve cells, organs, and tissues. They are also among the richest sources of calcium in the diet.",
-            "Dairy products also contain important vitamins like vitamin D, B12, and riboflavin, as well as minerals such as phosphorus and potassium, that contribute to overall health.",
-            "Many dairy products include lactose, the natural sugar in milk, which provides energy. Some people may not tolerate lactose and they should choose lactose free milk and yogurt or hard cheeses that contain negligible amounts of lactose.",
-            "Fermented foods are produced through a process called fermentation, where microorganisms like yeast and bacteria break down food components, transforming them into new substances."
+            "Dairy products provide high-quality proteins, which among many roles they help build and repait muscles .",
+            "They are also among the richest sources of calcium in the diet, needed for bones and teethes.",
+            "Dairy products also contain other important micronutrients vitamins like vitamin D, B12, and B2, and minerals such as phosphorus and potassium, that contribute to overall health.",
+            "Some dairy products, like yogurt, are produced with the addition to milk of some kinds of germs that they produce useful compounds healthy for your gut. These products are called fermented."
           ]
         },
         {
           "id": 3,
           "title": "Recommended consumption & portion sizes",
-          "description": "Familiarisation with the recommended intake and portion size of dairy products.",
+          "description": "To get familiar with the recommended intake and portion size of dairy products.",
           "questions": [
             {
               "id": 1,
@@ -2051,7 +1938,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "1 pot (150 g) of yogurt.",
+                  "text": "1 cup (200 g) of yogurt.",
                   "correct": false
                 },
                 {
@@ -2106,7 +1993,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "a pot (150 g) of yogurt.",
+                  "text": "a cup of yogurt.",
                   "correct": false
                 },
                 {
@@ -2116,7 +2003,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "1/2 cup of ricotta cheese.",
+                  "text": "1 cup of cottage cheese.",
                   "correct": false
                 },
                 {
@@ -2126,36 +2013,7 @@
                 }
               ]
             },
-            {
-              "id": 5,
-              "question": "What type of milk contains lower fat?",
-              "category": {
-                "id": "category-0",
-                "text": "Undefined Category"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Whole milk.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Flavoured milk.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Chocolate milk.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Skim milk.",
-                  "correct": true
-                }
-              ]
-            },
+
             {
               "id": 6,
               "question": "What kind of milk should children over 2 years old drink?",
@@ -2181,7 +2039,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Evaporated milk.",
+                  "text": "Condensed milk.",
                   "correct": false
                 }
               ]
@@ -2216,36 +2074,7 @@
                 }
               ]
             },
-            {
-              "id": 8,
-              "question": "What kind of milk is best for kids with lactose intolerance?",
-              "category": {
-                "id": "category-0",
-                "text": "Undefined Category"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Chocolate milk.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Lactose-free milk.",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Skim milk.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "There is no milk for them.",
-                  "correct": false
-                }
-              ]
-            },
+
             {
               "id": 9,
               "question": "Can children consume full-fat dairy products like whole milk and regular cheese?",
@@ -2278,7 +2107,7 @@
             },
             {
               "id": 10,
-              "question": "At what age can children start drinking low-fat (semi-skimmed) milk?",
+              "question": "At what age could children start drinking low-fat milk?",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -2308,16 +2137,17 @@
             }
           ],
           "messages": [
-            "You should consume milk and dairy products daily as part of a balanced diet, aiming for 3–4 servings of dairy each day. One serving can be 1 cup of milk, 1 pot of yogurt, or 1 slice (30 grams) of cheese.",
-            "If you don’t drink milk, you can still get most of its nutrients from foods like cheese or yogurt, and in case of lactose intolerance, lactose-free milk is a great option.",
+            "You should consume milk and dairy products daily as part of a balanced diet, aiming for 3–4 servings of dairy each day. One serving can be 1 cup of milk, 1 cup of yogurt, or 1 slice (30 grams) of cheese.",
+            "If you don’t drink milk, you can still get most of its nutrients from foods like cheese or yogurt",
             "It’s also smart to check yogurt labels for added sugar to make healthier choices.",
-            "For children over 2 years old, both full-fat and semi-skimmed (low-fat) milk and yogurts are suitable choices, depending on energy needs and overall health."
+            "For children over 2 years old, both full-fat and (low-fat) milk and yogurts are suitable choices, depending on energy needs and overall health.",
+            "Have in mind that some people many have digestive problems when drinking milk. For them, there is a type of milk in the market called “lactose-free”."
           ]
         },
         {
           "id": 4,
           "title": "Consumption practices",
-          "description": "Familiarisation with best practices to integrate dairy foods into meals, snacks and recipes.",
+          "description": "To get familiar with best practices to integrate dairy foods into meals, snacks and recipes.",
           "questions": [
             {
               "id": 1,
@@ -2351,7 +2181,7 @@
             },
             {
               "id": 2,
-              "question": "What's a good choice to add dairies to your lunchbox?",
+              "question": "What's a good choice to add dairy products to your lunchbox?",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -2364,7 +2194,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "A can of soda.",
+                  "text": "A can of soft drink.",
                   "correct": false
                 },
                 {
@@ -2399,7 +2229,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Chips and soda.",
+                  "text": "Chips and soft drink.",
                   "correct": false
                 },
                 {
@@ -2464,14 +2294,14 @@
                 },
                 {
                   "id": 4,
-                  "text": "Plain Greek yogurt.",
+                  "text": "Plain yogurt.",
                   "correct": true
                 }
               ]
             },
             {
               "id": 6,
-              "question": "What is a topping for fruit salad to add calcium and protein?",
+              "question": "What is a healthy topping for fruit salad to add calcium and protein?",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -2489,7 +2319,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Whipped topping.",
+                  "text": "Whipped cream.",
                   "correct": false
                 },
                 {
@@ -2519,7 +2349,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Add wheep cream to your fruits.",
+                  "text": "Add whipped cream to your fruits.",
                   "correct": false
                 },
                 {
@@ -2539,7 +2369,7 @@
         {
           "id": 5,
           "title": "Handling & storage practices",
-          "description": "Familiarisation with safe storage, prevention and contamination, and understanding expiration dates and signs of spoilage of dairy foods.",
+          "description": "To get familiar with safe storage, prevention and contamination, and understanding expiration dates and signs of spoilage of dairy foods.",
           "questions": [
             {
               "id": 1,
@@ -2603,7 +2433,7 @@
             },
             {
               "id": 3,
-              "question": "Expiration date or best by date refer to the date a dairy product:",
+              "question": "'Expiration date' refers to the date a dairy product:",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -2664,14 +2494,14 @@
           ],
           "messages": [
             "To keep dairy products safe and fresh, they should always be stored in the fridge at least in 40°F (4°C). Low temperatures prevent harmful bacteria from growing, which can make you sick.",
-            "Always check the “expiration” or “best by” date on the label. This tells you the latest date to use the product for the best quality and safety.",
-            "To see if dairy product is still good, you should smell it, check the texture, and read the date. If it smells sour, looks strange, or is past its date, it’s best not to eat or drink it."
+            "Always check the “expiration” date on the label. This tells you the latest date to use the product for the best quality and safety.",
+            "To ckeck if dairy product is still good, you should smell it, check the texture, and read the date. If it smells sour, looks strange, or is past its date, it’s best not to eat or drink it."
           ]
         },
         {
           "id": 6,
           "title": "Health effects",
-          "description": "Familiarisation with the health benefits of dairy products.",
+          "description": "To get familiar with the health benefits of dairy products.",
           "questions": [
             {
               "id": 1,
@@ -2763,36 +2593,7 @@
                 }
               ]
             },
-            {
-              "id": 4,
-              "question": "Preferring skim versus whole milk or yogurt contributes to:",
-              "category": {
-                "id": "category-0",
-                "text": "Undefined Category"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Lower saturated fat intake.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Normal blood lipid levels.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Less energy intake.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "All the previous.",
-                  "correct": true
-                }
-              ]
-            },
+
             {
               "id": 5,
               "question": "Fermented dairy products like plain yogurt and kefir:",
@@ -2808,7 +2609,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Help your immune system.",
+                  "text": "Have more helpful germs.",
                   "correct": false
                 },
                 {
@@ -2826,9 +2627,9 @@
           ],
           "messages": [
             "Dairy products are important because they help your body to grow strong and stay healthy.",
-            "The calcium in dairies builds strong bones and teeth, while proteins support muscle development and growth.",
-            "Experts recommend dairy foods not just for growing up strong, but also because they help disease prevention, such as osteoporosis, later in life.",
-            "Choosing low fat or fermented dairy products can protect you from various health problems."
+            "The calcium in dairy products builds strong bones and teeth, while proteins support muscle development and growth.",
+            "Experts recommend dairy foods not just for growing up strong, but also because they help disease prevention, such as weak bomes when later in life.",
+            "Choosing low-fat or fermented dairy products can protect you from various health problems."
           ]
         }
       ]
@@ -2836,12 +2637,12 @@
     {
       "id": 3,
       "title": "Grains and Grain Products (G&GP) Quiz",
-      "description": "A quiz game to increase knowledge about cereal grains and promote optimal consumption patterns, including food types, nutritional value, and health effects.",
+      "description": "Increase your knowledge about grains and grain products! Answer the questions and learn which foods are included, their nutritional value, recommendations for consuming them and choosing their healthier forms.",
       "levels": [
         {
           "id": 1,
           "title": "Acquaintance",
-          "description": "Familiarisation with the food group of grains.",
+          "description": "To get familiar with the food group of grains.",
           "questions": [
             {
               "id": 1,
@@ -3038,7 +2839,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Bagels.",
+                  "text": "White Bread.",
                   "correct": false
                 },
                 {
@@ -3073,7 +2874,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Tahini (sesame paste).",
+                  "text": "Peanut butter.",
                   "correct": false
                 },
                 {
@@ -3085,16 +2886,16 @@
             }
           ],
           "messages": [
-            "Welcome to the world of cereal grains!",
-            "The cereal grains group includes all foods made from wheat, rice, oats, barley etc. These grains are often used to make products like bread, pasta, breakfast cereals, tortillas and crackers.",
-            "There are also other less known grains called pseudo-grains such as millet, sorghum, amaranth, buckwheat, quinoa, teff that are also high in valuable nutrients.",
-            "Grains are an essential part of a balanced diet and are available in many forms – from whole grains to refined ones. Learning about grains helps you make healthier choices!"
+            "Welcome to the world of grains and grain products! The group includes products made from plants like wheat, rice, oats, barley etc. These grains are widely used to make products like bread, pasta, breakfast cereals, tortillas and crackers. ",
+
+            "There are also other less known grains such as millet, buckwheat, and- quinoa,which are considered very healthy.",
+            "Grains are an essential part of a balanced diet and are available in many forms, which differ in their nutritional value. Learning about grains them helps you make healthier choices!!"
           ]
         },
         {
           "id": 2,
           "title": "Nutritional value",
-          "description": "Familiarisation with the nutritional value of grains.",
+          "description": "To get familiar with the nutritional value of grains.",
           "questions": [
             {
               "id": 1,
@@ -3116,7 +2917,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Fats.",
+                  "text": "Lipids.",
                   "correct": false
                 },
                 {
@@ -3158,7 +2959,7 @@
             },
             {
               "id": 3,
-              "question": "Which of the following is not part of a whole grain:",
+              "question": "Which of the following is part of a whole grain:",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -3171,21 +2972,53 @@
                 },
                 {
                   "id": 2,
-                  "text": "The germ.",
+                  "text": "The leaves.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "The endosperm.",
+                  "text": "The flower.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "The bran.",
+                  "text": "The (outer part of the seed (called bran).",
                   "correct": false
                 }
               ]
             },
+
+            {
+              "id": 4,
+              "question": "What does the term refined mean for the grains?",
+              "category": {
+                "id": "category-0",
+                "text": "Undefined Category"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "They are expensive .",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "They have some parts of the whole grain removed.",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": " They are coloured.",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "They grow in tropical environments.",
+                  "correct": false
+                }
+              ]
+            },
+
             {
               "id": 4,
               "question": "What makes whole grains different from refined grains?",
@@ -3231,17 +3064,17 @@
                 },
                 {
                   "id": 2,
-                  "text": "Fibre.",
+                  "text": "Fibres.",
                   "correct": true
                 },
                 {
                   "id": 3,
-                  "text": "Sodium.",
+                  "text": "Salt.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Saturated fat.",
+                  "text": "Saturated lipids.",
                   "correct": false
                 }
               ]
@@ -3261,7 +3094,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Fibre.",
+                  "text": "Fibres.",
                   "correct": false
                 },
                 {
@@ -3276,39 +3109,10 @@
                 }
               ]
             },
-            {
-              "id": 7,
-              "question": "What part of the grain provides the most fibre?",
-              "category": {
-                "id": "category-0",
-                "text": "Undefined Category"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Endosperm.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Bran.",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Leaves.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Germ.",
-                  "correct": false
-                }
-              ]
-            },
+
             {
               "id": 8,
-              "question": "The term enriched grains means that in these grains:",
+              "question": "The term 'enriched grains' means that in these grains:",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -3316,7 +3120,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "B vitamins have been added.",
+                  "text": "The vitamins that were removed with refinement have been added back.",
                   "correct": true
                 },
                 {
@@ -3326,7 +3130,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Fats have been removed.",
+                  "text": "lipids have been removed.",
                   "correct": false
                 },
                 {
@@ -3368,16 +3172,14 @@
             }
           ],
           "messages": [
-            "Foods made from wheat, rice, oats, cornmeal, barley, or another cereal grain are grain products.",
-            "Grains have two subgroups: whole grains and refined grains.",
-            "Grains, especially whole grains, are important sources of many nutrients, including complex carbohydrates, fibre, and B vitamins. They also contain essential minerals like iron, magnesium and selenium.",
-            "Whole grains retain their bran and germ, which provide fibre and nutrients, unlike refined grains which lose many of these during processing. Whole grains contain more fibre than refined grains and are important for proper bowel function."
+            "Grains may be found as whole grains or refined grains They differ on the parts they contain. Whole grains have the original grain intact (whole), while the refined ones have lost some parts after processing (refinement). While both provide carbohydrates, whole grains also contain fibres, vitamins and minerals that have been lost through refinement."
+
           ]
         },
         {
           "id": 3,
           "title": "Recommended intake",
-          "description": "Familiarisation with the recommended intake and portion size of grains.",
+          "description": "To get familiar with the recommended intake and portion size of grains.",
           "questions": [
             {
               "id": 1,
@@ -3514,7 +3316,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Whole wheat bread.",
+                  "text": "Whole grain bread.",
                   "correct": true
                 },
                 {
@@ -3531,7 +3333,7 @@
             },
             {
               "id": 6,
-              "question": "Which of the following is NOT one portion of whole grains?",
+              "question": "Which of the following is not one portion of whole grains?",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -3629,7 +3431,7 @@
         {
           "id": 4,
           "title": "Consumption practices",
-          "description": "Familiarisation with the best practices to prepare and consume grains.",
+          "description": "To get familiar with the best practices to prepare and consume grains.",
           "questions": [
             {
               "id": 1,
@@ -3681,7 +3483,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Boiled, baked, or raw.",
+                  "text": "Boiled.",
                   "correct": true
                 },
                 {
@@ -3701,7 +3503,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "A bowl of whole-cereals with milk.",
+                  "text": "A bowl of whole grain-cereals with milk.",
                   "correct": true
                 },
                 {
@@ -3723,7 +3525,7 @@
             },
             {
               "id": 4,
-              "question": "Which of the following is a good grain choice for your lunch?",
+              "question": "Which of the following is a good grain choice for your main meal lunch?",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -3771,7 +3573,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Whole wheat tortillas.",
+                  "text": "Whole grain breadsticks.",
                   "correct": true
                 },
                 {
@@ -3796,12 +3598,12 @@
                 },
                 {
                   "id": 2,
-                  "text": "Whole-wheat pancakes with honey.",
+                  "text": "Whole grain pancakes with honey.",
                   "correct": true
                 },
                 {
                   "id": 3,
-                  "text": "Doughnut with praline.",
+                  "text": "Cake with praline.",
                   "correct": false
                 },
                 {
@@ -3821,17 +3623,17 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "More fibre.",
+                  "text": "More fibres.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "More magnesium.",
+                  "text": "More minerals.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "More B vitamins.",
+                  "text": "More vitamins.",
                   "correct": false
                 },
                 {
@@ -3874,15 +3676,14 @@
           ],
           "messages": [
             "There are so many ways to incorporate grains in your diet!",
-            "Consume grain products as snacks throughout the day (choose a toast with whole wheat bread and cheese or crackers with egg for a healthy snack at school), use them to make nutritious desserts (e.g. homemade cakes and cookies), or add them to your meals. ",
-            "Give priority to whole grains (instead of refined) to get advantage of all their nutrients (fibres, vitamins and minerals).",
-            "Choose whole grains over refined ones and prepare them in simple, healthy ways like baked or boiled. Avoid adding too much fat, sugar, or salt. Whole-grain bread, oatmeal and brown rice are great whole grain options."
+            "Consume grain products as snacks (choose a toast with whole grain bread and cheese or crackers with egg for a healthy snack at school), and add them to your main meals. ",
+            "Give priority to whole grains (instead of refined) to get advantage of all their nutrients (fibres, vitamins and minerals). Whole grain bread, oatmeal and brown rice are great whole grain options.Prepare them in simple ways, avoiding to add too much fat, sugar, or salt."
           ]
         },
         {
           "id": 5,
           "title": "Health effects",
-          "description": "Familiarisation with the health effects of grains.",
+          "description": "T o get familiar with the health effects of grains.",
           "questions": [
             {
               "id": 1,
@@ -3899,7 +3700,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Losing fat.",
+                  "text": "Sleeping better.",
                   "correct": false
                 },
                 {
@@ -3909,7 +3710,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Protecting your health.",
+                  "text": "Growing well.",
                   "correct": true
                 }
               ]
@@ -3946,7 +3747,7 @@
             },
             {
               "id": 3,
-              "question": "Magnesium:",
+              "question": "Eating whole grains fuels your body with minerals that help you with:",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -3954,29 +3755,29 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Is important for your ears.",
+                  "text": "Building your bones.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Helps your muscles work better.",
+                  "text": "Having your muscles work better.",
                   "correct": true
                 },
                 {
                   "id": 3,
-                  "text": "Helps your immune system.",
+                  "text": "Boost your defence system.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "None of the previous.",
+                  "text": "All the previous.",
                   "correct": false
                 }
               ]
             },
             {
               "id": 4,
-              "question": "Grain products are rich in B vitamins which help:",
+              "question": "Grain products are rich in vitamins(B group) that help:",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -3984,22 +3785,22 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Your teeth being stronger.",
+                  "text": "The production of your blood.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Your gut working better.",
+                  "text": "Your brain to function well.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "You feeling more energetic.",
+                  "text": "Getting the energy stored in foods.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Your nervous system staying healthy.",
+                  "text": "All the previous.",
                   "correct": true
                 }
               ]
@@ -4014,7 +3815,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "They help you control your weight.",
+                  "text": "They help you keep a healthy weight.",
                   "correct": true
                 },
                 {
@@ -4024,7 +3825,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "They give you more carbohydrates and protein.",
+                  "text": "They give you plenty of carbohydrates and protein.",
                   "correct": false
                 },
                 {
@@ -4044,12 +3845,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "The constipation.",
+                  "text": "Constipation.",
                   "correct": true
                 },
                 {
                   "id": 2,
-                  "text": "The abdominal pain.",
+                  "text": "Your hearing.",
                   "correct": false
                 },
                 {
@@ -4066,7 +3867,7 @@
             },
             {
               "id": 7,
-              "question": "Which nutrient, found in grains, is important for proper bowel function?",
+              "question": "Which nutrient, found in grains, is important for proper gut function?",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -4074,131 +3875,43 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Protein.",
+                  "text": "Proteins.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Fat.",
+                  "text": "Lipids.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Fibre.",
+                  "text": "Fibres.",
                   "correct": true
                 },
                 {
                   "id": 4,
-                  "text": "Carbohydrate.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 8,
-              "question": "Which vitamin, found in grains, is important for the nervous system?",
-              "category": {
-                "id": "category-0",
-                "text": "Undefined Category"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "B vitamins.",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Vitamin D.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Vitamin C.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Vitamin E.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 9,
-              "question": "Which mineral, found in grains, is important for bone health?",
-              "category": {
-                "id": "category-0",
-                "text": "Undefined Category"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Magnesium.",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Calcium.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Iron.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Selenium.",
+                  "text": "Carbohydrates.",
                   "correct": false
                 }
               ]
             }
+
           ],
           "messages": [
-            "Eating grains, especially whole grains, protect your health and reduce the risk of many diseases.",
-            "Grains provide many nutrients that are vital for the health and maintenance of your bodies such as fibres, B vitamins (thiamin, niacin, riboflavin) and minerals like magnesium and selenium.",
-            "Whole grain products contain more of the beneficial nutrients mentioned above compared to refined cereals and hence exhibit more health benefits."
+            "Eating grains, especially whole grains,keeps yout body healthy.",
+            "The nutrients contained in grains, fibres and micronutrients (such as B vitamins, iron, magnesium), play a vital role for many functions of your body.",
+            "Whole grain products contain more of these beneficial nutrients compared to refined grains, so they are even better for your health."
           ]
         },
         {
           "id": 6,
           "title": "Types and processing",
-          "description": "Familiarisation with the concepts of types and processing of grains.",
+          "description": "To get familiar with the concepts of types and processing of grains.",
           "questions": [
-            {
-              "id": 1,
-              "question": "Whole grains contain:",
-              "category": {
-                "id": "category-0",
-                "text": "Undefined Category"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Only bran.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Only starch.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Only endosperm.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Bran, germ, and endosperm.",
-                  "correct": true
-                }
-              ]
-            },
+
             {
               "id": 2,
-              "question": "Refined grains have:",
+              "question": "Refined grains, compared to whole grains, have: :",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -4206,12 +3919,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Lower fibre.",
+                  "text": "Less fibres.",
                   "correct": true
                 },
                 {
                   "id": 2,
-                  "text": "Lower sugar.",
+                  "text": "Less sugars.",
                   "correct": false
                 },
                 {
@@ -4221,14 +3934,14 @@
                 },
                 {
                   "id": 4,
-                  "text": "Lower carbohydrates.",
+                  "text": "Less carbohydrates.",
                   "correct": false
                 }
               ]
             },
             {
               "id": 3,
-              "question": "Milling is a process that:",
+              "question": "Milling (= refinement) is a process that:",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -4236,12 +3949,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Removes from grains the germ and the bran.",
+                  "text": "Removes some parts from grains .",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Gives the product a finer texture.",
+                  "text": "Makes the product finer.",
                   "correct": false
                 },
                 {
@@ -4271,7 +3984,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Refined grains with added vitamins.",
+                  "text": "Refined grains with added vitamins back.",
                   "correct": true
                 },
                 {
@@ -4296,7 +4009,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Whole wheat pasta.",
+                  "text": "Whole grain pasta.",
                   "correct": false
                 },
                 {
@@ -4306,12 +4019,12 @@
                 },
                 {
                   "id": 3,
-                  "text": "Wheat tortilla.",
+                  "text": " Whole grain crackers.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Oat bread.",
+                  "text": "Rye bread.",
                   "correct": false
                 }
               ]
@@ -4341,7 +4054,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "More vitamins.",
+                  "text": "No vitamins.",
                   "correct": false
                 }
               ]
@@ -4361,12 +4074,12 @@
                 },
                 {
                   "id": 2,
-                  "text": "Taste bad.",
+                  "text": " Have a higher lipid content.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Smell bad.",
+                  "text": "Make you tired.",
                   "correct": false
                 },
                 {
@@ -4396,7 +4109,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Enriched product",
+                  "text": "Vitamin source",
                   "correct": false
                 },
                 {
@@ -4408,10 +4121,11 @@
             }
           ],
           "messages": [
-            "Whole grains maintain the entire grain kernel, which includes the bran, germ, and endosperm.",
-            "Refined grains have been milled, that means that they have been processed to remove the bran and germ. This process aims at giving grains a finer texture and improving their shelf life. Unfortunately, it also removes a lot of beneficial nutrients.",
-            "Refined grains are often enriched. This means adding back certain B vitamins (thiamin, riboflavin, niacin, folic acid) and iron that were lost during food processing. However, they remain poor sources of fiber.",
-            "Choose minimally processed, low-sugar and low-salt grain products when possible. Read labels for whole grain options to get the most from your meals!"
+
+
+            "Refined grains have been milled, that means that they have been processed to remove some parts of the original grain. This process aims at giving grains a finer texture and improving their shelf life. Unfortunately, it also removes a lot of beneficial nutrients.",
+            "Refined grains are often enriched. This means adding back certain B vitamins and iron that were lost during food processing. However, they remain poor sources of fibres.",
+            "Choose minimally processed, low-sugar and low-salt grain products when possible. For packaged products, read the labels for whole grain options to get the most from what you eat!!"
           ]
         }
       ]
@@ -4419,21 +4133,21 @@
     {
       "id": 4,
       "title": "High-Protein Foods (HPF) Quiz",
-      "description": "A quiz game aiming to increase knowledge about high-protein foods other than dairy products and educate/motivate users towards their optimal consumption pattern.",
+      "description": "Increase your knowledge about high-protein foods, other than dairy products! Answer the questions and learn about the different food categories included, how to make the best choices and how much you should eat to grow strong and healthy effects. .",
       "levels": [
         {
           "id": 1,
           "title": "Acquaintance",
-          "description": "Familiarisation with high-protein foods.",
+          "description": "To get familiar with high-protein foods.",
           "questions": [
             {
               "id": 1,
               "question": "Which of the following is included in the group of high-protein foods?",
               "category": { "id": "category-0", "text": "Undefined Category" },
               "answers": [
-                { "id": 1, "text": "Red/white meats.", "correct": false },
+                { "id": 1, "text": "Red and white meats.", "correct": false },
                 { "id": 2, "text": "Fish and seafood.", "correct": false },
-                { "id": 3, "text": "Pulses.", "correct": false },
+                { "id": 3, "text": "Pulses (dried seeds of legumes) .", "correct": false },
                 { "id": 4, "text": "All the previous.", "correct": true }
               ]
             },
@@ -4504,17 +4218,6 @@
               ]
             },
             {
-              "id": 8,
-              "question": "Which of the following is a legume?",
-              "category": { "id": "category-0", "text": "Undefined Category" },
-              "answers": [
-                { "id": 1, "text": "Fresh green beans/peas.", "correct": false },
-                { "id": 2, "text": "Pulses.", "correct": false },
-                { "id": 3, "text": "Soybeans.", "correct": false },
-                { "id": 4, "text": "All the previous.", "correct": true }
-              ]
-            },
-            {
               "id": 9,
               "question": "What are pulses?",
               "category": { "id": "category-0", "text": "Undefined Category" },
@@ -4526,11 +4229,23 @@
               ]
             },
             {
+              "id": 8,
+              "question": "Which of the following is a legume?",
+              "category": { "id": "category-0", "text": "Undefined Category" },
+              "answers": [
+                { "id": 1, "text": "Fresh green beans/peas.", "correct": false },
+                { "id": 2, "text": "Pulses.", "correct": false },
+                { "id": 3, "text": "Soybeans.", "correct": false },
+                { "id": 4, "text": "All the previous.", "correct": true }
+              ]
+            },
+
+            {
               "id": 10,
               "question": "Which of the following is a pulse?",
               "category": { "id": "category-0", "text": "Undefined Category" },
               "answers": [
-                { "id": 1, "text": "Dry beans/peas.", "correct": false },
+                { "id": 1, "text": "Dry peas.", "correct": false },
                 { "id": 2, "text": "Lentils.", "correct": false },
                 { "id": 3, "text": "Chickpeas.", "correct": false },
                 { "id": 4, "text": "All the previous.", "correct": true }
@@ -4565,23 +4280,24 @@
               "answers": [
                 { "id": 1, "text": "Hummus.", "correct": false },
                 { "id": 2, "text": "Tofu.", "correct": true },
-                { "id": 3, "text": "Greek fava.", "correct": false },
+                { "id": 3, "text": "Yogurt.", "correct": false },
                 { "id": 4, "text": "Falafel.", "correct": false }
               ]
             }
           ],
           "messages": [
-            "Welcome to the world of high-protein foods!",
-            "This thematic area focuses on various meats and plant alternatives, which together with dairy products cover most of your daily protein needs.",
-            "Animal-based high-protein foods include red meat (e.g. beef, pork, veal and lamb), white meat (e.g. chicken, turkey and rabbit), fish, seafood (e.g. shrimp, prawn, octopus, squid, crayfish, lobster, clam, oyster and mussel) and eggs. Processed meat products (e.g. sausage, ham, salami, peperoni and bacon) are also included in this category; they are produced from red/white meats through various processes, such as salting, curing, fermentation, smoking, and the addition of chemical preservatives.",
-            "Remember: dairy products (e.g. milk, yogurt and cheese), which are presented in a previous thematic area, are also animal-based foods with a high protein content and the most important source of calcium!",
-            "Plant-based high-protein include pulses, which are the dry edible seeds inside of the legume pods, i.e. dry beans (e.g. black beans, kidney beans, and lima beans), dry peas (e.g. black-eyed peas, and split yellow/green peas), lentils and chickpeas, as well as soybeans and their products (e.g. tofu)."
+            "Welcome to the world of high-protein foods! Contrary to the other food groups you met since now, this is a diverse group of foods, containing both animal and plant foods. Nevertheless, their high content in proteins is what finally groups them together.",
+
+            "Animal-based high-protein foods include all kinds of meat (red or white) ,fish and seafood as well as eggs.",
+            "Processed meat products (e.g. sausage, ham, salami, peperoni ) although produced from red/white meats, and they usually contain many additives and preservatives that lower thein nutritional value.",
+            "Plant-based high-protein include pulses, which are the dry edible seeds inside of the legume pods, i.e. dry beans , dry peas lentils and chickpeas, as well as soybeans and their products (e.g. tofu, a product that looks like white cheese).",
+            "Remember: Dairy products, presented in a previous thematic area, are also considered high-protein foods but they make their own group, considering their content in calcium."
           ]
         },
         {
           "id": 2,
           "title": "Nutritional value",
-          "description": "Familiarisation with the nutritional value of high-protein foods.",
+          "description": "To get familiar with the nutritional value of high-protein foods.",
           "questions": [
             {
               "id": 1,
@@ -4595,17 +4311,6 @@
               ]
             },
             {
-              "id": 2,
-              "question": "A “complete” protein is a protein that:",
-              "category": { "id": "category-0", "text": "Undefined Category" },
-              "answers": [
-                { "id": 1, "text": "Contains no lipids.", "correct": false },
-                { "id": 2, "text": "Is fully digested in the stomach.", "correct": false },
-                { "id": 3, "text": "Is found in fruits and vegetables.", "correct": false },
-                { "id": 4, "text": "Contains all the essential amino acids.", "correct": true }
-              ]
-            },
-            {
               "id": 3,
               "question": "What is an amino acid?",
               "category": { "id": "category-0", "text": "Undefined Category" },
@@ -4614,17 +4319,6 @@
                 { "id": 2, "text": "A type of sugar.", "correct": false },
                 { "id": 3, "text": "An antioxidant vitamin.", "correct": false },
                 { "id": 4, "text": "A fatty acid found in meats.", "correct": false }
-              ]
-            },
-            {
-              "id": 4,
-              "question": "Which of the following contains “complete” proteins?",
-              "category": { "id": "category-0", "text": "Undefined Category" },
-              "answers": [
-                { "id": 1, "text": "Bread.", "correct": false },
-                { "id": 2, "text": "Bean.", "correct": false },
-                { "id": 3, "text": "Chicken.", "correct": true },
-                { "id": 4, "text": "Almond.", "correct": false }
               ]
             },
             {
@@ -4644,7 +4338,7 @@
               "category": { "id": "category-0", "text": "Undefined Category" },
               "answers": [
                 { "id": 1, "text": "Carbohydrates.", "correct": false },
-                { "id": 2, "text": "Saturated lipids.", "correct": true },
+                { "id": 2, "text": " Lipids (saturated).", "correct": true },
                 { "id": 3, "text": "Fibres.", "correct": false },
                 { "id": 4, "text": "Vitamin C.", "correct": false }
               ]
@@ -4654,7 +4348,7 @@
               "question": "Besides proteins, which of the following nutrients do fish/seafood contain?",
               "category": { "id": "category-0", "text": "Undefined Category" },
               "answers": [
-                { "id": 1, "text": "Omega-3 polyunsaturated lipids.", "correct": true },
+                { "id": 1, "text": "Lipids ( unsaturated).", "correct": true },
                 { "id": 2, "text": "Vitamin K.", "correct": false },
                 { "id": 3, "text": "Carbohydrates.", "correct": false },
                 { "id": 4, "text": "Fibres.", "correct": false }
@@ -4682,39 +4376,7 @@
                 { "id": 4, "text": "Beef.", "correct": false }
               ]
             },
-            {
-              "id": 10,
-              "question": "Which vitamin is most commonly found in animal-based high-protein foods and helps keep your nervous system healthy?",
-              "category": { "id": "category-0", "text": "Undefined Category" },
-              "answers": [
-                { "id": 1, "text": "Vitamin C.", "correct": false },
-                { "id": 2, "text": "Vitamin B12.", "correct": true },
-                { "id": 3, "text": "Vitamin K.", "correct": false },
-                { "id": 4, "text": "Vitamin E.", "correct": false }
-              ]
-            },
-            {
-              "id": 11,
-              "question": "Which vitamin is most commonly found in animal-based high-protein foods and is important for eyesight?",
-              "category": { "id": "category-0", "text": "Undefined Category" },
-              "answers": [
-                { "id": 1, "text": "Vitamin K.", "correct": false },
-                { "id": 2, "text": "Vitamin C.", "correct": false },
-                { "id": 3, "text": "Vitamin A.", "correct": true },
-                { "id": 4, "text": "Vitamin E.", "correct": false }
-              ]
-            },
-            {
-              "id": 12,
-              "question": "Which mineral, found in high-protein foods, is essential for the transfer of oxygen via blood cells?",
-              "category": { "id": "category-0", "text": "Undefined Category" },
-              "answers": [
-                { "id": 1, "text": "Iron.", "correct": true },
-                { "id": 2, "text": "Calcium.", "correct": false },
-                { "id": 3, "text": "Magnesium.", "correct": false },
-                { "id": 4, "text": "All of the above.", "correct": false }
-              ]
-            },
+
             {
               "id": 13,
               "question": "From which of the following high-protein foods is iron better absorbed?",
@@ -4722,40 +4384,19 @@
               "answers": [
                 { "id": 1, "text": "Chickpea.", "correct": false },
                 { "id": 2, "text": "Lentil.", "correct": false },
-                { "id": 3, "text": "Soya bean.", "correct": false },
+                { "id": 3, "text": "Been.", "correct": false },
                 { "id": 4, "text": "Beef.", "correct": true }
               ]
             },
-            {
-              "id": 14,
-              "question": "Which mineral, found in high-protein foods, is important for metabolism and the immune system?",
-              "category": { "id": "category-0", "text": "Undefined Category" },
-              "answers": [
-                { "id": 1, "text": "Iodine.", "correct": false },
-                { "id": 2, "text": "Calcium.", "correct": false },
-                { "id": 3, "text": "Zinc.", "correct": true },
-                { "id": 4, "text": "Potassium.", "correct": false }
-              ]
-            },
-            {
-              "id": 15,
-              "question": "Which mineral, found in high-protein foods, is important for your bones and teeth?",
-              "category": { "id": "category-0", "text": "Undefined Category" },
-              "answers": [
-                { "id": 1, "text": "Phosphorus.", "correct": true },
-                { "id": 2, "text": "Sodium.", "correct": false },
-                { "id": 3, "text": "Copper.", "correct": false },
-                { "id": 4, "text": "Manganese.", "correct": false }
-              ]
-            },
+
             {
               "id": 16,
               "question": "Which of the following that are contained in processed meat products is harmful for your health?",
               "category": { "id": "category-0", "text": "Undefined Category" },
               "answers": [
-                { "id": 1, "text": "Saturated fats.", "correct": false },
+                { "id": 1, "text": "Lipids.", "correct": false },
                 { "id": 2, "text": "Salt.", "correct": false },
-                { "id": 3, "text": "Chemical preservatives.", "correct": false },
+                { "id": 3, "text": "Preservatives.", "correct": false },
                 { "id": 4, "text": "All the previous.", "correct": true }
               ]
             }
@@ -4772,7 +4413,7 @@
         {
           "id": 3,
           "title": "Recommended intake",
-          "description": "Familiarisation with the recommended intake and portion size of high-protein foods.",
+          "description": "To get familiar with the recommended intake and portion size of high-protein foods.",
           "questions": [
             {
               "id": 1,
@@ -4836,7 +4477,7 @@
             },
             {
               "id": 3,
-              "question": "How often should one eat fatty/oily fish, which are rich in omega-3 polyunsaturated lipids?",
+              "question": "How often should one eat fatty/oily fish, which are especially rich in unsaturated lipids?",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -4926,7 +4567,7 @@
             },
             {
               "id": 6,
-              "question": "Which of the following high-protein foods should be avoided, completely, if possible, because they are processed?",
+              "question": "Which of the following high-protein foods should be avoided, because they are processed?",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -4957,16 +4598,16 @@
           ],
           "messages": [
             "Make high-protein foods a regular part of your diet!",
-            "High-protein foods can be consumed every day but should be rotated throughout the week to ensure variety. Aim for lean white and/or red meat 2-3 times per week, fish/seafood 2-3 times per week, and pulses at least once per week.",
-            "Eggs and cheeses are also valuable sources of high-quality proteins that can accompany dishes based on vegetables, pasta or other grain products that are not high in proteins.",
-            "The exact amount of proteins you need depends on your body weight. A simple way to meet your needs is to ensure that high-protein foods cover about ¼ of your plate in lunch and dinner and to also consume 2-3 servings of dairy products in breakfast and snacks!",
+            "High-protein foods can be consumed every day but should be rotated throughout the week to ensure variety. Aim for white and/or red meat 2-3 times per week, fish/seafood 2-3 times per week, and pulses at least once per week.",
+            "Eggs are also valuable sources of high-quality proteins that can accompany dishes based on vegetables, pasta or other grain products that are not high in proteins.",
+            "The exact amount of proteins you need depends on your age and body weight. A practrical way to meet your needs is to ensure that high-protein foods cover about ¼ of your plate in lunch and dinner.Do not forget that dairy products also contain proteins, so aim to consume 2-3 servings in breakfast and snacks!",
             "Remember: try to avoid processed meats, such as sausages and cold cuts, as much as you can!"
           ]
         },
         {
           "id": 4,
           "title": "Consumption practices",
-          "description": "Familiarisation with the best practices to handle and consume high-protein foods.",
+          "description": "To get familiar with the best practices to handle and consume high-protein foods.",
           "questions": [
             {
               "id": 1,
@@ -5038,7 +4679,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Boiling and roasting.",
+                  "text": "Roasting.",
                   "correct": true
                 },
                 {
@@ -5053,7 +4694,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Grilling.",
+                  "text": "Barbecue.",
                   "correct": false
                 }
               ]
@@ -5118,39 +4759,10 @@
                 }
               ]
             },
-            {
-              "id": 6,
-              "question": "Which of the following is a good way to get proteins of high biological value through pulses?",
-              "category": {
-                "id": "category-0",
-                "text": "Undefined Category"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Eating them alone.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Combining them with rice or bread.",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "By adding lemon.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "By boiling them longer.",
-                  "correct": false
-                }
-              ]
-            },
+
             {
               "id": 7,
-              "question": "To avoid excess saturated lipids when eating red meat, one should:",
+              "question": "To avoid eating too many lipids when eating red meat, you should:",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -5180,7 +4792,7 @@
             },
             {
               "id": 8,
-              "question": "To avoid excess saturated lipids when eating poultry, one should:",
+              "question": "To avoid eating too many lipids when eating poultry, you should:",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -5188,7 +4800,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Avoid eating their skin.",
+                  "text": "Avoid eating the skin.",
                   "correct": true
                 },
                 {
@@ -5210,17 +4822,17 @@
             }
           ],
           "messages": [
-            "To get the necessary proteins and avoid large amounts of saturated lipids: eat poultry without their skin, remove visible fat from red meat (usually the outer layer), and choose lean red meat parts, such as those in the back of the cattle (short loin, sirloin and round) or pork (loin and ham).",
-            "Eggs are a very nutritious choice for a high-protein snack (e.g. boiled egg), as a substitute for cold cuts in sandwiches/wraps, or even a main meal (e.g. baked omelette with cheese and vegetables).",
-            "To keep your meals as healthy as possible, choose animal-based high-protein foods that are boiled or roasted, instead of fried or grilled.",
-            "There are so many ways to incorporate pulses in your diet! To name a few, you can have them as a main meal (e.g. lentil soup), incorporate them in salads, use them to make vegetarian burgers or even enjoy them as spreads like hummus.",
-            "Did you know that by combining pulses and grains, such as rice or bread, you can get complete proteins with all the essential amino acids, similar to those of meat?"
+            "To get the necessary proteins and avoid large amounts of saturated lipids: eat poultry without their skin, remove visible fat from red meat (usually the outer layer).",
+            "Eggs are a very nutritious choice for a high-protein snack (e.g. boiled egg), instead of for cold cuts in sandwiches/wraps, or even a main meal (e.g. baked omelette with cheese and vegetables).",
+            "To keep your meals as healthy as possible, choose animal-based high-protein foods that are boiled or roasted in the oven, and avoid of fried or grilled, especially barbecued",
+            "There are so many ways to incorporate pulses in your diet! To name a few, you can have them as a main meal (e.g. lentil soup), incorporate them in salads, use them to make vegetarian burgers or even enjoy them as spreads like hummus."
+
           ]
         },
         {
           "id": 5,
           "title": "Health effects",
-          "description": "Familiarisation with the health effects of high-protein foods.",
+          "description": "To get Familiar with the health effects of high-protein foods.",
           "questions": [
             {
               "id": 1,
@@ -5237,7 +4849,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "They promote weight loss.",
+                  "text": "They make you lose weight.",
                   "correct": false
                 },
                 {
@@ -5247,7 +4859,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "They fight inflammation.",
+                  "text": "They make you hungry.",
                   "correct": false
                 }
               ]
@@ -5375,10 +4987,9 @@
           ],
           "messages": [
             "High-protein foods are an essential part of a balanced diet!",
-            "Did you know that all of the body’s organs and tissues, such as the heart, the lungs, the bones, the muscles and the skin, are made up from proteins? Proteins play a key role in building, maintaining and repairing the body’s tissues.",
-            "High-protein foods also support important functions of the immune system, which prevents you from getting sick.",
-            "An inadequate consumption of animal-based high-protein foods can lead to anaemia. In simple words, anaemia is the lack of healthy red blood cells to carry oxygen to the body's tissues. It can be caused by an inadequate intake of iron and vitamin B12 which are typically found in animal-based high-protein foods.",
-            "Aim to follow the recommended intakes of high-protein foods according to your age and body weight to ensure a lifelong adequate protein intake!"
+            "Did you know that all parts of your body , such as the heart, the lungs, the bones, the muscles and the skin, are made up from proteins? Proteins play a key role in building, maintaining and repairing the body’s tissues.",
+            "High-protein foods also help your body fight off germs , which prevents you from getting sick.",
+            "Keep in mind, though, that overeating high-protein foods, especially red meat and meat products, is bad for your health."
           ]
         }
       ]
@@ -5386,12 +4997,12 @@
     {
       "id": 5,
       "title": "Fats & Oils (F&O) Quiz",
-      "description": "A quiz game aiming to increase knowledge about the group of fats and oils and educate/motivate users towards their optimal consumption pattern.",
+      "description": "Increase your knowledge about fats and oils! Answer the questions and will learn about the kind of foods included, the differences in their nutritional value, and how to best include them in your diet.",
       "levels": [
         {
           "id": 1,
           "title": "Acquaintance",
-          "description": "Familiarisation with the group of fats and oils.",
+          "description": "To get familiar with the group of fats and oils.",
           "questions": [
             {
               "id": 1,
@@ -5543,66 +5154,7 @@
                 }
               ]
             },
-            {
-              "id": 6,
-              "question": "What is heavy cream?",
-              "category": {
-                "id": "category-0",
-                "text": "Undefined Category"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "The fatty component skimmed from milk",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "A creamy product made by boiling cheese",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "A mixture of yoghurt with butter",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "The fat derived from pork",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 7,
-              "question": "What is whipped cream?",
-              "category": {
-                "id": "category-0",
-                "text": "Undefined Category"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "A solidified version of sunflower oil",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "A paste made from almonds",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "A mixture of heavy cream and sugar",
-                  "correct": true
-                },
-                {
-                  "id": 4,
-                  "text": "The fat from beef",
-                  "correct": false
-                }
-              ]
-            },
+
             {
               "id": 8,
               "question": "Which of the following fats/oils derives from red meat?",
@@ -5618,7 +5170,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Heavy cream",
+                  "text": "Sunflower oil",
                   "correct": false
                 },
                 {
@@ -5695,7 +5247,7 @@
             },
             {
               "id": 11,
-              "question": "Which of the following pastes/spreads is produced by bending nuts/seeds?",
+              "question": "Which of the following pastes/spreads is produced by grinding nuts?",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -5785,7 +5337,7 @@
             },
             {
               "id": 14,
-              "question": "Which of the following fruits contains high amounts of fat?",
+              "question": "Which of the following fruits contains high amounts of lipids?",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -5815,22 +5367,15 @@
             }
           ],
           "messages": [
-            "Welcome to the world of fats and oils! This group is very diverse and includes:",
-            "Products made from milk, e.g. butter and heavy cream.",
-            "Products derived from red meat, e.g. pork lard and beef tallow.",
-            "Olives, the fruit of the olive tree.",
-            "Nuts and seeds, e.g. almond, walnut, peanut, hazelnut, pecan, cashew, pistachio, flax/linseed, pumpkin seed, sunflower seed and sesame seed.",
-            "Pastes/spreads made from nuts/seeds, e.g. peanut butter, almond butter, hazelnut butter, walnut butter and tahini which is made from ground sesame seeds.",
-            "Plant oils derived from the seeds or fruits of plants (e.g. olive oil, sunflower oil, safflower oil, canola oil, corn oil and palm oil) or from legumes (e.g. soybean oil).",
-            "Margarine, which is a solidified version of plant oils and used as a butter substitute.",
-            "Mayonnaise, which is an emulsion of oil and egg yolks, and other sauces based on mayonnaise.",
-            "Did you know that avocado is a fruit that mostly contains fat (monounsaturated lipids)?"
+            "This group includes ingredients used primarily for cooking, as well as sauces or spreads. They enable cooking foods and they give flavour and taste to dishes and meals. Their common nutrient is lipids.",
+            "Oils include any edible (=can be eaten) oil coming from plants (e.g. olive oil, sunflower oil, soybean oil).",
+            "Fats include the solid form of lipids, either coming from plants or animals :a)Plant sources: spreads like margarine and mayonnaise, all nuts and seeds (e.g., almonds, walnuts, peanuts, sesame) and their butters/pastes used in spreads (e.g., peanut butter, tahini). Also, olive oils and avocado.b)Animal sources: from red meat (e.g., pork lard, beef tallow), from milk (butter)."
           ]
         },
         {
           "id": 2,
           "title": "Nutritional value",
-          "description": "Familiarisation with the nutritional value of fats and oils.",
+          "description": "To get familiar with the nutritional value of fats and oils.",
           "questions": [
             {
               "id": 1,
@@ -5872,7 +5417,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Calories/energy",
+                  "text": "Energy(calories)",
                   "correct": true
                 },
                 {
@@ -5952,69 +5497,10 @@
                 }
               ]
             },
-            {
-              "id": 5,
-              "question": "What is the main type of lipids found in olives and olive oil?",
-              "category": {
-                "id": "category-0",
-                "text": "Undefined Category"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Saturated",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Monounsaturated",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Polyunsaturated",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Omega-3",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 6,
-              "question": "What is the main type of lipids found in avocado?",
-              "category": {
-                "id": "category-0",
-                "text": "Undefined Category"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Saturated",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Monounsaturated",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Polyunsaturated",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Omega-3",
-                  "correct": false
-                }
-              ]
-            },
+
             {
               "id": 7,
-              "question": "What is the main type of lipids found in palm and coconut oils?",
+              "question": "Unlike other plant oils, palm oil and coconut oil contain?",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -6022,22 +5508,22 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Saturated",
+                  "text": "Mostly saturated lipids",
                   "correct": true
                 },
                 {
                   "id": 2,
-                  "text": "Monounsaturated",
+                  "text": "More unsaturated lipids",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Polyunsaturated",
+                  "text": "More lipids in total",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Omega-3",
+                  "text": "More vitamins",
                   "correct": false
                 }
               ]
@@ -6072,69 +5558,11 @@
                 }
               ]
             },
-            {
-              "id": 9,
-              "question": "Which is the olive oil of the best quality?",
-              "category": {
-                "id": "category-0",
-                "text": "Undefined Category"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Refined olive oil",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Extra virgin olive oil",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Unprocessed olive oil",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Olive pomace oil",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 10,
-              "question": "Which of the following is found in olive oil and helps fight oxidative stress?",
-              "category": {
-                "id": "category-0",
-                "text": "Undefined Category"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Polyphenols",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Probiotics",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Vitamin C",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Sugar",
-                  "correct": false
-                }
-              ]
-            },
+
+
             {
               "id": 11,
-              "question": "Trans lipids are formed when plant oils:",
+              "question": "What are trans lipids:",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -6142,17 +5570,17 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Are used raw in salads",
+                  "text": "Lipids that are used raw in salads",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Are solidified or cooked at high temperature",
+                  "text": "Lipids that are solidified or cooked at high temperature",
                   "correct": true
                 },
                 {
                   "id": 3,
-                  "text": "Are stored for longer than 1 month",
+                  "text": "Lipids tgat are stored for longer than 1 month",
                   "correct": false
                 },
                 {
@@ -6172,12 +5600,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Hard vegetable fats",
+                  "text": "Cookies sold at the supermarke",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Baked/fried pastries and snacks",
+                  "text": "Baked pastries and snacks",
                   "correct": false
                 },
                 {
@@ -6254,19 +5682,19 @@
             }
           ],
           "messages": [
-            "Fats and oils are primarily made up from lipids, which provide energy to the body.",
+            "Fats and oils are primarily made up from lipids, the main role of which for the body is to store energy .",
             "However, the quality of lipids differs significantly among the various fats/oils:",
-            "Animal-based fats/oils, e.g. butter, heavy cream and lard/tallow, contain mostly saturated lipids, which should be consumed in moderation for optimal health.",
-            "Plant-based fats/oils, e.g. olive, nuts/seeds, plant oils and avocado, contain mostly unsaturated (mono- and poly-unsaturated) lipids, which are beneficial for the heart and vessels. An exception is palm and coconut oils, which are very rich in saturated lipids and should be avoided.",
-            "Most plant oils are rich in vitamin E which protects the body's cells from oxidation.",
-            "Among the various plant oils, olive oil, especially extra virgin olive oil, is considered one of the healthiest choices, as it is minimally processed and contains a wide range of other antioxidants!",
-            "Did you know that when plant oils are processed to become solid or cooked at high temperature trans lipids may form? These lipids are very detrimental for health and can be found in hard vegetable fats (e.g. shortening and some hard margarines) and various processed foods, such as baked pastries, salty snacks, ready-to-eat meals and fast foods. Food labels can help you identify these foods: search for the word 'trans' in the nutrition facts section or the phrase 'partially hydrogenated oil' in the list of ingredients."
+            "Animal fats, e.g. butter, cream and lard/tallow, contain mostly saturated lipids, which should be consumed in moderation for optimal health.",
+            "Plant fats , e.g. olive, nuts/seeds, plant oils and avocado, contain mostly unsaturated lipids, which are beneficial for the heart. An exception is palm and coconut oils, which are very rich in saturated lipids and should be avoided.",
+            "Most plant oils are rich in vitamin E which keeps your body’s cells health.",
+            "Among the various plant oils, olive oil, especially extra virgin olive oil, is considered one of the healthiest choices, as it is not processed and contains a wide range of healthy components!",
+            "But be careful! When some plant oils are turned into solid fats or cooked at very high heat, their structure changes, making them the most unhealthy lipids of all. They are called trans lipids and can be found in processed foods like pastries, salty snack and fast food."
           ]
         },
         {
           "id": 3,
           "title": "Recommended intake",
-          "description": "Familiarisation with the recommended intake of fats and oils in terms of quantity and quality.",
+          "description": "To get familiar with the recommended intake of fats and oils in terms of quantity and quality.",
           "questions": [
             {
               "id": 1,
@@ -6278,17 +5706,17 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Only plant oils used in cooking",
+                  "text": "Plant oils used in cooking",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Only butter used as a spread for bread",
+                  "text": "Butter used as a spread for bread",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Only nuts/seeds consumed as a snack",
+                  "text": "Nuts/seeds consumed as a snack",
                   "correct": false
                 },
                 {
@@ -6313,24 +5741,24 @@
                 },
                 {
                   "id": 2,
-                  "text": "Heavy cream and mayonnaise-based sauces",
+                  "text": "Mayonnaise-based sauces",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Healthy plant oils used in cooking and salads",
+                  "text": "Plant oils used in cooking and salads",
                   "correct": true
                 },
                 {
                   "id": 4,
-                  "text": "Whipped cream in sweets",
+                  "text": "Cream in sweets",
                   "correct": false
                 }
               ]
             },
             {
               "id": 3,
-              "question": "What is a good way to avoid overusing fats/oils in cooking?",
+              "question": "What is a good way to avoid using too much fats/oils in cooking?",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -6421,14 +5849,13 @@
           ],
           "messages": [
             "Enjoy fats and oils in moderation!",
-            "Added fats/oils used in cooking and salads (e.g. plant oils, butter), as well as foods that are rich in lipids (e.g. nuts/seeds, olives) can be consumed every day but their quantity matters! All are very rich in calories so moderation in their consumption is important to prevent excess weight gain.",
-            "Remember: for optimal health, give a priority to healthy plant oils (e.g. olive oil, sunflower oil, safflower oil and canola oil) and nuts/seeds over animal-based fats (e.g. lard/tallow, butter and heavy cream), and try to avoid processed foods that might contain trans lipids as much as you can!"
-          ]
+            "Their lipid content makes fats and oils, as well as the products having these as ingredients, energy-dense foods, meaning that they provide a lot of energy (calories) for a given amount. That is why moderation in their quantity is recommended.",
+            "But their quality also matters! Remember: for optimal health, give a priority to healthy plant oils (e.g. olive oil, sunflower oil, safflower oil) and nuts/seeds over animal-based fats (e.g. lard/tallow, butter and cream), and try to avoid processed foods that might contain trans lipids as much as you can!"     ]
         },
         {
           "id": 4,
           "title": "Consumption practices",
-          "description": "Familiarisation with the best practices to handle and consume fats and oils.",
+          "description": "To get familiar with the best practices to handle and consume fats and oils.",
           "questions": [
             {
               "id": 1,
@@ -6552,7 +5979,7 @@
             },
             {
               "id": 5,
-              "question": "Which of the following is a good way to incorporate nuts and seeds in your diet?",
+              "question": "Which of the following is a good way to add nuts and seeds in your diet?",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -6612,7 +6039,7 @@
             },
             {
               "id": 7,
-              "question": "Which of the following is a good way to incorporate tahini or nut butter in your diet?",
+              "question": "Which of the following is a good way to add nut butter in your diet?",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -6642,7 +6069,7 @@
             },
             {
               "id": 8,
-              "question": "Which of the following is a good way to incorporate avocado in your diet?",
+              "question": "Which of the following is a good way to add avocado in your diet?",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -6732,19 +6159,19 @@
             }
           ],
           "messages": [
-            "High temperature can make plant oils lose important nutrients. Thus, instead of deep-frying foods, it is best to use small amounts of plant oils at the end of cooking in the pot or in the oven.",
-            "The same plant oil should not be used multiple times for cooking, as repeated heating can cause production of harmful substances.",
-            "Remember: olive oil, especially extra virgin, is special! It is rich in antioxidants and thus resistant in heat during cooking, meaning it preserves most of its beneficial nutrients and does not go bad easily.",
+            "High temperature can make plant oils lose important nutrients.Instead of deep-frying foods, it is best to use small amounts of plant oils at the end of cooking.",
+            "Don’t use the same oil over and over again, because heating it many times can make it unhealthy.",
+            "Exception: olive oil, especially extra virgin does not spoil in heat during cooking and can be used safely multiple times before discarded.",
             "Nuts and seeds can be consumed as an easy-to-carry snack or added to yoghurt, breakfast cereals, home-made desserts and salads. For an even healthier option, choose raw and unsalted nuts!",
-            "Nut butters and tahini are full of healthy fats! You can use them in yoghurt, as a spread for bread or in home-made desserts (e.g. cookies or cereal bars) instead of butter or margarine.",
+            "Nut butters are full of healthy fats! You can use them in yoghurt, as a spread for bread or in home-made desserts (e.g. cookies or cereal bars) instead of butter or margarine.",
             "Avocados are delicious! You can try them in salads or mashed as a dip or spread for toast.",
-            "Make sure to store fats and oils properly. Butter, margarine and heavy cream must be stored in the fridge, whereas plant oils can be stored in room temperature but in a cool and dark place."
+            "Make sure to store fats and oils properly. Butter, margarine and cream must be stored in the fridge, whereas plant oils can be stored in room temperature but in a cool and dark place."
           ]
         },
         {
           "id": 5,
           "title": "Health effects",
-          "description": "Familiarisation with the health effects of fats and oils.",
+          "description": "To get familiar with the health effects of fats and oils.",
           "questions": [
             {
               "id": 1,
@@ -6836,39 +6263,10 @@
                 }
               ]
             },
-            {
-              "id": 4,
-              "question": "Which lipids can be detrimental for health when consumed in large amounts?",
-              "category": {
-                "id": "category-0",
-                "text": "Undefined Category"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Saturated",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Monounsaturated",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Polyunsaturated",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "All the previous",
-                  "correct": false
-                }
-              ]
-            },
+
             {
               "id": 5,
-              "question": "Which lipids are very detrimental for heart health?",
+              "question": "Which lipids are the unhealthiest for yot heart?",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -6876,12 +6274,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Monounsaturated",
+                  "text": "Unsaturated",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Omega-3 polyunsaturated",
+                  "text": "Ssaturated",
                   "correct": false
                 },
                 {
@@ -6895,14 +6293,43 @@
                   "correct": false
                 }
               ]
+            },
+            {
+              "id": 6,
+              "question": "For optimal health you should try to:?",
+              "category": {
+                "id": "category-0",
+                "text": "prefer plant-based fats to animal-based ones"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Unsaturated",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": " avoid packaged snacks",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": " use spreads in moderation",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "All the previous",
+                  "correct": false
+                }
+              ]
             }
           ],
           "messages": [
-            "Fats and oils are important for a healthy and strong body, as long as they are consumed in moderation!",
-            "Lipids, the main nutrient found in fats and oils, are vital not only for providing energy to the body, but also for building cell membranes, enhancing the absorption of fat-soluble vitamins (i.e. vitamins A, D, E and K), and supporting the regulation of the body temperature.",
-            "Keep in mind that moderation in the consumption of fats and oils is very important! Lipids contain many calories, so overconsuming fats and oils may lead to excess weight gain in the long-term.",
-            "Saturated lipids, which are found in all animal-based fats and some plant oils (palm and coconut), can be detrimental for health if consumed in large amounts. So, give a priority to healthy plant-based fats/oils!",
-            "Try to avoid trans lipids completely, if possible, because they are very detrimental for the heart and vessels! A simple way to achieve this is to prioritise fresh whole foods over processed industrialised ones."
+            "Fats and oils are important for a healthy and strong body, but quality matters!",
+            "Lipids, the main nutrient found in fats and oils, are important for providing energy to the body, keeping the cells strong, helping your body use some vitamins and controlling your body’s temperature .",
+            "Keep in mind that moderation in the consumption of fats and oils is very important! Food industry uses them widely to make products that are very tasty, but they are also energy-dense and usually of low nutritional value. Consuming these products frequently may lead to excess weight gain in the long-term. ",
+            "Try to avoid trans lipids, , because they are the unhealthiest lipids for the heart! A simple way to achieve this is to eat more fresh whole foods and less processed industrialised ones. "
           ]
         }
       ]
@@ -6910,12 +6337,12 @@
     {
       "id": 6,
       "title": "Hydration (HYD) Quiz",
-      "description": "A quiz game aiming to increase knowledge about healthy ways for adequate hydration, emphasizing water and other drinks through education/motivation towards their optimal consumption.",
+      "description": "Increase your knowledge about hydration! Answer the questions and learn the importance of water and its superiority to other drinks for achieving adequate hydration and promoting your overall health .",
       "levels": [
         {
           "id": 1,
           "title": "Acquaintance",
-          "description": "Familiarisation with healthy means of hydration.",
+          "description": "To get familiar with healthy means of hydration.",
           "questions": [
             {
               "id": 1,
@@ -7087,7 +6514,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Water with carbon dioxide",
+                  "text": "Water with bubbies`(carbon dioxide)",
                   "correct": true
                 },
                 {
@@ -7122,7 +6549,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Caffeinated water",
+                  "text": " Water with chocolate",
                   "correct": false
                 }
               ]
@@ -7250,9 +6677,9 @@
           ],
           "messages": [
             "Welcome to the world of hydration! To stay hydrated you can try a big variety of liquids:",
-            "Water, which is the most important drink in the human diet. Flavour your water with fruits, herbs or vegetables or try sparkling/carbonated water, for more fun!",
+            "Water, which is the most important drink. Flavour your water with fruits, herbs or vegetables or try sparkling/carbonated water, for more fun!",
             "Fresh fruit juices, like orange juice, which are produced through squeezing or blending fresh fruits.",
-            "Milk, which is a dairy product, and fermented/cultured milk products, such as sour milk and kefir, which are produced through the addition of bacteria or fungi in milk.",
+            "Milk, which is a dairy product, and fermented/cultured milk products, such as kefir",
             "Herbal infusions, which are made by steeping and soaking herbs, spices, flowers or other plant materials in hot water (e.g. chamomile, sage, eucalyptus, peppermint).",
             "Avoid drinks that contain caffeine (e.g. coffee, black tea, colas, energy drinks), added sugars (e.g. fruit nectars, soft drinks, energy drinks and sports drinks) or alcohol (beer, wine, spirits). They are not good means for hydration and maybe also harmful for your health."
           ]
@@ -7260,7 +6687,7 @@
         {
           "id": 2,
           "title": "Nutritional value",
-          "description": "Familiarisation with the nutritional value of water and drinks.",
+          "description": "To get familiar iliarisation with the nutritional value of water and drinks.",
           "questions": [
             {
               "id": 1,
@@ -7294,7 +6721,7 @@
             },
             {
               "id": 2,
-              "question": "Which of the following drinks contains vitamin C, which is important for the immune system?",
+              "question": "Which of the following drinks contains vitamin C, which is important for your defence system?",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -7354,7 +6781,7 @@
             },
             {
               "id": 4,
-              "question": "Which of the following drinks contains calcium, which is important for strong bones and teeth?",
+              "question": "Which of the following drinks contains the mineral calcium, which is important for strong bones and teeth?",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -7384,7 +6811,7 @@
             },
             {
               "id": 5,
-              "question": "Which of the following drinks contains beneficial bacteria?",
+              "question": "Which of the following drinks contains beneficial germ?",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -7402,7 +6829,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Kefir",
+                  "text": "Sour milk",
                   "correct": true
                 },
                 {
@@ -7444,7 +6871,7 @@
             },
             {
               "id": 7,
-              "question": "Which of the following drinks contains polyphenols, which have antioxidant effects?",
+              "question": "Which of the following drinks contains phytochemicals (special compounds that give plants flavour)?",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -7534,7 +6961,7 @@
             },
             {
               "id": 10,
-              "question": "Which of the following drinks contains ethanol?",
+              "question": "Which of the following drinks contains alcohol?",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -7568,19 +6995,17 @@
             "Water is the best way to stay hydrated. You can easily understand its importance if you think that up to 60-70% of our body is actually water! It does not contain any calories or vitamins, but only small amounts of minerals, like calcium and magnesium.",
             "Other healthy drinks contain various important nutrients:",
             "Milk is rich in calcium, which is essential for strong bones and teeth.",
-            "Sour milk and kefir contain good bacteria called 'probiotics', which help the gut work properly.",
+            "Sour milk and kefir contain beneficial germs', which help the gut work properly.",
             "Fresh fruit juices are packed with important vitamins (e.g. vitamin C); however, they have fewer dietary fibres compared to whole fruits.",
-            "Non-caffeine herbal infusions contain antioxidant compounds called phytochemicals.",
             "But be careful! Not all drinks are nutritious.",
-            "Packaged fruit juices, soft drinks, sports drinks and energy drinks are ultra-processed and loaded with sugar and chemical additives/preservatives, which have detrimental effects on the body.",
+            "Packaged fruit juices, soft drinks, sports drinks and energy drinks are ultra-processed and loaded with sugar and additives/preservatives, which have detrimental effects on the body.",
             "Coffee, black tea and energy drinks also contain lots of caffeine, which can cause anxiety, irritability and sleep problems.",
-            "Alcoholic drinks contain ethanol, which is detrimental for your development and overall health."
-          ]
+            " Alcohol damages your brain function, your behaviour and overall development, so you should abstain from drinking alcohol, even rarely."    ]
         },
         {
           "id": 3,
           "title": "Recommended intake",
-          "description": "Familiarisation with the recommended intake of water and drinks.",
+          "description": "To get familiar with the recommended intake of water and drinks.",
           "questions": [
             {
               "id": 1,
@@ -7795,17 +7220,17 @@
           ],
           "messages": [
             "The recommended daily consumption of water depends on age and sex. It is:",
-            "1600 mL (~6-7 glasses) for 4-8-year-old children,",
-            "1900 mL (~7-8 glasses) for 9-13-year-old girls or 2100 mL (~8-9 glasses) for 9-13-year-old boys,",
-            "2000 mL (~8 glasses) for ≥14-year-old girls or 2500 mL (~10 glasses) for ≥14-year-old boys.",
+            " (6-7 glasses) for 4-8-year-old children,",
+            "(7-8 glasses) for 9-13-year-old girls or (8-9 glasses) for 9-13-year-old boys,",
+            "(8 glasses) for ≥14-year-old girls or (10 glasses) for ≥14-year-old boys.",
             "Did you know that when the temperature is high (especially during the Summer), or if you are physically active, your body needs more fluids to replace the water lost through sweating and heavy breathing? Other situations in which you need more fluids are when you have high fever, diarrhoea and vomiting.",
-            "Remember: for optimal development and health try to completely avoid processed high-sugar drinks (e.g. fruit nectars, soft drinks and energy drinks), those that contain caffeine (e.g. coffee and black tea) and alcoholic drinks!"
+            "Remember: for optimal development and health try to completely avoid processed high-sugar drinks (e.g. fruit nectars, soft drinks and energy drinks), those that contain caffeine (e.g. coffee and black tea) and most of all drinks that conatin alcohol!"
           ]
         },
         {
           "id": 4,
           "title": "Consumption practices",
-          "description": "Familiarisation with best practices to stay hydrated.",
+          "description": "To get familiar with best practices to stay hydrated.",
           "questions": [
             {
               "id": 1,
@@ -8057,7 +7482,7 @@
         {
           "id": 5,
           "title": "Health effects",
-          "description": "Familiarisation with the health effects of water and drinks, and the signs and consequences of dehydration.",
+          "description": "To get familiar with the health effects of water and drinks, and the signs and consequences of dehydration.",
           "questions": [
             {
               "id": 1,
@@ -8079,7 +7504,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "It participates in many biochemical reactions",
+                  "text": "It helps your body make energy and grow",
                   "correct": false
                 },
                 {
@@ -8134,7 +7559,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Helping you sleep better",
+                  "text": "Helping you sleep early",
                   "correct": false
                 },
                 {
@@ -8254,12 +7679,12 @@
                 },
                 {
                   "id": 2,
-                  "text": "Fatigue and dizziness",
+                  "text": "Tiredeness",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Headache",
+                  "text": "Headache od dizziness",
                   "correct": false
                 },
                 {
@@ -8331,7 +7756,7 @@
             },
             {
               "id": 10,
-              "question": "Consumption of alcoholic drinks is detrimental for:",
+              "question": "Consumption of drinks with alcohol is detrimental for:",
               "category": {
                 "id": "category-0",
                 "text": "Undefined Category"
@@ -8363,9 +7788,9 @@
           "messages": [
             "Stay hydrated, stay healthy!",
             "Drinking enough water is vital for your body. Water helps transport important substances to cells through blood, remove waste substances through urine, and supports many key functions of the body. It also keeps you focused and energetic, and regulates your body temperature.",
-            "Dehydration, which occurs when your body loses more fluids than it takes in, can present with signs and symptoms like thirstiness, dizziness, headache, fatigue, dry mouth, non-elastic skin and bad breath. Did you know that you can check your hydration status by observing the colour of your urine? Dark yellow urine is a sign of dehydration and that you should drink some water.",
+            "Dehydration, which occurs when your body loses more fluids than it takes in, can present with signs and symptoms like thirstiness, dizziness, tiredeness, fatigue, dry mouth, non-elastic skin and bad breath. Did you know that you can check your hydration by observing the colour of your urine? Dark yellow urine is a sign of dehydration and that you should drink some water.Aim for light coloured urines, like a light- coloured chamomile tea.",
             "Avoid drinks with caffeine, as they can cause overstimulation and disrupt your sleep.",
-            "Avoid sugar sweetened drinks, as a high consumption can increase the risk of tooth decay and chronic diseases, such as obesity and diabetes, in the long-term.",
+            "Avoid sugar sweetened drinks, as a high consumption can increase the risk of tooth decay or obesity , in the long-term.",
             "It is crucial to avoid alcohol consumption, as it is harmful to your liver, bones, mental and overall health."
           ]
         }

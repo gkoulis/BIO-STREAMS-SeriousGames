@@ -8,7 +8,7 @@
         {
           "id": 1,
           "title": "Bekantskap",
-          "description": "Bekanta med livsmedelsgrupperna av frukt och grönsaker.",
+          "description": "Att bli bekant med livsmedelsgrupperna frukt och grönsaker.",
           "questions": [
             {
               "id": 1,
@@ -132,7 +132,7 @@
             },
             {
               "id": 5,
-              "question": "Vilket av följande är en grönsak?",
+              "question": "Vilket av följande är en grönsak ur näringssynpunkt?",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -254,17 +254,18 @@
           "messages": [
             "Välkommen till världen av frukt och grönsaker!",
             "Fruktgruppen inkluderar alla färska frukter (t.ex. orange, äpple, päron, banan, persika) och torkade frukter (t.ex. plommon, russin, aprikoser), såväl som nypressade fruktjuicer (dvs. 100% fruktjuice utan tillsatta sockerarter). Kom ihåg: Förpackade fruktjuicer med tillsatt socker, läsk och andra bearbetade fruktdrycker ingår inte i livsmedelsgruppen frukt.",
-            "Grönsaksgruppen inkluderar alla råa grönsaker (t.ex. sallad, kål, morot, tomat, gurka) och kokta grönsaker (t.ex. broccoli, blomkål, zucchini, rödbetor). Kom ihåg: Stärkelsefulla grönsaker, dvs majs, ärtor och pumpa, ingår också i grönsaksmatgruppen, men de är rika på stärkelse, ett komplext kolhydrat, som inte finns i andra grönsaker."
+            "Grönsaksgruppen inkluderar alla råa grönsaker (t.ex. sallad, kål, morot, tomat, gurka) och kokta grönsaker (t.ex. broccoli, blomkål, zucchini, rödbetor). Kom ihåg: Stärkelsefulla grönsaker, dvs majs, ärtor och pumpa, ingår också i grönsaksmatgruppen, men de är rika på stärkelse, ett komplext kolhydrat, som inte finns i andra grönsaker.",
+            "Det finns olika sorters grönsaker, som gröna blad (t.ex. spenat), rot (t.ex. morot) eller korsblommiga (t.ex. broccoli, blomkål). Stärkelsehaltiga grönsaker, det vill säga majs, ärtor och pumpa, ingår också i gruppen vegetabiliska livsmedel, men de är rika på stärkelse, en typ av kolhydrater som inte finns i andra grönsaker."
           ]
         },
         {
           "id": 2,
           "title": "Näringsvärde",
-          "description": "Bekanta med näringsvärdet för frukt och grönsaker.",
+          "description": "Att bli bekant med näringsvärdet av frukt och grönsaker.",
           "questions": [
             {
               "id": 1,
-              "question": "Vilket är de viktigaste näringsfrukterna och grönsakerna består av?",
+              "question": "Vilket är det huvudsakliga näringsämnet frukt består av?",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -282,7 +283,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Fiber",
+                  "text": "Lipider",
                   "correct": false
                 },
                 {
@@ -536,14 +537,14 @@
           "messages": [
             "Frukt och grönsaker är en mycket bra källa till ett brett utbud av viktiga näringsämnen!",
             "De består främst av kolhydrater som huvudsakligen finns i form av sockerarter och ger energi till kroppen.",
-            "De inkluderar också vitaminer (t.ex. C -vitamin, vitamin K, folsyra), mineraler (t.ex. kalium, kalcium), fibrer och även andra föreningar (t.ex. fytokemikalier) viktiga för kroppens optimala funktion.",
+            "De inkluderar även vitaminer (t.ex. vitamin C, vitamin K, folsyra), mineraler (t.ex. kalium, kalcium), fibrer och även andra föreningar som är viktiga för att kroppen ska fungera optimalt.",
             "Även om de är fasta livsmedel innehåller de mycket vatten och kan också bidra till kroppens hydrering."
           ]
         },
         {
           "id": 3,
           "title": "Rekommenderat intag",
-          "description": "Bekanta med det rekommenderade intaget och portionsstorleken för frukt och grönsaker.",
+          "description": "Att bekanta sig med det rekommenderade intaget och portionsstorleken av frukt och grönsaker.",
           "questions": [
             {
               "id": 1,
@@ -765,7 +766,7 @@
         {
           "id": 4,
           "title": "Konsumtionspraxis",
-          "description": "Bekanta med bästa praxis för att hantera och konsumera frukt och grönsaker.",
+          "description": "Att bli bekant med bästa praxis för att hantera och konsumera frukt och grönsaker.",
           "questions": [
             {
               "id": 1,
@@ -937,7 +938,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Med mindre bekämpningsmedel",
+                  "text": "Med mindre bekämpningsmedel (kemikalier som används på gården för att skydda växterna)",
                   "correct": true
                 },
                 {
@@ -988,7 +989,7 @@
         {
           "id": 5,
           "title": "Hälsoeffekter",
-          "description": "Bekanta med hälsofördelarna med frukt och grönsaker.",
+          "description": "Att bli bekant med hälsofördelarna med frukt och grönsaker.",
           "questions": [
             {
               "id": 1,
@@ -1060,7 +1061,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "De ökar ditt immunsystem",
+                  "text": "De ökar din kropps försvarssystem",
                   "correct": true
                 },
                 {
@@ -1114,13 +1115,13 @@
           "messages": [
             "Gå friskt med mer frukt och grönsaker!",
             "Frukt och grönsaker är en viktig del av en hälsosam kost.",
-            "Bland deras många hälsofördelar stöder de optimal tillväxt och utveckling, förbättrar immunsystemet och hjälper det kardiovaskulära systemet och mag -tarmkanalen fungerar korrekt."
+            "Bland deras många hälsofördelar stödjer de optimal tillväxt och utveckling, ökar vårt försvarssystem och hjälper hjärtat och tarmen att fungera korrekt."
           ]
         },
         {
           "id": 6,
           "title": "Variation och säsong",
-          "description": "Bekanta med begreppen variation och säsongsbetonade frukt och grönsaker.",
+          "description": "Att bekanta sig med begreppen variation och säsongsvariation av frukt och grönsaker.",
           "questions": [
             {
               "id": 1,
@@ -1154,7 +1155,7 @@
             },
             {
               "id": 2,
-              "question": "Färgen på frukt och grönsaker indikerar deras innehåll i:",
+              "question": "Vilka av föreningarna nedan ger frukt och grönsaker sin speciella färg?:",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -1162,7 +1163,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Fytokemikalier",
+                  "text": "Speciella föreningar som kallas fytokemikalier",
                   "correct": true
                 },
                 {
@@ -1344,7 +1345,7 @@
     {
       "id": 2,
       "title": "Mejeriprodukter (DP) frågesport",
-      "description": "Ett frågesportspel som syftar till att öka kunskapen om mejerimatgruppen och motivera optimal konsumtion genom förståelse av typer, näring, praxis, säkerhet och hälsofördelar.",
+      "description": "För att öka din kunskap om mejeriprodukter!. Svara på frågorna och lär dig vad som räknas som mejeriprodukter ur näringssynpunkt, deras näringsvärde, hur mycket som rekommenderas att konsumera och praktiska tips för att möta dina dagliga behov och hantera dem säkert.",
       "levels": [
         {
           "id": 1,
@@ -1353,7 +1354,7 @@
           "questions": [
             {
               "id": 1,
-              "question": "Vilket av följande är en mjölkmat?",
+              "question": "Vilket av följande är en mejeriprodukt?",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -1383,7 +1384,7 @@
             },
             {
               "id": 2,
-              "question": "Vilket av följande är en mjölkmat?",
+              "question": "Vilket av följande är en mejeriprodukt?",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -1413,7 +1414,7 @@
             },
             {
               "id": 3,
-              "question": "Vilket av följande är en mjölkmat?",
+              "question": "Vilket av följande är en mejeriprodukt ur näringssynpunkt?",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -1431,7 +1432,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Kefir.",
+                  "text": "Ost.",
                   "correct": true
                 },
                 {
@@ -1443,7 +1444,7 @@
             },
             {
               "id": 4,
-              "question": "Vilket av följande tillhör inte mejeriets livsmedelsgrupp?",
+              "question": "Vilket av följande är inte en mejeriprodukt ur näringssynpunkt?",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -1473,7 +1474,7 @@
             },
             {
               "id": 5,
-              "question": "Vilken ingrediens har alla mjölkmat gemensamt?",
+              "question": "Vilken ingrediens har alla mejeriprodukter gemensamt?",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -1503,7 +1504,7 @@
             },
             {
               "id": 6,
-              "question": "Vilket av följande är en jäsad mejeriprodukt?",
+              "question": "Vilka av följande mejeriprodukter innehåller nyttiga bakterier?",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -1533,15 +1534,15 @@
             }
           ],
           "messages": [
-            "Välkommen till mejerivärlden!",
-            "Dairies Food Group inkluderar livsmedel tillverkade av mjölk - som mjölk, vanlig yoghurt och ost. Kom ihåg: Produkter som yoghurt med massor av tillsatt socker, smör och växtbaserade eller chokladmjölk räknas inte som en del av mejerimatgruppen.",
-            "Olika mejeriprodukter har olika smaker och strukturer, men inkluderar liknande näringsämnen som är viktiga för din tillväxt och hälsa."
+            "Välkommen till mejeriprodukternas värld!",
+            "Ur näringssynpunkt inkluderar livsmedelsgruppen mejeriprodukter livsmedel gjorda av mjölk som också innehåller liknande mängder av vissa näringsämnen, som proteiner och kalcium. Så mjölk, vanlig yoghurt och ost tillhör denna grupp, medan smör, även om det kommer från mjölk, tillhör matgruppen fetter och oljor",
+            "Kom ihåg att yoghurtdesserter ser ut som yoghurt men innehåller tillsatt socker och konserveringsmedel, så de är mer som en efterrätt."
           ]
         },
         {
           "id": 2,
           "title": "Näringsvärde",
-          "description": "Bekanta med mejeriets näringsvärde.",
+          "description": "Att bli bekant med näringsvärdet av mejeriprodukter.",
           "questions": [
             {
               "id": 1,
@@ -1553,22 +1554,22 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Fett.",
+                  "text": "Lipider.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Protein.",
+                  "text": "Proteiner.",
                   "correct": true
                 },
                 {
                   "id": 3,
-                  "text": "Socker.",
+                  "text": "Sockerarter.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Fiber.",
+                  "text": "Fibrer.",
                   "correct": false
                 }
               ]
@@ -1604,36 +1605,6 @@
               ]
             },
             {
-              "id": 3,
-              "question": "Hur finns det naturliga sockret i mjölk?",
-              "category": {
-                "id": "category-0",
-                "text": "Odefinierad kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Sackaros.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Fruktos.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Glukos.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Laktos.",
-                  "correct": true
-                }
-              ]
-            },
-            {
               "id": 4,
               "question": "Vilka av följande produkter inkluderar ofta tillsatta sockerarter?",
               "category": {
@@ -1665,7 +1636,7 @@
             },
             {
               "id": 5,
-              "question": "Hela och skummjölkar skiljer sig åt i deras:",
+              "question": "Helmjölk och skummjölk skiljer sig åt i sina:",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -1683,7 +1654,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Fetthalt.",
+                  "text": "Lipidhalt.",
                   "correct": true
                 },
                 {
@@ -1695,7 +1666,7 @@
             },
             {
               "id": 6,
-              "question": "Vad betyder låg fetthalt eller mejeriprodukter med låg fetthalt?",
+              "question": "Vad betyder \"snåla\" mejeriprodukter?",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -1703,7 +1674,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Lägre fettinnehåll.",
+                  "text": "Mindre lipider.",
                   "correct": true
                 },
                 {
@@ -1725,7 +1696,7 @@
             },
             {
               "id": 7,
-              "question": "Vad hjälper fettet i mejeriprodukter att din kropp gör?",
+              "question": "Vad hjälper lipiderna som finns i mejeriprodukter din kropp att göra?",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -1814,66 +1785,6 @@
               ]
             },
             {
-              "id": 10,
-              "question": "Vilket vitamin hjälper din kropp att ta upp kalcium bättre?",
-              "category": {
-                "id": "category-0",
-                "text": "Odefinierad kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Vitamin D.",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Vitamin B12.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Vitamin A.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Vitamin E.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 11,
-              "question": "Vilket mikronäringsämne i mejeriprodukter hjälper ditt hjärta och muskler att fungera ordentligt?",
-              "category": {
-                "id": "category-0",
-                "text": "Odefinierad kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Vitamin D.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Kalium.",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Zink.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Vitamin K.",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 12,
               "question": "Vilka av följande näringsämnen finns vanligtvis inte i mjölk och mejeriprodukter?",
               "category": {
@@ -1883,12 +1794,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Fiber.",
+                  "text": "Fibrer.",
                   "correct": true
                 },
                 {
                   "id": 2,
-                  "text": "Natrium.",
+                  "text": "Proteiner.",
                   "correct": false
                 },
                 {
@@ -1904,38 +1815,8 @@
               ]
             },
             {
-              "id": 13,
-              "question": "Vilket av följande innehåller försumbara mängder laktos?",
-              "category": {
-                "id": "category-0",
-                "text": "Odefinierad kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Mjölk.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Yoghurt.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Fetaost.",
-                  "correct": true
-                },
-                {
-                  "id": 4,
-                  "text": "Goudaost.",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 14,
-              "question": "Vilken typ av ost är den rikaste i kalcium?",
+              "question": "Vilket av följande gäller för kalcium i ost?",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -1943,22 +1824,22 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Parmesan.",
+                  "text": "Ju gulare osten är desto mer kalcium innehåller den.",
                   "correct": true
                 },
                 {
                   "id": 2,
-                  "text": "Stuga.",
+                  "text": "Ju vitare ost desto mer kalcium innehåller den.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Mozzarella.",
+                  "text": "Ost innehåller inte kalcium.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Mjukost.",
+                  "text": "Alla sorters ost innehåller samma mängd kalcium.",
                   "correct": false
                 }
               ]
@@ -1983,28 +1864,28 @@
                 },
                 {
                   "id": 3,
-                  "text": "Har förstärkts med A/några näringsämnen.",
+                  "text": "Tillsätter extra näringsämnen.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Innehåller fördelaktigt för våra hälso -mikroorganismer.",
+                  "text": "Innehåller nyttiga bakterier för vår hälsa.",
                   "correct": true
                 }
               ]
             }
           ],
           "messages": [
-            "Mjölk och mejeriprodukter ger proteiner av hög kvalitet, vilket innebär att de innehåller alla essentiella aminosyror som kroppen behöver för att bygga och bevara celler, organ och vävnader. De är också bland de rikaste källorna till kalcium i kosten.",
-            "Mejeriprodukter innehåller också viktiga vitaminer som vitamin D, B12 och riboflavin, såväl som mineraler som fosfor och kalium, som bidrar till allmän hälsa.",
-            "Många mejeriprodukter inkluderar laktos, det naturliga sockret i mjölk, som ger energi. Vissa människor kanske inte tolererar laktos och de bör välja laktosfri mjölk och yoghurt eller hårda ostar som innehåller försumbara mängder laktos.",
-            "Fermenterade livsmedel produceras genom en process som kallas jäsning, där mikroorganismer som jäst och bakterier bryter ner matkomponenter och förvandlar dem till nya ämnen."
+            "Mejeriprodukter ger högkvalitativa proteiner, som bland många roller hjälper till att bygga upp och reparera muskler.",
+            "De är också bland de rikaste källorna till kalcium i kosten, som behövs för ben och tänder.",
+            "Mejeriprodukter innehåller också andra viktiga mikronäringsämnen vitaminer som vitamin D, B12 och B2, och mineraler som fosfor och kalium, som bidrar till den allmänna hälsan.",
+            "Vissa mejeriprodukter, som yoghurt, produceras med tillsats till mjölk av vissa typer av bakterier som de producerar användbara föreningar som är hälsosamma för din tarm. Dessa produkter kallas fermenterade."
           ]
         },
         {
           "id": 3,
           "title": "Rekommenderad konsumtions- och delstorlekar",
-          "description": "Bekanta med det rekommenderade intaget och portionsstorleken för mejeriprodukter.",
+          "description": "Att bekanta sig med rekommenderat intag och portionsstorlek av mejeriprodukter.",
           "questions": [
             {
               "id": 1,
@@ -2051,7 +1932,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "1 potten (150 g) yoghurt.",
+                  "text": "1 kopp (200 g) yoghurt.",
                   "correct": false
                 },
                 {
@@ -2106,7 +1987,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "en kruka (150 g) yoghurt.",
+                  "text": "en kopp yoghurt.",
                   "correct": false
                 },
                 {
@@ -2116,42 +1997,12 @@
                 },
                 {
                   "id": 3,
-                  "text": "1/2 kopp ricottaost.",
+                  "text": "1 kopp keso.",
                   "correct": false
                 },
                 {
                   "id": 4,
                   "text": "Någon av de föregående.",
-                  "correct": true
-                }
-              ]
-            },
-            {
-              "id": 5,
-              "question": "Vilken typ av mjölk innehåller lägre fett?",
-              "category": {
-                "id": "category-0",
-                "text": "Odefinierad kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Helmjölk.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Smaksatt mjölk.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Chokladmjölk.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Skumma mjölk.",
                   "correct": true
                 }
               ]
@@ -2217,36 +2068,6 @@
               ]
             },
             {
-              "id": 8,
-              "question": "Vilken typ av mjölk är bäst för barn med laktosintolerans?",
-              "category": {
-                "id": "category-0",
-                "text": "Odefinierad kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Chokladmjölk.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Laktosfri mjölk.",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Skumma mjölk.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Det finns ingen mjölk för dem.",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 9,
               "question": "Kan barn konsumera mejeriprodukter med full fett som helmjölk och vanlig ost?",
               "category": {
@@ -2278,7 +2099,7 @@
             },
             {
               "id": 10,
-              "question": "Vid vilken ålder kan barn börja dricka låg fetthalt (halvskimmad) mjölk?",
+              "question": "Vid vilken ålder kan barn börja dricka lättmjölk?",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -2308,16 +2129,17 @@
             }
           ],
           "messages": [
-            "Du bör konsumera mjölk- och mejeriprodukter dagligen som en del av en balanserad diet och siktar på 3–4 portioner mejeri varje dag. En servering kan vara 1 kopp mjölk, en kruka yoghurt eller 1 skiva (30 gram) ost.",
-            "Om du inte dricker mjölk kan du fortfarande få de flesta av dess näringsämnen från livsmedel som ost eller yoghurt, och vid laktosintolerans är laktosfri mjölk ett bra alternativ.",
+            "Du bör konsumera mjölk och mejeriprodukter dagligen som en del av en balanserad kost, med sikte på 3–4 portioner mejeriprodukter varje dag. En portion kan vara 1 kopp mjölk, 1 kopp yoghurt eller 1 skiva (30 gram) ost.",
+            "Om du inte dricker mjölk kan du fortfarande få de flesta av dess näringsämnen från livsmedel som ost eller yoghurt",
             "Det är också smart att kontrollera yoghurtetiketter för extra socker för att göra hälsosammare val.",
-            "För barn över 2 år är både full fetthalt och halvskimmade (låg fetthalt) mjölk och yoghurt lämpliga val, beroende på energibehov och allmän hälsa."
+            "För barn över 2 år är både hel- och (låg) mjölk och yoghurt lämpliga val, beroende på energibehov och allmän hälsa.",
+            "Tänk på att vissa människor många har matsmältningsproblem när de dricker mjölk. För dem finns det en typ av mjölk på marknaden som kallas \"laktosfri\"."
           ]
         },
         {
           "id": 4,
           "title": "Konsumtionspraxis",
-          "description": "Bekanta med bästa praxis för att integrera mejerimat i måltider, snacks och recept.",
+          "description": "Att bli bekant med bästa praxis för att integrera mejeriprodukter i måltider, mellanmål och recept.",
           "questions": [
             {
               "id": 1,
@@ -2351,7 +2173,7 @@
             },
             {
               "id": 2,
-              "question": "Vad är ett bra val att lägga till mejerier i din lunchlåda?",
+              "question": "Vad är ett bra val för att lägga till mejeriprodukter i din lunchlåda?",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -2364,7 +2186,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "En burk soda.",
+                  "text": "En burk läsk.",
                   "correct": false
                 },
                 {
@@ -2464,14 +2286,14 @@
                 },
                 {
                   "id": 4,
-                  "text": "Vanlig grekisk yoghurt.",
+                  "text": "Vanlig yoghurt.",
                   "correct": true
                 }
               ]
             },
             {
               "id": 6,
-              "question": "Vad är en toppning för fruktsallad för att lägga till kalcium och protein?",
+              "question": "Vad är en hälsosam topping för fruktsallad för att lägga till kalcium och protein?",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -2489,7 +2311,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Piskad toppning.",
+                  "text": "Vispad grädde.",
                   "correct": false
                 },
                 {
@@ -2519,7 +2341,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Tillsätt wheep -grädde till dina frukter.",
+                  "text": "Tillsätt vispad grädde till dina frukter.",
                   "correct": false
                 },
                 {
@@ -2539,7 +2361,7 @@
         {
           "id": 5,
           "title": "Hanterings- och lagringspraxis",
-          "description": "Bekanta med säker lagring, förebyggande och förorening och förståelse av utgångsdatum och tecken på förstörelse av mjölkmat.",
+          "description": "Att bli bekant med säker förvaring, förebyggande och kontaminering, och förstå utgångsdatum och tecken på förstörelse av mejeriprodukter.",
           "questions": [
             {
               "id": 1,
@@ -2603,7 +2425,7 @@
             },
             {
               "id": 3,
-              "question": "Utgångsdatum eller bäst efter datum Se datumet en mejeriprodukt:",
+              "question": "\"Utgångsdatum\" avser datumet för en mejeriprodukt:",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -2664,14 +2486,14 @@
           ],
           "messages": [
             "För att hålla mejeriprodukterna säkra och fräscha bör de alltid förvaras i kylen åtminstone i 4 ° C). Låga temperaturer hindrar skadliga bakterier från att växa, vilket kan göra dig sjuk.",
-            "Kontrollera alltid datumet \"utgång\" eller \"bäst efter\" på etiketten. Detta säger det senaste datumet för att använda produkten för bästa kvalitet och säkerhet.",
-            "För att se om mejeriprodukten fortfarande är bra bör du lukta den, kontrollera strukturen och läsa datumet. Om det luktar surt, ser konstigt ut eller är förbi sitt datum är det bäst att inte äta eller dricka det."
+            "Kontrollera alltid \"utgångsdatum\" på etiketten. Detta talar om för dig det senaste datumet för att använda produkten för bästa kvalitet och säkerhet.",
+            "För att kontrollera om mejeriprodukten fortfarande är bra bör du lukta på den, kontrollera konsistensen och läsa datumet. Om det luktar surt, ser konstigt ut eller har passerat datumet är det bäst att inte äta eller dricka det."
           ]
         },
         {
           "id": 6,
           "title": "Hälsoeffekter",
-          "description": "Bekanta med hälsofördelarna med mejeriprodukter.",
+          "description": "Att bekanta sig med hälsofördelarna med mejeriprodukter.",
           "questions": [
             {
               "id": 1,
@@ -2764,36 +2586,6 @@
               ]
             },
             {
-              "id": 4,
-              "question": "Att föredra skum kontra helmjölk eller yoghurt bidrar till:",
-              "category": {
-                "id": "category-0",
-                "text": "Odefinierad kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Lägre mättat fettintag.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Normala blodlipidnivåer.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Mindre energiintag.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Hela tidigare.",
-                  "correct": true
-                }
-              ]
-            },
-            {
               "id": 5,
               "question": "Fermenterade mejeriprodukter som vanlig yoghurt och kefir:",
               "category": {
@@ -2808,7 +2600,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Hjälp ditt immunsystem.",
+                  "text": "Har fler användbara bakterier.",
                   "correct": false
                 },
                 {
@@ -2826,9 +2618,9 @@
           ],
           "messages": [
             "Mejeriprodukter är viktiga eftersom de hjälper din kropp att bli stark och förbli friska.",
-            "Kalcium i mejerier bygger starka ben och tänder, medan proteiner stöder muskelutveckling och tillväxt.",
-            "Experter rekommenderar mjölkmat inte bara för att växa upp starkt, utan också för att de hjälper sjukdomsförebyggande, såsom osteoporos, senare i livet.",
-            "Att välja låg fetthalt eller jäsade mejeriprodukter kan skydda dig från olika hälsoproblem."
+            "Kalciumet i mejeriprodukter bygger starka ben och tänder, medan proteiner stödjer muskelutveckling och tillväxt.",
+            "Experter rekommenderar mejeriprodukter inte bara för att växa upp stark, utan också för att de hjälper till att förebygga sjukdomar, såsom svaga bomar senare i livet.",
+            "Att välja magra eller fermenterade mejeriprodukter kan skydda dig från olika hälsoproblem."
           ]
         }
       ]
@@ -2836,12 +2628,12 @@
     {
       "id": 3,
       "title": "Korn och spannmålsprodukter (G&GP) frågesport",
-      "description": "Ett frågesportspel för att öka kunskapen om spannmålskorn och främja optimala konsumtionsmönster, inklusive mattyper, näringsvärde och hälsoeffekter.",
+      "description": "Öka din kunskap om spannmål och spannmålsprodukter! Svara på frågorna och lär dig vilka livsmedel som ingår, deras näringsvärde, rekommendationer för att konsumera dem och välja deras hälsosammare former.",
       "levels": [
         {
           "id": 1,
           "title": "Bekantskap",
-          "description": "Bekanta med livsmedelsgruppen av spannmål.",
+          "description": "Att bli bekant med livsmedelsgruppen spannmål.",
           "questions": [
             {
               "id": 1,
@@ -3038,7 +2830,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Bagels.",
+                  "text": "Vitt bröd.",
                   "correct": false
                 },
                 {
@@ -3073,7 +2865,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Tahini (sesampasta).",
+                  "text": "Jordnötssmör.",
                   "correct": false
                 },
                 {
@@ -3085,16 +2877,15 @@
             }
           ],
           "messages": [
-            "Välkommen till världen av spannmålskorn!",
-            "Spannmålskorngruppen inkluderar alla livsmedel tillverkade av vete, ris, havre, korn etc. Dessa korn används ofta för att tillverka produkter som bröd, pasta, frukostflingor, tortillor och kex.",
-            "Det finns också andra mindre kända korn som kallas pseudokorn som hirs, sorghum, amaranth, bovete, quinoa, teff som också innehåller mycket värdefulla näringsämnen.",
-            "Korn är en väsentlig del av en balanserad diet och finns i många former - från fullkorn till raffinerade. Att lära dig om korn hjälper dig att göra hälsosammare val!"
+            "Välkommen till en värld av spannmål och spannmålsprodukter! Gruppen inkluderar produkter gjorda av växter som vete, ris, havre, korn etc. Dessa spannmål används i stor utsträckning för att göra produkter som bröd, pasta, frukostflingor, tortillas och kex.",
+            "Det finns också andra mindre kända spannmål som hirs, bovete och quinoa, som anses vara mycket hälsosamma.",
+            "Spannmål är en väsentlig del av en balanserad kost och finns i många former, som skiljer sig åt i sitt näringsvärde. Att lära sig om spannmål hjälper dig att göra hälsosammare val!!"
           ]
         },
         {
           "id": 2,
           "title": "Näringsvärde",
-          "description": "Bekanta med näringsvärdet för korn.",
+          "description": "För att bli bekant med spannmålens näringsvärde.",
           "questions": [
             {
               "id": 1,
@@ -3116,7 +2907,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Fetter.",
+                  "text": "Lipider.",
                   "correct": false
                 },
                 {
@@ -3158,7 +2949,7 @@
             },
             {
               "id": 3,
-              "question": "Vilket av följande är inte en del av ett fullkorn:",
+              "question": "Vilket av följande är en del av ett fullkorn:",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -3171,17 +2962,47 @@
                 },
                 {
                   "id": 2,
-                  "text": "Bakterie.",
+                  "text": "Bladen.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Endosperm.",
+                  "text": "Blomman.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Kli.",
+                  "text": "Den (yttre delen av fröet (kallas kli).",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Vad betyder termen raffinerad för kornen?",
+              "category": {
+                "id": "category-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "De är dyra.",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "De har tagit bort vissa delar av fullkornet.",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "De är färgade.",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "De växer i tropiska miljöer.",
                   "correct": false
                 }
               ]
@@ -3231,17 +3052,17 @@
                 },
                 {
                   "id": 2,
-                  "text": "Fiber.",
+                  "text": "Fibrer.",
                   "correct": true
                 },
                 {
                   "id": 3,
-                  "text": "Natrium.",
+                  "text": "Salt.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Mättat fett.",
+                  "text": "Mättade lipider.",
                   "correct": false
                 }
               ]
@@ -3261,7 +3082,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Fiber.",
+                  "text": "Fibrer.",
                   "correct": false
                 },
                 {
@@ -3277,38 +3098,8 @@
               ]
             },
             {
-              "id": 7,
-              "question": "Vilken del av spannmålen ger mest fiber?",
-              "category": {
-                "id": "category-0",
-                "text": "Odefinierad kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Frövita.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Kli.",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Löv.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Bakterie.",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 8,
-              "question": "Termen berikade korn betyder att i dessa korn:",
+              "question": "Termen \"berikade spannmål\" betyder att i dessa spannmål:",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -3316,7 +3107,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "B -vitaminer har tillsatts.",
+                  "text": "Vitaminerna som togs bort med förfining har tillförts tillbaka.",
                   "correct": true
                 },
                 {
@@ -3326,7 +3117,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Fetter har tagits bort.",
+                  "text": "lipider har tagits bort.",
                   "correct": false
                 },
                 {
@@ -3368,16 +3159,13 @@
             }
           ],
           "messages": [
-            "Mat tillverkade av vete, ris, havre, majsmjöl, korn eller ett annat spannmålskorn är spannmålsprodukter.",
-            "Korn har två undergrupper: fullkorn och raffinerade korn.",
-            "Korn, särskilt fullkorn, är viktiga källor till många näringsämnen, inklusive komplexa kolhydrater, fiber och B -vitaminer. De innehåller också viktiga mineraler som järn, magnesium och selen.",
-            "Helkorn behåller sin kli och bakterie, som ger fiber och näringsämnen, till skillnad från raffinerade korn som förlorar många av dessa under bearbetning. Helkorn innehåller mer fiber än raffinerade korn och är viktiga för korrekt tarmfunktion."
+            "Spannmål kan hittas som fullkorn eller raffinerade spannmål. De skiljer sig åt på de delar de innehåller. Fullkorn har originalkornet intakt (helt), medan de raffinerade har tappat vissa delar efter bearbetning (förädling). Medan båda ger kolhydrater, innehåller fullkorn också fibrer, vitaminer och mineraler som har gått förlorade genom förädling."
           ]
         },
         {
           "id": 3,
           "title": "Rekommenderat intag",
-          "description": "Bekanta med det rekommenderade intaget och delstorleken för korn.",
+          "description": "För att bekanta dig med det rekommenderade intaget och portionsstorleken av korn.",
           "questions": [
             {
               "id": 1,
@@ -3514,7 +3302,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Limpa.",
+                  "text": "Fullkornsbröd.",
                   "correct": true
                 },
                 {
@@ -3531,7 +3319,7 @@
             },
             {
               "id": 6,
-              "question": "Vilket av följande är inte en del av fullkorn?",
+              "question": "Vilket av följande är inte en portion fullkorn?",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -3629,7 +3417,7 @@
         {
           "id": 4,
           "title": "Konsumtionspraxis",
-          "description": "Bekanta med de bästa metoderna för att förbereda och konsumera korn.",
+          "description": "Att bli bekant med de bästa metoderna för att förbereda och konsumera spannmål.",
           "questions": [
             {
               "id": 1,
@@ -3681,7 +3469,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Kokt, bakat eller rå.",
+                  "text": "Kokt.",
                   "correct": true
                 },
                 {
@@ -3701,7 +3489,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "En skål med helkrealer med mjölk.",
+                  "text": "En skål med fullkornsflingor med mjölk.",
                   "correct": true
                 },
                 {
@@ -3723,7 +3511,7 @@
             },
             {
               "id": 4,
-              "question": "Vilket av följande är ett bra spannmålsval för din lunch?",
+              "question": "Vilket av följande är ett bra spannmålsval till din huvudmåltidslunch?",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -3771,7 +3559,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Hela vete tortillor.",
+                  "text": "Fullkornsbrödpinnar.",
                   "correct": true
                 },
                 {
@@ -3796,12 +3584,12 @@
                 },
                 {
                   "id": 2,
-                  "text": "Hela vete pannkakor med honung.",
+                  "text": "Helkornspannkakor med honung.",
                   "correct": true
                 },
                 {
                   "id": 3,
-                  "text": "Donut med praline.",
+                  "text": "Tårta med pralin.",
                   "correct": false
                 },
                 {
@@ -3821,17 +3609,17 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Mer fiber.",
+                  "text": "Mer fibrer.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Mer magnesium.",
+                  "text": "Mer mineraler.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Mer B -vitaminer.",
+                  "text": "Fler vitaminer.",
                   "correct": false
                 },
                 {
@@ -3874,15 +3662,14 @@
           ],
           "messages": [
             "Det finns så många sätt att integrera korn i din diet!",
-            "Konsumera spannmålsprodukter som snacks under dagen (välj en rostat bröd med fullkornsbröd och ost eller kex med ägg för ett hälsosamt mellanmål i skolan), använd dem för att göra näringsrika desserter (t.ex. hemlagade kakor och kakor) eller lägg dem till dina måltider.",
-            "Prioritera fullkorn (istället för förfinad) för att dra fördel av alla deras näringsämnen (fibrer, vitaminer och mineraler).",
-            "Välj hela korn över förfinade och förbered dem på enkla, hälsosamma sätt som bakade eller kokt. Undvik att tillsätta för mycket fett, socker eller salt. Helkornbröd, havremjöl och brunt ris är fantastiska fullkornalternativ."
+            "Konsumera spannmålsprodukter som mellanmål (välj en rostat bröd med fullkornsbröd och ost eller kex med ägg för ett hälsosamt mellanmål i skolan) och lägg dem till dina huvudmåltider.",
+            "Prioritera fullkorn (istället för raffinerat) för att dra nytta av alla deras näringsämnen (fibrer, vitaminer och mineraler). Fullkornsbröd, havregryn och brunt ris är fantastiska fullkornsalternativ. Förbered dem på enkla sätt och undvik att tillsätta för mycket fett, socker eller salt."
           ]
         },
         {
           "id": 5,
           "title": "Hälsoeffekter",
-          "description": "Bekanta med hälsoeffekterna av korn.",
+          "description": "Att bekanta sig med spannmåls hälsoeffekter.",
           "questions": [
             {
               "id": 1,
@@ -3899,7 +3686,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Förlorar fett.",
+                  "text": "Sover bättre.",
                   "correct": false
                 },
                 {
@@ -3909,7 +3696,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Skydda din hälsa.",
+                  "text": "Växer bra.",
                   "correct": true
                 }
               ]
@@ -3946,7 +3733,7 @@
             },
             {
               "id": 3,
-              "question": "Magnesium:",
+              "question": "Att äta fullkorn försörjer din kropp med mineraler som hjälper dig med:",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -3954,29 +3741,29 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Är viktigt för dina öron.",
+                  "text": "Bygg dina ben.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Hjälper dina muskler att fungera bättre.",
+                  "text": "Att dina muskler fungerar bättre.",
                   "correct": true
                 },
                 {
                   "id": 3,
-                  "text": "Hjälper ditt immunsystem.",
+                  "text": "Öka ditt försvarssystem.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Ingen av de föregående.",
+                  "text": "Hela tidigare.",
                   "correct": false
                 }
               ]
             },
             {
               "id": 4,
-              "question": "Spannprodukter är rika på B -vitaminer som hjälper:",
+              "question": "Spannmålsprodukter är rika på vitaminer (B-grupp) som hjälper:",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -3984,22 +3771,22 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Dina tänder är starkare.",
+                  "text": "Produktionen av ditt blod.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Din tarm fungerar bättre.",
+                  "text": "Din hjärna ska fungera bra.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Du känner dig mer energisk.",
+                  "text": "Att få energin lagrad i maten.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Ditt nervsystem förblir friskt.",
+                  "text": "Hela tidigare.",
                   "correct": true
                 }
               ]
@@ -4014,7 +3801,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "De hjälper dig att kontrollera din vikt.",
+                  "text": "De hjälper dig att hålla en hälsosam vikt.",
                   "correct": true
                 },
                 {
@@ -4024,7 +3811,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "De ger dig mer kolhydrater och protein.",
+                  "text": "De ger dig massor av kolhydrater och protein.",
                   "correct": false
                 },
                 {
@@ -4044,12 +3831,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Förstoppningen.",
+                  "text": "Förstoppning.",
                   "correct": true
                 },
                 {
                   "id": 2,
-                  "text": "Buksmärtan.",
+                  "text": "Din hörsel.",
                   "correct": false
                 },
                 {
@@ -4066,7 +3853,7 @@
             },
             {
               "id": 7,
-              "question": "Vilket näringsämne, som finns i korn, är viktigt för korrekt tarmfunktion?",
+              "question": "Vilket näringsämne, som finns i spannmål, är viktigt för en korrekt tarmfunktion?",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -4074,131 +3861,41 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Protein.",
+                  "text": "Proteiner.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Fett.",
+                  "text": "Lipider.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Fiber.",
+                  "text": "Fibrer.",
                   "correct": true
                 },
                 {
                   "id": 4,
-                  "text": "Kolhydrat.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 8,
-              "question": "Vilket vitamin, som finns i korn, är viktigt för nervsystemet?",
-              "category": {
-                "id": "category-0",
-                "text": "Odefinierad kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "B -vitaminer.",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Vitamin D.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Vitamin C.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Vitamin E.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 9,
-              "question": "Vilket mineral, som finns i korn, är viktigt för benhälsa?",
-              "category": {
-                "id": "category-0",
-                "text": "Odefinierad kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Magnesium.",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Kalcium.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Järn.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Selen.",
+                  "text": "Kolhydrater.",
                   "correct": false
                 }
               ]
             }
           ],
           "messages": [
-            "Att äta korn, särskilt fullkorn, skydda din hälsa och minska risken för många sjukdomar.",
-            "Korn ger många näringsämnen som är avgörande för hälsa och underhåll av dina kroppar som fibrer, B -vitaminer (tiamin, niacin, riboflavin) och mineraler som magnesium och selen.",
-            "Fullkornsprodukter innehåller mer av de gynnsamma näringsämnena som nämns ovan jämfört med raffinerade spannmål och uppvisar därmed mer hälsofördelar."
+            "Att äta spannmål, särskilt fullkorn, håller din kropp frisk.",
+            "Näringsämnena som finns i spannmål, fibrer och mikronäringsämnen (som B-vitaminer, järn, magnesium) spelar en viktig roll för många funktioner i din kropp.",
+            "Fullkornsprodukter innehåller fler av dessa nyttiga näringsämnen jämfört med raffinerade spannmål, så de är ännu bättre för din hälsa."
           ]
         },
         {
           "id": 6,
           "title": "Typer och bearbetning",
-          "description": "Bekanta med begreppen typer och bearbetning av korn.",
+          "description": "Att bekanta sig med begreppen typer och bearbetning av spannmål.",
           "questions": [
             {
-              "id": 1,
-              "question": "Helkorn innehåller:",
-              "category": {
-                "id": "category-0",
-                "text": "Odefinierad kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Endast Bran.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Endast stärkelse.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Endast endosperm.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Bran, Germ och Endosperm.",
-                  "correct": true
-                }
-              ]
-            },
-            {
               "id": 2,
-              "question": "Raffinerade korn har:",
+              "question": "Raffinerade spannmål, jämfört med fullkorn, har: :",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -4206,12 +3903,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Lägre fiber.",
+                  "text": "Mindre fibrer.",
                   "correct": true
                 },
                 {
                   "id": 2,
-                  "text": "Lägre socker.",
+                  "text": "Mindre socker.",
                   "correct": false
                 },
                 {
@@ -4221,14 +3918,14 @@
                 },
                 {
                   "id": 4,
-                  "text": "Lägre kolhydrater.",
+                  "text": "Mindre kolhydrater.",
                   "correct": false
                 }
               ]
             },
             {
               "id": 3,
-              "question": "Fräsning är en process som:",
+              "question": "Fräsning (= förfining) är en process som:",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -4236,12 +3933,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Tar bort från korn bakterien och kli.",
+                  "text": "Tar bort vissa delar från korn.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Ger produkten en finare struktur.",
+                  "text": "Gör produkten finare.",
                   "correct": false
                 },
                 {
@@ -4271,7 +3968,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Raffinerade korn med tillsatta vitaminer.",
+                  "text": "Raffinerade spannmål med tillsatta vitaminer tillbaka.",
                   "correct": true
                 },
                 {
@@ -4306,12 +4003,12 @@
                 },
                 {
                   "id": 3,
-                  "text": "Vete tortilla.",
+                  "text": "Fullkornskex.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Havrebröd.",
+                  "text": "Rågbröd.",
                   "correct": false
                 }
               ]
@@ -4341,7 +4038,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Fler vitaminer.",
+                  "text": "Inga vitaminer.",
                   "correct": false
                 }
               ]
@@ -4361,12 +4058,12 @@
                 },
                 {
                   "id": 2,
-                  "text": "Smaka dåligt.",
+                  "text": "Har en högre lipidhalt.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Luktar dåligt.",
+                  "text": "Gör dig trött.",
                   "correct": false
                 },
                 {
@@ -4396,7 +4093,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Berikad produkt",
+                  "text": "Vitaminkälla",
                   "correct": false
                 },
                 {
@@ -4408,10 +4105,9 @@
             }
           ],
           "messages": [
-            "Helkorn upprätthåller hela kornkärnan, som inkluderar kli, bakterie och endosperm.",
-            "Raffinerade korn har malats, det betyder att de har bearbetats för att ta bort kli och groddar. Denna process syftar till att ge korn en finare struktur och förbättra deras hållbarhet. Tyvärr tar det också bort många gynnsamma näringsämnen.",
-            "Raffinerade korn berikas ofta. Detta innebär att tillsätta vissa B -vitaminer (tiamin, riboflavin, niacin, folsyra) och järn som förlorades under livsmedelsbearbetning. Men de förblir dåliga källor till fiber.",
-            "Välj minimalt bearbetade, lågsocker och låg-saltkornprodukter när det är möjligt. Läs etiketter för fullkornsalternativ för att få ut mesta möjliga av dina måltider!"
+            "Raffinerade spannmål har malts, det betyder att de har bearbetats för att ta bort vissa delar av den ursprungliga spannmålet. Denna process syftar till att ge korn en finare textur och förbättra deras hållbarhet. Tyvärr tar den också bort en hel del nyttiga näringsämnen.",
+            "Raffinerade spannmål berikas ofta. Detta innebär att tillföra vissa B-vitaminer och järn som gick förlorade under livsmedelsbearbetningen. Men de är fortfarande dåliga källor till fibrer.",
+            "Välj minimalt bearbetade spannmålsprodukter med låg sockerhalt och lågsalthalt när det är möjligt. För förpackade produkter, läs etiketterna för fullkornsalternativ för att få ut det mesta av det du äter!!"
           ]
         }
       ]
@@ -4419,12 +4115,12 @@
     {
       "id": 4,
       "title": "HPF-frågesport med hög protein (HPF)",
-      "description": "Ett frågesportspel som syftar till att öka kunskapen om andra högproteinmat än mejeriprodukter och utbilda/motivera användare till sitt optimala konsumtionsmönster.",
+      "description": "Öka din kunskap om proteinrik mat, förutom mejeriprodukter! Svara på frågorna och lär dig om de olika livsmedelskategorierna som ingår, hur du gör de bästa valen och hur mycket du bör äta för att få starka och hälsosamma effekter. .",
       "levels": [
         {
           "id": 1,
           "title": "Bekantskap",
-          "description": "Bekanta med högproteinmat.",
+          "description": "Att bekanta sig med proteinrik mat.",
           "questions": [
             {
               "id": 1,
@@ -4436,7 +4132,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Rött/vitt kött.",
+                  "text": "Rött och vitt kött.",
                   "correct": false
                 },
                 {
@@ -4446,7 +4142,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Pulser.",
+                  "text": "Baljväxter (torkade frön av baljväxter) .",
                   "correct": false
                 },
                 {
@@ -4637,36 +4333,6 @@
               ]
             },
             {
-              "id": 8,
-              "question": "Vilket av följande är en baljväxter?",
-              "category": {
-                "id": "category-0",
-                "text": "Odefinierad kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Färska gröna bönor/ärtor.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Pulser.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Sojabönor.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Hela tidigare.",
-                  "correct": true
-                }
-              ]
-            },
-            {
               "id": 9,
               "question": "Vad är pulser?",
               "category": {
@@ -4697,6 +4363,36 @@
               ]
             },
             {
+              "id": 8,
+              "question": "Vilket av följande är en baljväxter?",
+              "category": {
+                "id": "category-0",
+                "text": "Odefinierad kategori"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Färska gröna bönor/ärtor.",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Pulser.",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Sojabönor.",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Hela tidigare.",
+                  "correct": true
+                }
+              ]
+            },
+            {
               "id": 10,
               "question": "Vilket av följande är en puls?",
               "category": {
@@ -4706,7 +4402,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Torra bönor/ärtor.",
+                  "text": "Torra ärtor.",
                   "correct": false
                 },
                 {
@@ -4806,7 +4502,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Grekisk favorit.",
+                  "text": "Yoghurt.",
                   "correct": false
                 },
                 {
@@ -4818,17 +4514,17 @@
             }
           ],
           "messages": [
-            "Välkommen till världen med högproteinmat!",
-            "Detta tematiska område fokuserar på olika kött och växtalternativ, som tillsammans med mejeriprodukter täcker de flesta av dina dagliga proteinbehov.",
-            "Djurbaserade högproteinmat inkluderar rött kött (t.ex. nötkött, fläsk, kalvkött och lamm), vitt kött (t.ex. kyckling, kalkon och kanin), fisk, skaldjur (t.ex. räkor, räkor, bläckfisk, bläckfisk, kräftor, hummer, musslor, ostron och mussel) och ägg. Bearbetade köttprodukter (t.ex. korv, skinka, salami, peperoni och bacon) ingår också i denna kategori; De produceras från rött/vitt kött genom olika processer, såsom saltning, härdning, jäsning, rökning och tillsats av kemiska konserveringsmedel.",
-            "Kom ihåg: Mejeriprodukter (t.ex. mjölk, yoghurt och ost), som presenteras i ett tidigare tematiskt område, är också djurbaserade livsmedel med ett högt proteininnehåll och den viktigaste källan till kalcium!",
-            "Växtbaserade högprotein inkluderar pulser, som är de torra ätliga frön inuti baljväxter, dvs torra bönor (t.ex. svarta bönor, njurbönor och limabönor), torra ärter (t.ex. svarta ögon ärtor och split gula/gröna ärtor), linser och kikar, som sojaboer och deras produkter (E.G. TOS)."
+            "Välkommen till en värld av högproteinmat! I motsats till de andra livsmedelsgrupperna du träffat sedan nu, är detta en mångsidig grupp av livsmedel, som innehåller både animaliska och vegetabiliska livsmedel. Ändå är deras höga innehåll av proteiner det som slutligen grupperar dem.",
+            "Djurbaserad mat med högt proteininnehåll inkluderar alla typer av kött (rött eller vitt), fisk och skaldjur samt ägg.",
+            "Bearbetade köttprodukter (t.ex. korv, skinka, salami, peperoni) även om de tillverkas av rött/vitt kött, och de innehåller vanligtvis många tillsatser och konserveringsmedel som sänker näringsvärdet.",
+            "Växtbaserad högprotein inkluderar baljväxter, som är de torra ätbara fröna inuti baljväxtskidan, dvs torra bönor, torra ärtlinser och kikärter, såväl som sojabönor och deras produkter (t.ex. tofu, en produkt som ser ut som vit ost).",
+            "Kom ihåg: Mejeriprodukter, som presenterats i ett tidigare tematiskt område, anses också vara proteinrika livsmedel, men de gör sin egen grupp, med tanke på deras innehåll av kalcium."
           ]
         },
         {
           "id": 2,
           "title": "Näringsvärde",
-          "description": "Bekanta med näringsvärdet för livsmedel med hög protein.",
+          "description": "Att bekanta sig med näringsvärdet av proteinrika livsmedel.",
           "questions": [
             {
               "id": 1,
@@ -4861,36 +4557,6 @@
               ]
             },
             {
-              "id": 2,
-              "question": "Ett \"komplett\" protein är ett protein som:",
-              "category": {
-                "id": "category-0",
-                "text": "Odefinierad kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Innehåller inga lipider.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Smälts helt i magen.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Finns i frukt och grönsaker.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Innehåller alla essentiella aminosyror.",
-                  "correct": true
-                }
-              ]
-            },
-            {
               "id": 3,
               "question": "Vad är en aminosyra?",
               "category": {
@@ -4916,36 +4582,6 @@
                 {
                   "id": 4,
                   "text": "En fettsyra som finns i kött.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 4,
-              "question": "Vilket av följande innehåller \"kompletta\" proteiner?",
-              "category": {
-                "id": "category-0",
-                "text": "Odefinierad kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Bröd.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Böna.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Kyckling.",
-                  "correct": true
-                },
-                {
-                  "id": 4,
-                  "text": "Mandel.",
                   "correct": false
                 }
               ]
@@ -4995,7 +4631,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Mättade lipider.",
+                  "text": "Lipider (mättade).",
                   "correct": true
                 },
                 {
@@ -5020,7 +4656,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Omega-3 fleromättade lipider.",
+                  "text": "Lipider (omättade).",
                   "correct": true
                 },
                 {
@@ -5101,96 +4737,6 @@
               ]
             },
             {
-              "id": 10,
-              "question": "Vilket vitamin finns oftast i djurbaserade livsmedel med hög protein och hjälper till att hålla nervsystemet friskt?",
-              "category": {
-                "id": "category-0",
-                "text": "Odefinierad kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Vitamin C.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Vitamin B12.",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Vitamin K.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Vitamin E.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 11,
-              "question": "Vilket vitamin finns oftast i djurbaserade livsmedel med hög protein och är viktigt för synen?",
-              "category": {
-                "id": "category-0",
-                "text": "Odefinierad kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Vitamin K.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Vitamin C.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Vitamin A.",
-                  "correct": true
-                },
-                {
-                  "id": 4,
-                  "text": "Vitamin E.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 12,
-              "question": "Vilket mineral, som finns i livsmedel med hög protein, är avgörande för överföring av syre via blodceller?",
-              "category": {
-                "id": "category-0",
-                "text": "Odefinierad kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Järn.",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Kalcium.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Magnesium.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Allt ovanstående.",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 13,
               "question": "Från vilken av följande livsmedel med hög protein absorberas järn bättre?",
               "category": {
@@ -5210,73 +4756,13 @@
                 },
                 {
                   "id": 3,
-                  "text": "Soya Bean.",
+                  "text": "Varit.",
                   "correct": false
                 },
                 {
                   "id": 4,
                   "text": "Nötkött.",
                   "correct": true
-                }
-              ]
-            },
-            {
-              "id": 14,
-              "question": "Vilket mineral, som finns i livsmedel med hög protein, är viktigt för metabolism och immunsystemet?",
-              "category": {
-                "id": "category-0",
-                "text": "Odefinierad kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Jod.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Kalcium.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Zink.",
-                  "correct": true
-                },
-                {
-                  "id": 4,
-                  "text": "Kalium.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 15,
-              "question": "Vilket mineral, som finns i livsmedel med hög protein, är viktigt för dina ben och tänder?",
-              "category": {
-                "id": "category-0",
-                "text": "Odefinierad kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Fosfor.",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Natrium.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Koppar.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Mangan.",
-                  "correct": false
                 }
               ]
             },
@@ -5290,7 +4776,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Mättat fett.",
+                  "text": "Lipider.",
                   "correct": false
                 },
                 {
@@ -5300,7 +4786,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Kemiska konserveringsmedel.",
+                  "text": "Konserveringsmedel.",
                   "correct": false
                 },
                 {
@@ -5323,7 +4809,7 @@
         {
           "id": 3,
           "title": "Rekommenderat intag",
-          "description": "Bekanta med det rekommenderade intaget och delstorleken för livsmedel med hög protein.",
+          "description": "Att bekanta sig med det rekommenderade intaget och portionsstorleken av proteinrik mat.",
           "questions": [
             {
               "id": 1,
@@ -5387,7 +4873,7 @@
             },
             {
               "id": 3,
-              "question": "Hur ofta ska man äta fet/fet fisk, som är rik på omega-3 fleromättade lipider?",
+              "question": "Hur ofta bör man äta fet/fet fisk, som är särskilt rik på omättade lipider?",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -5477,7 +4963,7 @@
             },
             {
               "id": 6,
-              "question": "Vilka av följande livsmedel med hög protein ska undvikas, om möjligt, eftersom de behandlas?",
+              "question": "Vilken av följande proteinrika livsmedel bör undvikas eftersom de är bearbetade?",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -5508,16 +4994,16 @@
           ],
           "messages": [
             "Gör mat med hög protein till en vanlig del av din diet!",
-            "Högproteinmat kan konsumeras varje dag men bör roteras under hela veckan för att säkerställa variation. Syftet mot magert vitt och/eller rött kött 2-3 gånger per vecka, fisk/skaldjur 2-3 gånger per vecka och pulser minst en gång per vecka.",
-            "Ägg och ostar är också värdefulla källor till högkvalitativa proteiner som kan följa rätter baserade på grönsaker, pasta eller andra spannmålsprodukter som inte innehåller mycket proteiner.",
-            "Den exakta mängden proteiner du behöver beror på din kroppsvikt. Ett enkelt sätt att tillgodose dina behov är att se till att livsmedel med hög protein täcker ungefär ¼ av din tallrik i lunch och middag och att också konsumera 2-3 portioner mjölkprodukter i frukost och snacks!",
+            "Mat med högt proteininnehåll kan konsumeras varje dag men bör roteras under veckan för att säkerställa variation. Sikta på vitt och/eller rött kött 2-3 gånger i veckan, fisk/skaldjur 2-3 gånger i veckan och baljväxter minst en gång i veckan.",
+            "Ägg är också värdefulla källor till högkvalitativa proteiner som kan åtfölja rätter baserade på grönsaker, pasta eller andra spannmålsprodukter som inte innehåller mycket protein.",
+            "Den exakta mängden proteiner du behöver beror på din ålder och kroppsvikt. Ett praktiskt sätt att möta dina behov är att se till att proteinrik mat täcker cirka ¼ av tallriken till lunch och middag. Glöm inte att mejeriprodukter också innehåller proteiner, så sikta på att konsumera 2-3 portioner i frukost och mellanmål!",
             "Kom ihåg: Försök att undvika bearbetat kött, till exempel korv och kallskärningar, så mycket du kan!"
           ]
         },
         {
           "id": 4,
           "title": "Konsumtionspraxis",
-          "description": "Bekanta med de bästa metoderna för att hantera och konsumera livsmedel med hög protein.",
+          "description": "Att bekanta sig med de bästa metoderna för att hantera och konsumera högproteinmat.",
           "questions": [
             {
               "id": 1,
@@ -5589,7 +5075,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Kokning och rostning.",
+                  "text": "Stekning.",
                   "correct": true
                 },
                 {
@@ -5604,7 +5090,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Grilla.",
+                  "text": "Utegrill.",
                   "correct": false
                 }
               ]
@@ -5670,38 +5156,8 @@
               ]
             },
             {
-              "id": 6,
-              "question": "Vilket av följande är ett bra sätt att få proteiner med högt biologiskt värde genom pulser?",
-              "category": {
-                "id": "category-0",
-                "text": "Odefinierad kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Äter dem ensam.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Kombinera dem med ris eller bröd.",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Genom att lägga till citron.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Genom att koka dem längre.",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 7,
-              "question": "För att undvika överskott av mättade lipider när man äter rött kött, bör man:",
+              "question": "För att undvika att äta för mycket lipider när du äter rött kött bör du:",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -5731,7 +5187,7 @@
             },
             {
               "id": 8,
-              "question": "För att undvika överskott av mättade lipider när man äter fjäderfä, bör man:",
+              "question": "För att undvika att äta för många lipider när du äter fjäderfä bör du:",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -5761,17 +5217,16 @@
             }
           ],
           "messages": [
-            "För att få de nödvändiga proteinerna och undvika stora mängder mättade lipider: Ät fjäderfä utan deras hud, ta bort synligt fett från rött kött (vanligtvis det yttre lagret) och välj magra röda köttdelar, till exempel de på baksidan av nötkreaturen (kort länd, lutning och runda) eller fläsk (loin och skinka).",
-            "Ägg är ett mycket näringsrikt val för ett högt proteintiskt mellanmål (t.ex. kokt ägg), som en ersättning för kallklipp i smörgåsar/omslag, eller till och med en huvudmåltid (t.ex. bakad omelett med ost och grönsaker).",
-            "För att hålla dina måltider så hälsosamma som möjligt väljer du djurbaserade högproteinmat som är kokt eller rostade, istället för stekt eller grillad.",
-            "Det finns så många sätt att integrera pulser i din diet! För att nämna några kan du ha dem som en huvudmåltid (t.ex. linsoppa), integrera dem i sallader, använda dem för att göra vegetariska hamburgare eller till och med njuta av dem som spridningar som hummus.",
-            "Visste du att genom att kombinera pulser och korn, som ris eller bröd, kan du få kompletta proteiner med alla essentiella aminosyror, liknande de hos kött?"
+            "För att få de nödvändiga proteinerna och undvika stora mängder mättade lipider: ät fjäderfä utan skinn, ta bort synligt fett från rött kött (vanligtvis det yttre lagret).",
+            "Ägg är ett mycket näringsrikt val för ett mellanmål med hög proteinhalt (t.ex. kokt ägg), istället för för kallskuret i smörgåsar/wraps, eller till och med en huvudmåltid (t.ex. bakad omelett med ost och grönsaker).",
+            "För att hålla dina måltider så hälsosamma som möjligt, välj animaliskt baserad högproteinmat som kokas eller rostas i ugnen, och undvik stekt eller grillat, särskilt grillat",
+            "Det finns så många sätt att integrera pulser i din diet! För att nämna några kan du ha dem som en huvudmåltid (t.ex. linsoppa), integrera dem i sallader, använda dem för att göra vegetariska hamburgare eller till och med njuta av dem som spridningar som hummus."
           ]
         },
         {
           "id": 5,
           "title": "Hälsoeffekter",
-          "description": "Bekanta med hälsoeffekterna av livsmedel med hög protein.",
+          "description": "Att bli bekant med hälsoeffekterna av proteinrik mat.",
           "questions": [
             {
               "id": 1,
@@ -5788,7 +5243,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "De främjar viktminskning.",
+                  "text": "De får dig att gå ner i vikt.",
                   "correct": false
                 },
                 {
@@ -5798,7 +5253,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "De kämpar mot inflammation.",
+                  "text": "De gör dig hungrig.",
                   "correct": false
                 }
               ]
@@ -5926,10 +5381,9 @@
           ],
           "messages": [
             "Högproteinmat är en viktig del av en balanserad diet!",
-            "Visste du att alla kroppens organ och vävnader, som hjärtat, lungorna, benen, musklerna och huden, består av proteiner? Proteiner spelar en nyckelroll i att bygga, upprätthålla och reparera kroppens vävnader.",
-            "Högproteinmat stöder också viktiga funktioner i immunsystemet, vilket hindrar dig från att bli sjuk.",
-            "En otillräcklig konsumtion av djurbaserade livsmedel med hög protein kan leda till anemi. Med enkla ord är anemi bristen på friska röda blodkroppar för att bära syre till kroppens vävnader. Det kan orsakas av ett otillräckligt intag av järn och vitamin B12 som vanligtvis finns i djurbaserade högproteinmat.",
-            "Syftet med att följa de rekommenderade intagen av livsmedel med hög protein enligt din ålder och kroppsvikt för att säkerställa ett livslångt adekvat proteinintag!"
+            "Visste du att alla delar av din kropp, såsom hjärtat, lungorna, benen, musklerna och huden, består av proteiner? Proteiner spelar en nyckelroll i att bygga, underhålla och reparera kroppens vävnader.",
+            "Högproteinmat hjälper också din kropp att bekämpa bakterier, vilket förhindrar dig från att bli sjuk.",
+            "Tänk dock på att överätande av högproteinmat, särskilt rött kött och köttprodukter, är dåligt för din hälsa."
           ]
         }
       ]
@@ -5937,12 +5391,12 @@
     {
       "id": 5,
       "title": "Fetter & Oils (F&O) frågesport",
-      "description": "Ett frågesportspel som syftar till att öka kunskapen om gruppen av fetter och oljor och utbilda/motivera användare mot sitt optimala konsumtionsmönster.",
+      "description": "Öka din kunskap om fetter och oljor! Svara på frågorna och lär dig om vilken typ av livsmedel som ingår, skillnaderna i deras näringsvärde och hur du bäst inkluderar dem i din kost.",
       "levels": [
         {
           "id": 1,
           "title": "Bekantskap",
-          "description": "Bekanta med gruppen fetter och oljor.",
+          "description": "Att bekanta sig med gruppen av fetter och oljor.",
           "questions": [
             {
               "id": 1,
@@ -6095,66 +5549,6 @@
               ]
             },
             {
-              "id": 6,
-              "question": "Vad är tung grädde?",
-              "category": {
-                "id": "category-0",
-                "text": "Odefinierad kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Den feta komponenten skummad från mjölk",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "En krämig produkt gjord av kokande ost",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "En blandning av yoghurt med smör",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Fettet härrörande från fläsk",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 7,
-              "question": "Vad är vispgrädde?",
-              "category": {
-                "id": "category-0",
-                "text": "Odefinierad kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "En stelnad version av solrosolja",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "En pasta gjord av mandlar",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "En blandning av tung grädde och socker",
-                  "correct": true
-                },
-                {
-                  "id": 4,
-                  "text": "Fettet från nötkött",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 8,
               "question": "Vilket av följande fetter/oljor härstammar från rött kött?",
               "category": {
@@ -6169,7 +5563,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Grädde",
+                  "text": "Solrosolja",
                   "correct": false
                 },
                 {
@@ -6246,7 +5640,7 @@
             },
             {
               "id": 11,
-              "question": "Vilka av följande pasta/spridningar produceras av böjnötter/frön?",
+              "question": "Vilken av följande pasta/pålägg tillverkas genom att mala nötter?",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -6336,7 +5730,7 @@
             },
             {
               "id": 14,
-              "question": "Vilken av följande frukter innehåller stora mängder fett?",
+              "question": "Vilken av följande frukter innehåller höga mängder lipider?",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -6366,22 +5760,15 @@
             }
           ],
           "messages": [
-            "Välkommen till världen av fetter och oljor! Denna grupp är mycket mångfaldig och inkluderar:",
-            "Produkter tillverkade av mjölk, t.ex. smör och tung grädde.",
-            "Produkter härrörande från rött kött, t.ex. Fläskspalar och nötkött talg.",
-            "Oliver, frukt av olivträdet.",
-            "Nötter och frön, t.ex. Mandel, valnöt, jordnötter, hasselnöt, pekannötter, cashew, pistasch, lin/linfrö, pumpafrö, solrosfrö och sesamfrö.",
-            "Pastes/spridningar gjorda av nötter/frön, t.ex. Jordnötssmör, mandelsmör, hasselnötssmör, valnötssmör och tahini som är tillverkad av marksesamfrön.",
-            "Växtoljor härrörande från frön eller frukt av växter (t.ex. olivolja, solrosolja, safflorolja, rapsolja, majsolja och palmolja) eller från baljväxter (t.ex. sojabönolja).",
-            "Margarin, som är en stelnad version av växtoljor och används som smörersättare.",
-            "Mayonnaise, som är en emulsion av olja och äggulor, och andra såser baserat på majonnäs.",
-            "Visste du att avokado är en frukt som mestadels innehåller fett (enomättade lipider)?"
+            "Denna grupp inkluderar ingredienser som används främst för matlagning, samt såser eller pålägg. De möjliggör tillagning av mat och de ger smak och smak åt rätter och måltider. Deras vanliga näringsämne är lipider.",
+            "Oljor inkluderar all ätbar (=kan ätas) olja som kommer från växter (t.ex. olivolja, solrosolja, sojabönolja).",
+            "Fetter inkluderar den fasta formen av lipider, antingen från växter eller djur:a) Växtkällor: pålägg som margarin och majonnäs, alla nötter och frön (t.ex. mandlar, valnötter, jordnötter, sesam) och deras smör/pastor som används i pålägg (t.ex. jordnötssmör, tahini). Även olivolja och avokado.b) Animaliska källor: från rött kött (t.ex. fläskfett, nötkötttalg), från mjölk (smör)."
           ]
         },
         {
           "id": 2,
           "title": "Näringsvärde",
-          "description": "Bekanta med näringsvärdet för fetter och oljor.",
+          "description": "Att bli bekant med näringsvärdet av fetter och oljor.",
           "questions": [
             {
               "id": 1,
@@ -6423,7 +5810,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Kalorier/energi",
+                  "text": "Energi (kalorier)",
                   "correct": true
                 },
                 {
@@ -6504,68 +5891,8 @@
               ]
             },
             {
-              "id": 5,
-              "question": "Vilken är den viktigaste typen av lipider som finns i oliver och olivolja?",
-              "category": {
-                "id": "category-0",
-                "text": "Odefinierad kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Mättad",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Enomättad",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Fleromättad",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Omega-3",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 6,
-              "question": "Vad är den viktigaste typen av lipider som finns i avokado?",
-              "category": {
-                "id": "category-0",
-                "text": "Odefinierad kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Mättad",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Enomättad",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Fleromättad",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Omega-3",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 7,
-              "question": "Vilken är den viktigaste typen av lipider som finns i handflatan och kokosnötsoljor?",
+              "question": "Till skillnad från andra växtoljor innehåller palmolja och kokosolja?",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -6573,22 +5900,22 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Mättad",
+                  "text": "Mest mättade lipider",
                   "correct": true
                 },
                 {
                   "id": 2,
-                  "text": "Enomättad",
+                  "text": "Mer omättade lipider",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Fleromättad",
+                  "text": "Mer lipider totalt",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Omega-3",
+                  "text": "Mer vitaminer",
                   "correct": false
                 }
               ]
@@ -6624,68 +5951,8 @@
               ]
             },
             {
-              "id": 9,
-              "question": "Vilken är olivoljan av bästa kvalitet?",
-              "category": {
-                "id": "category-0",
-                "text": "Odefinierad kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Raffinerad olivolja",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Extra jungfruolja",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Obearbetad olivolja",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Olivolja",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 10,
-              "question": "Vilket av följande finns i olivolja och hjälper till att bekämpa oxidativ stress?",
-              "category": {
-                "id": "category-0",
-                "text": "Odefinierad kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Polyfenol",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Probiotika",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Vitamin C",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Socker",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 11,
-              "question": "Translipider bildas när växtoljor:",
+              "question": "Vad är translipider:",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -6693,17 +5960,17 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Används råa i sallader",
+                  "text": "Lipider som används råa i sallader",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Stelnar eller kokas vid hög temperatur",
+                  "text": "Lipider som stelnas eller kokas vid hög temperatur",
                   "correct": true
                 },
                 {
                   "id": 3,
-                  "text": "Lagras längre än en månad",
+                  "text": "Lipider tgat lagras längre än 1 månad",
                   "correct": false
                 },
                 {
@@ -6723,12 +5990,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Hårda grönsaksfetter",
+                  "text": "Kakor som säljs i snabbköpet",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Bakade/stekt bakverk och snacks",
+                  "text": "Bakade bakverk och snacks",
                   "correct": false
                 },
                 {
@@ -6805,19 +6072,19 @@
             }
           ],
           "messages": [
-            "Fetter och oljor består främst av lipider, som ger energi till kroppen.",
+            "Fetter och oljor består huvudsakligen av lipider, vars huvudroll för kroppen är att lagra energi.",
             "Kvaliteten på lipider skiljer sig emellertid signifikant bland de olika fettarna/oljorna:",
-            "Djurbaserade fetter/oljor, t.ex. Smör, tung grädde och späck/talg, innehåller mestadels mättade lipider, som bör konsumeras till mått för optimal hälsa.",
-            "Växtbaserade fetter/oljor, t.ex. oliv, nötter/frön, växtoljor och avokado, innehåller mestadels omättade (mono- och poly-omättade) lipider, som är fördelaktiga för hjärtat och fartygen. Ett undantag är palm- och kokosnötsoljor, som är mycket rika på mättade lipider och bör undvikas.",
-            "De flesta växtoljor är rika på vitamin E som skyddar kroppens celler från oxidation.",
-            "Bland de olika växtoljorna anses olivolja, särskilt extra jungfruolja, vara ett av de hälsosammaste valen, eftersom den är minimalt bearbetad och innehåller ett brett utbud av andra antioxidanter!",
-            "Visste du att när växtoljor bearbetas för att bli solida eller tillagas vid högtemperaturtranslipider kan bildas? Dessa lipider är mycket skadliga för hälsan och kan hittas i hårda vegetabiliska fetter (t.ex. förkortning och vissa hårda margariner) och olika bearbetade livsmedel, såsom bakade bakverk, salt snacks, färdiga måltider och snabbmat. Matetiketter kan hjälpa dig att identifiera dessa livsmedel: Sök efter ordet \"trans\" i avsnittet om näringsfakta eller frasen \"delvis hydrerad olja\" i listan över ingredienser."
+            "Animaliska fetter, t.ex. smör, grädde och ister/talg, innehåller mest mättade lipider, som bör konsumeras med måtta för optimal hälsa.",
+            "Växtfetter t.ex. oliv, nötter/frön, växtoljor och avokado innehåller mestadels omättade lipider, som är gynnsamma för hjärtat. Ett undantag är palm- och kokosnötsoljor, som är mycket rika på mättade lipider och bör undvikas.",
+            "De flesta vegetabiliska oljor är rika på vitamin E som håller din kropps cellers hälsa.",
+            "Bland de olika växtoljorna anses olivolja, särskilt extra virgin olivolja, vara ett av de hälsosammaste valen, eftersom den inte är bearbetad och innehåller ett brett utbud av hälsosamma komponenter!",
+            "Men var försiktig! När vissa växtoljor förvandlas till fasta fetter eller tillagas vid mycket hög värme, förändras deras struktur, vilket gör dem till de mest ohälsosamma lipiderna av alla. De kallas translipider och kan hittas i bearbetade livsmedel som bakverk, salta mellanmål och snabbmat."
           ]
         },
         {
           "id": 3,
           "title": "Rekommenderat intag",
-          "description": "Bekanta med det rekommenderade intaget av fetter och oljor när det gäller kvantitet och kvalitet.",
+          "description": "Att bekanta sig med det rekommenderade intaget av fetter och oljor vad gäller kvantitet och kvalitet.",
           "questions": [
             {
               "id": 1,
@@ -6829,17 +6096,17 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Endast växtoljor som används vid matlagning",
+                  "text": "Växtoljor som används i matlagning",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Endast smör som används som spridning för bröd",
+                  "text": "Smör används som pålägg till bröd",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Endast nötter/frön som konsumeras som ett mellanmål",
+                  "text": "Nötter/frön konsumeras som mellanmål",
                   "correct": false
                 },
                 {
@@ -6864,24 +6131,24 @@
                 },
                 {
                   "id": 2,
-                  "text": "Tung grädde och majonnäsbaserade såser",
+                  "text": "Majonnäsbaserade såser",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Friska växtoljor som används i matlagning och sallader",
+                  "text": "Växtoljor som används i matlagning och sallader",
                   "correct": true
                 },
                 {
                   "id": 4,
-                  "text": "Vispad grädde i godis",
+                  "text": "Grädde i godis",
                   "correct": false
                 }
               ]
             },
             {
               "id": 3,
-              "question": "Vad är ett bra sätt att undvika att överanvända fetter/oljor i matlagning?",
+              "question": "Vad är ett bra sätt att undvika att använda för mycket fett/oljor i matlagning?",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -6972,14 +6239,14 @@
           ],
           "messages": [
             "Njut av fetter och oljor med mått!",
-            "Tillagda fetter/oljor som används i matlagning och sallader (t.ex. växtoljor, smör), såväl som livsmedel som är rika på lipider (t.ex. nötter/frön, oliver) kan konsumeras varje dag men deras kvantitet är viktig! Alla är mycket rika på kalorier, så måttlighet i deras konsumtion är viktigt för att förhindra överviktökning.",
-            "Kom ihåg: För optimal hälsa, prioritera friska växtoljor (t.ex. olivolja, solrosolja, safflorolja och rapsolja) och nötter/frön framför djurbaserade fetter (t.ex. späck/talg, smör och tung grädde) och försök att undvika bearbetade livsmedel som kan innehålla translipider så mycket som du kan!"
+            "Deras lipidinnehåll gör fetter och oljor, samt produkterna som har dessa som ingredienser, energitäta livsmedel, vilket innebär att de ger mycket energi (kalorier) för en given mängd. Därför rekommenderas måttfullhet i deras kvantitet.",
+            "Men deras kvalitet spelar också roll! Kom ihåg: för optimal hälsa, prioritera hälsosamma växtoljor (t.ex. olivolja, solrosolja, safflorolja) och nötter/frön framför animaliska fetter (t.ex. ister/talg, smör och grädde), och försök undvika processade livsmedel som kan innehålla translipider så mycket du kan!"
           ]
         },
         {
           "id": 4,
           "title": "Konsumtionspraxis",
-          "description": "Bekanta med de bästa metoderna för att hantera och konsumera fetter och oljor.",
+          "description": "Att bli bekant med de bästa metoderna för att hantera och konsumera fetter och oljor.",
           "questions": [
             {
               "id": 1,
@@ -7103,7 +6370,7 @@
             },
             {
               "id": 5,
-              "question": "Vilket av följande är ett bra sätt att integrera nötter och frön i din diet?",
+              "question": "Vilket av följande är ett bra sätt att lägga till nötter och frön i din kost?",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -7163,7 +6430,7 @@
             },
             {
               "id": 7,
-              "question": "Vilket av följande är ett bra sätt att integrera tahini eller mutter i din diet?",
+              "question": "Vilket av följande är ett bra sätt att lägga till nötsmör i din kost?",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -7193,7 +6460,7 @@
             },
             {
               "id": 8,
-              "question": "Vilket av följande är ett bra sätt att integrera avokado i din diet?",
+              "question": "Vilket av följande är ett bra sätt att lägga till avokado i din kost?",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -7283,19 +6550,19 @@
             }
           ],
           "messages": [
-            "Hög temperatur kan få växtoljor att förlora viktiga näringsämnen. I stället för att fritera livsmedel är det bäst att använda små mängder växtoljor i slutet av tillagningen i potten eller i ugnen.",
-            "Samma växtolja bör inte användas flera gånger för matlagning, eftersom upprepad uppvärmning kan orsaka produktion av skadliga ämnen.",
-            "Kom ihåg: olivolja, särskilt extra jungfru, är speciell! Den är rik på antioxidanter och därmed resistenta i värme under tillagningen, vilket innebär att det bevarar de flesta av sina gynnsamma näringsämnen och går inte dåligt.",
+            "Hög temperatur kan göra att växtoljor förlorar viktiga näringsämnen. Istället för att fritera mat är det bäst att använda små mängder växtoljor i slutet av tillagningen.",
+            "Använd inte samma olja om och om igen, för att värma den många gånger kan göra det ohälsosamt.",
+            "Undantag: olivolja, särskilt extra virgin, förstörs inte i värmen under tillagningen och kan användas säkert flera gånger innan den kasseras.",
             "Nötter och frön kan konsumeras som ett lätt att bära mellanmål eller läggas till yoghurt, frukostflingor, hemgjorda desserter och sallader. För ett ännu hälsosammare alternativ, välj råa och osaltade nötter!",
-            "Nutter Butters och Tahini är fulla av friska fetter! Du kan använda dem i yoghurt, som en spridning för bröd eller i hemgjorda desserter (t.ex. kakor eller spannmål) istället för smör eller margarin.",
+            "Nötsmör är fulla av nyttiga fetter! Du kan använda dem i yoghurt, som pålägg till bröd eller i hemgjorda desserter (t.ex. kakor eller flingor) istället för smör eller margarin.",
             "Avokado är läckra! Du kan prova dem i sallader eller mosade som ett dopp eller spridning för rostat bröd.",
-            "Se till att lagra fetter och oljor ordentligt. Smör, margarin och tung grädde måste förvaras i kylen, medan växtoljor kan förvaras i rumstemperatur men på en sval och mörk plats."
+            "Se till att lagra fetter och oljor ordentligt. Smör, margarin och grädde måste förvaras i kylen, medan växtoljor kan förvaras i rumstemperatur men på en sval och mörk plats."
           ]
         },
         {
           "id": 5,
           "title": "Hälsoeffekter",
-          "description": "Bekanta med hälsoeffekterna av fetter och oljor.",
+          "description": "Att bekanta sig med hälsoeffekterna av fetter och oljor.",
           "questions": [
             {
               "id": 1,
@@ -7388,38 +6655,8 @@
               ]
             },
             {
-              "id": 4,
-              "question": "Vilka lipider kan vara skadliga för hälsan när de konsumeras i stora mängder?",
-              "category": {
-                "id": "category-0",
-                "text": "Odefinierad kategori"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Mättad",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Enomättad",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Fleromättad",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Hela tidigare",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 5,
-              "question": "Vilka lipider är mycket skadliga för hjärthälsa?",
+              "question": "Vilka lipider är de ohälsosammaste för ditt hjärta?",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -7427,12 +6664,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Enomättad",
+                  "text": "Omättad",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Omega-3 fleromättad",
+                  "text": "Mättad",
                   "correct": false
                 },
                 {
@@ -7446,14 +6683,43 @@
                   "correct": false
                 }
               ]
+            },
+            {
+              "id": 6,
+              "question": "För optimal hälsa bör du försöka:?",
+              "category": {
+                "id": "category-0",
+                "text": "föredrar växtbaserade fetter framför djurbaserade"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Omättad",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "undvik förpackade snacks",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "använd uppslag med måtta",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Hela tidigare",
+                  "correct": false
+                }
+              ]
             }
           ],
           "messages": [
-            "Fetter och oljor är viktiga för en frisk och stark kropp, så länge de konsumeras med mått!",
-            "Lipider, det huvudsakliga näringsämnet som finns i fetter och oljor, är inte bara viktiga för att tillhandahålla energi till kroppen, utan också för att bygga cellmembran, förbättra absorptionen av fettlösliga vitaminer (dvs. vitaminer A, D, E och K) och stödja regleringen av kroppstemperaturen.",
-            "Tänk på att måttlighet i konsumtion av fetter och oljor är mycket viktigt! Lipider innehåller många kalorier, så överkonsumtiva fetter och oljor kan leda till överskott av viktökning på lång sikt.",
-            "Mättade lipider, som finns i alla djurbaserade fetter och vissa växtoljor (palm och kokosnöt), kan vara skadligt för hälsan om de konsumeras i stora mängder. Så ge en prioritering till hälsosamma växtbaserade fetter/oljor!",
-            "Försök att undvika translipider helt, om möjligt, eftersom de är mycket skadliga för hjärtat och fartygen! Ett enkelt sätt att uppnå detta är att prioritera färska hela livsmedel framför bearbetade industrialiserade."
+            "Fetter och oljor är viktiga för en frisk och stark kropp, men kvalitet betyder något!",
+            "Lipider, det huvudsakliga näringsämnet som finns i fetter och oljor, är viktiga för att ge energi till kroppen, hålla cellerna starka, hjälpa din kropp att använda vissa vitaminer och kontrollera din kroppstemperatur.",
+            "Tänk på att måttfull konsumtion av fetter och oljor är mycket viktigt! Livsmedelsindustrin använder dem flitigt för att göra produkter som är mycket välsmakande, men de är också energitäta och vanligtvis av lågt näringsvärde. Att konsumera dessa produkter ofta kan leda till överviktsökning på lång sikt.",
+            "Försök att undvika translipider, , eftersom de är de ohälsosammaste lipiderna för hjärtat! Ett enkelt sätt att uppnå detta är att äta mer färska hela livsmedel och mindre processade industrialiserade sådana."
           ]
         }
       ]
@@ -7461,12 +6727,12 @@
     {
       "id": 6,
       "title": "Hydration (hyd) frågesport",
-      "description": "Ett frågesportspel som syftar till att öka kunskapen om hälsosamma sätt för adekvat hydrering, betonar vatten och andra drycker genom utbildning/motivation mot deras optimala konsumtion.",
+      "description": "Öka din kunskap om hydrering! Svara på frågorna och lär dig vikten av vatten och dess överlägsenhet gentemot andra drycker för att uppnå adekvat hydrering och främja din allmänna hälsa.",
       "levels": [
         {
           "id": 1,
           "title": "Bekantskap",
-          "description": "Bekanta med hälsosamma hydreringsmedel.",
+          "description": "Att bekanta sig med hälsosamma medel för hydrering.",
           "questions": [
             {
               "id": 1,
@@ -7638,7 +6904,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Vatten med koldioxid",
+                  "text": "Vatten med bubbies`(koldioxid)",
                   "correct": true
                 },
                 {
@@ -7673,7 +6939,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Koffeinhaltigt vatten",
+                  "text": "Vatten med choklad",
                   "correct": false
                 }
               ]
@@ -7801,9 +7067,9 @@
           ],
           "messages": [
             "Välkommen till hydreringsvärlden! För att hålla dig hydratiserad kan du prova ett stort utbud av vätskor:",
-            "Vatten, som är den viktigaste drinken i den mänskliga dieten. Ta bort ditt vatten med frukt, örter eller grönsaker eller prova glittrande/kolsyrat vatten, för roligare!",
+            "Vatten, som är den viktigaste drycken. Smaksätt ditt vatten med frukt, örter eller grönsaker eller prova mousserande/kolsyrat vatten, för mer kul!",
             "Färska fruktjuicer, som apelsinjuice, som produceras genom att pressa eller blanda färsk frukt.",
-            "Mjölk, som är en mejeriprodukt, och jäsade/odlade mjölkprodukter, såsom surmjölk och kefir, som produceras genom tillsats av bakterier eller svampar i mjölk.",
+            "Mjölk, som är en mejeriprodukt, och fermenterade/odlade mjölkprodukter, såsom kefir",
             "Örtinfusioner, som är gjorda av brant och blötläggning av örter, kryddor, blommor eller andra växtmaterial i varmt vatten (t.ex. kamomill, salvia, eukalyptus, pepparmynta).",
             "Undvik drycker som innehåller koffein (t.ex. kaffe, svart te, colas, energidrycker), tillsatt socker (t.ex. fruktnektar, läsk, energidrycker och sportdrycker) eller alkohol (öl, vin, sprit). De är inte bra medel för hydrering och kanske också skadliga för din hälsa."
           ]
@@ -7811,7 +7077,7 @@
         {
           "id": 2,
           "title": "Näringsvärde",
-          "description": "Bekanta med näringsvärdet på vatten och drycker.",
+          "description": "För att bli bekant med näringsvärdet av vatten och drycker.",
           "questions": [
             {
               "id": 1,
@@ -7845,7 +7111,7 @@
             },
             {
               "id": 2,
-              "question": "Vilka av följande drycker innehåller C -vitamin, vilket är viktigt för immunsystemet?",
+              "question": "Vilken av följande drycker innehåller vitamin C, vilket är viktigt för ditt försvarssystem?",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -7905,7 +7171,7 @@
             },
             {
               "id": 4,
-              "question": "Vilka av följande drycker innehåller kalcium, vilket är viktigt för starka ben och tänder?",
+              "question": "Vilken av följande drycker innehåller mineralet kalcium, vilket är viktigt för starka ben och tänder?",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -7935,7 +7201,7 @@
             },
             {
               "id": 5,
-              "question": "Vilka av följande drycker innehåller gynnsamma bakterier?",
+              "question": "Vilken av följande drycker innehåller nyttiga bakterier?",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -7953,7 +7219,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Kefir",
+                  "text": "Surmmjölk",
                   "correct": true
                 },
                 {
@@ -7995,7 +7261,7 @@
             },
             {
               "id": 7,
-              "question": "Vilka av följande drycker innehåller polyfenoler, som har antioxidanteffekter?",
+              "question": "Vilken av följande drycker innehåller fytokemikalier (speciella föreningar som ger växter smak)?",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -8085,7 +7351,7 @@
             },
             {
               "id": 10,
-              "question": "Vilka av följande drycker innehåller etanol?",
+              "question": "Vilken av följande drycker innehåller alkohol?",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -8119,19 +7385,18 @@
             "Vatten är det bästa sättet att hålla sig hydratiserad. Du kan enkelt förstå dess betydelse om du tror att upp till 60-70% av vår kropp faktiskt är vatten! Det innehåller inga kalorier eller vitaminer, utan bara små mängder mineraler, som kalcium och magnesium.",
             "Andra friska drycker innehåller olika viktiga näringsämnen:",
             "Mjölk är rik på kalcium, vilket är viktigt för starka ben och tänder.",
-            "Surmjölk och kefir innehåller goda bakterier som kallas 'probiotika', som hjälper tarmen att fungera ordentligt.",
+            "Surmjölk och kefir innehåller nyttiga bakterier, som hjälper tarmen att fungera korrekt.",
             "Färsk fruktjuicer är packade med viktiga vitaminer (t.ex. C -vitamin); De har emellertid färre dietfibrer jämfört med hela frukter.",
-            "Icke-koffein växtbaserade infusioner innehåller antioxidantföreningar som kallas fytokemikalier.",
             "Men var försiktig! Inte alla drycker är näringsrika.",
-            "Förpackade fruktjuicer, läskedrycker, sportdrycker och energidrycker är ultrafikade och laddade med socker och kemiska tillsatser/konserveringsmedel, som har skadliga effekter på kroppen.",
+            "Förpackade fruktjuicer, läsk, sportdrycker och energidrycker är ultrabearbetade och laddade med socker och tillsatser/konserveringsmedel, som har skadliga effekter på kroppen.",
             "Kaffe, svart te och energidrycker innehåller också massor av koffein, vilket kan orsaka ångest, irritabilitet och sömnproblem.",
-            "Alkoholhaltiga drycker innehåller etanol, vilket är skadligt för din utveckling och allmänna hälsa."
+            "Alkohol skadar din hjärnfunktion, ditt beteende och din övergripande utveckling, så du bör avstå från att dricka alkohol, även sällan."
           ]
         },
         {
           "id": 3,
           "title": "Rekommenderat intag",
-          "description": "Bekanta med det rekommenderade intaget av vatten och drycker.",
+          "description": "Att bekanta sig med det rekommenderade intaget av vatten och drycker.",
           "questions": [
             {
               "id": 1,
@@ -8346,17 +7611,17 @@
           ],
           "messages": [
             "Den rekommenderade dagliga konsumtionen av vatten beror på ålder och kön. Det är:",
-            "1600 ml (~ 6-7 glas) för 4-8-åriga barn,",
-            "1900 ml (~ 7-8 glas) för 9-13-åriga flickor eller 2100 ml (~ 8-9 glas) för 9-13-åriga pojkar,",
-            "2000 ml (~ 8 glas) för ≥14-åriga flickor eller 2500 ml (~ 10 glas) för ≥14-åriga pojkar.",
+            "(6-7 glas) för 4-8-åriga barn,",
+            "(7-8 glas) för 9-13-åriga flickor eller (8-9 glas) för 9-13-åriga pojkar,",
+            "(8 glas) för ≥14-åriga flickor eller (10 glas) för ≥14-åriga pojkar.",
             "Visste du att när temperaturen är hög (särskilt under sommaren), eller om du är fysiskt aktiv, behöver din kropp mer vätskor för att ersätta det förlorade vattnet genom svettning och tung andning? Andra situationer där du behöver fler vätskor är när du har hög feber, diarré och kräkningar.",
-            "Kom ihåg: För optimal utveckling och hälsa försök att helt undvika bearbetade drycker med hög socker (t.ex. fruktnektar, läsk och energidrycker), de som innehåller koffein (t.ex. kaffe och svart te) och alkoholhaltiga drycker!"
+            "Kom ihåg: för optimal utveckling och hälsa försök att helt undvika processade drycker med högt sockerhalt (t.ex. fruktnektar, läsk och energidrycker), de som innehåller koffein (t.ex. kaffe och svart te) och framför allt drycker som innehåller alkohol!"
           ]
         },
         {
           "id": 4,
           "title": "Konsumtionspraxis",
-          "description": "Bekanta med bästa praxis för att hålla sig hydratiserad.",
+          "description": "Att bli bekant med bästa praxis för att hålla sig hydrerad.",
           "questions": [
             {
               "id": 1,
@@ -8608,7 +7873,7 @@
         {
           "id": 5,
           "title": "Hälsoeffekter",
-          "description": "Bekanta med hälsoeffekterna av vatten och drycker och tecknen och konsekvenserna av uttorkning.",
+          "description": "Att bekanta sig med hälsoeffekterna av vatten och drycker, samt tecken och konsekvenser av uttorkning.",
           "questions": [
             {
               "id": 1,
@@ -8630,7 +7895,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Det deltar i många biokemiska reaktioner",
+                  "text": "Det hjälper din kropp att skapa energi och växa",
                   "correct": false
                 },
                 {
@@ -8685,7 +7950,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Hjälper dig att sova bättre",
+                  "text": "Hjälper dig att sova tidigt",
                   "correct": false
                 },
                 {
@@ -8805,12 +8070,12 @@
                 },
                 {
                   "id": 2,
-                  "text": "Trötthet och yrsel",
+                  "text": "Trötthet",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Huvudvärk",
+                  "text": "Huvudvärk eller yrsel",
                   "correct": false
                 },
                 {
@@ -8882,7 +8147,7 @@
             },
             {
               "id": 10,
-              "question": "Konsumtion av alkoholhaltiga drycker är skadlig för:",
+              "question": "Konsumtion av drycker med alkohol är skadligt för:",
               "category": {
                 "id": "category-0",
                 "text": "Odefinierad kategori"
@@ -8914,9 +8179,9 @@
           "messages": [
             "Håll dig hydratiserad, håll dig frisk!",
             "Att dricka tillräckligt med vatten är avgörande för din kropp. Vatten hjälper till att transportera viktiga ämnen till celler genom blod, ta bort avfallsämnen genom urin och stöder många viktiga funktioner i kroppen. Det håller dig också fokuserad och energisk och reglerar din kroppstemperatur.",
-            "Dehydrering, som uppstår när kroppen tappar mer vätskor än den tar in, kan presentera med tecken och symtom som törstighet, yrsel, huvudvärk, trötthet, torr mun, icke-elastisk hud och dålig andedräkt. Visste du att du kan kontrollera din hydratiseringsstatus genom att observera färgen på urinen? Mörkgul urin är ett tecken på uttorkning och att du bör dricka lite vatten.",
+            "Uttorkning, som uppstår när din kropp förlorar mer vätska än den tar in, kan ge tecken och symtom som törst, yrsel, trötthet, trötthet, muntorrhet, icke-elastisk hud och dålig andedräkt. Visste du att du kan kontrollera din vätskebalans genom att observera färgen på din urin? Mörkgul urin är ett tecken på uttorkning och att du bör dricka lite vatten. Sikta på ljusa uriner, som ett ljust kamomillte.",
             "Undvik drycker med koffein, eftersom de kan orsaka överstimulering och störa din sömn.",
-            "Undvik socker sötade drycker, eftersom en hög konsumtion kan öka risken för tandröta och kroniska sjukdomar, såsom fetma och diabetes, på lång sikt.",
+            "Undvik sockersötade drycker, eftersom en hög konsumtion kan öka risken för karies eller fetma på lång sikt.",
             "Det är avgörande att undvika alkoholkonsumtion, eftersom det är skadligt för din lever, ben, mental och allmän hälsa."
           ]
         }

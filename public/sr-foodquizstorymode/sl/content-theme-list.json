@@ -8,7 +8,7 @@
         {
           "id": 1,
           "title": "Znanca",
-          "description": "Seznanjanje s skupinami hrane sadja in zelenjave.",
+          "description": "Seznaniti se s prehranskimi skupinami sadja in zelenjave.",
           "questions": [
             {
               "id": 1,
@@ -132,7 +132,7 @@
             },
             {
               "id": 5,
-              "question": "Katera od naslednjih je zelenjava?",
+              "question": "Kaj od naštetega je s prehranskega vidika zelenjava?",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -254,17 +254,18 @@
           "messages": [
             "Dobrodošli v svetu sadja in zelenjave!",
             "Sadna skupina vključuje vse sveže sadje (npr. Oranžno, jabolko, hruško, banano, breskev) in suho sadje (npr. Slive, rozine, marelice), pa tudi sveže stisnjene sadne sokove (tj. 100% sadni sok brez dodanih sladkorjev). Ne pozabite: pakirani sadje sokovi z dodanim sladkorjem, brezalkoholnimi pijačami in drugimi predelanimi sadnimi pijačami niso vključeni v skupino hrane.",
-            "Zelenjavna skupina vključuje vso surovo zelenjavo (npr. Solata, zelje, korenček, paradižnik, kumara) in kuhano zelenjavo (npr. Brokoli, cvetača, bučke, pesa). Ne pozabite: Škrobna zelenjava, to je koruza, grah in buče, je vključena tudi v skupino za zelenjavno hrano, vendar je bogata s škrobom, zapletenim ogljikovim hidratom, ki ni v drugi zelenjavi."
+            "Zelenjavna skupina vključuje vso surovo zelenjavo (npr. Solata, zelje, korenček, paradižnik, kumara) in kuhano zelenjavo (npr. Brokoli, cvetača, bučke, pesa). Ne pozabite: Škrobna zelenjava, to je koruza, grah in buče, je vključena tudi v skupino za zelenjavno hrano, vendar je bogata s škrobom, zapletenim ogljikovim hidratom, ki ni v drugi zelenjavi.",
+            "Obstajajo različne vrste zelenjave, kot so zelena listnata (npr. špinača), korenasta (npr. korenček) ali križnice (npr. brokoli, cvetača). V skupino zelenjavnih živil sodi tudi škrobna zelenjava, torej koruza, grah in buče, ki pa so bogate s škrobom, vrsto ogljikovih hidratov, ki je v drugi zelenjavi ni."
           ]
         },
         {
           "id": 2,
           "title": "Prehranska vrednost",
-          "description": "Seznanjanje s prehransko vrednostjo sadja in zelenjave.",
+          "description": "Seznaniti se s hranilno vrednostjo sadja in zelenjave.",
           "questions": [
             {
               "id": 1,
-              "question": "Iz katerega je sestavljena glavna hranila in zelenjava?",
+              "question": "Katere glavne hranilne snovi sestavljajo sadje?",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -282,7 +283,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Vlakna",
+                  "text": "Lipidi",
                   "correct": false
                 },
                 {
@@ -536,14 +537,14 @@
           "messages": [
             "Sadje in zelenjava so zelo dober vir širokega paleta pomembnih hranil!",
             "V glavnem so sestavljeni iz ogljikovih hidratov, ki so večinoma prisotni v obliki sladkorjev in telesu zagotavljajo energijo.",
-            "Vključujejo tudi vitamine (npr. Vitamin C, vitamin K, folna kislina), minerale (npr. Kalij, kalcij), vlakna in tudi druge spojine (npr. Fitokemikalije), pomembne za optimalno delovanje telesa.",
+            "Vsebujejo tudi vitamine (npr. vitamin C, vitamin K, folno kislino), minerale (npr. kalij, kalcij), vlaknine in tudi druge spojine, pomembne za optimalno delovanje telesa.",
             "Čeprav so trdna hrana, vsebujejo veliko vode in lahko prispevajo tudi k hidraciji telesa."
           ]
         },
         {
           "id": 3,
           "title": "Priporočen vnos",
-          "description": "Poznavanje priporočenega vnosa in velikosti sadja in zelenjave.",
+          "description": "Seznaniti se s priporočenim vnosom in velikostjo porcij sadja in zelenjave.",
           "questions": [
             {
               "id": 1,
@@ -765,7 +766,7 @@
         {
           "id": 4,
           "title": "Prakse porabe",
-          "description": "Seznanjanje z najboljšimi praksami za ravnanje in uživanje sadja in zelenjave.",
+          "description": "Seznaniti se z najboljšimi praksami ravnanja in uživanja sadja in zelenjave.",
           "questions": [
             {
               "id": 1,
@@ -937,7 +938,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Z manj pesticidov",
+                  "text": "Z manj pesticidi (kemikalije, ki se uporabljajo na kmetiji za zaščito rastlin)",
                   "correct": true
                 },
                 {
@@ -988,7 +989,7 @@
         {
           "id": 5,
           "title": "Učinki na zdravje",
-          "description": "Seznanjanje z zdravstvenimi koristmi sadja in zelenjave.",
+          "description": "Seznaniti se s koristmi sadja in zelenjave za zdravje.",
           "questions": [
             {
               "id": 1,
@@ -1060,7 +1061,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Povečajo vaš imunski sistem",
+                  "text": "Krepijo obrambni sistem vašega telesa",
                   "correct": true
                 },
                 {
@@ -1114,13 +1115,13 @@
           "messages": [
             "Pojdite zdravo z več sadjem in zelenjavo!",
             "Sadje in zelenjava so ključna sestavina zdrave prehrane.",
-            "Med svojimi številnimi zdravstvenimi koristmi podpirajo optimalno rast in razvoj, izboljšujejo imunski sistem in pomagajo srčno -žilnemu sistemu in pravilno delujejo prebavila."
+            "Med številnimi koristmi za zdravje podpirajo optimalno rast in razvoj, krepijo naš obrambni sistem ter pomagajo srcu in črevesju pravilno delovati."
           ]
         },
         {
           "id": 6,
           "title": "Raznolikost in sezonskost",
-          "description": "Poznavanje konceptov raznolikosti in sezonskosti sadja in zelenjave.",
+          "description": "Seznaniti se s pojmi pestrost in sezonskost sadja in zelenjave.",
           "questions": [
             {
               "id": 1,
@@ -1154,7 +1155,7 @@
             },
             {
               "id": 2,
-              "question": "Barva sadja in zelenjave označuje njihovo vsebino v:",
+              "question": "Katere od spodnjih spojin dajejo sadju in zelenjavi posebno barvo?:",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -1162,7 +1163,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Fitokemikalije",
+                  "text": "Posebne spojine, imenovane fitokemikalije",
                   "correct": true
                 },
                 {
@@ -1344,7 +1345,7 @@
     {
       "id": 2,
       "title": "Kviz mlečnih izdelkov (DP)",
-      "description": "Kviz, ki želi povečati znanje o skupini za mlečno hrano in motivirati optimalno porabo z razumevanjem vrst, prehrane, praks, varnosti in zdravstvenih koristi.",
+      "description": "Za izboljšanje znanja o mlečnih izdelkih!. Odgovorite na vprašanja in spoznajte, kaj s prehranskega vidika šteje med mlečne izdelke, njihovo hranilno vrednost, koliko jih je priporočljivo zaužiti in praktične nasvete za zadovoljevanje dnevnih potreb in varno ravnanje z njimi.",
       "levels": [
         {
           "id": 1,
@@ -1353,7 +1354,7 @@
           "questions": [
             {
               "id": 1,
-              "question": "Katera od naslednjih je mlečna hrana?",
+              "question": "Kaj od naslednjega je mlečni izdelek?",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -1383,7 +1384,7 @@
             },
             {
               "id": 2,
-              "question": "Katera od naslednjih je mlečna hrana?",
+              "question": "Kaj od naslednjega je mlečni izdelek?",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -1413,7 +1414,7 @@
             },
             {
               "id": 3,
-              "question": "Katera od naslednjih je mlečna hrana?",
+              "question": "Kaj od naštetega je s prehranskega vidika mlečni izdelek?",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -1431,7 +1432,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Kefir.",
+                  "text": "Sir.",
                   "correct": true
                 },
                 {
@@ -1443,7 +1444,7 @@
             },
             {
               "id": 4,
-              "question": "Kaj od naslednjega ne spada v skupino za mlekarne?",
+              "question": "Kaj od naštetega s prehranskega vidika ni mlečni izdelek?",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -1473,7 +1474,7 @@
             },
             {
               "id": 5,
-              "question": "Katera sestavina ima skupno vse mlečno hrano?",
+              "question": "Katera sestavina je skupna vsem mlečnim izdelkom?",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -1503,7 +1504,7 @@
             },
             {
               "id": 6,
-              "question": "Kateri od naslednjih je fermentirani mlečni izdelek?",
+              "question": "Kateri od naslednjih mlečnih izdelkov vsebuje koristne klice?",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -1533,15 +1534,15 @@
             }
           ],
           "messages": [
-            "Dobrodošli v svetu mleka!",
-            "Skupina za mlekarne vključuje hrano iz mleka - kot je mleko, navaden jogurt in sir. Ne pozabite: izdelki, kot je jogurt z veliko dodanega sladkorja, masla in rastlinskih ali čokoladnih mlekov, ne štejejo kot del skupine za mlečno hrano.",
-            "Različni mlečni izdelki imajo različne okuse in teksture, vendar vključujejo podobna hranila, pomembna za vašo rast in zdravje."
+            "Dobrodošli v svetu mlečnih izdelkov!",
+            "S prehranskega vidika skupina živil mlečnih izdelkov vključuje živila iz mleka, ki prav tako vsebujejo podobne količine nekaterih hranil, kot so beljakovine in kalcij. Tako mleko, navadni jogurt in sir spadajo v to skupino, medtem ko maslo, čeprav izvira iz mleka, spada v skupino maščob in olj.",
+            "Ne pozabite, da so jogurtove sladice videti kot jogurt, vendar vsebujejo dodan sladkor in konzervanse, zato so bolj podobne sladici."
           ]
         },
         {
           "id": 2,
           "title": "Prehranska vrednost",
-          "description": "Seznanjanje s prehransko vrednostjo mleka.",
+          "description": "Seznaniti se s hranilno vrednostjo mlečnih izdelkov.",
           "questions": [
             {
               "id": 1,
@@ -1553,7 +1554,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Maščoba.",
+                  "text": "Lipidi.",
                   "correct": false
                 },
                 {
@@ -1563,7 +1564,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Sladkor.",
+                  "text": "Sladkorji.",
                   "correct": false
                 },
                 {
@@ -1604,36 +1605,6 @@
               ]
             },
             {
-              "id": 3,
-              "question": "Kako se imenuje naravni sladkor v mleku?",
-              "category": {
-                "id": "category-0",
-                "text": "Nedefinirana kategorija"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Saharoza.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Fruktoza.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Glukoza.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Laktoza.",
-                  "correct": true
-                }
-              ]
-            },
-            {
               "id": 4,
               "question": "Kateri od naslednjih izdelkov pogosto vključuje dodane sladkorje?",
               "category": {
@@ -1665,7 +1636,7 @@
             },
             {
               "id": 5,
-              "question": "Celotna in posneta mlelka se razlikujejo po svojih:",
+              "question": "Polnomastno in posneto mleko se razlikujeta po:",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -1683,7 +1654,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Vsebnost maščob.",
+                  "text": "Vsebnost lipidov.",
                   "correct": true
                 },
                 {
@@ -1695,7 +1666,7 @@
             },
             {
               "id": 6,
-              "question": "Kaj pomenijo mlečni izdelki z nizko vsebnostjo maščob ali z zmanjšano maščobami?",
+              "question": "Kaj pomenijo mlečni izdelki z nizko vsebnostjo maščob?",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -1703,7 +1674,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Nižja vsebnost maščob.",
+                  "text": "Manj lipidov.",
                   "correct": true
                 },
                 {
@@ -1725,7 +1696,7 @@
             },
             {
               "id": 7,
-              "question": "Kaj maščoba, ki jo najdemo v mlečnih izdelkih, pomaga telesu?",
+              "question": "Kaj lipidi v mlečnih izdelkih pomagajo vašemu telesu?",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -1814,66 +1785,6 @@
               ]
             },
             {
-              "id": 10,
-              "question": "Kateri vitamin pomaga telesu, da bolje absorbira kalcij?",
-              "category": {
-                "id": "category-0",
-                "text": "Nedefinirana kategorija"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Vitamin D.",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Vitamin B12.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Vitamin A.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Vitamin E.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 11,
-              "question": "Kateri mikrohranil v mlečnih izdelkih pomaga vašemu srcu in mišicah pravilno?",
-              "category": {
-                "id": "category-0",
-                "text": "Nedefinirana kategorija"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Vitamin D.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Kalij.",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Cink.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Vitamin K.",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 12,
               "question": "Katere od naslednjih hranil običajno ne najdemo v mlečnih in mlečnih izdelkih?",
               "category": {
@@ -1888,7 +1799,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Natrij.",
+                  "text": "Beljakovine.",
                   "correct": false
                 },
                 {
@@ -1904,38 +1815,8 @@
               ]
             },
             {
-              "id": 13,
-              "question": "Kaj od naslednjega vsebuje zanemarljive količine laktoze?",
-              "category": {
-                "id": "category-0",
-                "text": "Nedefinirana kategorija"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Mleko.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Jogurt.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Feta sir.",
-                  "correct": true
-                },
-                {
-                  "id": 4,
-                  "text": "Sir gouda.",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 14,
-              "question": "Katera vrsta sira je najbogatejša v kalciju?",
+              "question": "Kaj od naslednjega velja za kalcij v siru?",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -1943,22 +1824,22 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Parmezan.",
+                  "text": "Bolj ko je sir rumen, več kalcija vsebuje.",
                   "correct": true
                 },
                 {
                   "id": 2,
-                  "text": "Koča.",
+                  "text": "Bolj kot je sir bel, več kalcija vsebuje.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Mocarela.",
+                  "text": "Sir ne vsebuje kalcija.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Kremni sir.",
+                  "text": "Vse vrste sira vsebujejo enako količino kalcija.",
                   "correct": false
                 }
               ]
@@ -1983,28 +1864,28 @@
                 },
                 {
                   "id": 3,
-                  "text": "Je bil utrjen z/nekaj hranil.",
+                  "text": "Ima dodana dodatna hranila.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Vsebuje koristno za naše zdravstvene mikroorganizme.",
+                  "text": "Vsebuje koristne klice za naše zdravje.",
                   "correct": true
                 }
               ]
             }
           ],
           "messages": [
-            "Mlečni in mlečni proizvodi zagotavljajo kakovostne beljakovine, kar pomeni, da vsebujejo vse bistvene aminokisline, ki jih telo potrebuje za gradnjo in ohranjanje celic, organov in tkiv. Prav tako so med najbogatejšimi viri kalcija v prehrani.",
-            "Mlečni izdelki vsebujejo tudi pomembne vitamine, kot so vitamin D, B12 in riboflavin, pa tudi minerale, kot sta fosfor in kalij, ki prispevajo k splošnemu zdravju.",
-            "Številni mlečni izdelki vključujejo laktozo, naravni sladkor v mleku, ki zagotavlja energijo. Nekateri morda ne prenašajo laktoze in bi morali izbrati mleko in jogurt brez laktoze ali trde sire, ki vsebujejo zanemarljive količine laktoze.",
-            "Fermentirana hrana se proizvaja s postopkom, imenovanim fermentacija, kjer mikroorganizmi, kot sta kvas in bakterije, razgradijo komponente hrane in jih pretvorijo v nove snovi."
+            "Mlečni izdelki zagotavljajo visokokakovostne beljakovine, ki med številnimi vlogami pomagajo graditi in obnavljati mišice.",
+            "So tudi med najbogatejšimi viri kalcija v prehrani, potrebnega za kosti in zobe.",
+            "Mlečni izdelki vsebujejo tudi druga pomembna mikrohranila, vitamine, kot so vitamin D, B12 in B2, ter minerale, kot sta fosfor in kalij, ki prispevajo k splošnemu zdravju.",
+            "Nekateri mlečni izdelki, kot je jogurt, so proizvedeni z dodatkom nekaterih vrst kalčkov v mleko, ki proizvajajo koristne spojine, zdrave za vaše črevesje. Ti izdelki se imenujejo fermentirani."
           ]
         },
         {
           "id": 3,
           "title": "Priporočena poraba in velikosti porcij",
-          "description": "Seznanjanje s priporočenim vnosom in velikostjo porcije mlečnih izdelkov.",
+          "description": "Seznaniti se s priporočenim vnosom in velikostjo porcije mlečnih izdelkov.",
           "questions": [
             {
               "id": 1,
@@ -2051,7 +1932,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "1 lonec (150 g) jogurta.",
+                  "text": "1 skodelica (200 g) jogurta.",
                   "correct": false
                 },
                 {
@@ -2106,7 +1987,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "lonec (150 g) jogurta.",
+                  "text": "skodelico jogurta.",
                   "correct": false
                 },
                 {
@@ -2116,42 +1997,12 @@
                 },
                 {
                   "id": 3,
-                  "text": "1/2 skodelice sira rikote.",
+                  "text": "1 skodelica skute.",
                   "correct": false
                 },
                 {
                   "id": 4,
                   "text": "Katero koli od prejšnjih.",
-                  "correct": true
-                }
-              ]
-            },
-            {
-              "id": 5,
-              "question": "Katera vrsta mleka vsebuje nižje maščobe?",
-              "category": {
-                "id": "category-0",
-                "text": "Nedefinirana kategorija"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Polnomastno mleko.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Aromatizirano mleko.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Čokoladno mleko.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Posneto mleko.",
                   "correct": true
                 }
               ]
@@ -2181,7 +2032,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Izhlapeno mleko.",
+                  "text": "Kondenzirano mleko.",
                   "correct": false
                 }
               ]
@@ -2212,36 +2063,6 @@
                 {
                   "id": 4,
                   "text": "Cena.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 8,
-              "question": "Kakšno mleko je najboljše za otroke z laktozno intoleranco?",
-              "category": {
-                "id": "category-0",
-                "text": "Nedefinirana kategorija"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Čokoladno mleko.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Mleko brez laktoze.",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Posneto mleko.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Zanje ni mleka.",
                   "correct": false
                 }
               ]
@@ -2278,7 +2099,7 @@
             },
             {
               "id": 10,
-              "question": "V kateri starosti lahko otroci začnejo piti mleko z nizko vsebnostjo maščob?",
+              "question": "Pri kateri starosti bi lahko otroci začeli piti mleko z nizko vsebnostjo maščob?",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -2308,16 +2129,17 @@
             }
           ],
           "messages": [
-            "Vsak dan bi morali vsak dan uživati mlečne in mlečne izdelke kot del uravnotežene prehrane, ki si prizadevajo za 3–4 obroke mleka. Ena porcija je lahko 1 skodelica mleka, 1 lonec jogurta ali 1 rezina (30 gramov) sira.",
-            "Če ne pijete mleka, lahko še vedno dobite večino njegovih hranil iz hrane, kot sta sir ali jogurt, in v primeru laktozne intolerance je mleko brez laktoze odlična možnost.",
+            "Mleko in mlečne izdelke morate zaužiti vsak dan kot del uravnotežene prehrane, pri čemer si prizadevajte za 3–4 porcije mlečnih izdelkov vsak dan. Ena porcija je lahko 1 skodelica mleka, 1 skodelica jogurta ali 1 rezina (30 gramov) sira.",
+            "Če ne pijete mleka, lahko še vedno dobite večino njegovih hranil iz hrane, kot sta sir ali jogurt.",
             "Pametno je tudi preveriti nalepke jogurta za dodaten sladkor, da se odločite za bolj zdravo izbiro.",
-            "Za otroke, starejše od 2 let, so tako maščoba kot pol maščob (z nizko vsebnostjo maščob) mleko in jogurti primerna izbira, odvisno od potreb po energiji in splošnega zdravja."
+            "Za otroke, starejše od 2 let, so primerna izbira tako polnomastno kot (manj mastno) mleko in jogurti, odvisno od potreb po energiji in splošnega zdravja.",
+            "Upoštevajte, da imajo nekateri ljudje veliko prebavnih težav pri pitju mleka. Za njih je na trgu vrsta mleka, imenovana \"brez laktoze\"."
           ]
         },
         {
           "id": 4,
           "title": "Prakse porabe",
-          "description": "Poznavanje najboljših praks za vključevanje mlečne hrane v obroke, prigrizke in recepte.",
+          "description": "Seznaniti se z najboljšimi praksami za vključitev mlečnih izdelkov v obroke, prigrizke in recepte.",
           "questions": [
             {
               "id": 1,
@@ -2351,7 +2173,7 @@
             },
             {
               "id": 2,
-              "question": "Kakšna je dobra izbira, da dodate mlekarne v svojo kosilo?",
+              "question": "Kaj je dobra izbira za dodajanje mlečnih izdelkov v škatlo za malico?",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -2364,7 +2186,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Pločevinka sode.",
+                  "text": "Pločevinka brezalkoholne pijače.",
                   "correct": false
                 },
                 {
@@ -2399,7 +2221,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Čipi in soda.",
+                  "text": "Čips in brezalkoholne pijače.",
                   "correct": false
                 },
                 {
@@ -2464,14 +2286,14 @@
                 },
                 {
                   "id": 4,
-                  "text": "Navaden grški jogurt.",
+                  "text": "Navaden jogurt.",
                   "correct": true
                 }
               ]
             },
             {
               "id": 6,
-              "question": "Kaj je preliv za sadno solato za dodajanje kalcija in beljakovin?",
+              "question": "Kakšen je zdrav preliv za sadno solato za dodajanje kalcija in beljakovin?",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -2489,7 +2311,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Bič.",
+                  "text": "Stepena smetana.",
                   "correct": false
                 },
                 {
@@ -2519,7 +2341,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "V sadove dodajte kremo.",
+                  "text": "Sadju dodajte stepeno smetano.",
                   "correct": false
                 },
                 {
@@ -2539,7 +2361,7 @@
         {
           "id": 5,
           "title": "Prakse ravnanja in shranjevanja",
-          "description": "Poznavanje z varno skladiščenjem, preprečevanjem in kontaminacijo ter razumevanjem datumov izteka in znakov pokvarjenosti mlečne hrane.",
+          "description": "Seznaniti se z varnim shranjevanjem, preprečevanjem in kontaminacijo ter razumeti rok uporabnosti in znake kvarjenja mlečnih živil.",
           "questions": [
             {
               "id": 1,
@@ -2603,7 +2425,7 @@
             },
             {
               "id": 3,
-              "question": "Datum izteka ali najboljši po datumu glej datum mlečnega izdelka:",
+              "question": "„Rok uporabnosti“ se nanaša na datum, ko je mlečni izdelek:",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -2664,14 +2486,14 @@
           ],
           "messages": [
             "Da bi mlečni izdelki varni in sveži, jih je treba vedno hraniti v hladilniku vsaj v 40 ° F (4 ° C). Nizke temperature preprečujejo rasti škodljivih bakterij, kar vas lahko zboli.",
-            "Na etiketi vedno preverite datum »izteka« ali »Najboljše do«. To vam pove zadnji datum, da izdelek uporabite za najboljšo kakovost in varnost.",
-            "Če želite preveriti, ali je mlečni izdelek še dober, ga zavohate, preverite teksturo in preberite datum. Če diši kislo, je videti čudno ali je mimo njegovega zmenka, je najbolje, da ga ne jeste ali pijejo."
+            "Vedno preverite rok uporabnosti na etiketi. To vam pove zadnji datum uporabe izdelka za najboljšo kakovost in varnost.",
+            "Če želite preveriti, ali je mlečni izdelek še dober, ga povonjajte, preverite teksturo in preberite datum. Če diši kislo, je videti nenavadno ali mu je potekel rok, je najbolje, da ga ne jeste ali pijete."
           ]
         },
         {
           "id": 6,
           "title": "Učinki na zdravje",
-          "description": "Poznavanje zdravstvenih koristi mlečnih izdelkov.",
+          "description": "Seznaniti se s koristmi mlečnih izdelkov za zdravje.",
           "questions": [
             {
               "id": 1,
@@ -2764,36 +2586,6 @@
               ]
             },
             {
-              "id": 4,
-              "question": "Prednostno snemanje v primerjavi s polnomastnim mlekom ali jogurtom prispeva k:",
-              "category": {
-                "id": "category-0",
-                "text": "Nedefinirana kategorija"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Nižji vnos nasičenih maščob.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Normalna raven lipidov v krvi.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Manj vnosa energije.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Vse prejšnje.",
-                  "correct": true
-                }
-              ]
-            },
-            {
               "id": 5,
               "question": "Fermentirani mlečni izdelki, kot sta navaden jogurt in kefir:",
               "category": {
@@ -2808,7 +2600,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Pomagajte imunskemu sistemu.",
+                  "text": "Imejte več koristnih klic.",
                   "correct": false
                 },
                 {
@@ -2826,9 +2618,9 @@
           ],
           "messages": [
             "Mlečni izdelki so pomembni, ker pomagajo telesu, da močno raste in ostanejo zdravi.",
-            "Kalcij v mlekarnah gradi močne kosti in zobe, beljakovine pa podpirajo razvoj in rast mišic.",
-            "Strokovnjaki priporočajo mlečno hrano ne le za odraščanje močne, ampak tudi zato, ker pomagajo preprečevanju bolezni, kot je osteoporoza, pozneje v življenju.",
-            "Izbira mlečnih izdelkov z nizko vsebnostjo maščob ali fermentiranja vas lahko zaščiti pred različnimi zdravstvenimi težavami."
+            "Kalcij v mlečnih izdelkih gradi močne kosti in zobe, medtem ko beljakovine podpirajo razvoj in rast mišic.",
+            "Strokovnjaki mlečnih izdelkov priporočajo ne le za odraščanje močnih, ampak tudi zato, ker pomagajo pri preprečevanju bolezni, kot so šibki bomi, ko pozneje v življenju.",
+            "Izbira manj mastnih ali fermentiranih mlečnih izdelkov vas lahko zaščiti pred različnimi zdravstvenimi težavami."
           ]
         }
       ]
@@ -2836,12 +2628,12 @@
     {
       "id": 3,
       "title": "Kviz zrn in zrn (G & GP)",
-      "description": "Kviz igra za povečanje znanja o žitnih zrnih in spodbujanje optimalnih vzorcev porabe, vključno z vrstami hrane, prehransko vrednostjo in učinki na zdravje.",
+      "description": "Povečajte svoje znanje o žitih in žitnih izdelkih! Odgovorite na vprašanja in spoznajte, katera živila so vključena, njihovo hranilno vrednost, priporočila za uživanje in izbiro njihovih bolj zdravih oblik.",
       "levels": [
         {
           "id": 1,
           "title": "Znanca",
-          "description": "Seznanjanje s skupino živil.",
+          "description": "Seznaniti se s prehransko skupino žit.",
           "questions": [
             {
               "id": 1,
@@ -3038,7 +2830,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Bageli.",
+                  "text": "Beli kruh.",
                   "correct": false
                 },
                 {
@@ -3073,7 +2865,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Tahini (sezamova pasta).",
+                  "text": "Arašidovo maslo.",
                   "correct": false
                 },
                 {
@@ -3085,16 +2877,15 @@
             }
           ],
           "messages": [
-            "Dobrodošli v svetu žitnih zrn!",
-            "Skupina žitnih zrn vključuje vso hrano iz pšenice, riža, oves, ječmena itd. Ta zrna se pogosto uporabljajo za izdelavo izdelkov, kot so kruh, testenine, žitarice za zajtrk, tortilje in krekerji.",
-            "Obstajajo tudi druga manj znana zrna, imenovana psevdo zrn, kot so proso, sirk, amarant, ajda, kvinoja, teff, ki so tudi veliko dragocenih hranil.",
-            "Zrna so bistveni del uravnotežene prehrane in so na voljo v številnih oblikah - od polnozrnatih do rafiniranih. Spoznavanje zrn vam pomaga pri bolj zdravi odločitvi!"
+            "Dobrodošli v svetu žit in žitnih izdelkov! Skupina vključuje izdelke iz rastlin, kot so pšenica, riž, oves, ječmen itd. Ta zrna se pogosto uporabljajo za izdelavo izdelkov, kot so kruh, testenine, kosmiči za zajtrk, tortilje in krekerji.",
+            "Obstajajo tudi druga manj znana žita, kot so proso, ajda in kvinoja, ki veljajo za zelo zdrava.",
+            "Žita so bistveni del uravnotežene prehrane in so na voljo v številnih oblikah, ki se razlikujejo po hranilni vrednosti. Spoznavanje žitaric vam pomaga pri bolj zdravi izbiri!!"
           ]
         },
         {
           "id": 2,
           "title": "Prehranska vrednost",
-          "description": "Seznanjanje s prehransko vrednostjo zrn.",
+          "description": "Seznaniti se s hranilno vrednostjo žit.",
           "questions": [
             {
               "id": 1,
@@ -3116,7 +2907,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Maščobe.",
+                  "text": "Lipidi.",
                   "correct": false
                 },
                 {
@@ -3158,7 +2949,7 @@
             },
             {
               "id": 3,
-              "question": "Katera od naslednjih ni del polnozrnatega zrnja:",
+              "question": "Kaj od naslednjega je del polnozrnatega žita:",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -3171,17 +2962,47 @@
                 },
                 {
                   "id": 2,
-                  "text": "Zarod.",
+                  "text": "Listi.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Endosperm.",
+                  "text": "Roža.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Bran.",
+                  "text": "(Zunanji del semena (imenovan otrobi).",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Kaj pomeni izraz rafinirano za žita?",
+              "category": {
+                "id": "category-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "So drage.",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Odstranjenih imajo nekaj delov celega zrna.",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "So barvni.",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Rastejo v tropskih okoljih.",
                   "correct": false
                 }
               ]
@@ -3236,12 +3057,12 @@
                 },
                 {
                   "id": 3,
-                  "text": "Natrij.",
+                  "text": "Sol.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Nasičene maščobe.",
+                  "text": "Nasičene lipide.",
                   "correct": false
                 }
               ]
@@ -3277,38 +3098,8 @@
               ]
             },
             {
-              "id": 7,
-              "question": "Kateri del žita zagotavlja največ vlaknin?",
-              "category": {
-                "id": "category-0",
-                "text": "Nedefinirana kategorija"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Endosperm.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Bran.",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Listi.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Kal.",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 8,
-              "question": "Izraz obogatena zrna pomeni, da v teh zrnih:",
+              "question": "Izraz „obogatena zrna“ pomeni, da v teh zrnih:",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -3316,7 +3107,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Dodani so vitamini B.",
+                  "text": "Vitamini, ki so bili odstranjeni s prečiščevanjem, so bili dodani nazaj.",
                   "correct": true
                 },
                 {
@@ -3326,7 +3117,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Maščobe so bile odstranjene.",
+                  "text": "lipidi so bili odstranjeni.",
                   "correct": false
                 },
                 {
@@ -3368,16 +3159,13 @@
             }
           ],
           "messages": [
-            "Živila, izdelana iz pšenice, riža, oves, koruzne moke, ječmena ali drugega žitnega žita, so izdelki za žito.",
-            "Zrna imata dve podskupini: polnozrnata zrna in rafinirana zrna.",
-            "Zrna, zlasti polnozrnata žita, so pomembna vira številnih hranil, vključno s kompleksnimi ogljikovimi hidrati, vlakninami in vitamini B. Vsebujejo tudi esencialne minerale, kot so železo, magnezij in selen.",
-            "Polnozrnata žita ohranijo otrobi in zarod, ki zagotavljajo vlakna in hranila, za razliko od rafiniranih zrn, ki med obdelavo izgubijo veliko. Celotna zrna vsebujejo več vlaknin kot rafinirana zrna in so pomembna za pravilno delovanje črevesja."
+            "Zrna so lahko polnozrnata ali rafinirana. Razlikujejo se po delih, ki jih vsebujejo. Polnozrnata žita imajo izvorno zrno nedotaknjeno (cela), rafinirana pa so po predelavi (rafinaciji) izgubila nekaj delov. Medtem ko oba zagotavljata ogljikove hidrate, polnozrnata žita vsebujejo tudi vlaknine, vitamine in minerale, ki so bili izgubljeni z rafiniranjem."
           ]
         },
         {
           "id": 3,
           "title": "Priporočen vnos",
-          "description": "Seznanjanje s priporočenim vnosom in velikostjo zrn.",
+          "description": "Seznaniti se s priporočenim vnosom in velikostjo porcije žitaric.",
           "questions": [
             {
               "id": 1,
@@ -3531,7 +3319,7 @@
             },
             {
               "id": 6,
-              "question": "Kaj od naštetega ni en del polnozrnatih žit?",
+              "question": "Kaj od naslednjega ni ena porcija celih zrn?",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -3629,7 +3417,7 @@
         {
           "id": 4,
           "title": "Prakse porabe",
-          "description": "Seznanjanje z najboljšimi praksami za pripravo in uživanje zrn.",
+          "description": "Seznaniti se z najboljšimi praksami priprave in uživanja žit.",
           "questions": [
             {
               "id": 1,
@@ -3681,7 +3469,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Kuhano, pečeno ali surovo.",
+                  "text": "Kuhano.",
                   "correct": true
                 },
                 {
@@ -3701,7 +3489,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Skledica polnovrednih verenjakov z mlekom.",
+                  "text": "Skleda polnozrnatih kosmičev z mlekom.",
                   "correct": true
                 },
                 {
@@ -3723,7 +3511,7 @@
             },
             {
               "id": 4,
-              "question": "Katera od naslednjih je dobra izbira za vaše kosilo?",
+              "question": "Katera od naslednjih žit je dobra izbira za vaš glavni obrok pri kosilu?",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -3771,7 +3559,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Tortilje polnozrnate pšenice.",
+                  "text": "Polnozrnate grisine.",
                   "correct": true
                 },
                 {
@@ -3796,12 +3584,12 @@
                 },
                 {
                   "id": 2,
-                  "text": "Palačinke polnozrnate pšenice z medom.",
+                  "text": "Polnozrnate palačinke z medom.",
                   "correct": true
                 },
                 {
                   "id": 3,
-                  "text": "Krof s pralino.",
+                  "text": "Torta s pralinami.",
                   "correct": false
                 },
                 {
@@ -3821,17 +3609,17 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Več vlaknin.",
+                  "text": "Več vlaken.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Več magnezija.",
+                  "text": "Več mineralov.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Več vitaminov B.",
+                  "text": "Več vitaminov.",
                   "correct": false
                 },
                 {
@@ -3874,15 +3662,14 @@
           ],
           "messages": [
             "Obstaja toliko načinov, kako v svojo prehrano vključiti zrna!",
-            "Čez dan uživajte žitne izdelke kot prigrizke (izberite toast s polnozrnatim kruhom in sirom ali krekerji z jajcem za zdravo prigrizek v šoli), jih uporabite za izdelavo hranljivih sladic (npr. Domače torte in piškote) ali jih dodajte v svoje obroke.",
-            "Dajte prednost polnozrnatim zrni (namesto rafinirane), da izkoristijo vse svoje hranilne snovi (vlakna, vitamina in minerali).",
-            "Izberite polnozrnata žita nad rafiniranimi in jih pripravite na preproste, zdrave načine, kot so pečeni ali kuhani. Izogibajte se dodajanju preveč maščob, sladkorja ali soli. Polnozrnat kruh, ovsena kaša in rjavi riž so odlične možnosti polnozrnatega žita."
+            "Žitne izdelke uživajte kot prigrizke (izberite toast s polnozrnatim kruhom in sirom ali krekerje z jajcem za zdravo malico v šoli) in jih dodajte glavnim obrokom.",
+            "Dajte prednost polnozrnatim žitom (namesto rafiniranim), da izkoristite vse njihove hranilne snovi (vlaknine, vitamine in minerale). Polnozrnati kruh, ovseni kosmiči in rjavi riž so odlične polnozrnate možnosti. Pripravite jih na preproste načine, pri čemer se izogibajte dodajanju preveč maščobe, sladkorja ali soli."
           ]
         },
         {
           "id": 5,
           "title": "Učinki na zdravje",
-          "description": "Seznanjanje z učinki na zdravje zrn.",
+          "description": "Spoznajte učinke žitaric na zdravje.",
           "questions": [
             {
               "id": 1,
@@ -3899,7 +3686,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Izguba maščobe.",
+                  "text": "Boljše spanje.",
                   "correct": false
                 },
                 {
@@ -3909,7 +3696,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Varovanje zdravja.",
+                  "text": "Dobro raste.",
                   "correct": true
                 }
               ]
@@ -3946,7 +3733,7 @@
             },
             {
               "id": 3,
-              "question": "Magnezij:",
+              "question": "Uživanje celih zrn vaše telo oskrbi z minerali, ki vam pomagajo pri:",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -3954,29 +3741,29 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Je pomemben za ušesa.",
+                  "text": "Gradite svoje kosti.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Pomaga, da vaše mišice delujejo bolje.",
+                  "text": "Da vaše mišice bolje delujejo.",
                   "correct": true
                 },
                 {
                   "id": 3,
-                  "text": "Pomaga vašemu imunskemu sistemu.",
+                  "text": "Okrepite svoj obrambni sistem.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Nobena od prejšnjih.",
+                  "text": "Vse prejšnje.",
                   "correct": false
                 }
               ]
             },
             {
               "id": 4,
-              "question": "Z žitnimi izdelki so bogati z vitamini B, ki pomagajo:",
+              "question": "Žitni izdelki so bogati z vitamini (skupina B), ki pomagajo:",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -3984,22 +3771,22 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Zobje so močnejši.",
+                  "text": "Proizvodnja vaše krvi.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Your gut working better.",
+                  "text": "Vaši možgani dobro delujejo.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Počutiš se bolj energično.",
+                  "text": "Pridobivanje energije, shranjene v hrani.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Your nervous system staying healthy.",
+                  "text": "Vse prejšnje.",
                   "correct": true
                 }
               ]
@@ -4014,7 +3801,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Pomagajo vam nadzorovati svojo težo.",
+                  "text": "Pomagajo vam ohranjati zdravo težo.",
                   "correct": true
                 },
                 {
@@ -4024,7 +3811,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Dajo vam več ogljikovih hidratov in beljakovin.",
+                  "text": "Dajejo vam veliko ogljikovih hidratov in beljakovin.",
                   "correct": false
                 },
                 {
@@ -4044,12 +3831,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Zaprtje.",
+                  "text": "zaprtje.",
                   "correct": true
                 },
                 {
                   "id": 2,
-                  "text": "Bolečine v trebuhu.",
+                  "text": "Vaš sluh.",
                   "correct": false
                 },
                 {
@@ -4066,7 +3853,7 @@
             },
             {
               "id": 7,
-              "question": "Katero hranilo, ki ga najdemo v zrnih, je pomembno za pravilno delovanje črevesja?",
+              "question": "Katero hranilo, ki ga najdemo v žitih, je pomembno za pravilno delovanje črevesja?",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -4079,7 +3866,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Maščoba.",
+                  "text": "Lipidi.",
                   "correct": false
                 },
                 {
@@ -4089,116 +3876,26 @@
                 },
                 {
                   "id": 4,
-                  "text": "Ogljikove hidrate.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 8,
-              "question": "Kateri vitamin, ki ga najdemo v zrnih, je pomemben za živčni sistem?",
-              "category": {
-                "id": "category-0",
-                "text": "Nedefinirana kategorija"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "B vitamini.",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Vitamin D.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Vitamin C.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Vitamin E.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 9,
-              "question": "Kateri mineral, ki ga najdemo v zrnih, je pomemben za zdravje kosti?",
-              "category": {
-                "id": "category-0",
-                "text": "Nedefinirana kategorija"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Magnezij.",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Kalcij.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Likalnik.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Selen.",
+                  "text": "Ogljikovi hidrati.",
                   "correct": false
                 }
               ]
             }
           ],
           "messages": [
-            "Uživanje zrn, zlasti polnozrnatih žit, zaščitite svoje zdravje in zmanjšate tveganje za številne bolezni.",
-            "Zrna zagotavljajo številna hranila, ki so ključnega pomena za zdravje in vzdrževanje vaših teles, kot so vlakna, vitamini B (tiamin, niacin, riboflavin) in minerali, kot sta magnezij in selen.",
-            "Izdelki polnozrnatega žita vsebujejo več zgoraj omenjenih koristnih hranil v primerjavi z rafiniranimi žiti in zato kažejo več koristi za zdravje."
+            "Uživanje žit, zlasti polnozrnatih, ohranja vaše telo zdravo.",
+            "Hranila, ki jih vsebujejo žitarice, vlaknine in mikrohranila (kot so vitamini skupine B, železo, magnezij), igrajo ključno vlogo pri številnih funkcijah vašega telesa.",
+            "Polnozrnati izdelki vsebujejo več teh koristnih hranil v primerjavi z rafiniranimi zrni, zato so še boljši za vaše zdravje."
           ]
         },
         {
           "id": 6,
           "title": "Vrste in obdelava",
-          "description": "Seznanjanje s koncepti vrst in obdelavo zrn.",
+          "description": "Seznaniti se s pojmi o vrstah in obdelavi žit.",
           "questions": [
             {
-              "id": 1,
-              "question": "Polnozrnata žita vsebujejo:",
-              "category": {
-                "id": "category-0",
-                "text": "Nedefinirana kategorija"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Samo otrobi.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Samo škrob.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Samo endosperm.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Bran, Germ in Endosperm.",
-                  "correct": true
-                }
-              ]
-            },
-            {
               "id": 2,
-              "question": "Rafinirana zrna imajo:",
+              "question": "Rafinirana zrna imajo v primerjavi s polnozrnatimi:",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -4206,12 +3903,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Spodnja vlakna.",
+                  "text": "Manj vlaknin.",
                   "correct": true
                 },
                 {
                   "id": 2,
-                  "text": "Nižji sladkor.",
+                  "text": "Manj sladkorjev.",
                   "correct": false
                 },
                 {
@@ -4221,14 +3918,14 @@
                 },
                 {
                   "id": 4,
-                  "text": "Nižji ogljikovi hidrati.",
+                  "text": "Manj ogljikovih hidratov.",
                   "correct": false
                 }
               ]
             },
             {
               "id": 3,
-              "question": "Rezkanje je postopek, ki:",
+              "question": "Rezkanje (= prečiščevanje) je postopek, ki:",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -4236,12 +3933,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Odstrani iz zrn zarodov in otrobov.",
+                  "text": "Odstrani nekatere dele iz zrn.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Daje izdelku lepše teksturo.",
+                  "text": "Naredi izdelek finejši.",
                   "correct": false
                 },
                 {
@@ -4271,7 +3968,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Rafinirana zrna z dodanimi vitamini.",
+                  "text": "Rafinirana zrna z dodanimi vitamini nazaj.",
                   "correct": true
                 },
                 {
@@ -4306,12 +4003,12 @@
                 },
                 {
                   "id": 3,
-                  "text": "Pšenična tortilja.",
+                  "text": "Polnozrnati krekerji.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Ovseni kruh.",
+                  "text": "Rženi kruh.",
                   "correct": false
                 }
               ]
@@ -4341,7 +4038,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Več vitaminov.",
+                  "text": "Brez vitaminov.",
                   "correct": false
                 }
               ]
@@ -4361,12 +4058,12 @@
                 },
                 {
                   "id": 2,
-                  "text": "Okus slab.",
+                  "text": "Imajo višjo vsebnost lipidov.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Diši slabo.",
+                  "text": "Utrudi te.",
                   "correct": false
                 },
                 {
@@ -4396,7 +4093,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Obogaten izdelek",
+                  "text": "Vir vitaminov",
                   "correct": false
                 },
                 {
@@ -4408,10 +4105,9 @@
             }
           ],
           "messages": [
-            "Celotna zrna vzdržuje celotno jedro zrnja, ki vključuje otrobo, zarod in endosperm.",
-            "Rafinirana zrna so bila brušena, kar pomeni, da so bila obdelana za odstranjevanje otrobov in kalčkov. Cilj tega procesa je, da zrni damo lepšo teksturo in izboljšati njihovo rok trajanja. Na žalost odstranjuje tudi veliko koristnih hranil.",
-            "Rafinirana zrna so pogosto obogatena. To pomeni, da dodate nekatere vitamine B (tiamin, riboflavin, niacin, folna kislina) in železo, ki so se izgubili med predelavo hrane. Vendar ostajajo slabi viri vlaknin.",
-            "Izberite minimalno predelane izdelke z zrnom z nizkim in nizkim soli, kadar je to mogoče. Preberite nalepke za polnozrnate možnosti, da boste kar najbolje izkoristili svoje obroke!"
+            "Rafinirana zrna so bila zmleta, kar pomeni, da so bila obdelana tako, da so bili odstranjeni nekateri deli prvotnega zrna. Namen tega postopka je dati zrnom bolj fino teksturo in izboljšati njihov rok uporabnosti. Na žalost odstrani tudi veliko koristnih hranil.",
+            "Rafinirana zrna so pogosto obogatena. To pomeni dodajanje nekaterih vitaminov B in železa, ki so bili izgubljeni med predelavo hrane. Vendar ostajajo slabi viri vlaknin.",
+            "Kadar je to mogoče, izberite minimalno predelane žitne izdelke z nizko vsebnostjo sladkorja in soli. Za pakirane izdelke preberite oznake za polnozrnate izdelke, da kar najbolje izkoristite tisto, kar jeste!!"
           ]
         }
       ]
@@ -4419,12 +4115,12 @@
     {
       "id": 4,
       "title": "Kviz z visoko beljakovinami (HPF)",
-      "description": "Kviz o igrah, ki želi povečati znanje o živilih z visoko beljakovinami, razen mlečnih izdelkov, in izobraževanje/motiviranje uporabnikov za njihov optimalni vzorec potrošnje.",
+      "description": "Izboljšajte svoje znanje o živilih z visoko vsebnostjo beljakovin, razen o mlečnih izdelkih! Odgovorite na vprašanja in se poučite o različnih vključenih kategorijah hrane, o tem, kako narediti najboljšo izbiro in koliko bi morali zaužiti, da boste dosegli močne in zdrave učinke. .",
       "levels": [
         {
           "id": 1,
           "title": "Znanca",
-          "description": "Seznanjanje z visoko beljakovinsko hrano.",
+          "description": "Da se seznanimo z živili z visoko vsebnostjo beljakovin.",
           "questions": [
             {
               "id": 1,
@@ -4436,7 +4132,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Rdeče/belo meso.",
+                  "text": "Rdeče in belo meso.",
                   "correct": false
                 },
                 {
@@ -4446,7 +4142,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Impulzi.",
+                  "text": "Stročnice (posušena semena stročnic) .",
                   "correct": false
                 },
                 {
@@ -4637,36 +4333,6 @@
               ]
             },
             {
-              "id": 8,
-              "question": "Katera od naslednjih je stročnica?",
-              "category": {
-                "id": "category-0",
-                "text": "Nedefinirana kategorija"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Svež zeleni fižol/grah.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Impulzi.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Soja.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Vse prejšnje.",
-                  "correct": true
-                }
-              ]
-            },
-            {
               "id": 9,
               "question": "Kaj so impulzi?",
               "category": {
@@ -4697,6 +4363,36 @@
               ]
             },
             {
+              "id": 8,
+              "question": "Katera od naslednjih je stročnica?",
+              "category": {
+                "id": "category-0",
+                "text": "Nedefinirana kategorija"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Svež zeleni fižol/grah.",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Impulzi.",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Soja.",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Vse prejšnje.",
+                  "correct": true
+                }
+              ]
+            },
+            {
               "id": 10,
               "question": "Kateri od naštetega je utrip?",
               "category": {
@@ -4706,7 +4402,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Suh fižol/grah.",
+                  "text": "Suhi grah.",
                   "correct": false
                 },
                 {
@@ -4806,7 +4502,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Grška fava.",
+                  "text": "Jogurt.",
                   "correct": false
                 },
                 {
@@ -4818,17 +4514,17 @@
             }
           ],
           "messages": [
-            "Dobrodošli v svetu živil z visoko beljakovinami!",
-            "To tematsko območje se osredotoča na različne mesne in rastlinske alternative, ki skupaj z mlečnimi izdelki pokrivajo večino vaših dnevnih potreb po beljakovinah.",
-            "Živalska visoko beljakovinska hrana vključuje rdeče meso (npr. Goveje meso, svinjino, telečjo in jagnjetino), belo meso (npr. Piščanec, puran in zajček), ribe, morski sadeži (npr. Kozice, kozice, hobotnica, lignji, raki, jastog, školjko, oyster in jajca) in jajca. V to kategorijo so vključeni tudi predelani mesni izdelki (npr. Klobasa, šunka, salami, peperoni in slanina); Izdelani so iz rdečega/belega mesa skozi različne procese, kot so solitev, ozdravitev, fermentacija, kajenje in dodajanje kemičnih konzervansov.",
-            "Ne pozabite: mlečni izdelki (npr. Mleko, jogurt in sir), ki so predstavljeni na prejšnjem tematskem območju, so tudi živali na živalih z visoko vsebnostjo beljakovin in najpomembnejši vir kalcija!",
-            "Rastlinski visoko beljakovin vključujejo impulze, ki so suha užitna semena znotraj stročnic, tj. Suh fižol (npr. Črni fižol, ledvični zrni in lima fižol), suh grah (npr. Črno-oke grah in njihove izdelke (npr. Tofu)."
+            "Dobrodošli v svetu visoko beljakovinskih živil! V nasprotju z drugimi skupinami živil, ki ste jih spoznali do zdaj, je to raznolika skupina živil, ki vsebuje tako živalsko kot rastlinsko hrano. Kljub temu je njihova visoka vsebnost beljakovin tisto, kar jih končno združuje.",
+            "Živila živalskega izvora z visoko vsebnostjo beljakovin vključujejo vse vrste mesa (rdečega ali belega), ribe in morske sadeže ter jajca.",
+            "Predelani mesni izdelki (npr. klobase, šunka, salama, feferoni), čeprav so proizvedeni iz rdečega/belega mesa, običajno vsebujejo veliko aditivov in konzervansov, ki znižujejo njihovo hranilno vrednost.",
+            "Rastlinske visoko beljakovine vključujejo stročnice, ki so suha užitna semena znotraj strokov stročnic, tj. suh fižol, suh grah, leča in čičerika, pa tudi sojo in njihove izdelke (npr. tofu, izdelek, ki izgleda kot beli sir).",
+            "Ne pozabite: Mlečni izdelki, predstavljeni v prejšnjem tematskem sklopu, prav tako sodijo med živila z visoko vsebnostjo beljakovin, vendar tvorijo svojo skupino glede na vsebnost kalcija."
           ]
         },
         {
           "id": 2,
           "title": "Prehranska vrednost",
-          "description": "Seznanjanje s prehransko vrednostjo živil z visoko beljakovinami.",
+          "description": "Seznaniti se s hranilno vrednostjo živil z visoko vsebnostjo beljakovin.",
           "questions": [
             {
               "id": 1,
@@ -4861,36 +4557,6 @@
               ]
             },
             {
-              "id": 2,
-              "question": "\"Popoln\" protein je beljakovine, ki:",
-              "category": {
-                "id": "category-0",
-                "text": "Nedefinirana kategorija"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Ne vsebuje lipidov.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Je v celoti prebavljen v želodcu.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Najdemo v sadju in zelenjavi.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Vsebuje vse esencialne aminokisline.",
-                  "correct": true
-                }
-              ]
-            },
-            {
               "id": 3,
               "question": "Kaj je aminokislina?",
               "category": {
@@ -4916,36 +4582,6 @@
                 {
                   "id": 4,
                   "text": "Maščobna kislina, ki jo najdemo v mesu.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 4,
-              "question": "Kateri od naslednjih vsebuje \"popolne\" beljakovine?",
-              "category": {
-                "id": "category-0",
-                "text": "Nedefinirana kategorija"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Kruh.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Fižol.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Piščanec.",
-                  "correct": true
-                },
-                {
-                  "id": 4,
-                  "text": "Mandlje.",
                   "correct": false
                 }
               ]
@@ -4995,7 +4631,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Nasičene lipide.",
+                  "text": "Lipidi (nasičeni).",
                   "correct": true
                 },
                 {
@@ -5020,7 +4656,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Omega-3 polinenasičene lipide.",
+                  "text": "Lipidi (nenasičeni).",
                   "correct": true
                 },
                 {
@@ -5101,96 +4737,6 @@
               ]
             },
             {
-              "id": 10,
-              "question": "Kateri vitamin najpogosteje najdemo v živalih na živalih na živalih na živalih in pomaga ohranjati zdrav živčni sistem?",
-              "category": {
-                "id": "category-0",
-                "text": "Nedefinirana kategorija"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Vitamin C.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Vitamin B12.",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Vitamin K.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Vitamin E.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 11,
-              "question": "Kateri vitamin najpogosteje najdemo v živalih na živalih na živalih na živalih in je pomemben za vid?",
-              "category": {
-                "id": "category-0",
-                "text": "Nedefinirana kategorija"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Vitamin K.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Vitamin C.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Vitamin A.",
-                  "correct": true
-                },
-                {
-                  "id": 4,
-                  "text": "Vitamin E.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 12,
-              "question": "Kateri mineral, ki ga najdemo v živilih z visoko beljakovinami, je bistvenega pomena za prenos kisika s krvnimi celicami?",
-              "category": {
-                "id": "category-0",
-                "text": "Nedefinirana kategorija"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Likalnik.",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Kalcij.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Magnezij.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Vse zgoraj.",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 13,
               "question": "Iz katere od naslednjih živil z visoko beljakovinami se železo bolje absorbira?",
               "category": {
@@ -5210,73 +4756,13 @@
                 },
                 {
                   "id": 3,
-                  "text": "Soja fižol.",
+                  "text": "že bil.",
                   "correct": false
                 },
                 {
                   "id": 4,
                   "text": "Govedina.",
                   "correct": true
-                }
-              ]
-            },
-            {
-              "id": 14,
-              "question": "Kateri mineral, ki ga najdemo v živilih z visoko beljakovinami, je pomemben za presnovo in imunski sistem?",
-              "category": {
-                "id": "category-0",
-                "text": "Nedefinirana kategorija"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Jod.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Kalcij.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Cink.",
-                  "correct": true
-                },
-                {
-                  "id": 4,
-                  "text": "Kalij.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 15,
-              "question": "Kateri mineral, ki ga najdemo v živili z visoko beljakovinami, je pomemben za vaše kosti in zobe?",
-              "category": {
-                "id": "category-0",
-                "text": "Nedefinirana kategorija"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Fosfor.",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Natrij.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Baker.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Mangan.",
-                  "correct": false
                 }
               ]
             },
@@ -5290,7 +4776,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Nasičene maščobe.",
+                  "text": "Lipidi.",
                   "correct": false
                 },
                 {
@@ -5300,7 +4786,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Kemični konzervansi.",
+                  "text": "Konzervansi.",
                   "correct": false
                 },
                 {
@@ -5323,7 +4809,7 @@
         {
           "id": 3,
           "title": "Priporočen vnos",
-          "description": "Seznanjanje s priporočenim vnosom in velikostjo porcije živil z visoko beljakovinami.",
+          "description": "Seznaniti se s priporočenim vnosom in velikostjo porcije živil z visoko vsebnostjo beljakovin.",
           "questions": [
             {
               "id": 1,
@@ -5387,7 +4873,7 @@
             },
             {
               "id": 3,
-              "question": "Kako pogosto naj jedo maščobne/mastne ribe, ki so bogate z omega-3 polinenasičenimi lipidi?",
+              "question": "Kako pogosto bi morali jesti mastne/mastne ribe, ki so še posebej bogate z nenasičenimi lipidi?",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -5477,7 +4963,7 @@
             },
             {
               "id": 6,
-              "question": "Kateremu od naslednjih živil z visoko beljakovinami se je treba v celoti, če je mogoče, izogniti, ker so predelani?",
+              "question": "Kateri od naslednjih živil z visoko vsebnostjo beljakovin se je treba izogibati, ker so predelana?",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -5508,16 +4994,16 @@
           ],
           "messages": [
             "Naredite visoko beljakovinsko hrano reden del vaše prehrane!",
-            "Hrana z visoko beljakovinami lahko uživate vsak dan, vendar jo je treba zasukati ves teden, da se zagotovi raznolikost. Prizadevajte si za vitko belo in/ali rdeče meso 2-3 krat na teden, ribe/morski sadeži 2-3 krat na teden in impulze vsaj enkrat na teden.",
-            "Jajca in siri so tudi dragoceni viri visokokakovostnih beljakovin, ki lahko spremljajo jedi na podlagi zelenjave, testenin ali drugih zrnskih izdelkov, ki niso v beljakovinah.",
-            "Natančna količina beljakovin, ki jih potrebujete, je odvisna od vaše telesne teže. Preprost način za zadovoljevanje vaših potreb je zagotoviti, da visoko beljakovinska hrana pokriva približno ¼ vašega krožnika na kosilu in večerji, v zajtrku in prigrizkih pa porabite tudi 2-3 porcije mlečnih izdelkov!",
+            "Živila z visoko vsebnostjo beljakovin lahko uživate vsak dan, vendar jih je treba menjavati čez teden, da zagotovite raznolikost. Prizadevajte si za belo in/ali rdeče meso 2-3-krat na teden, ribe/morske sadeže 2-3-krat na teden in stročnice vsaj enkrat na teden.",
+            "Jajca so tudi dragocen vir visokokakovostnih beljakovin, ki se lahko podajo k jedem iz zelenjave, testeninam ali drugim žitnim izdelkom, ki ne vsebujejo veliko beljakovin.",
+            "Točna količina beljakovin, ki jih potrebujete, je odvisna od vaše starosti in telesne teže. Praktičen način za izpolnitev vaših potreb je zagotoviti, da živila z visoko vsebnostjo beljakovin pokrivajo približno ¼ vašega krožnika pri kosilu in večerji. Ne pozabite, da mlečni izdelki vsebujejo tudi beljakovine, zato si prizadevajte zaužiti 2-3 porcije v zajtrku in prigrizkih!",
             "Ne pozabite: Poskusite se izogniti predelanemu mesu, kot so klobase in rezi, kolikor lahko!"
           ]
         },
         {
           "id": 4,
           "title": "Prakse porabe",
-          "description": "Seznanjanje z najboljšimi praksami za ravnanje in uživanje živil z visoko beljakovinami.",
+          "description": "Seznaniti se z najboljšimi praksami za ravnanje in uživanje živil z visoko vsebnostjo beljakovin.",
           "questions": [
             {
               "id": 1,
@@ -5589,7 +5075,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Vrelo in praženje.",
+                  "text": "Praženje.",
                   "correct": true
                 },
                 {
@@ -5604,7 +5090,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Na žaru.",
+                  "text": "Žar.",
                   "correct": false
                 }
               ]
@@ -5670,38 +5156,8 @@
               ]
             },
             {
-              "id": 6,
-              "question": "Kaj od naštetega je dober način za pridobivanje beljakovin z visoko biološko vrednostjo skozi impulze?",
-              "category": {
-                "id": "category-0",
-                "text": "Nedefinirana kategorija"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Jih jesti sami.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Združi jih z rižem ali kruhom.",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Z dodajanjem limone.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Tako, da jih dlje vre.",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 7,
-              "question": "Da bi se izognili odvečnim nasičenim lipidom, ko jeste rdeče meso, bi morali:",
+              "question": "Da ne bi zaužili preveč lipidov pri uživanju rdečega mesa, morate:",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -5731,7 +5187,7 @@
             },
             {
               "id": 8,
-              "question": "Da bi se izognili odvečnim nasičenim lipidom, ko jeste perutnino, bi morali:",
+              "question": "Da ne bi zaužili preveč lipidov pri uživanju perutnine, morate:",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -5739,7 +5195,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Izogibajte se jesti njihove kože.",
+                  "text": "Izogibajte se uživanju kože.",
                   "correct": true
                 },
                 {
@@ -5761,17 +5217,16 @@
             }
           ],
           "messages": [
-            "Če želite dobiti potrebne beljakovine in se izognili velikim količinam nasičenih lipidov: jejte perutnino brez kože, odstranite vidno maščobo iz rdečega mesa (običajno zunanjo plast) in izberite pusto rdeče mesne dele, kot so tisti na zadnji strani goveda (kratka ledja, sir in okrogla) ali svinjsko meso (ledja in šunka).",
-            "Jajca so zelo hranljiva izbira za prigrizek z visoko beljakovinami (npr. Kuhano jajce) kot nadomestek za hladne reze v sendvičih/ovojih ali celo glavni obrok (npr. Pečena omleta s sirom in zelenjavo).",
-            "Če želite ohraniti čim bolj zdrave obroke, izberite živali z visoko beljakovinsko hrano, ki je kuhana ali pražena, namesto ocvrte ali na žaru.",
-            "Obstaja toliko načinov, kako vključiti impulze v svojo prehrano! Če jih naštejemo le nekaj, jih lahko imate kot glavni obrok (npr. Leča juha), jih vključite v solate, jih uporabite za izdelavo vegetarijanskih burgerjev ali celo uživate kot namazi, kot je hummus.",
-            "Ali ste vedeli, da lahko s kombiniranjem impulzov in zrn, kot sta riž ali kruh, dobite popolne beljakovine z vsemi esencialnimi aminokislinami, podobnimi tistim iz mesa?"
+            "Da bi dobili potrebne beljakovine in se izognili velikim količinam nasičenih lipidov: jejte perutnino brez kože, rdečemu mesu odstranite vidno maščobo (običajno zunanjo plast).",
+            "Jajca so zelo hranljiva izbira za visoko beljakovinski prigrizek (npr. kuhano jajce), namesto za narezke v sendvičih/zavitkih ali celo glavni obrok (npr. pečena omleta s sirom in zelenjavo).",
+            "Da bodo vaši obroki čim bolj zdravi, izberite živila živalskega izvora z visoko vsebnostjo beljakovin, kuhana ali pečena v pečici, izogibajte pa se ocvrtim ali pečenim na žaru, zlasti na žaru.",
+            "Obstaja toliko načinov, kako vključiti impulze v svojo prehrano! Če jih naštejemo le nekaj, jih lahko imate kot glavni obrok (npr. Leča juha), jih vključite v solate, jih uporabite za izdelavo vegetarijanskih burgerjev ali celo uživate kot namazi, kot je hummus."
           ]
         },
         {
           "id": 5,
           "title": "Učinki na zdravje",
-          "description": "Seznanjanje z učinki na zdravje z visoko beljakovinsko hrano.",
+          "description": "Da se seznanite z učinki živil z visoko vsebnostjo beljakovin na zdravje.",
           "questions": [
             {
               "id": 1,
@@ -5788,7 +5243,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Spodbujajo hujšanje.",
+                  "text": "Zaradi njih shujšate.",
                   "correct": false
                 },
                 {
@@ -5798,7 +5253,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Borijo proti vnetjem.",
+                  "text": "Naredijo te lačnega.",
                   "correct": false
                 }
               ]
@@ -5926,10 +5381,9 @@
           ],
           "messages": [
             "Hrana z visoko beljakovinami je bistveni del uravnotežene prehrane!",
-            "Ste vedeli, da so vsi organi in tkiva telesa, kot so srce, pljuča, kosti, mišice in koža, sestavljeni iz beljakovin? Beljakovine imajo ključno vlogo pri gradnji, vzdrževanju in popravljanju tkiv telesa.",
-            "Visoko beljakovinska hrana podpira tudi pomembne funkcije imunskega sistema, kar vam preprečuje, da bi zboleli.",
-            "Neustrezna poraba živali z visoko beljakovinami na živalih lahko privede do anemije. Z preprostimi besedami je anemija pomanjkanje zdravih rdečih krvnih celic, ki bi kisik prenašale v telesno tkivo. Lahko ga povzroči neustrezen vnos železa in vitamina B12, ki jih običajno najdemo v živali z visoko beljakovinami na živalih.",
-            "Želim slediti priporočenim vnosom živil z visoko beljakovinami glede na vašo starost in telesno težo, da zagotovite vseživljenjski ustrezen vnos beljakovin!"
+            "Ali ste vedeli, da so vsi deli vašega telesa, kot so srce, pljuča, kosti, mišice in koža, sestavljeni iz beljakovin? Beljakovine igrajo ključno vlogo pri izgradnji, vzdrževanju in obnavljanju telesnih tkiv.",
+            "Živila z visoko vsebnostjo beljakovin prav tako pomagajo telesu pri boju proti mikrobom, kar preprečuje, da bi zboleli.",
+            "Ne pozabite pa, da je prenajedanje visoko beljakovinske hrane, zlasti rdečega mesa in mesnih izdelkov, škodljivo za vaše zdravje."
           ]
         }
       ]
@@ -5937,12 +5391,12 @@
     {
       "id": 5,
       "title": "Kviz maščobe in olja (F&O)",
-      "description": "Kviz o igrah, ki želi povečati znanje o skupini maščob in olj ter izobraževanje/motiviranje uporabnikov k njihovemu optimalnemu vzorcu porabe.",
+      "description": "Povečajte svoje znanje o maščobah in oljih! Odgovorite na vprašanja in spoznali boste, kakšna živila so vključena, razlike v njihovi hranilni vrednosti in kako jih najbolje vključiti v svojo prehrano.",
       "levels": [
         {
           "id": 1,
           "title": "Znanca",
-          "description": "Seznanjanje s skupino maščob in olj.",
+          "description": "Seznaniti se s skupino maščob in olj.",
           "questions": [
             {
               "id": 1,
@@ -6095,66 +5549,6 @@
               ]
             },
             {
-              "id": 6,
-              "question": "Kaj je težka smetana?",
-              "category": {
-                "id": "category-0",
-                "text": "Nedefinirana kategorija"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Maščobna komponenta je posneta iz mleka",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Kremast izdelek, ki ga je izdelal vreli sir",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Mešanica jogurta z maslom",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Maščoba, pridobljena iz svinjine",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 7,
-              "question": "Kaj je stepena smetana?",
-              "category": {
-                "id": "category-0",
-                "text": "Nedefinirana kategorija"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Utrjena različica sončničnega olja",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Pasta, narejena iz mandljev",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Mešanica težke smetane in sladkorja",
-                  "correct": true
-                },
-                {
-                  "id": 4,
-                  "text": "Maščoba iz govedine",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 8,
               "question": "Katera od naslednjih maščob/olj izhaja iz rdečega mesa?",
               "category": {
@@ -6169,7 +5563,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Težka smetana",
+                  "text": "Sončnično olje",
                   "correct": false
                 },
                 {
@@ -6246,7 +5640,7 @@
             },
             {
               "id": 11,
-              "question": "Katero od naslednjih pasto/namazov nastanejo z upogibanjem oreščkov/semen?",
+              "question": "Katera od naslednjih past/namazov je proizvedena z mletjem oreščkov?",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -6336,7 +5730,7 @@
             },
             {
               "id": 14,
-              "question": "Katero od naslednjih plodov vsebuje veliko količine maščobe?",
+              "question": "Katero od naštetega sadja vsebuje velike količine lipidov?",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -6366,22 +5760,15 @@
             }
           ],
           "messages": [
-            "Dobrodošli v svetu maščob in olj! Ta skupina je zelo raznolika in vključuje:",
-            "Izdelki iz mleka, npr. maslo in težka smetana.",
-            "Izdelki, pridobljeni iz rdečega mesa, npr. svinjska mast in goveje meso.",
-            "Oljke, plod oljčnega drevesa.",
-            "Oreščki in semena, npr. Almond, oreh, arašid, lešniki, pecan, indijski kaše, pistacija, lan/laneno seme, bučno seme, sončnično seme in sezamovo seme.",
-            "Paste/namazi iz oreščkov/semen, npr. Arašidovo maslo, mandljevo maslo, lešniško maslo, orehovo maslo in tahini, ki je narejen iz sezamovih sezam.",
-            "Rastlinsko olje, pridobljeno iz semen ali sadja rastlin (npr. Olivno olje, sončno olje, žaflowerno olje, kanolovo olje, koruzno olje in palmovo olje) ali iz stročnic (npr. Sojino olje).",
-            "Margarina, ki je utrjena različica rastlinskih olj in se uporablja kot nadomestek masla.",
-            "Majoneza, ki je emulzija olja in rumenjakov ter druge omake, ki temeljijo na majonezi.",
-            "Ste vedeli, da je avokado sadje, ki večinoma vsebuje maščobe (mononasičene lipide)?"
+            "V to skupino spadajo sestavine, ki se uporabljajo predvsem za kuhanje, pa tudi omake ali namazi. Omogočajo kuhanje živil in dajejo okus in okus jedem in obrokom. Njihovo skupno hranilo so lipidi.",
+            "Olja vključujejo vsa užitna (=užitna) olja, pridobljena iz rastlin (npr. oljčno olje, sončnično olje, sojino olje).",
+            "Maščobe vključujejo trdno obliko lipidov, ki prihajajo iz rastlin ali živali: a) Rastlinski viri: namazi, kot sta margarina in majoneza, vsi oreščki in semena (npr. mandlji, orehi, arašidi, sezam) in njihova masla/paste, ki se uporabljajo v namazih (npr. arašidovo maslo, tahini). Tudi oljčna olja in avokado. b) Živalski viri: iz rdečega mesa (npr. svinjska mast, goveji loj), iz mleka (maslo)."
           ]
         },
         {
           "id": 2,
           "title": "Prehranska vrednost",
-          "description": "Seznanjanje s prehransko vrednostjo maščob in olj.",
+          "description": "Seznaniti se s hranilno vrednostjo maščob in olj.",
           "questions": [
             {
               "id": 1,
@@ -6423,7 +5810,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Kalorije/energija",
+                  "text": "Energija (kalorije)",
                   "correct": true
                 },
                 {
@@ -6504,68 +5891,8 @@
               ]
             },
             {
-              "id": 5,
-              "question": "Kakšna je glavna vrsta lipidov v olivah in oljčnem olju?",
-              "category": {
-                "id": "category-0",
-                "text": "Nedefinirana kategorija"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Nasičen",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Mononasičeno",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Polinenasičeno",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Omega-3",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 6,
-              "question": "Kakšna je glavna vrsta lipidov v avokadu?",
-              "category": {
-                "id": "category-0",
-                "text": "Nedefinirana kategorija"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Nasičen",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Mononasičeno",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Polinenasičeno",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Omega-3",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 7,
-              "question": "Kakšna je glavna vrsta lipidov v palmovih in kokosovih oljih?",
+              "question": "Za razliko od drugih rastlinskih olj palmovo in kokosovo olje vsebujeta?",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -6573,22 +5900,22 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Nasičen",
+                  "text": "Večinoma nasičeni lipidi",
                   "correct": true
                 },
                 {
                   "id": 2,
-                  "text": "Mononasičeno",
+                  "text": "Več nenasičenih lipidov",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Polinenasičeno",
+                  "text": "Več lipidov skupaj",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Omega-3",
+                  "text": "Več vitaminov",
                   "correct": false
                 }
               ]
@@ -6624,68 +5951,8 @@
               ]
             },
             {
-              "id": 9,
-              "question": "Katero je oljčno olje najboljše kakovosti?",
-              "category": {
-                "id": "category-0",
-                "text": "Nedefinirana kategorija"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Rafinirano oljčno olje",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Ekstra deviško oljčno olje",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Nepredelano oljčno olje",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Oljno olje",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 10,
-              "question": "Kaj od naslednjega najdemo v oljčnem olju in pomaga pri boju z oksidativnim stresom?",
-              "category": {
-                "id": "category-0",
-                "text": "Nedefinirana kategorija"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Polifenoli",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Probiotiki",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Vitamin c",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Sladkor",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 11,
-              "question": "Trans lipidi nastanejo, ko rastlinska olja:",
+              "question": "Kaj so translipidi:",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -6693,17 +5960,17 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Se uporabljajo surove v solatah",
+                  "text": "Lipidi, ki se uporabljajo surovi v solatah",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "So strjeni ali kuhani pri visoki temperaturi",
+                  "text": "Lipidi, ki so strjeni ali kuhani pri visoki temperaturi",
                   "correct": true
                 },
                 {
                   "id": 3,
-                  "text": "So shranjeni dlje kot 1 mesec",
+                  "text": "Lipidi tgat so shranjeni več kot 1 mesec",
                   "correct": false
                 },
                 {
@@ -6723,12 +5990,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Trde zelenjavne maščobe",
+                  "text": "Piškotki, ki se prodajajo v supermarketih",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Pečena/ocvrta peciva in prigrizki",
+                  "text": "Pečeno pecivo in prigrizki",
                   "correct": false
                 },
                 {
@@ -6805,19 +6072,19 @@
             }
           ],
           "messages": [
-            "Maščobe in olja so sestavljeni predvsem iz lipidov, ki telesu zagotavljajo energijo.",
+            "Maščobe in olja so sestavljeni predvsem iz lipidov, katerih glavna vloga v telesu je shranjevanje energije.",
             "Vendar pa se kakovost lipidov med različnimi maščobami/olji znatno razlikuje:",
-            "Živalske maščobe/olja, npr. Maslo, težka smetana in mast/loja, vsebujejo večinoma nasičene lipide, ki jih je treba zaužiti zmerno za optimalno zdravje.",
-            "Rastlinske maščobe/olja, npr. Olive, oreščki/semena, rastlinska olja in avokado vsebujejo večinoma nenasičene (mono- in poli-nenasičene) lipide, ki so koristni za srce in žile. Izjema so palmova in kokosova olja, ki so zelo bogata z nasičenimi lipidi in se jih je treba izogibati.",
-            "Večina rastlinskih olj je bogata z vitaminom E, ki ščiti telesne celice pred oksidacijo.",
-            "Med različnimi rastlinskimi olji, oljčno olje, zlasti ekstra deviško oljčno olje, velja za eno najbolj zdravih odločitev, saj je minimalno predelana in vsebuje široko paleto drugih antioksidantov!",
-            "Ali ste vedeli, da se lahko ob predelavi rastlinskih olj postanejo trdna ali kuhana pri visokih temperaturnih trans lipidih? Ti lipidi so zelo škodljivi za zdravje in jih je mogoče najti v trdih rastlinskih maščob (npr. Skrajšanje in nekaj trdih margarin) in različne predelane hrane, kot so pečeno pecivo, slani prigrizki, pripravljeni obroki in hitra hrana. Nalepke s hrano vam lahko pomagajo prepoznati ta živila: poiščite besedo \"trans\" v razdelku o prehrani ali stavek \"delno hidrogenirano olje\" na seznamu sestavin."
+            "Živalske maščobe, npr. maslo, smetana in mast/loj, vsebujejo večinoma nasičene lipide, ki jih je treba za optimalno zdravje uživati ​​zmerno.",
+            "Rastlinske maščobe, npr. olive, oreščki/semena, rastlinska olja in avokado, vsebujejo večinoma nenasičene lipide, ki so koristni za srce. Izjema sta palmovo in kokosovo olje, ki sta zelo bogata z nasičenimi lipidi in se ju je treba izogibati.",
+            "Večina rastlinskih olj je bogatih z vitaminom E, ki ohranja zdravje celic vašega telesa.",
+            "Med različnimi rastlinskimi olji velja olivno olje, predvsem ekstra deviško, za eno najbolj zdravih izbir, saj ni predelano in vsebuje širok nabor zdravju koristnih sestavin!",
+            "Vendar bodite previdni! Ko se nekatera rastlinska olja spremenijo v trdne maščobe ali kuhajo na zelo visoki temperaturi, se njihova struktura spremeni, zaradi česar so najbolj nezdravi lipidi od vseh. Imenujejo se translipidi in jih je mogoče najti v predelani hrani, kot so pecivo, slani prigrizki in hitra hrana."
           ]
         },
         {
           "id": 3,
           "title": "Priporočen vnos",
-          "description": "Seznanjanje s priporočenim vnosom maščob in olj v smislu količine in kakovosti.",
+          "description": "Seznaniti se s priporočenim vnosom maščob in olj glede na količino in kakovost.",
           "questions": [
             {
               "id": 1,
@@ -6829,17 +6096,17 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Samo rastlinska olja, ki se uporabljajo pri kuhanju",
+                  "text": "Rastlinska olja, ki se uporabljajo pri kuhanju",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Samo maslo, ki se uporablja kot namaz za kruh",
+                  "text": "Maslo, ki se uporablja kot namaz za kruh",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Samo oreščki/semena, porabljena kot prigrizek",
+                  "text": "Oreščki/semena, zaužiti kot prigrizek",
                   "correct": false
                 },
                 {
@@ -6864,24 +6131,24 @@
                 },
                 {
                   "id": 2,
-                  "text": "Omake na osnovi težke smetane in majoneze",
+                  "text": "Omake na osnovi majoneze",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Zdrava rastlinska olja, ki se uporabljajo pri kuhanju in solatah",
+                  "text": "Rastlinska olja, ki se uporabljajo pri kuhanju in solatah",
                   "correct": true
                 },
                 {
                   "id": 4,
-                  "text": "Stepena smetana v sladkarijah",
+                  "text": "Krema v slaščicah",
                   "correct": false
                 }
               ]
             },
             {
               "id": 3,
-              "question": "Kakšen je dober način, da se pri kuhanju izognete prekomerni uporabi maščob/olj?",
+              "question": "Kaj je dober način, da se izognete uporabi preveč maščob/olj pri kuhanju?",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -6972,14 +6239,14 @@
           ],
           "messages": [
             "Uživajte v maščobah in oljih zmerno!",
-            "Dodane maščobe/olja, ki se uporabljajo pri kuhanju in solatah (npr. Rastlinska olja, maslo), pa tudi živila, ki so bogata z lipidi (npr. Oreščki/semena, oljke), lahko uživamo vsak dan, vendar je njihova količina pomembna! Vsi so zelo bogati s kalorijami, zato je zmernost njihove porabe pomembna za preprečevanje presežnega povečanja telesne mase.",
-            "Ne pozabite: Za optimalno zdravje dajte prednostno nalogo zdravega rastlinskega olja (npr. Olivno olje, sončno olje, olje za žaflo in olje) in oreščki/semena na živalih na osnovi živali (npr. Mast/loj, maslo in težka smetana), in se poskušajte izogniti predelani hrani, ki bi lahko vsebovali trans lipide, kolikor lahko!"
+            "Njihova vsebnost lipidov naredi maščobe in olja ter izdelke, ki imajo te sestavine, energijsko gosta živila, kar pomeni, da zagotavljajo veliko energije (kalorij) za določeno količino. Zato je priporočljiva zmernost v njihovi količini.",
+            "Pomembna pa je tudi njihova kakovost! Ne pozabite: za optimalno zdravje dajte prednost zdravim rastlinskim oljem (npr. oljčnemu olju, sončničnemu olju, olju žafranike) in oreščkom/semenom pred živalskimi maščobami (npr. mast/loj, maslo in smetana) in se čim bolj izogibajte predelani hrani, ki bi lahko vsebovala translipide!"
           ]
         },
         {
           "id": 4,
           "title": "Prakse porabe",
-          "description": "Seznanjanje z najboljšimi praksami za ravnanje in uživanje maščob in olj.",
+          "description": "Seznaniti se z najboljšimi praksami ravnanja in uživanja maščob in olj.",
           "questions": [
             {
               "id": 1,
@@ -7103,7 +6370,7 @@
             },
             {
               "id": 5,
-              "question": "Kaj od naštetega je dober način za vključitev oreščkov in semen v svojo prehrano?",
+              "question": "Kaj od naslednjega je dober način za dodajanje oreščkov in semen vaši prehrani?",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -7163,7 +6430,7 @@
             },
             {
               "id": 7,
-              "question": "Kaj od naštetega je dober način za vključitev tahinija ali orehovega masla v svojo prehrano?",
+              "question": "Kaj od naslednjega je dober način za dodajanje masla iz orehov vaši prehrani?",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -7193,7 +6460,7 @@
             },
             {
               "id": 8,
-              "question": "Kaj od naštetega je dober način za vključitev avokada v svojo prehrano?",
+              "question": "Kaj od naslednjega je dober način za dodajanje avokada vaši prehrani?",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -7283,19 +6550,19 @@
             }
           ],
           "messages": [
-            "Visoka temperatura lahko rastlinska olja izgubijo pomembna hranila. Tako je namesto globoko kršenja hrane najbolje uporabiti majhne količine rastlinskih olj na koncu kuhanja v loncu ali v pečici.",
-            "Istega rastlinskega olja ne smete uporabljati večkrat za kuhanje, saj lahko večkratno ogrevanje povzroči proizvodnjo škodljivih snovi.",
-            "Ne pozabite: oljčno olje, še posebej Extra Virgin, je posebno! Je bogat z antioksidanti in tako odporen med toploto med kuhanjem, kar pomeni, da ohranja večino svojih koristnih hranil in ne gre zlahka.",
+            "Zaradi visoke temperature lahko rastlinska olja izgubijo pomembna hranila. Namesto cvrtja je najbolje uporabiti majhne količine rastlinskih olj na koncu kuhanja.",
+            "Ne uporabljajte istega olja znova in znova, saj lahko večkratno segrevanje škoduje zdravju.",
+            "Izjema: oljčno olje, zlasti ekstra deviško, se ne pokvari pri vročini med kuhanjem in ga je mogoče varno uporabiti večkrat, preden ga zavržete.",
             "Oreščke in semena lahko zaužijemo kot prigrizek, ki ga je enostavno nositi ali dodati jogurtu, žitom za zajtrk, domače sladice in solate. Za še bolj zdravo možnost izberite surove in nesoljene oreščke!",
-            "Oreščki in tahini so polni zdravih maščob! Uporabljate jih lahko v jogurtu kot namaz za kruh ali v domačih sladicah (npr. Piškotki ali žitnih palic) namesto masla ali margarine.",
+            "Maslo iz orehov je polno zdravih maščob! Uporabite jih lahko v jogurtu, kot namaz za kruh ali v doma pripravljenih sladicah (npr. piškotih ali žitnih ploščicah) namesto masla ali margarine.",
             "Avokado so okusni! Lahko jih preizkusite v solatah ali pire kot potop ali namak za toast.",
-            "Pazite, da pravilno shranite maščobe in olja. Maslo, margarino in težka smetana je treba shranjevati v hladilniku, rastlinska olja pa je mogoče shraniti v sobni temperaturi, vendar na hladnem in temnem mestu."
+            "Poskrbite za pravilno shranjevanje maščob in olj. Maslo, margarino in smetano moramo hraniti v hladilniku, rastlinska olja pa lahko hranimo na sobni temperaturi, vendar v hladnem in temnem prostoru."
           ]
         },
         {
           "id": 5,
           "title": "Učinki na zdravje",
-          "description": "Seznanjanje z učinki na zdravje maščob in olj.",
+          "description": "Seznaniti se z učinki maščob in olj na zdravje.",
           "questions": [
             {
               "id": 1,
@@ -7388,38 +6655,8 @@
               ]
             },
             {
-              "id": 4,
-              "question": "Katere lipide lahko škodujejo za zdravje, če jih zaužijemo v velikih količinah?",
-              "category": {
-                "id": "category-0",
-                "text": "Nedefinirana kategorija"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Nasičen",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Mononasičeno",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Polinenasičeno",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Vse prejšnje",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 5,
-              "question": "Kateri lipidi so zelo škodljivi za zdravje srca?",
+              "question": "Kateri lipidi so najbolj nezdravi za srce?",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -7427,12 +6664,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Mononasičeno",
+                  "text": "Nenasičen",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Omega-3 polinenasičeno",
+                  "text": "Snasičeno",
                   "correct": false
                 },
                 {
@@ -7446,14 +6683,43 @@
                   "correct": false
                 }
               ]
+            },
+            {
+              "id": 6,
+              "question": "Za optimalno zdravje morate poskusiti:?",
+              "category": {
+                "id": "category-0",
+                "text": "raje rastlinske maščobe kot živalske"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Nenasičen",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "izogibajte se pakiranim prigrizkom",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "namaze uporabljajte zmerno",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Vse prejšnje",
+                  "correct": false
+                }
+              ]
             }
           ],
           "messages": [
-            "Maščobe in olja so pomembni za zdravo in močno telo, če jih uživamo zmerno!",
-            "Lipidi, glavno hranilo, ki ga najdemo v maščobah in oljih, so ključnega pomena samo za zagotavljanje energije telesu, temveč tudi za gradbene celične membrane, kar izboljšuje absorpcijo maščobnih topnih vitaminov (tj. Vitaminov A, D, E in K) in podpira regulacijo telesne temperature.",
-            "Upoštevajte, da je zmernost pri uživanju maščob in olj zelo pomembna! Lipidi vsebujejo veliko kalorij, zato lahko pretirano porabijo maščobe in olja dolgoročno privedejo do presežnega povečanja telesne mase.",
-            "Nasičene lipide, ki jih najdemo v vseh živalskih maščobah in nekaterih rastlinskih oljih (palmo in kokosov), so lahko škodljivi za zdravje, če jih zaužijemo v velikih količinah. Torej, dajte prednost zdravim rastlinskim maščobam/oljem!",
-            "Poskusite se, če je le mogoče, popolnoma izogniti trans lipidom, ker so zelo škodljivi za srce in posode! Preprost način za dosego tega je dajanje prednosti sveže polne hrane nad predelanimi industrializiranimi."
+            "Maščobe in olja so pomembni za zdravo in močno telo, pomembna pa je kakovost!",
+            "Lipidi, glavno hranilo, ki ga najdemo v maščobah in oljih, so pomembni za zagotavljanje energije telesu, ohranjanje moči celic, pomagajo telesu pri uporabi nekaterih vitaminov in nadzorujejo telesno temperaturo.",
+            "Ne pozabite, da je zmernost pri uživanju maščob in olj zelo pomembna! Živilska industrija jih pogosto uporablja za izdelavo izdelkov, ki so zelo okusni, a so tudi energijsko visoki in običajno nizke hranilne vrednosti. Pogosto uživanje teh izdelkov lahko dolgoročno vodi do prekomerne telesne teže.",
+            "Poskusite se izogibati translipidom, , ker so najbolj nezdravi lipidi za srce! Preprost način, da to dosežete, je uživanje več sveže polnovredne hrane in manj predelane industrializirane hrane."
           ]
         }
       ]
@@ -7461,12 +6727,12 @@
     {
       "id": 6,
       "title": "Kviz hidracije (HYD)",
-      "description": "Kviz o igrah, ki želi povečati znanje o zdravih načinih za ustrezno hidratacijo, s poudarkom na vodi in drugih pijačah z izobraževanjem/motivacijo za njihovo optimalno porabo.",
+      "description": "Povečajte svoje znanje o hidraciji! Odgovorite na vprašanja in spoznajte pomen vode in njeno prednost pred drugimi pijačami za doseganje ustrezne hidracije in krepitev vašega splošnega zdravja.",
       "levels": [
         {
           "id": 1,
           "title": "Znanca",
-          "description": "Seznanjanje z zdravimi sredstvi hidratacije.",
+          "description": "Seznaniti se z zdravimi načini hidracije.",
           "questions": [
             {
               "id": 1,
@@ -7638,7 +6904,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Voda z ogljikovim dioksidom",
+                  "text": "Voda z mehurčki (ogljikov dioksid)",
                   "correct": true
                 },
                 {
@@ -7673,7 +6939,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Kofeinska voda",
+                  "text": "Voda s čokolado",
                   "correct": false
                 }
               ]
@@ -7801,9 +7067,9 @@
           ],
           "messages": [
             "Dobrodošli v svetu hidracije! Če želite ostati hidriran, lahko poskusite veliko tekočine:",
-            "Voda, ki je najpomembnejša pijača v prehrani ljudi. Okusite vodo s sadjem, zelišči ali zelenjavo ali poskusite peneče/gazirano vodo za bolj zabavo!",
+            "Voda, ki je najpomembnejša pijača. Okusite svojo vodo s sadjem, zelišči ali zelenjavo ali poskusite s penečo/gazirano vodo za več zabave!",
             "Sveži sadni sokovi, kot je pomarančni sok, ki se proizvajajo s stiskanjem ali mešanjem svežega sadja.",
-            "Mleko, ki je mlečni izdelek, in fermentirani/gojeni mlečni proizvodi, kot sta kislo mleko in kefir, ki se proizvajajo z dodajanjem bakterij ali gliv v mleku.",
+            "Mleko, ki je mlečni izdelek, in fermentirani/kulturni mlečni izdelki, kot je kefir",
             "Zeliščne infuzije, ki jih izdelujejo strmi in namakajoči zelišči, začimbe, cvetovi ali drugi rastlinski materiali v vroči vodi (npr. Kamilica, žajbelj, evkaliptus, poprova meta).",
             "Izogibajte se pijačam, ki vsebujejo kofein (npr. Kava, črni čaj, kolas, energetske pijače), dodane sladkorje (npr. Sadne nektarji, brezalkoholne pijače, energetske pijače in športne pijače) ali alkohol (pivo, vino, žgane pijače). Niso dobra sredstva za hidracijo in morda tudi škodljiva za vaše zdravje."
           ]
@@ -7811,7 +7077,7 @@
         {
           "id": 2,
           "title": "Prehranska vrednost",
-          "description": "Seznanjanje s prehransko vrednostjo vode in pijač.",
+          "description": "Seznaniti se s hranilno vrednostjo vode in pijače.",
           "questions": [
             {
               "id": 1,
@@ -7845,7 +7111,7 @@
             },
             {
               "id": 2,
-              "question": "Katera od naslednjih pijač vsebuje vitamin C, ki je pomemben za imunski sistem?",
+              "question": "Katera od naslednjih pijač vsebuje vitamin C, ki je pomemben za vaš obrambni sistem?",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -7905,7 +7171,7 @@
             },
             {
               "id": 4,
-              "question": "Katera od naslednjih pijač vsebuje kalcij, ki je pomemben za močne kosti in zobe?",
+              "question": "Katera od naslednjih pijač vsebuje mineral kalcij, ki je pomemben za močne kosti in zobe?",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -7935,7 +7201,7 @@
             },
             {
               "id": 5,
-              "question": "Katera od naslednjih pijač vsebuje koristne bakterije?",
+              "question": "Katera od naslednjih pijač vsebuje koristne kalčke?",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -7953,7 +7219,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Kefir",
+                  "text": "Kislo mleko",
                   "correct": true
                 },
                 {
@@ -7995,7 +7261,7 @@
             },
             {
               "id": 7,
-              "question": "Katera od naslednjih pijač vsebuje polifenole, ki imajo antioksidativne učinke?",
+              "question": "Katera od naslednjih pijač vsebuje fitokemikalije (posebne spojine, ki dajejo rastlinam okus)?",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -8085,7 +7351,7 @@
             },
             {
               "id": 10,
-              "question": "Katera od naslednjih pijač vsebuje etanol?",
+              "question": "Katera od naslednjih pijač vsebuje alkohol?",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -8119,19 +7385,18 @@
             "Voda je najboljši način, da ostanete hidrirani. Z lahkoto razumete njegov pomen, če mislite, da je do 60-70% našega telesa pravzaprav voda! Ne vsebuje kalorij ali vitaminov, ampak le majhne količine mineralov, kot sta kalcij in magnezij.",
             "Druge zdrave pijače vsebujejo različna pomembna hranila:",
             "Mleko je bogato s kalcijem, ki je bistvenega pomena za močne kosti in zobe.",
-            "Kislo mleko in kefir vsebujejo dobre bakterije, imenovane \"probiotiki\", ki pomagajo pravilno delovati črevesje.",
+            "Kislo mleko in kefir vsebujeta koristne klice, ki pomagajo pri pravilnem delovanju črevesja.",
             "Sveži sadni sokovi so napolnjeni s pomembnimi vitamini (npr. Vitamin C); Vendar imajo manj prehranskih vlaken v primerjavi s celotnim sadjem.",
-            "Nekofeinske zeliščne infuzije vsebujejo antioksidantne spojine, imenovane fitokemikalije.",
             "Ampak bodite previdni! Niso vse pijače hranljive.",
-            "Pakirani sadni sokovi, brezalkoholne pijače, športne pijače in energetske pijače so zelo predelani in obremenjeni s sladkorjem in kemičnimi dodatki/konzervansi, ki imajo škodljive učinke na telo.",
+            "Pakirani sadni sokovi, brezalkoholne pijače, športne pijače in energijske pijače so ultra predelane in polne sladkorja ter aditivov/konzervansov, ki imajo škodljive učinke na telo.",
             "Kava, črni čaj in energijsko pijačo vsebujejo tudi veliko kofeina, kar lahko povzroči tesnobo, razdražljivost in težave s spanjem.",
-            "Alkoholne pijače vsebujejo etanol, kar škoduje za vaš razvoj in splošno zdravje."
+            "Alkohol škoduje delovanju možganov, vedenju in splošnemu razvoju, zato se pitju alkohola vzdržite, tudi redko."
           ]
         },
         {
           "id": 3,
           "title": "Priporočen vnos",
-          "description": "Seznanjanje s priporočenim vnosom vode in pijač.",
+          "description": "Seznaniti se s priporočenim vnosom vode in pijač.",
           "questions": [
             {
               "id": 1,
@@ -8346,17 +7611,17 @@
           ],
           "messages": [
             "Priporočena dnevna poraba vode je odvisna od starosti in spola. Je:",
-            "1600 ml (~ 6-7 kozarcev) za 4-8-letne otroke,",
-            "1900 ml (~ 7-8 očal) za 9-13 let stara deklica ali 2100 ml (~ 8-9 očal) za 9-13-letne fante,",
-            "2000 ml (~ 8 očal) za ≥14 let stara deklica ali 2500 ml (~ 10 očal) za ≥14 let stare dečke.",
+            "(6-7 kozarcev) za otroke 4-8 let,",
+            "(7-8 kozarcev) za 9-13-letne deklice ali (8-9 kozarcev) za 9-13-letne dečke,",
+            "(8 kozarcev) za ≥14-letna dekleta ali (10 kozarcev) za ≥14-letne dečke.",
             "Ali ste vedeli, da ko je temperatura visoka (še posebej poleti) ali če ste fizično aktivni, vaše telo potrebuje več tekočine, da nadomesti vodo, izgubljeno s potenjem in močnim dihanjem? Druge situacije, v katerih potrebujete več tekočine, so, ko imate visoko vročino, drisko in bruhanje.",
-            "Ne pozabite: za optimalni razvoj in zdravje se poskušajte popolnoma izogniti predelanim pijačam z visoko sladko (npr. Sadni nektarji, brezalkoholne pijače in energetske pijače), tistim, ki vsebujejo kofein (npr. Kava in črni čaj) in alkoholne pijače!"
+            "Ne pozabite: za optimalen razvoj in zdravje se poskušajte popolnoma izogibati predelanim pijačam z visoko vsebnostjo sladkorja (npr. sadnim nektarjem, brezalkoholnim in energijskim pijačam), tistim, ki vsebujejo kofein (npr. kava in črni čaj) in predvsem pijačam, ki vsebujejo alkohol!"
           ]
         },
         {
           "id": 4,
           "title": "Prakse porabe",
-          "description": "Seznanjanje z najboljšimi praksami za ostati hidrirani.",
+          "description": "Seznaniti se z najboljšimi praksami za ohranjanje hidracije.",
           "questions": [
             {
               "id": 1,
@@ -8608,7 +7873,7 @@
         {
           "id": 5,
           "title": "Učinki na zdravje",
-          "description": "Poznavanje učinkov vode in pijač na zdravje ter znaki in posledicami dehidracije.",
+          "description": "Seznaniti se z učinki vode in pijače na zdravje ter znaki in posledicami dehidracije.",
           "questions": [
             {
               "id": 1,
@@ -8630,7 +7895,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Sodeluje v številnih biokemičnih reakcijah",
+                  "text": "Vašemu telesu pomaga pridobivati ​​energijo in rasti",
                   "correct": false
                 },
                 {
@@ -8685,7 +7950,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Vam pomaga bolje spati",
+                  "text": "Pomaga vam zgodaj zaspati",
                   "correct": false
                 },
                 {
@@ -8805,12 +8070,12 @@
                 },
                 {
                   "id": 2,
-                  "text": "Utrujenost in omotica",
+                  "text": "Utrujenost",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Glavobol",
+                  "text": "Glavobol ali vrtoglavica",
                   "correct": false
                 },
                 {
@@ -8882,7 +8147,7 @@
             },
             {
               "id": 10,
-              "question": "Uživanje alkoholnih pijač je škodljivo za:",
+              "question": "Uživanje pijač z alkoholom je škodljivo za:",
               "category": {
                 "id": "category-0",
                 "text": "Nedefinirana kategorija"
@@ -8914,9 +8179,9 @@
           "messages": [
             "Ostanite hidrirani, ostanite zdravi!",
             "Pitje dovolj vode je ključnega pomena za vaše telo. Voda pomaga prevoz pomembnih snovi v celice s krvjo, odstrani odpadne snovi skozi urin in podpira številne ključne funkcije telesa. Prav tako vas ohranja osredotočene in energične ter uravnava telesno temperaturo.",
-            "Dehidracija, ki se pojavi, ko vaše telo izgubi več tekočin, kot je potrebno, se lahko predstavlja z znaki in simptomi, kot so žeja, omotica, glavobol, utrujenost, suha usta, neelastična koža in slab zadah. Ste vedeli, da lahko preverite svoj hidratacijski status z opazovanjem barve urina? Temno rumen urin je znak dehidracije in da bi morali piti nekaj vode.",
+            "Dehidracija, ki se pojavi, ko vaše telo izgubi več tekočine, kot jo sprejme, se lahko kaže z znaki in simptomi, kot so žeja, omotica, utrujenost, utrujenost, suha usta, neelastična koža in slab zadah. Ali ste vedeli, da lahko svojo hidracijo preverite z opazovanjem barve urina? Temno rumen urin je znak dehidracije in da bi morali popiti nekaj vode. Prizadevajte si za svetle barve urina, kot je svetel kamilični čaj.",
             "Izogibajte se pijačam s kofeinom, saj lahko povzročijo pretiravanje in motijo vaš spanec.",
-            "Izogibajte se sladkorjem sladkorjem, saj lahko visoko poraba dolgoročno poveča tveganje za zobno gnilobo in kronične bolezni, kot sta debelost in diabetes.",
+            "Izogibajte se sladkanim pijačam, saj lahko visoka poraba dolgoročno poveča tveganje za zobno gnilobo ali debelost.",
             "Ključnega pomena je, da se izognete uživanju alkohola, saj je škodljivo za vaša jetra, kosti, duševno in splošno zdravje."
           ]
         }

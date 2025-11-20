@@ -64,7 +64,7 @@ const onLanguageSelection = (event) => {
           </div>
 
           <div class="text-blue-400">
-            <small><pre>V20251012</pre></small>
+            <small><pre>V20251030</pre></small>
           </div>
         </div>
       </div>

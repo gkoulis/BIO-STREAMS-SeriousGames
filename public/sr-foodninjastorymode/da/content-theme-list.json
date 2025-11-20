@@ -3,27 +3,27 @@
     {
       "id": 1,
       "title": "Frugt og grøntsager",
-      "description": "Fortrolighed med madgruppen af frugter og grøntsager. Opgavenes kompleksitet eskalerer med det fremskridende niveau: I begyndelsen er fokus på frugterne og grøntsagerne alene og derefter introduceres leg med deres farver.",
+      "description": "Søg efter frugter og grøntsager! Skær dem i skiver for at optjene point og lær om deres ernæringsmæssige værdi og farverige palet, hvor mange du bør indtage dagligt og smarte måder at tilføje dem i din kost.",
       "levels": [
         {
           "id": 1,
-          "title": "Din opgave er kun at skære de frugter, du ser.",
+          "title": "Din opgave er at skære frugterne!",
           "messages": [
             "Giv frugt en prioritet!",
-            "Frugter er blandt de fødevarer, det anbefales, at du forbruger dagligt. Generelt er 2-3 frugter om dagen dit ultimative mål. At vælge en frugt som en snack, i skolen eller om eftermiddagen, hjælper dig med at nå dit daglige mål. For at gøre det skal du prioritere frugten: Spis først frugten, så alt andet!"
+            "Frugt er blandt de fødevarer, du bør indtage på daglig basis. Generelt er 2-3 frugter om dagen dit ultimative mål. At vælge en frugt som snack, i skolen eller om eftermiddagen, vil hjælpe dig med at nå dit daglige mål. For at gøre det, giv frugt en prioritet: Spis først frugten, så alt andet!"
           ]
         },
         {
           "id": 2,
-          "title": "Din opgave er kun at skære de grøntsager, du ser.",
+          "title": "Din opgave er at skære grøntsagerne i skiver!",
           "messages": [
             "Gå med en salat til dine måltider!",
-            "Grøntsager, som frugter, anbefales også at blive konsumeret på daglig basis. De kan serveres som en salat eller endda som en hovedret. For at opfylde dit daglige mål skal du ledsage dine vigtigste måltider med grøntsager!"
+            "Grøntsager, ligesom frugt, bør indtages på daglig basis. De kan serveres som salat eller endda som hovedret. For at nå dit daglige mål skal du ledsage dine hovedmåltider med grøntsager!"
           ]
         },
         {
           "id": 3,
-          "title": "Din opgave er kun at skære F&V med rød farve.",
+          "title": "Din opgave er at skære frugter og grøntsager i skiver med rød farve!",
           "messages": [
             "Oplev F & V -paletten af farver!",
             "Frugt og grøntsager er de mest farverige fødevaregrupper. Deres farver er imidlertid ikke kun en fornøjelse for dine øjne, men også for din krop. Bag en farve findes der visse stoffer, der specifikt er til gavn for et system af din krop. Med andre ord er de forskellige farver gode til forskellige systemer i kroppen. Oplev dem!"
@@ -34,27 +34,27 @@
     {
       "id": 2,
       "title": "Mejeriprodukter (DP)",
-      "description": "Fortrolighed med madgruppen af mejeriprodukter. Opgavenes kompleksitet øges med hvert niveau: For det første er fokus på at identificere og skære fælles mejeriprodukter; Derefter går eleverne videre til at skære det billede, der viser det anbefalede daglige forbrug af mejeriprodukter; Endelig identificerer de og skiver det billede, der fremhæver det nøgle næringsstof, der findes i mejerier, dvs. calcium.",
+      "description": "Søg efter mejeriprodukterne! Skær dem i skiver for at optjene point og lær om deres vigtigste næringsstoffer, hvor mange du bør indtage dagligt, deres portionsstørrelse og smarte måder at tilføje dem til din kost.",
       "levels": [
         {
           "id": 1,
-          "title": "Din opgave er kun at skære de mejeriprodukter, du ser.",
+          "title": "Din opgave er at skære mejeriprodukterne i skiver!",
           "messages": [
-            "Gør mejerier til en daglig vane! Medtag dem tidligt i din dag og opbyg sunde vaner, der varer!",
-            "Mejeriprodukter som mælk, yoghurt og ost er fødevarer, der anbefales til det daglige forbrug, fordi de leverer nøgle næringsstoffer til din vækst og udvikling."
+            "Gør mejeriprodukter til en daglig vane! Inkluder dem tidligt i din dag, og opbyg sunde vaner, der holder!",
+            "Mejeriprodukter som mælk, yoghurt og ost er fødevarer, du bør indtage dagligt, fordi de giver vigtige næringsstoffer til din vækst og udvikling."
           ]
         },
         {
           "id": 2,
-          "title": "Din opgave er kun at skære det anbefalede daglige forbrug af mejeriprodukter, du ser.",
+          "title": "Din opgave er at skære det anbefalede daglige forbrug af mejeriprodukter i skiver!",
           "messages": [
-            "Gå med mejerier hver dag!",
-            "For at nå målet om 3-4 portioner mejeriprodukter om dagen, kan du prøve at inkludere et glas mælk med morgenmad, yoghurt som en snack eller ost med din frokost eller middag. Gør det til en vane - par dine måltider eller snacks med en mejeriindstilling for at forblive stærk og sund!"
+            "Gå med mejeriprodukter hver dag!",
+            "For at nå målet om 3-4 portioner mejeriprodukter om dagen, prøv at inkludere et glas mælk til morgenmaden, yoghurt som snack eller ost til din frokost eller aftensmad. Gør det til en vane - sæt dine måltider eller snacks sammen med et mejeriprodukt for at forblive stærk og sund!"
           ]
         },
         {
           "id": 3,
-          "title": "Din opgave er at identificere, hvad der tæller som en del af et mejeriprodukt. Vælg alle de varer, der repræsenterer en standard mejeri -del.",
+          "title": "Din opgave er at skære, hvad der tæller som én portion af et mejeriprodukt.",
           "messages": [
             "Hvad tæller som en portion mejeri?",
             "Her er en hurtig guide: (1) 1 glas (240 ml) mælk, (2) 1 gryde (150 g) yoghurt og (3) 1 skive (eller 30 g) ost"
@@ -62,9 +62,9 @@
         },
         {
           "id": 4,
-          "title": "Din opgave er kun at skære det centrale næringsstof, der findes i mejeriprodukter. Bemærk, at: CA: Calcium, Fe: jern.",
+          "title": "Din opgave er at skære det vigtigste næringsstof, der findes i mejeriprodukter! Bemærk at: Ca: calcium, Fe: Jern, ve: E-vitamin.",
           "messages": [
-            "Mejeriprodukter er en af de bedste kilder til calcium (CA), som hjælper med at opbygge stærke knogler og tænder.",
+            "Mejeriprodukter er en af ​​de bedste kilder til calcium, som hjælper med at opbygge stærke knogler og tænder.",
             "Mejeriprodukter er også vigtige kilder til protein af høj kvalitet, der er vigtige for din vækst, vitaminer og mineraler.",
             "Mejeriprodukter med lavt fedtindhold giver dig mindre kalorier og fedt, men er også gode kilder til calcium og proteiner. Vælg dem også!"
           ]

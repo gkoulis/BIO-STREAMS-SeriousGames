@@ -8,7 +8,7 @@
         {
           "id": 1,
           "title": "Connaissance",
-          "description": "Familiarisation avec les groupes alimentaires de fruits et légumes.",
+          "description": "Se familiariser avec les groupes alimentaires des fruits et légumes.",
           "questions": [
             {
               "id": 1,
@@ -132,7 +132,7 @@
             },
             {
               "id": 5,
-              "question": "Lequel des éléments suivants est un légume?",
+              "question": "Lequel des éléments suivants est un légume, d’un point de vue nutritionnel ?",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -254,17 +254,18 @@
           "messages": [
             "Bienvenue dans le monde des fruits et légumes!",
             "Le groupe de fruits comprend tous les fruits frais (par exemple orange, pomme, poire, banane, pêche) et fruits secs (par exemple, prunes, raisins secs, abricots), ainsi que des jus de fruits fraîchement pressés (c'est-à-dire des jus de fruits à 100% sans sucres ajoutés). N'oubliez pas: les fruits emballés des jus avec du sucre ajouté, des boissons gazeuses et d'autres boissons fruitières transformées ne sont pas incluses dans le groupe alimentaire des fruits.",
-            "Le groupe de légumes comprend tous les légumes crus (par exemple la laitue, le chou, la carotte, la tomate, le concombre) et les légumes cuits (par exemple le brocoli, le chou-fleur, les courgettes, les betteraves). N'oubliez pas: les féculents, c'est-à-dire le maïs, les pois et la citrouille, sont également inclus dans le groupe alimentaire des légumes, mais ils sont riches en amidon, un glucides complexes, qui n'est pas présent dans d'autres légumes."
+            "Le groupe de légumes comprend tous les légumes crus (par exemple la laitue, le chou, la carotte, la tomate, le concombre) et les légumes cuits (par exemple le brocoli, le chou-fleur, les courgettes, les betteraves). N'oubliez pas: les féculents, c'est-à-dire le maïs, les pois et la citrouille, sont également inclus dans le groupe alimentaire des légumes, mais ils sont riches en amidon, un glucides complexes, qui n'est pas présent dans d'autres légumes.",
+            "Il existe différents types de légumes, comme les feuilles vertes (par exemple les épinards), les racines (par exemple la carotte) ou les crucifères (par exemple le brocoli, le chou-fleur). Les légumes féculents, c'est-à-dire le maïs, les pois et la citrouille, font également partie du groupe des aliments végétaux, mais ils sont riches en amidon, un type de glucides qui n'est pas présent dans les autres légumes."
           ]
         },
         {
           "id": 2,
           "title": "Valeur nutritionnelle",
-          "description": "Familiarisation avec la valeur nutritionnelle des fruits et légumes.",
+          "description": "Se familiariser avec la valeur nutritionnelle des fruits et légumes.",
           "questions": [
             {
               "id": 1,
-              "question": "De quels principaux fruits et légumes nutritifs sont-ils principaux?",
+              "question": "Quels sont les principaux éléments nutritifs des fruits ?",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -282,7 +283,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Fibres",
+                  "text": "Lipides",
                   "correct": false
                 },
                 {
@@ -536,14 +537,14 @@
           "messages": [
             "Les fruits et légumes sont une très bonne source d'un large éventail de nutriments importants!",
             "Ils sont principalement composés de glucides qui sont principalement présents sous forme de sucres et fournissent de l'énergie au corps.",
-            "Ils comprennent également des vitamines (par exemple la vitamine C, la vitamine K, l'acide folique), les minéraux (par exemple le potassium, le calcium), les fibres et d'autres composés (par exemple les phytochimiques) importants pour la fonction optimale du corps.",
+            "Ils contiennent également des vitamines (par exemple la vitamine C, la vitamine K, l'acide folique), des minéraux (par exemple le potassium, le calcium), des fibres ainsi que d'autres composés importants pour le fonctionnement optimal de l'organisme.",
             "Même s'ils sont des aliments solides, ils contiennent beaucoup d'eau et peuvent également contribuer à l'hydratation du corps."
           ]
         },
         {
           "id": 3,
           "title": "Apport recommandé",
-          "description": "Familiarisation avec l'apport recommandé et la taille des portions des fruits et légumes.",
+          "description": "Se familiariser avec les apports recommandés et la taille des portions de fruits et légumes.",
           "questions": [
             {
               "id": 1,
@@ -765,7 +766,7 @@
         {
           "id": 4,
           "title": "Pratiques de consommation",
-          "description": "Familiarisation avec les meilleures pratiques pour gérer et consommer des fruits et légumes.",
+          "description": "Se familiariser avec les bonnes pratiques de manipulation et de consommation des fruits et légumes.",
           "questions": [
             {
               "id": 1,
@@ -937,7 +938,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Avec moins de pesticides",
+                  "text": "Avec moins de pesticides (produits chimiques utilisés à la ferme pour protéger les plantes)",
                   "correct": true
                 },
                 {
@@ -988,7 +989,7 @@
         {
           "id": 5,
           "title": "Effets sur la santé",
-          "description": "Familiarisation avec les avantages pour la santé des fruits et légumes.",
+          "description": "Se familiariser avec les bienfaits des fruits et légumes pour la santé.",
           "questions": [
             {
               "id": 1,
@@ -1060,7 +1061,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Ils augmentent votre système immunitaire",
+                  "text": "Ils renforcent le système de défense de votre corps",
                   "correct": true
                 },
                 {
@@ -1114,13 +1115,13 @@
           "messages": [
             "Allez en bonne santé avec plus de fruits et légumes!",
             "Les fruits et légumes sont un élément clé d'une alimentation saine.",
-            "Parmi leurs nombreux avantages pour la santé, ils soutiennent la croissance et le développement optimaux, améliorent le système immunitaire et aident le système cardiovasculaire et le tractus gastro-intestinal fonctionnent correctement."
+            "Parmi leurs nombreux bienfaits pour la santé, ils favorisent une croissance et un développement optimaux, renforcent notre système de défense et aident le cœur et les intestins à fonctionner correctement."
           ]
         },
         {
           "id": 6,
           "title": "Variété et saisonnalité",
-          "description": "Familiarisation avec les concepts de variété et de saisonnalité des fruits et légumes.",
+          "description": "Se familiariser avec les notions de variété et de saisonnalité des fruits et légumes.",
           "questions": [
             {
               "id": 1,
@@ -1154,7 +1155,7 @@
             },
             {
               "id": 2,
-              "question": "La couleur des fruits et légumes indique leur contenu dans:",
+              "question": "Lequel des composés ci-dessous donne aux fruits et légumes leur couleur particulière ? :",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -1162,7 +1163,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Phytochimiques",
+                  "text": "Composés spéciaux appelés composés phytochimiques",
                   "correct": true
                 },
                 {
@@ -1344,7 +1345,7 @@
     {
       "id": 2,
       "title": "Quiz sur les produits laitiers (DP)",
-      "description": "Un jeu de quiz visant à accroître les connaissances sur le groupe alimentaire laitier et à motiver la consommation optimale par la compréhension des types, de la nutrition, des pratiques, de la sécurité et des avantages pour la santé.",
+      "description": "Pour approfondir vos connaissances sur les produits laitiers !. Répondez aux questions et découvrez ce qui compte comme produits laitiers d'un point de vue nutritionnel, leur valeur nutritionnelle, la quantité recommandée et des conseils pratiques pour répondre à vos besoins quotidiens et les manipuler en toute sécurité.",
       "levels": [
         {
           "id": 1,
@@ -1353,7 +1354,7 @@
           "questions": [
             {
               "id": 1,
-              "question": "Lequel des éléments suivants est un aliment laitier?",
+              "question": "Parmi les produits suivants, lequel est un produit laitier ?",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -1383,7 +1384,7 @@
             },
             {
               "id": 2,
-              "question": "Lequel des éléments suivants est un aliment laitier?",
+              "question": "Parmi les produits suivants, lequel est un produit laitier ?",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -1413,7 +1414,7 @@
             },
             {
               "id": 3,
-              "question": "Lequel des éléments suivants est un aliment laitier?",
+              "question": "Lequel des produits suivants est un produit laitier d’un point de vue nutritionnel ?",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -1431,7 +1432,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Kéfir.",
+                  "text": "Fromage.",
                   "correct": true
                 },
                 {
@@ -1443,7 +1444,7 @@
             },
             {
               "id": 4,
-              "question": "Lequel des éléments suivants n'appartient pas au groupe alimentaire des laiteries?",
+              "question": "Lequel des produits suivants n’est pas un produit laitier d’un point de vue nutritionnel ?",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -1473,7 +1474,7 @@
             },
             {
               "id": 5,
-              "question": "Quels ingrédients ont tous les aliments laitiers en commun?",
+              "question": "Quel ingrédient tous les produits laitiers ont en commun ?",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -1503,7 +1504,7 @@
             },
             {
               "id": 6,
-              "question": "Lequel des éléments suivants est un produit laitier fermenté?",
+              "question": "Parmi les produits laitiers suivants, lesquels contiennent des germes utiles ?",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -1533,15 +1534,15 @@
             }
           ],
           "messages": [
-            "Bienvenue dans le monde de Dairy!",
-            "Le groupe alimentaire Dairies comprend des aliments à base de lait - comme du lait, du yaourt nature et du fromage. N'oubliez pas: les produits comme le yaourt avec beaucoup de sucre ajouté, de beurre et de laits à base de plantes ou de chocolat ne sont pas comptés comme faisant partie du groupe de produits laitiers.",
-            "Divers produits laitiers ont des goûts et des textures différents, mais incluent des nutriments similaires importants pour votre croissance et votre santé."
+            "Bienvenue dans le monde des produits laitiers !",
+            "D'un point de vue nutritionnel, le groupe alimentaire des produits laitiers comprend les aliments à base de lait qui contiennent également des quantités similaires de certains nutriments, comme les protéines et le calcium. Ainsi, le lait, le yaourt nature et le fromage appartiennent à ce groupe, tandis que le beurre, bien que issu du lait, appartient au groupe alimentaire des graisses et des huiles.",
+            "N'oubliez pas que les desserts au yaourt ressemblent au yaourt mais contiennent du sucre ajouté et des conservateurs, ils ressemblent donc davantage à un dessert."
           ]
         },
         {
           "id": 2,
           "title": "Valeur nutritionnelle",
-          "description": "Familiarisation avec la valeur nutritionnelle des produits laitiers.",
+          "description": "Se familiariser avec la valeur nutritionnelle des produits laitiers.",
           "questions": [
             {
               "id": 1,
@@ -1553,22 +1554,22 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Graisse.",
+                  "text": "Lipides.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Protéine.",
+                  "text": "Protéines.",
                   "correct": true
                 },
                 {
                   "id": 3,
-                  "text": "Sucre.",
+                  "text": "Sucres.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Fibre.",
+                  "text": "Fibres.",
                   "correct": false
                 }
               ]
@@ -1604,36 +1605,6 @@
               ]
             },
             {
-              "id": 3,
-              "question": "Comment est appelé le sucre naturel dans le lait?",
-              "category": {
-                "id": "category-0",
-                "text": "Catégorie non définie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Saccharose.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Fructose.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Glucose.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Lactose.",
-                  "correct": true
-                }
-              ]
-            },
-            {
               "id": 4,
               "question": "Lequel des produits suivants comprend souvent des sucres ajoutés?",
               "category": {
@@ -1665,7 +1636,7 @@
             },
             {
               "id": 5,
-              "question": "Les laits entiers et écrémés diffèrent dans leur:",
+              "question": "Les laits entiers et écrémés diffèrent par :",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -1683,7 +1654,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Contenu graisseux.",
+                  "text": "Teneur en lipides.",
                   "correct": true
                 },
                 {
@@ -1695,7 +1666,7 @@
             },
             {
               "id": 6,
-              "question": "Que signifie les produits laitiers faibles en gras ou en gras réduit?",
+              "question": "Que signifient les produits laitiers « faibles en gras » ?",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -1703,7 +1674,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "CONCUPATION DES GAPES DUISSANT.",
+                  "text": "Moins de lipides.",
                   "correct": true
                 },
                 {
@@ -1725,7 +1696,7 @@
             },
             {
               "id": 7,
-              "question": "Que fait la graisse que l'on trouve dans les produits laitiers aide votre corps?",
+              "question": "Qu’est-ce que les lipides présents dans les produits laitiers aident votre corps à faire ?",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -1814,66 +1785,6 @@
               ]
             },
             {
-              "id": 10,
-              "question": "Quelle vitamine aide votre corps à mieux absorber le calcium?",
-              "category": {
-                "id": "category-0",
-                "text": "Catégorie non définie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Vitamine D.",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Vitamine B12.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Vitamine A.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Vitamine E.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 11,
-              "question": "Quel micronutriment dans les produits laitiers aide votre cœur et vos muscles à fonctionner correctement?",
-              "category": {
-                "id": "category-0",
-                "text": "Catégorie non définie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Vitamine D.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Potassium.",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Zinc.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Vitamine K.",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 12,
               "question": "Lequel des nutriments suivants ne se trouve généralement pas dans le lait et les produits laitiers?",
               "category": {
@@ -1883,12 +1794,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Fibre.",
+                  "text": "Fibres.",
                   "correct": true
                 },
                 {
                   "id": 2,
-                  "text": "Sodium.",
+                  "text": "Protéines.",
                   "correct": false
                 },
                 {
@@ -1904,38 +1815,8 @@
               ]
             },
             {
-              "id": 13,
-              "question": "Lequel des éléments suivants contient des quantités négligeables de lactose?",
-              "category": {
-                "id": "category-0",
-                "text": "Catégorie non définie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Lait.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Yaourt.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Fromage feta.",
-                  "correct": true
-                },
-                {
-                  "id": 4,
-                  "text": "Fromage Gouda.",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 14,
-              "question": "Quel type de fromage est le plus riche en calcium?",
+              "question": "Lequel des énoncés suivants est vrai pour le calcium présent dans le fromage ?",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -1943,22 +1824,22 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Parmesan.",
+                  "text": "Plus le fromage est jaune, plus il contient de calcium.",
                   "correct": true
                 },
                 {
                   "id": 2,
-                  "text": "Chalet.",
+                  "text": "Plus le fromage est blanc, plus il contient de calcium.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Mozzarella.",
+                  "text": "Le fromage ne contient pas de calcium.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Fromage à la crème.",
+                  "text": "Toutes les sortes de fromages contiennent la même quantité de calcium.",
                   "correct": false
                 }
               ]
@@ -1983,28 +1864,28 @@
                 },
                 {
                   "id": 3,
-                  "text": "A été fortifié avec des nutriments / s.",
+                  "text": "A des nutriments supplémentaires ajoutés.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Contient bénéfique pour nos micro-organismes de santé.",
+                  "text": "Contient des germes utiles pour notre santé.",
                   "correct": true
                 }
               ]
             }
           ],
           "messages": [
-            "Le lait et les produits laitiers fournissent des protéines de haute qualité, ce qui signifie qu'ils contiennent tous les acides aminés essentiels que le corps a besoin pour construire et préserver les cellules, les organes et les tissus. Ils sont également parmi les sources les plus riches de calcium de l'alimentation.",
-            "Les produits laitiers contiennent également des vitamines importantes comme la vitamine D, le B12 et la riboflavine, ainsi que des minéraux tels que le phosphore et le potassium, qui contribuent à la santé globale.",
-            "De nombreux produits laitiers comprennent le lactose, le sucre naturel dans le lait, qui fournit de l'énergie. Certaines personnes peuvent ne pas tolérer le lactose et ils devraient choisir du lait sans lactose et du yaourt ou des fromages durs qui contiennent des quantités négligeables de lactose.",
-            "Les aliments fermentés sont produits par un processus appelé fermentation, où des micro-organismes comme la levure et les bactéries décomposent les composants alimentaires, les transformant en nouvelles substances."
+            "Les produits laitiers fournissent des protéines de haute qualité qui, entre autres rôles, contribuent à développer et à régénérer les muscles.",
+            "Ils font également partie des sources alimentaires les plus riches en calcium, nécessaire aux os et à la dentition.",
+            "Les produits laitiers contiennent également d’autres micronutriments importants, des vitamines comme les vitamines D, B12 et B2, ainsi que des minéraux comme le phosphore et le potassium, qui contribuent à la santé globale.",
+            "Certains produits laitiers, comme le yaourt, sont produits en ajoutant au lait certains types de germes qui produisent des composés utiles et sains pour votre intestin. Ces produits sont appelés fermentés."
           ]
         },
         {
           "id": 3,
           "title": "Consommation recommandée et taille des portions",
-          "description": "Familiarisation avec l'admission recommandée et la taille des portions des produits laitiers.",
+          "description": "Se familiariser avec les apports recommandés et la taille des portions de produits laitiers.",
           "questions": [
             {
               "id": 1,
@@ -2051,7 +1932,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "1 pot (150 g) de yaourt.",
+                  "text": "1 tasse (200 g) de yaourt.",
                   "correct": false
                 },
                 {
@@ -2106,7 +1987,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Un pot (150 g) de yaourt.",
+                  "text": "une tasse de yaourt.",
                   "correct": false
                 },
                 {
@@ -2116,42 +1997,12 @@
                 },
                 {
                   "id": 3,
-                  "text": "1/2 tasse de fromage de ricotta.",
+                  "text": "1 tasse de fromage cottage.",
                   "correct": false
                 },
                 {
                   "id": 4,
                   "text": "N'importe lequel des précédents.",
-                  "correct": true
-                }
-              ]
-            },
-            {
-              "id": 5,
-              "question": "Quel type de lait contient des graisses plus faibles?",
-              "category": {
-                "id": "category-0",
-                "text": "Catégorie non définie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Lait entier.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Lait aromatisé.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Lait au chocolat.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Lait écrémé.",
                   "correct": true
                 }
               ]
@@ -2181,7 +2032,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Lait évaporé.",
+                  "text": "Lait concentré.",
                   "correct": false
                 }
               ]
@@ -2212,36 +2063,6 @@
                 {
                   "id": 4,
                   "text": "Étiquette de prix.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 8,
-              "question": "Quel genre de lait est le meilleur pour les enfants avec une intolérance au lactose?",
-              "category": {
-                "id": "category-0",
-                "text": "Catégorie non définie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Lait au chocolat.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Lait sans lactose.",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Lait écrémé.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Il n'y a pas de lait pour eux.",
                   "correct": false
                 }
               ]
@@ -2278,7 +2099,7 @@
             },
             {
               "id": 10,
-              "question": "À quel âge les enfants peuvent-ils commencer à boire du lait à faible teneur en matières grasses (semi-rassasié)?",
+              "question": "A quel âge les enfants peuvent-ils commencer à boire du lait écrémé ?",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -2308,16 +2129,17 @@
             }
           ],
           "messages": [
-            "Vous devez consommer quotidiennement du lait et des produits laitiers dans le cadre d'une alimentation équilibrée, visant 3 à 4 portions de produits laitiers chaque jour. Une portion peut être 1 tasse de lait, 1 pot de yaourt ou 1 tranche (30 grammes) de fromage.",
-            "Si vous ne buvez pas de lait, vous pouvez toujours obtenir la plupart de ses nutriments des aliments comme le fromage ou le yaourt, et en cas d'intolérance au lactose, le lait sans lactose est une excellente option.",
+            "Vous devez consommer quotidiennement du lait et des produits laitiers dans le cadre d’une alimentation équilibrée, en visant 3 à 4 portions de produits laitiers chaque jour. Une portion peut contenir 1 tasse de lait, 1 tasse de yaourt ou 1 tranche (30 grammes) de fromage.",
+            "Si vous ne buvez pas de lait, vous pouvez toujours obtenir la plupart de ses nutriments à partir d’aliments comme le fromage ou le yaourt.",
             "Il est également intelligent de vérifier les étiquettes de yaourt pour le sucre ajouté pour faire des choix plus sains.",
-            "Pour les enfants de plus de 2 ans, le lait et les yaourts à faible teneur en gras et semi-skins (faible en gras) sont des choix appropriés, en fonction des besoins énergétiques et de la santé globale."
+            "Pour les enfants de plus de 2 ans, le lait et les yaourts entiers et (faibles en matières grasses) sont des choix appropriés, en fonction de leurs besoins énergétiques et de leur état de santé général.",
+            "Gardez à l’esprit que certaines personnes ont des problèmes digestifs lorsqu’elles boivent du lait. Pour eux, il existe sur le marché un type de lait appelé « sans lactose »."
           ]
         },
         {
           "id": 4,
           "title": "Pratiques de consommation",
-          "description": "Familiarisation avec les meilleures pratiques pour intégrer les aliments laitiers dans les repas, les collations et les recettes.",
+          "description": "Se familiariser avec les meilleures pratiques pour intégrer les produits laitiers aux repas, collations et recettes.",
           "questions": [
             {
               "id": 1,
@@ -2351,7 +2173,7 @@
             },
             {
               "id": 2,
-              "question": "Quel est un bon choix pour ajouter des laiteries à votre boîte à lunch?",
+              "question": "Quel est le bon choix pour ajouter des produits laitiers à votre boîte à lunch ?",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -2364,7 +2186,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Une canette de soda.",
+                  "text": "Une canette de boisson gazeuse.",
                   "correct": false
                 },
                 {
@@ -2399,7 +2221,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Chips et soda.",
+                  "text": "Chips et boisson gazeuse.",
                   "correct": false
                 },
                 {
@@ -2464,14 +2286,14 @@
                 },
                 {
                   "id": 4,
-                  "text": "Yaourt grec nature.",
+                  "text": "Yaourt nature.",
                   "correct": true
                 }
               ]
             },
             {
               "id": 6,
-              "question": "Qu'est-ce qu'une garniture pour la salade de fruits pour ajouter du calcium et des protéines?",
+              "question": "Qu'est-ce qu'une garniture saine pour une salade de fruits pour ajouter du calcium et des protéines ?",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -2489,7 +2311,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Garniture fouettée.",
+                  "text": "Crème fouettée.",
                   "correct": false
                 },
                 {
@@ -2519,7 +2341,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Ajoutez de la crème de wheep à vos fruits.",
+                  "text": "Ajoutez de la chantilly à vos fruits.",
                   "correct": false
                 },
                 {
@@ -2539,7 +2361,7 @@
         {
           "id": 5,
           "title": "Pratiques de manutention et de stockage",
-          "description": "Familiarisation avec le stockage, la prévention et la contamination sûres et la compréhension des dates d'expiration et des signes de détérioration des aliments laitiers.",
+          "description": "Se familiariser avec le stockage sûr, la prévention et la contamination, et comprendre les dates de péremption et les signes de détérioration des produits laitiers.",
           "questions": [
             {
               "id": 1,
@@ -2603,7 +2425,7 @@
             },
             {
               "id": 3,
-              "question": "Date d'expiration ou mieux par date Reportez-vous à la date d'un produit laitier:",
+              "question": "La « Date de péremption » fait référence à la date à laquelle un produit laitier :",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -2664,14 +2486,14 @@
           ],
           "messages": [
             "Pour garder les produits laitiers en sécurité et frais, ils doivent toujours être stockés dans le réfrigérateur au moins dans 40 ° F (4 ° C). Les basses températures empêchent la croissance des bactéries nocives, ce qui peut vous rendre malade.",
-            "Vérifiez toujours la date «expiration» ou «meilleur par» sur l'étiquette. Cela vous indique la dernière date d'utilisation du produit pour la meilleure qualité et la meilleure sécurité.",
-            "Pour voir si le produit laitier est toujours bon, vous devez le sentir, vérifier la texture et lire la date. S'il sent aigre, a l'air étrange ou a dépassé sa date, il est préférable de ne pas le manger ou de le boire."
+            "Vérifiez toujours la date « d’expiration » sur l’étiquette. Cela vous indique la date limite d'utilisation du produit pour une qualité et une sécurité optimales.",
+            "Pour vérifier si le produit laitier est encore bon, vous devez le sentir, vérifier sa texture et lire la date. S’il sent aigre, semble étrange ou est périmé, il est préférable de ne pas le manger ni le boire."
           ]
         },
         {
           "id": 6,
           "title": "Effets sur la santé",
-          "description": "Familiarisation avec les avantages pour la santé des produits laitiers.",
+          "description": "Se familiariser avec les bienfaits des produits laitiers sur la santé.",
           "questions": [
             {
               "id": 1,
@@ -2764,36 +2586,6 @@
               ]
             },
             {
-              "id": 4,
-              "question": "Préférer le lait ou le yaourt entièrement entier contribue à:",
-              "category": {
-                "id": "category-0",
-                "text": "Catégorie non définie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Consommation de graisses saturées plus bas.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Taux de lipides sanguins normaux.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Moins d'apport énergétique.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Tous les précédents.",
-                  "correct": true
-                }
-              ]
-            },
-            {
               "id": 5,
               "question": "Produits laitiers fermentés comme le yaourt nature et le kéfir:",
               "category": {
@@ -2808,7 +2600,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Aidez votre système immunitaire.",
+                  "text": "Ayez des germes plus utiles.",
                   "correct": false
                 },
                 {
@@ -2826,9 +2618,9 @@
           ],
           "messages": [
             "Les produits laitiers sont importants car ils aident votre corps à devenir fort et à rester en bonne santé.",
-            "Le calcium dans les laiteries construit des os et des dents forts, tandis que les protéines soutiennent le développement et la croissance des muscles.",
-            "Les experts recommandent des aliments laitiers non seulement pour grandir, mais aussi parce qu'ils aident la prévention des maladies, comme l'ostéoporose, plus tard dans la vie.",
-            "Le choix des produits laitiers faibles ou fermentés peut vous protéger contre divers problèmes de santé."
+            "Le calcium contenu dans les produits laitiers renforce les os et les dents, tandis que les protéines soutiennent le développement et la croissance musculaire.",
+            "Les experts recommandent les produits laitiers non seulement pour grandir en force, mais aussi parce qu'ils contribuent à la prévention des maladies, telles que la faiblesse de la santé plus tard dans la vie.",
+            "Choisir des produits laitiers allégés ou fermentés peut vous protéger de divers problèmes de santé."
           ]
         }
       ]
@@ -2836,12 +2628,12 @@
     {
       "id": 3,
       "title": "Grain and Grain Products (G & GP) Quiz",
-      "description": "Un jeu de quiz pour accroître les connaissances sur les céréales et favoriser les modèles de consommation optimaux, y compris les types d'aliments, la valeur nutritionnelle et les effets sur la santé.",
+      "description": "Améliorez vos connaissances sur les céréales et les produits céréaliers! Répondez aux questions et découvrez quels aliments sont inclus, leur valeur nutritionnelle, les recommandations pour les consommer et choisir leurs formes plus saines.",
       "levels": [
         {
           "id": 1,
           "title": "Connaissance",
-          "description": "Familiarisation avec le groupe alimentaire de grains.",
+          "description": "Se familiariser avec le groupe alimentaire des céréales.",
           "questions": [
             {
               "id": 1,
@@ -3038,7 +2830,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Bagels.",
+                  "text": "Pain blanc.",
                   "correct": false
                 },
                 {
@@ -3073,7 +2865,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Tahini (pâte de sésame).",
+                  "text": "Beurre de cacahuète.",
                   "correct": false
                 },
                 {
@@ -3085,16 +2877,15 @@
             }
           ],
           "messages": [
-            "Bienvenue dans le monde des céréales!",
-            "Le groupe de céréales des céréales comprend tous les aliments à base de blé, de riz, d'avoine, d'orge, etc. Ces grains sont souvent utilisés pour fabriquer des produits comme le pain, les pâtes, les céréales de petit-déjeuner, les tortillas et les craquelins.",
-            "Il existe également d'autres grains moins connus appelés pseudo-grains tels que le millet, le sorgho, l'amarante, le sarrasin, le quinoa, le teff qui sont également riches en nutriments précieux.",
-            "Les grains sont un élément essentiel d'une alimentation équilibrée et sont disponibles sous de nombreuses formes - des grains entiers à ceux raffinés. Apprendre les grains vous aide à faire des choix plus sains!"
+            "Bienvenue dans le monde des céréales et des produits céréaliers ! Le groupe comprend des produits à base de plantes comme le blé, le riz, l'avoine, l'orge, etc. Ces céréales sont largement utilisées pour fabriquer des produits comme le pain, les pâtes, les céréales pour petit-déjeuner, les tortillas et les craquelins.",
+            "Il existe également d'autres céréales moins connues, comme le millet, le sarrasin et le quinoa, considérées comme très saines.",
+            "Les céréales sont un élément essentiel d’une alimentation équilibrée et sont disponibles sous de nombreuses formes, qui diffèrent par leur valeur nutritionnelle. En savoir plus sur les céréales vous aide à faire des choix plus sains !!"
           ]
         },
         {
           "id": 2,
           "title": "Valeur nutritionnelle",
-          "description": "Familiarisation avec la valeur nutritionnelle des grains.",
+          "description": "Se familiariser avec la valeur nutritionnelle des céréales.",
           "questions": [
             {
               "id": 1,
@@ -3116,7 +2907,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Graisses.",
+                  "text": "Lipides.",
                   "correct": false
                 },
                 {
@@ -3158,7 +2949,7 @@
             },
             {
               "id": 3,
-              "question": "Lequel des éléments suivants ne fait pas partie d'un grain entier:",
+              "question": "Lequel des éléments suivants fait partie d’un grain entier :",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -3171,17 +2962,47 @@
                 },
                 {
                   "id": 2,
-                  "text": "Le germe.",
+                  "text": "Les feuilles.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "L'endosperm.",
+                  "text": "La fleur.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Le son.",
+                  "text": "La (partie externe de la graine (appelée son).",
+                  "correct": false
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "question": "Que signifie le terme raffiné pour les grains ?",
+              "category": {
+                "id": "category-0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Ils sont chers.",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Certaines parties du grain entier ont été retirées.",
+                  "correct": true
+                },
+                {
+                  "id": 3,
+                  "text": "Ils sont colorés.",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Ils poussent dans des environnements tropicaux.",
                   "correct": false
                 }
               ]
@@ -3231,17 +3052,17 @@
                 },
                 {
                   "id": 2,
-                  "text": "Fibre.",
+                  "text": "Fibres.",
                   "correct": true
                 },
                 {
                   "id": 3,
-                  "text": "Sodium.",
+                  "text": "Sel.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Graisses saturées.",
+                  "text": "Lipides saturés.",
                   "correct": false
                 }
               ]
@@ -3261,7 +3082,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Fibre.",
+                  "text": "Fibres.",
                   "correct": false
                 },
                 {
@@ -3277,38 +3098,8 @@
               ]
             },
             {
-              "id": 7,
-              "question": "Quelle partie du grain fournit le plus de fibres?",
-              "category": {
-                "id": "category-0",
-                "text": "Catégorie non définie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Endosperme.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Bran.",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Feuilles.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Germe.",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 8,
-              "question": "Le terme grains enrichis signifie que dans ces grains:",
+              "question": "Le terme « grains enrichis » signifie que dans ces grains :",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -3316,7 +3107,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Des vitamines B ont été ajoutées.",
+                  "text": "Les vitamines qui ont été supprimées avec raffinement ont été rajoutées.",
                   "correct": true
                 },
                 {
@@ -3326,7 +3117,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Les graisses ont été supprimées.",
+                  "text": "les lipides ont été éliminés.",
                   "correct": false
                 },
                 {
@@ -3368,16 +3159,13 @@
             }
           ],
           "messages": [
-            "Les aliments fabriqués à partir de blé, de riz, d'avoine, de semoule de maïs, d'orge ou d'un autre céréale sont des produits céréaliers.",
-            "Les grains ont deux sous-groupes: les grains entiers et les grains raffinés.",
-            "Les grains, en particulier les grains entiers, sont des sources importantes de nombreux nutriments, notamment des glucides complexes, des fibres et des vitamines B. Ils contiennent également des minéraux essentiels comme le fer, le magnésium et le sélénium.",
-            "Les grains entiers conservent leur son et leur germe, qui fournissent des fibres et des nutriments, contrairement aux grains raffinés qui en perdent beaucoup pendant le traitement. Les grains entiers contiennent plus de fibres que les grains raffinés et sont importants pour une bonne fonction intestinale."
+            "Les grains peuvent être trouvés sous forme de grains entiers ou de grains raffinés. Ils diffèrent par les parties qu'ils contiennent. Les grains entiers ont le grain d'origine intact (entier), tandis que les grains raffinés ont perdu certaines parties après transformation (raffinage). Bien que les deux fournissent des glucides, les grains entiers contiennent également des fibres, des vitamines et des minéraux qui ont été perdus lors du raffinage."
           ]
         },
         {
           "id": 3,
           "title": "Apport recommandé",
-          "description": "Familiarisation avec l'admission et la taille des portions recommandées des grains.",
+          "description": "Se familiariser avec l’apport recommandé et la taille des portions de céréales.",
           "questions": [
             {
               "id": 1,
@@ -3514,7 +3302,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Pain de blé entier.",
+                  "text": "Pain à grains entiers.",
                   "correct": true
                 },
                 {
@@ -3531,7 +3319,7 @@
             },
             {
               "id": 6,
-              "question": "Lequel des éléments suivants n'est pas une partie des grains entiers?",
+              "question": "Lequel des éléments suivants ne constitue pas une portion de grains entiers ?",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -3629,7 +3417,7 @@
         {
           "id": 4,
           "title": "Pratiques de consommation",
-          "description": "Familiarisation avec les meilleures pratiques pour préparer et consommer des grains.",
+          "description": "Se familiariser avec les bonnes pratiques de préparation et de consommation des céréales.",
           "questions": [
             {
               "id": 1,
@@ -3681,7 +3469,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Bouilli, cuit au four ou cru.",
+                  "text": "Bouilli.",
                   "correct": true
                 },
                 {
@@ -3701,7 +3489,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Un bol de cerveaux entiers avec du lait.",
+                  "text": "Un bol de céréales complètes avec du lait.",
                   "correct": true
                 },
                 {
@@ -3723,7 +3511,7 @@
             },
             {
               "id": 4,
-              "question": "Lequel des éléments suivants est un bon choix de céréales pour votre déjeuner?",
+              "question": "Parmi les céréales suivantes, laquelle est un bon choix pour votre repas principal au déjeuner ?",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -3771,7 +3559,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Tortillas de blé entier.",
+                  "text": "Gressins à grains entiers.",
                   "correct": true
                 },
                 {
@@ -3796,12 +3584,12 @@
                 },
                 {
                   "id": 2,
-                  "text": "Pancakes de blé entier avec du miel.",
+                  "text": "Crêpes aux grains entiers au miel.",
                   "correct": true
                 },
                 {
                   "id": 3,
-                  "text": "Beignet avec praline.",
+                  "text": "Gâteau au praliné.",
                   "correct": false
                 },
                 {
@@ -3826,12 +3614,12 @@
                 },
                 {
                   "id": 2,
-                  "text": "Plus de magnésium.",
+                  "text": "Plus de minéraux.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Plus de vitamines B.",
+                  "text": "Plus de vitamines.",
                   "correct": false
                 },
                 {
@@ -3874,15 +3662,14 @@
           ],
           "messages": [
             "Il y a tellement de façons d'incorporer les céréales dans votre alimentation!",
-            "Consommer les produits céréaliers sous forme de collations tout au long de la journée (choisissez un toast avec du pain et du fromage entier ou des craquelins avec des œufs pour une collation saine à l'école), utilisez-les pour faire des desserts nutritifs (par exemple, des gâteaux et des biscuits maison), ou ajoutez-les à vos repas.",
-            "Donnez la priorité aux grains entiers (au lieu de raffinés) pour profiter de tous leurs nutriments (fibres, vitamines et minéraux).",
-            "Choisissez des grains entiers par rapport à des grains entiers et préparez-les de manière simple et saine comme cuit au four ou bouilli. Évitez d'ajouter trop de matières grasses, de sucre ou de sel. Le pain à grains entiers, la farine d'avoine et le riz brun sont de grandes options de grains entiers."
+            "Consommez des produits céréaliers comme collation (choisissez une tartine avec du pain complet et du fromage ou des craquelins avec un œuf pour une collation saine à l'école) et ajoutez-les à vos repas principaux.",
+            "Privilégiez les grains entiers (plutôt que raffinés) pour profiter de tous leurs nutriments (fibres, vitamines et minéraux). Le pain à grains entiers, les flocons d'avoine et le riz brun sont d'excellentes options à base de grains entiers. Préparez-les de manière simple, en évitant d'ajouter trop de gras, de sucre ou de sel."
           ]
         },
         {
           "id": 5,
           "title": "Effets sur la santé",
-          "description": "Familiarisation avec les effets sur la santé des grains.",
+          "description": "Se familiariser avec les effets des céréales sur la santé.",
           "questions": [
             {
               "id": 1,
@@ -3899,7 +3686,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Perdre de la graisse.",
+                  "text": "Mieux dormir.",
                   "correct": false
                 },
                 {
@@ -3909,7 +3696,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Protéger votre santé.",
+                  "text": "Bien grandir.",
                   "correct": true
                 }
               ]
@@ -3946,7 +3733,7 @@
             },
             {
               "id": 3,
-              "question": "Magnésium:",
+              "question": "Manger des grains entiers alimente votre corps en minéraux qui vous aident à :",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -3954,29 +3741,29 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Est important pour vos oreilles.",
+                  "text": "Construire vos os.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Aide vos muscles à mieux fonctionner.",
+                  "text": "Faire travailler mieux vos muscles.",
                   "correct": true
                 },
                 {
                   "id": 3,
-                  "text": "Aide votre système immunitaire.",
+                  "text": "Boostez votre système de défense.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Aucun des précédents.",
+                  "text": "Tous les précédents.",
                   "correct": false
                 }
               ]
             },
             {
               "id": 4,
-              "question": "Les produits céréaliers sont riches en vitamines B qui aident:",
+              "question": "Les produits céréaliers sont riches en vitamines (groupe B) qui aident à :",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -3984,22 +3771,22 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Vos dents sont plus fortes.",
+                  "text": "La production de votre sang.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Votre intestin fonctionne mieux.",
+                  "text": "Votre cerveau pour bien fonctionner.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Vous vous sentez plus énergique.",
+                  "text": "Obtenir l'énergie stockée dans les aliments.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Votre système nerveux reste en bonne santé.",
+                  "text": "Tous les précédents.",
                   "correct": true
                 }
               ]
@@ -4014,7 +3801,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Ils vous aident à contrôler votre poids.",
+                  "text": "Ils vous aident à maintenir un poids santé.",
                   "correct": true
                 },
                 {
@@ -4024,7 +3811,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Ils vous donnent plus de glucides et de protéines.",
+                  "text": "Ils vous apportent beaucoup de glucides et de protéines.",
                   "correct": false
                 },
                 {
@@ -4044,12 +3831,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "La constipation.",
+                  "text": "Constipation.",
                   "correct": true
                 },
                 {
                   "id": 2,
-                  "text": "La douleur abdominale.",
+                  "text": "Votre audition.",
                   "correct": false
                 },
                 {
@@ -4066,7 +3853,7 @@
             },
             {
               "id": 7,
-              "question": "Quel nutriment, trouvé dans les grains, est important pour une bonne fonction intestinale?",
+              "question": "Quel nutriment, présent dans les céréales, est important pour le bon fonctionnement intestinal ?",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -4074,17 +3861,17 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Protéine.",
+                  "text": "Protéines.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Graisse.",
+                  "text": "Lipides.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Fibre.",
+                  "text": "Fibres.",
                   "correct": true
                 },
                 {
@@ -4093,112 +3880,22 @@
                   "correct": false
                 }
               ]
-            },
-            {
-              "id": 8,
-              "question": "Quelle vitamine, trouvée dans les grains, est importante pour le système nerveux?",
-              "category": {
-                "id": "category-0",
-                "text": "Catégorie non définie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "B vitamines.",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Vitamine D.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Vitamine C.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Vitamine E.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 9,
-              "question": "Quel minéral, trouvé dans les grains, est important pour la santé des os?",
-              "category": {
-                "id": "category-0",
-                "text": "Catégorie non définie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Magnésium.",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Calcium.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Fer.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Sélénium.",
-                  "correct": false
-                }
-              ]
             }
           ],
           "messages": [
-            "Manger des grains, en particulier des grains entiers, protéger votre santé et réduire le risque de nombreuses maladies.",
-            "Les grains fournissent de nombreux nutriments essentiels à la santé et au maintien de votre corps tels que les fibres, les vitamines B (thiamine, niacine, riboflavine) et minéraux comme le magnésium et le sélénium.",
-            "Les produits à grains entiers contiennent plus de nutriments bénéfiques mentionnés ci-dessus par rapport aux céréales raffinées et présentent donc plus d'avantages pour la santé."
+            "Manger des céréales, en particulier des céréales complètes, maintient votre corps en bonne santé.",
+            "Les nutriments contenus dans les céréales, les fibres et les micronutriments (tels que les vitamines B, le fer, le magnésium) jouent un rôle essentiel dans de nombreuses fonctions de votre organisme.",
+            "Les produits à base de grains entiers contiennent plus de ces nutriments bénéfiques que les grains raffinés, ils sont donc encore meilleurs pour votre santé."
           ]
         },
         {
           "id": 6,
           "title": "Types et traitement",
-          "description": "Familiarisation avec les concepts de types et le traitement des grains.",
+          "description": "Se familiariser avec les notions de types et de transformation des grains.",
           "questions": [
             {
-              "id": 1,
-              "question": "Les grains entiers contiennent:",
-              "category": {
-                "id": "category-0",
-                "text": "Catégorie non définie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Seulement Bran.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Seulement l'amidon.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Seulement endosperm.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Bran, germe et endosperm.",
-                  "correct": true
-                }
-              ]
-            },
-            {
               "id": 2,
-              "question": "Les grains raffinés ont:",
+              "question": "Les grains raffinés, par rapport aux grains entiers, ont :",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -4206,12 +3903,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Fibre inférieur.",
+                  "text": "Moins de fibres.",
                   "correct": true
                 },
                 {
                   "id": 2,
-                  "text": "Sucre inférieur.",
+                  "text": "Moins de sucres.",
                   "correct": false
                 },
                 {
@@ -4221,14 +3918,14 @@
                 },
                 {
                   "id": 4,
-                  "text": "Baisse des glucides.",
+                  "text": "Moins de glucides.",
                   "correct": false
                 }
               ]
             },
             {
               "id": 3,
-              "question": "Le broyage est un processus qui:",
+              "question": "Le fraisage (= raffinement) est un processus qui :",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -4236,12 +3933,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Retire des grains le germe et le son.",
+                  "text": "Supprime certaines parties des grains.",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Donne au produit une texture plus fine.",
+                  "text": "Rend le produit plus fin.",
                   "correct": false
                 },
                 {
@@ -4271,7 +3968,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Grains raffinés avec des vitamines ajoutées.",
+                  "text": "Céréales raffinées avec vitamines ajoutées.",
                   "correct": true
                 },
                 {
@@ -4296,7 +3993,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Pâtes de blé entier.",
+                  "text": "Pâtes à grains entiers.",
                   "correct": false
                 },
                 {
@@ -4306,12 +4003,12 @@
                 },
                 {
                   "id": 3,
-                  "text": "Tortilla de blé.",
+                  "text": "Craquelins aux grains entiers.",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Pain d'avoine.",
+                  "text": "Pain de seigle.",
                   "correct": false
                 }
               ]
@@ -4341,7 +4038,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Plus de vitamines.",
+                  "text": "Pas de vitamines.",
                   "correct": false
                 }
               ]
@@ -4361,12 +4058,12 @@
                 },
                 {
                   "id": 2,
-                  "text": "Goûter mauvais.",
+                  "text": "Avoir une teneur en lipides plus élevée.",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Sentir mauvais.",
+                  "text": "Vous fatigue.",
                   "correct": false
                 },
                 {
@@ -4396,7 +4093,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Produit enrichi",
+                  "text": "Source de vitamines",
                   "correct": false
                 },
                 {
@@ -4408,10 +4105,9 @@
             }
           ],
           "messages": [
-            "Les grains entiers maintiennent tout le noyau de grain, qui comprend le son, le germe et l'endosperme.",
-            "Les grains raffinés ont été fraisés, ce qui signifie qu'ils ont été traités pour éliminer le son et le germe. Ce processus vise à donner des grains une texture plus fine et à améliorer leur durée de conservation. Malheureusement, il supprime également de nombreux nutriments bénéfiques.",
-            "Les grains raffinés sont souvent enrichis. Cela signifie ajouter certaines vitamines B (thiamine, riboflavine, niacine, acide folique) et fer perdus pendant la transformation des aliments. Cependant, ils restent de mauvaises sources de fibres.",
-            "Choisissez des produits à grains à faible teneur en sucre, à faible teneur en sucre et à faible teneur en salt si possible. Lisez les étiquettes pour les options de grains entiers pour tirer le meilleur parti de vos repas!"
+            "Les grains raffinés ont été moulus, ce qui signifie qu'ils ont été traités pour éliminer certaines parties du grain d'origine. Ce procédé vise à donner aux grains une texture plus fine et à améliorer leur durée de conservation. Malheureusement, cela supprime également de nombreux nutriments bénéfiques.",
+            "Les grains raffinés sont souvent enrichis. Cela signifie rajouter certaines vitamines B et le fer perdus lors de la transformation des aliments. Cependant, ils restent de pauvres sources de fibres.",
+            "Choisissez lorsque cela est possible des produits céréaliers peu transformés, à faible teneur en sucre et en sel. Pour les produits emballés, lisez les étiquettes pour connaître les options de grains entiers afin de tirer le meilleur parti de ce que vous mangez !"
           ]
         }
       ]
@@ -4419,12 +4115,12 @@
     {
       "id": 4,
       "title": "Quiz High-Protein Foods (HPF)",
-      "description": "Un jeu de quiz visant à accroître les connaissances sur les aliments riches en protéines autres que les produits laitiers et à éduquer / motiver les utilisateurs vers leur modèle de consommation optimal.",
+      "description": "Améliorez vos connaissances sur les aliments riches en protéines, autres que les produits laitiers ! Répondez aux questions et découvrez les différentes catégories d'aliments incluses, comment faire les meilleurs choix et quelle quantité vous devriez manger pour obtenir des effets forts et sains. .",
       "levels": [
         {
           "id": 1,
           "title": "Connaissance",
-          "description": "Familiarisation avec les aliments riches en protéines.",
+          "description": "Se familiariser avec les aliments riches en protéines.",
           "questions": [
             {
               "id": 1,
@@ -4436,7 +4132,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Viandes rouges / blancs.",
+                  "text": "Viandes rouges et blanches.",
                   "correct": false
                 },
                 {
@@ -4446,7 +4142,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Impulsions.",
+                  "text": "Légumineuses (graines séchées de légumineuses) .",
                   "correct": false
                 },
                 {
@@ -4637,36 +4333,6 @@
               ]
             },
             {
-              "id": 8,
-              "question": "Lequel des éléments suivants est une légumineuse?",
-              "category": {
-                "id": "category-0",
-                "text": "Catégorie non définie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Haricots / pois verts frais.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Impulsions.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Soja.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Tous les précédents.",
-                  "correct": true
-                }
-              ]
-            },
-            {
               "id": 9,
               "question": "Que sont les impulsions?",
               "category": {
@@ -4697,6 +4363,36 @@
               ]
             },
             {
+              "id": 8,
+              "question": "Lequel des éléments suivants est une légumineuse?",
+              "category": {
+                "id": "category-0",
+                "text": "Catégorie non définie"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Haricots / pois verts frais.",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "Impulsions.",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "Soja.",
+                  "correct": false
+                },
+                {
+                  "id": 4,
+                  "text": "Tous les précédents.",
+                  "correct": true
+                }
+              ]
+            },
+            {
               "id": 10,
               "question": "Lequel des éléments suivants est un impulsion?",
               "category": {
@@ -4706,7 +4402,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Haricots secs / pois.",
+                  "text": "Pois secs.",
                   "correct": false
                 },
                 {
@@ -4806,7 +4502,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Fava grec.",
+                  "text": "Yaourt.",
                   "correct": false
                 },
                 {
@@ -4818,17 +4514,17 @@
             }
           ],
           "messages": [
-            "Bienvenue dans le monde des aliments riches en protéines!",
-            "Cette zone thématique se concentre sur diverses viandes et alternatives végétales, qui avec les produits laitiers couvrent la plupart de vos besoins quotidiens en protéines.",
-            "Les aliments riches en protéines à base d'animaux comprennent la viande rouge (par exemple le bœuf, le porc, le veau et l'agneau), la viande blanche (par exemple le poulet, la dinde et le lapin), le poisson, les fruits de mer (par exemple les crevettes, les crevettes, les poulpes, les calmars, les écrevisses, le homard, la palourde, les huîtres et les moules) et les œufs. Les produits de viande transformés (par exemple la saucisse, le jambon, le salami, les peperoni et le bacon) sont également inclus dans cette catégorie; Ils sont produits à partir de viandes rouges / blancs à travers divers processus, tels que le salage, le durcissement, la fermentation, le tabagisme et l'ajout de conservateurs chimiques.",
-            "N'oubliez pas: les produits laitiers (par exemple le lait, le yaourt et le fromage), qui sont présentés dans une zone thématique précédente, sont également des aliments à base d'animaux avec une teneur élevée en protéines et la source de calcium la plus importante!",
-            "La haute protéine à base de plantes comprend des légumineuses, qui sont les graines sèches comestibles à l'intérieur des gousses de légumineuses, c'est-à-dire des haricots secs (par exemple, les haricots noirs, les haricots rénaux et les haricots de Lima), les pois secs (par exemple les pois aux yeux noirs et les poissons jaunes / verts divisés), les lentilles et les pouschés, ainsi que les ondes et leurs produits (par exemple Tofu)."
+            "Bienvenue dans le monde des aliments riches en protéines ! Contrairement aux autres groupes alimentaires que vous avez rencontrés depuis, il s’agit d’un groupe d’aliments diversifié, contenant à la fois des aliments d’origine animale et végétale. Néanmoins, c’est leur teneur élevée en protéines qui les regroupe finalement.",
+            "Les aliments riches en protéines d'origine animale comprennent toutes sortes de viandes (rouges ou blanches), de poissons et de fruits de mer ainsi que des œufs.",
+            "Produits carnés transformés (par exemple saucisses, jambon, salami, peperoni), bien que produits à partir de viandes rouges/blanches, ils contiennent généralement de nombreux additifs et conservateurs qui diminuent leur valeur nutritionnelle.",
+            "Les protéines végétales riches en protéines comprennent les légumineuses, qui sont les graines sèches comestibles contenues dans les gousses des légumineuses, c'est-à-dire les haricots secs, les pois secs, les lentilles et les pois chiches, ainsi que le soja et leurs produits (par exemple le tofu, un produit qui ressemble à du fromage blanc).",
+            "Rappel : Les produits laitiers, présentés dans une thématique précédente, sont également considérés comme des aliments riches en protéines mais ils constituent leur propre groupe, compte tenu de leur teneur en calcium."
           ]
         },
         {
           "id": 2,
           "title": "Valeur nutritionnelle",
-          "description": "Familiarisation avec la valeur nutritionnelle des aliments riches en protéines.",
+          "description": "Se familiariser avec la valeur nutritionnelle des aliments riches en protéines.",
           "questions": [
             {
               "id": 1,
@@ -4861,36 +4557,6 @@
               ]
             },
             {
-              "id": 2,
-              "question": "Une protéine «complète» est une protéine qui:",
-              "category": {
-                "id": "category-0",
-                "text": "Catégorie non définie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Ne contient pas de lipides.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Est complètement digéré dans l'estomac.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Se trouve dans les fruits et légumes.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Contient tous les acides aminés essentiels.",
-                  "correct": true
-                }
-              ]
-            },
-            {
               "id": 3,
               "question": "Qu'est-ce qu'un acide aminé?",
               "category": {
@@ -4916,36 +4582,6 @@
                 {
                   "id": 4,
                   "text": "Un acide gras trouvé dans les viandes.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 4,
-              "question": "Lequel des éléments suivants contient des protéines «complètes»?",
-              "category": {
-                "id": "category-0",
-                "text": "Catégorie non définie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Pain.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Haricot.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Poulet.",
-                  "correct": true
-                },
-                {
-                  "id": 4,
-                  "text": "Amande.",
                   "correct": false
                 }
               ]
@@ -4995,7 +4631,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Lipides saturés.",
+                  "text": "Lipides (saturés).",
                   "correct": true
                 },
                 {
@@ -5020,7 +4656,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Lipides polyinsaturés oméga-3.",
+                  "text": "Lipides (insaturés).",
                   "correct": true
                 },
                 {
@@ -5101,96 +4737,6 @@
               ]
             },
             {
-              "id": 10,
-              "question": "Quelle vitamine se trouve le plus couramment dans les aliments riches en protéines à base d'animaux et aide à garder votre système nerveux en bonne santé?",
-              "category": {
-                "id": "category-0",
-                "text": "Catégorie non définie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Vitamine C.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Vitamine B12.",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Vitamine K.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Vitamine E.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 11,
-              "question": "Quelle vitamine se trouve le plus souvent dans les aliments riches en protéines à base d'animaux et est important pour la vue?",
-              "category": {
-                "id": "category-0",
-                "text": "Catégorie non définie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Vitamine K.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Vitamine C.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Vitamine A.",
-                  "correct": true
-                },
-                {
-                  "id": 4,
-                  "text": "Vitamine E.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 12,
-              "question": "Quel minéral, trouvé dans les aliments riches en protéines, est essentiel pour le transfert d'oxygène via les cellules sanguines?",
-              "category": {
-                "id": "category-0",
-                "text": "Catégorie non définie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Fer.",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Calcium.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Magnésium.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Tout ce qui précède.",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 13,
               "question": "De laquelle des aliments riches en protéines suivants est-il mieux absorbé par le fer?",
               "category": {
@@ -5210,73 +4756,13 @@
                 },
                 {
                   "id": 3,
-                  "text": "Haricot de soja.",
+                  "text": "A été.",
                   "correct": false
                 },
                 {
                   "id": 4,
                   "text": "Bœuf.",
                   "correct": true
-                }
-              ]
-            },
-            {
-              "id": 14,
-              "question": "Quel minéral, trouvé dans les aliments riches en protéines, est important pour le métabolisme et le système immunitaire?",
-              "category": {
-                "id": "category-0",
-                "text": "Catégorie non définie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Iode.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Calcium.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Zinc.",
-                  "correct": true
-                },
-                {
-                  "id": 4,
-                  "text": "Potassium.",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 15,
-              "question": "Quel minéral, trouvé dans les aliments riches en protéines, est important pour vos os et vos dents?",
-              "category": {
-                "id": "category-0",
-                "text": "Catégorie non définie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Phosphore.",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Sodium.",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Cuivre.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Manganèse.",
-                  "correct": false
                 }
               ]
             },
@@ -5290,7 +4776,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Graisses saturées.",
+                  "text": "Lipides.",
                   "correct": false
                 },
                 {
@@ -5300,7 +4786,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Conservateurs chimiques.",
+                  "text": "Conservateurs.",
                   "correct": false
                 },
                 {
@@ -5323,7 +4809,7 @@
         {
           "id": 3,
           "title": "Apport recommandé",
-          "description": "Familiarisation avec l'apport recommandé et la taille des portions des aliments riches en protéines.",
+          "description": "Se familiariser avec l’apport recommandé et la taille des portions d’aliments riches en protéines.",
           "questions": [
             {
               "id": 1,
@@ -5387,7 +4873,7 @@
             },
             {
               "id": 3,
-              "question": "À quelle fréquence doit-on manger du poisson gras / grasse, qui sont riches en lipides polyinsaturés oméga-3?",
+              "question": "À quelle fréquence faut-il manger des poissons gras/gras, particulièrement riches en lipides insaturés ?",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -5477,7 +4963,7 @@
             },
             {
               "id": 6,
-              "question": "Lequel des aliments riches en protéines suivants doit être évité, complètement, si possible, car ils sont transformés?",
+              "question": "Parmi les aliments riches en protéines suivants, lesquels devraient être évités, car ils sont transformés ?",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -5508,16 +4994,16 @@
           ],
           "messages": [
             "Faites des aliments riches en protéines une partie régulière de votre alimentation!",
-            "Les aliments riches en protéines peuvent être consommés tous les jours, mais doivent être tournés tout au long de la semaine pour assurer la variété. Visez le blanc maigre et / ou la viande rouge 2 à 3 fois par semaine, le poisson / fruits de mer 2 à 3 fois par semaine et les impulsions au moins une fois par semaine.",
-            "Les œufs et les fromages sont également de précieuses sources de protéines de haute qualité qui peuvent accompagner des plats à base de légumes, de pâtes ou d'autres produits céréaliers qui ne sont pas riches en protéines.",
-            "La quantité exacte de protéines dont vous avez besoin dépend de votre poids corporel. Un moyen simple de répondre à vos besoins consiste à vous assurer que les aliments riches en protéines couvrent environ ¼ de votre assiette dans le déjeuner et le dîner et de consommer également 2 à 3 portions de produits laitiers dans le petit-déjeuner et les collations!",
+            "Les aliments riches en protéines peuvent être consommés tous les jours, mais doivent être alternés tout au long de la semaine pour garantir la variété. Visez la viande blanche et/ou rouge 2 à 3 fois par semaine, le poisson/fruits de mer 2 à 3 fois par semaine et les légumineuses au moins une fois par semaine.",
+            "Les œufs sont également une source précieuse de protéines de haute qualité qui peuvent accompagner des plats à base de légumes, de pâtes ou d'autres produits céréaliers peu riches en protéines.",
+            "La quantité exacte de protéines dont vous avez besoin dépend de votre âge et de votre poids. Un moyen pratique de répondre à vos besoins est de veiller à ce que les aliments riches en protéines couvrent environ ¼ de votre assiette au déjeuner et au dîner. N'oubliez pas que les produits laitiers contiennent également des protéines, alors essayez d'en consommer 2 à 3 portions au petit-déjeuner et aux collations !",
             "N'oubliez pas: essayez d'éviter les viandes transformées, comme les saucisses et les coupes à froid, autant que vous le pouvez!"
           ]
         },
         {
           "id": 4,
           "title": "Pratiques de consommation",
-          "description": "Familiarisation avec les meilleures pratiques pour gérer et consommer des aliments riches en protéines.",
+          "description": "Se familiariser avec les bonnes pratiques pour manipuler et consommer des aliments riches en protéines.",
           "questions": [
             {
               "id": 1,
@@ -5589,7 +5075,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Bouillir et rôtissage.",
+                  "text": "Grillage.",
                   "correct": true
                 },
                 {
@@ -5604,7 +5090,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Grillage.",
+                  "text": "Barbecue.",
                   "correct": false
                 }
               ]
@@ -5670,38 +5156,8 @@
               ]
             },
             {
-              "id": 6,
-              "question": "Lequel des éléments suivants est un bon moyen d'obtenir des protéines de valeur biologique élevée à travers des impulsions?",
-              "category": {
-                "id": "category-0",
-                "text": "Catégorie non définie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Les manger seuls.",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Les combiner avec du riz ou du pain.",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "En ajoutant du citron.",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "En les faisant bouillir plus longtemps.",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 7,
-              "question": "Pour éviter l'excès de lipides saturés lorsqu'ils mangent de la viande rouge, il faut:",
+              "question": "Pour éviter de manger trop de lipides en mangeant de la viande rouge, il faut :",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -5731,7 +5187,7 @@
             },
             {
               "id": 8,
-              "question": "Pour éviter l'excès de lipides saturés lors de la consommation de volaille, il faut:",
+              "question": "Pour éviter de manger trop de lipides en mangeant de la volaille, il faut :",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -5739,7 +5195,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Évitez de manger leur peau.",
+                  "text": "Évitez de manger la peau.",
                   "correct": true
                 },
                 {
@@ -5761,17 +5217,16 @@
             }
           ],
           "messages": [
-            "Pour obtenir les protéines nécessaires et éviter de grandes quantités de lipides saturés: manger de la volaille sans leur peau, éliminer les graisses visibles de la viande rouge (généralement la couche extérieure) et choisissez des pièces de viande rouge maigre, telles que celles à l'arrière du bétail (longe courte, surlonge et rond) ou de porc (longe et jambon).",
-            "Les œufs sont un choix très nutritif pour une collation riche en protéines (par exemple, un œuf durs), en remplacement des coupes à froid dans les sandwichs / enveloppements, ou même un repas principal (par exemple, omelette cuite au four avec du fromage et des légumes).",
-            "Pour garder vos repas aussi sains que possible, choisissez des aliments riches en protéines à base d'animaux qui sont bouillis ou rôtis, au lieu de frits ou de grillades.",
-            "Il y a tellement de façons d'incorporer des impulsions dans votre alimentation! Pour n'en nommer que quelques-uns, vous pouvez les avoir comme repas principal (par exemple, la soupe des lentilles), les intégrer dans des salades, les utiliser pour faire des hamburgers végétariens ou même les profiter comme des tartinades comme du houmous.",
-            "Saviez-vous qu'en combinant des impulsions et des grains, comme le riz ou le pain, vous pouvez obtenir des protéines complètes avec tous les acides aminés essentiels, similaires à ceux de la viande?"
+            "Pour obtenir les protéines nécessaires et éviter les grandes quantités de lipides saturés : manger les volailles sans leur peau, retirer le gras visible de la viande rouge (généralement la couche externe).",
+            "Les œufs sont un choix très nutritif pour une collation riche en protéines (par exemple un œuf à la coque), plutôt que pour de la charcuterie dans des sandwichs/wraps, ou même pour un repas principal (par exemple une omelette au four avec du fromage et des légumes).",
+            "Pour garder vos repas aussi sains que possible, privilégiez les aliments d'origine animale, riches en protéines, bouillis ou rôtis au four, et évitez les aliments frits ou grillés, notamment au barbecue.",
+            "Il y a tellement de façons d'incorporer des impulsions dans votre alimentation! Pour n'en nommer que quelques-uns, vous pouvez les avoir comme repas principal (par exemple, la soupe des lentilles), les intégrer dans des salades, les utiliser pour faire des hamburgers végétariens ou même les profiter comme des tartinades comme du houmous."
           ]
         },
         {
           "id": 5,
           "title": "Effets sur la santé",
-          "description": "Familiarisation avec les effets sur la santé des aliments riches en protéines.",
+          "description": "Se familiariser avec les effets sur la santé des aliments riches en protéines.",
           "questions": [
             {
               "id": 1,
@@ -5788,7 +5243,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Ils favorisent la perte de poids.",
+                  "text": "Ils font perdre du poids.",
                   "correct": false
                 },
                 {
@@ -5798,7 +5253,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Ils combattent l'inflammation.",
+                  "text": "Ils donnent faim.",
                   "correct": false
                 }
               ]
@@ -5926,10 +5381,9 @@
           ],
           "messages": [
             "Les aliments riches en protéines sont une partie essentielle d'une alimentation équilibrée!",
-            "Saviez-vous que tous les organes et tissus du corps, tels que le cœur, les poumons, les os, les muscles et la peau, sont composés de protéines? Les protéines jouent un rôle clé dans la construction, le maintien et la réparation des tissus du corps.",
-            "Les aliments riches en protéines soutiennent également les fonctions importantes du système immunitaire, ce qui vous empêche de tomber malade.",
-            "Une consommation inadéquate d'aliments riches en protéines à base d'animaux peut entraîner une anémie. En termes simples, l'anémie est le manque de globules rouges sains pour transporter l'oxygène vers les tissus du corps. Il peut être causé par un apport inadéquat de fer et de vitamine B12 qui se trouve généralement dans les aliments riches en protéines à base d'animaux.",
-            "Visez à suivre les apports recommandés des aliments riches en protéines en fonction de votre âge et de votre poids corporel pour assurer un apport en protéines adéquat à vie!"
+            "Saviez-vous que toutes les parties de votre corps, comme le cœur, les poumons, les os, les muscles et la peau, sont constituées de protéines ? Les protéines jouent un rôle clé dans la construction, l’entretien et la réparation des tissus de l’organisme.",
+            "Les aliments riches en protéines aident également votre corps à combattre les germes, ce qui vous évite de tomber malade.",
+            "Gardez toutefois à l’esprit que manger trop d’aliments riches en protéines, en particulier de viande rouge et de produits carnés, est mauvais pour la santé."
           ]
         }
       ]
@@ -5937,12 +5391,12 @@
     {
       "id": 5,
       "title": "Quiz de graisses et d'huiles (F&O)",
-      "description": "Un jeu de quiz visant à accroître les connaissances sur le groupe de graisses et les huiles et d'éduquer / motiver les utilisateurs vers leur modèle de consommation optimal.",
+      "description": "Améliorez vos connaissances sur les graisses et les huiles ! Répondez aux questions et découvrirez le type d'aliments inclus, les différences dans leur valeur nutritionnelle et la meilleure façon de les inclure dans votre alimentation.",
       "levels": [
         {
           "id": 1,
           "title": "Connaissance",
-          "description": "Familiarisation avec le groupe de graisses et d'huiles.",
+          "description": "Se familiariser avec le groupe des graisses et des huiles.",
           "questions": [
             {
               "id": 1,
@@ -6095,66 +5549,6 @@
               ]
             },
             {
-              "id": 6,
-              "question": "Qu'est-ce que la crème épaisse?",
-              "category": {
-                "id": "category-0",
-                "text": "Catégorie non définie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Le composant gras a éclaté du lait",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Un produit crémeux fait par du fromage bouillant",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Un mélange de yaourt avec du beurre",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "La graisse dérivée du porc",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 7,
-              "question": "Qu'est-ce que la crème fouettée?",
-              "category": {
-                "id": "category-0",
-                "text": "Catégorie non définie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Une version solidifiée de l'huile de tournesol",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Une pâte à base d'amandes",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Un mélange de crème épaisse et de sucre",
-                  "correct": true
-                },
-                {
-                  "id": 4,
-                  "text": "La graisse du bœuf",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 8,
               "question": "Laquelle des graisses / huiles suivantes provient de la viande rouge?",
               "category": {
@@ -6169,7 +5563,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Crème épaisse",
+                  "text": "Huile de tournesol",
                   "correct": false
                 },
                 {
@@ -6246,7 +5640,7 @@
             },
             {
               "id": 11,
-              "question": "Lequel des pâtes / écarts suivants est produit par les noix / graines de flexion?",
+              "question": "Laquelle des pâtes/pâtes à tartiner suivantes est obtenue en broyant des noix ?",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -6336,7 +5730,7 @@
             },
             {
               "id": 14,
-              "question": "Lequel des fruits suivants contient des quantités élevées de graisse?",
+              "question": "Lequel des fruits suivants contient de grandes quantités de lipides ?",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -6366,22 +5760,15 @@
             }
           ],
           "messages": [
-            "Bienvenue dans le monde des graisses et des huiles! Ce groupe est très diversifié et comprend:",
-            "Produits fabriqués à partir de lait, par ex. beurre et crème épaisse.",
-            "Produits dérivés de la viande rouge, par ex. Souins de porc et suif de bœuf.",
-            "Olives, le fruit de l'olivier.",
-            "Noix et graines, par ex. Amande, noyer, arachide, noisette, pacan, noix de cajou, pistache, lin / graines de lin, graines de citrouille, graines de tournesol et graines de sésame.",
-            "Pastes / écarts à base de noix / graines, par ex. beurre d'arachide, beurre aux amandes, beurre de noisette, beurre de noix et tahini qui est fabriqué à partir de graines de sésame moulues.",
-            "Les huiles végétales dérivées des graines ou des fruits des plantes (par exemple l'huile d'olive, l'huile de tournesol, l'huile de carthame, l'huile de canola, l'huile de maïs et l'huile de palme) ou des légumineuses (par exemple l'huile de soja).",
-            "La margarine, qui est une version solidifiée des huiles végétales et utilisée comme substitut de beurre.",
-            "Mayonnaise, qui est une émulsion d'huile et de jaunes d'oeuf, et d'autres sauces basées sur la mayonnaise.",
-            "Saviez-vous que l'avocat est un fruit qui contient principalement de la graisse (lipides monoinsaturés)?"
+            "Ce groupe comprend les ingrédients utilisés principalement pour la cuisine, ainsi que les sauces ou les tartinades. Ils permettent de cuire les aliments et donnent saveur et goût aux plats et aux repas. Leur nutriment commun sont les lipides.",
+            "Les huiles comprennent toute huile comestible (= peut être consommée) provenant de plantes (par exemple, l'huile d'olive, l'huile de tournesol, l'huile de soja).",
+            "Les graisses comprennent la forme solide des lipides, provenant de plantes ou d'animaux :a)Sources végétales : pâtes à tartiner comme la margarine et la mayonnaise, toutes les noix et graines (par exemple, les amandes, les noix, les arachides, le sésame) et leurs beurres/pâtes utilisés dans les pâtes à tartiner (par exemple, le beurre de cacahuète, le tahini). Également, les huiles d'olive et d'avocat.b)Sources animales : de la viande rouge (par exemple, saindoux de porc, suif de bœuf), du lait (beurre)."
           ]
         },
         {
           "id": 2,
           "title": "Valeur nutritionnelle",
-          "description": "Familiarisation avec la valeur nutritionnelle des graisses et des huiles.",
+          "description": "Se familiariser avec la valeur nutritionnelle des graisses et des huiles.",
           "questions": [
             {
               "id": 1,
@@ -6423,7 +5810,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Calories / énergie",
+                  "text": "Énergie (calories)",
                   "correct": true
                 },
                 {
@@ -6504,68 +5891,8 @@
               ]
             },
             {
-              "id": 5,
-              "question": "Quel est le principal type de lipides dans les olives et l'huile d'olive?",
-              "category": {
-                "id": "category-0",
-                "text": "Catégorie non définie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Saturé",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Monoinsmaturé",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Polyinsaturé",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Oméga-3",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 6,
-              "question": "Quel est le principal type de lipides que l'on trouve dans l'avocat?",
-              "category": {
-                "id": "category-0",
-                "text": "Catégorie non définie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Saturé",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Monoinsmaturé",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Polyinsaturé",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Oméga-3",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 7,
-              "question": "Quel est le principal type de lipides dans les huiles de palmier et de noix de coco?",
+              "question": "Contrairement aux autres huiles végétales, l’huile de palme et l’huile de coco contiennent ?",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -6573,22 +5900,22 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Saturé",
+                  "text": "Des lipides majoritairement saturés",
                   "correct": true
                 },
                 {
                   "id": 2,
-                  "text": "Monoinsmaturé",
+                  "text": "Plus de lipides insaturés",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Polyinsaturé",
+                  "text": "Plus de lipides au total",
                   "correct": false
                 },
                 {
                   "id": 4,
-                  "text": "Oméga-3",
+                  "text": "Plus de vitamines",
                   "correct": false
                 }
               ]
@@ -6624,68 +5951,8 @@
               ]
             },
             {
-              "id": 9,
-              "question": "Quelle est l'huile d'olive de la meilleure qualité?",
-              "category": {
-                "id": "category-0",
-                "text": "Catégorie non définie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Huile d'olive raffinée",
-                  "correct": false
-                },
-                {
-                  "id": 2,
-                  "text": "Huile d'olive vierge extra",
-                  "correct": true
-                },
-                {
-                  "id": 3,
-                  "text": "Huile d'olive non transformée",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Huile d'olive",
-                  "correct": false
-                }
-              ]
-            },
-            {
-              "id": 10,
-              "question": "Lequel des éléments suivants se trouve dans l'huile d'olive et aide à lutter contre le stress oxydatif?",
-              "category": {
-                "id": "category-0",
-                "text": "Catégorie non définie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Polyphénols",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Probiotiques",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Vitamine C",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Sucre",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 11,
-              "question": "Les lipides trans sont formés lorsque les huiles végétales:",
+              "question": "Que sont les lipides trans :",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -6693,17 +5960,17 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Sont utilisés crus dans les salades",
+                  "text": "Lipides utilisés crus dans les salades",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Sont solidifiés ou cuits à haute température",
+                  "text": "Lipides solidifiés ou cuits à haute température",
                   "correct": true
                 },
                 {
                   "id": 3,
-                  "text": "Sont stockés pendant plus de 1 mois",
+                  "text": "Les lipides tgat sont conservés pendant plus d'un mois",
                   "correct": false
                 },
                 {
@@ -6723,12 +5990,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Graisses végétales dures",
+                  "text": "Cookies vendus au supermarché",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Pâtisseries et collations cuites / frites",
+                  "text": "Pâtisseries et snacks",
                   "correct": false
                 },
                 {
@@ -6805,19 +6072,19 @@
             }
           ],
           "messages": [
-            "Les graisses et les huiles sont principalement composées de lipides, qui fournissent de l'énergie au corps.",
+            "Les graisses et les huiles sont principalement constituées de lipides dont le rôle principal pour l'organisme est de stocker de l'énergie.",
             "Cependant, la qualité des lipides diffère considérablement entre les différentes graisses / huiles:",
-            "Graisses / huiles à base d'animaux, par ex. Le beurre, la crème épaisse et le saindoux / le suif, contiennent principalement des lipides saturés, qui doivent être consommés avec modération pour une santé optimale.",
-            "Graisses / huiles à base de plantes, par ex. L'olive, les noix / graines, les huiles végétales et l'avocat, contiennent principalement des lipides insaturés (mono- et poly-insaturés), qui sont bénéfiques pour le cœur et les vaisseaux. Une exception est les huiles de palmier et de noix de coco, qui sont très riches en lipides saturées et doivent être évités.",
-            "La plupart des huiles végétales sont riches en vitamine E qui protège les cellules du corps de l'oxydation.",
-            "Parmi les différentes huiles végétales, l'huile d'olive, en particulier l'huile d'olive extra vierge, est considérée comme l'un des choix les plus sains, car il est au minimum et contient un large éventail d'autres antioxydants!",
-            "Saviez-vous que lorsque les huiles végétales sont transformées pour devenir solides ou cuites à des lipides trans à haute température peuvent se former? Ces lipides sont très préjudiciables à la santé et peuvent être trouvés dans les graisses végétales dures (par exemple, le shortening et certaines margarines dures) et divers aliments transformés, tels que les pâtisseries cuites au four, les collations salées, les repas prêts à manger et les restaurants rapides. Les étiquettes alimentaires peuvent vous aider à identifier ces aliments: rechercher le mot «trans» dans la section des faits nutritionnels ou l'expression «huile partiellement hydrogénée» dans la liste des ingrédients."
+            "Graisses animales, par ex. le beurre, la crème et le saindoux/suif contiennent principalement des lipides saturés, qui doivent être consommés avec modération pour une santé optimale.",
+            "Graisses végétales, par ex. L'olive, les noix/graines, les huiles végétales et l'avocat contiennent principalement des lipides insaturés, bénéfiques pour le cœur. Les huiles de palme et de coco font exception, car elles sont très riches en lipides saturés et doivent être évitées.",
+            "La plupart des huiles végétales sont riches en vitamine E qui maintient la santé des cellules de votre corps.",
+            "Parmi les différentes huiles végétales, l’huile d’olive, en particulier l’huile d’olive extra vierge, est considérée comme l’un des choix les plus sains, car elle n’est pas transformée et contient une large gamme de composants sains !",
+            "Mais attention ! Lorsque certaines huiles végétales sont transformées en graisses solides ou cuites à très haute température, leur structure change, ce qui en fait les lipides les plus malsains de tous. Ils sont appelés lipides trans et peuvent être trouvés dans les aliments transformés comme les pâtisseries, les collations salées et la restauration rapide."
           ]
         },
         {
           "id": 3,
           "title": "Apport recommandé",
-          "description": "Familiarisation avec l'apport recommandé de graisses et d'huiles en termes de quantité et de qualité.",
+          "description": "Se familiariser avec les apports recommandés en graisses et huiles en termes de quantité et de qualité.",
           "questions": [
             {
               "id": 1,
@@ -6829,17 +6096,17 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Uniquement les huiles végétales utilisées dans la cuisson",
+                  "text": "Huiles végétales utilisées en cuisine",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Seulement du beurre utilisé comme tartinade pour le pain",
+                  "text": "Beurre utilisé comme pâte à tartiner pour le pain",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Seulement les noix / graines consommées comme collation",
+                  "text": "Noix/graines consommées comme collation",
                   "correct": false
                 },
                 {
@@ -6864,24 +6131,24 @@
                 },
                 {
                   "id": 2,
-                  "text": "Crème épaisse et sauces à base de mayonnaise",
+                  "text": "Sauces à base de mayonnaise",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Huiles végétales saines utilisées dans la cuisson et les salades",
+                  "text": "Huiles végétales utilisées dans la cuisine et les salades",
                   "correct": true
                 },
                 {
                   "id": 4,
-                  "text": "Crème fouettée dans des bonbons",
+                  "text": "Crème en bonbons",
                   "correct": false
                 }
               ]
             },
             {
               "id": 3,
-              "question": "Quel est un bon moyen d'éviter de trop utiliser des graisses / huiles dans la cuisson?",
+              "question": "Quelle est la bonne façon d’éviter d’utiliser trop de graisses/huiles en cuisine ?",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -6972,14 +6239,14 @@
           ],
           "messages": [
             "Profitez des graisses et des huiles avec modération!",
-            "Les graisses / huiles ajoutées utilisées dans la cuisson et les salades (par exemple, les huiles végétales, le beurre), ainsi que les aliments riches en lipides (par exemple, noix / graines, olives) peuvent être consommés tous les jours mais leur quantité est importante! Tous sont très riches en calories, donc la modération dans leur consommation est importante pour éviter une prise de poids excessive.",
-            "N'oubliez pas: pour une santé optimale, donnez une priorité aux huiles végétales saines (par exemple l'huile d'olive, l'huile de tournesol, l'huile de carthame et l'huile de canola) et les noix / graines sur les graisses animales (par exemple, saindoux / suif, beurre et crème épaisse), et essayer d'éviter les aliments transformés qui pourraient contenir des transpides transmissibles autant que possible!"
+            "Leur teneur en lipides fait des graisses et des huiles, ainsi que des produits qui en contiennent comme ingrédients, des aliments à forte densité énergétique, c'est-à-dire qu'ils fournissent beaucoup d'énergie (calories) pour une quantité donnée. C'est pourquoi une modération dans leur quantité est recommandée.",
+            "Mais leur qualité compte aussi ! N'oubliez pas : pour une santé optimale, donnez la priorité aux huiles végétales saines (par exemple l'huile d'olive, l'huile de tournesol, l'huile de carthame) et aux noix/graines plutôt qu'aux graisses d'origine animale (par exemple le saindoux/suif, le beurre et la crème), et essayez d'éviter autant que possible les aliments transformés qui pourraient contenir des lipides trans !"
           ]
         },
         {
           "id": 4,
           "title": "Pratiques de consommation",
-          "description": "Familiarisation avec les meilleures pratiques pour gérer et consommer des graisses et des huiles.",
+          "description": "Se familiariser avec les bonnes pratiques de manipulation et de consommation des graisses et des huiles.",
           "questions": [
             {
               "id": 1,
@@ -7103,7 +6370,7 @@
             },
             {
               "id": 5,
-              "question": "Lequel des éléments suivants est un bon moyen d'incorporer les noix et les graines dans votre alimentation?",
+              "question": "Parmi les propositions suivantes, laquelle est une bonne façon d’ajouter des noix et des graines à votre alimentation ?",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -7163,7 +6430,7 @@
             },
             {
               "id": 7,
-              "question": "Lequel des éléments suivants est un bon moyen d'incorporer du tahini ou du beurre de noix dans votre alimentation?",
+              "question": "Parmi les propositions suivantes, laquelle est une bonne façon d'ajouter du beurre de noix à votre alimentation ?",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -7193,7 +6460,7 @@
             },
             {
               "id": 8,
-              "question": "Lequel des éléments suivants est un bon moyen d'incorporer l'avocat dans votre alimentation?",
+              "question": "Parmi les propositions suivantes, laquelle est une bonne façon d’ajouter de l’avocat à votre alimentation ?",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -7283,19 +6550,19 @@
             }
           ],
           "messages": [
-            "Une température élevée peut faire en sorte que les huiles végétales perdent des nutriments importants. Ainsi, au lieu des aliments de falling, il est préférable d'utiliser de petites quantités d'huiles végétales à la fin de la cuisson dans le pot ou dans le four.",
-            "La même huile végétale ne doit pas être utilisée plusieurs fois pour la cuisson, car le chauffage répété peut provoquer la production de substances nocives.",
-            "N'oubliez pas: l'huile d'olive, en particulier l'extra vierge, est spéciale! Il est riche en antioxydants et donc résistant en chaleur pendant la cuisson, ce qui signifie qu'il préserve la plupart de ses nutriments bénéfiques et ne se passe pas facilement.",
+            "Une température élevée peut faire perdre aux huiles végétales des nutriments importants. Au lieu de frire les aliments, il est préférable d’utiliser de petites quantités d’huiles végétales en fin de cuisson.",
+            "N’utilisez pas la même huile encore et encore, car la chauffer plusieurs fois peut la rendre malsaine.",
+            "Exception : l'huile d'olive, en particulier l'huile extra vierge, ne se détériore pas sous l'effet de la chaleur pendant la cuisson et peut être utilisée plusieurs fois en toute sécurité avant d'être jetée.",
             "Les noix et les graines peuvent être consommées comme une collation facile à transporter ou ajoutées au yaourt, aux céréales de petit-déjeuner, aux desserts et aux salades faits maison. Pour une option encore plus saine, choisissez des noix brutes et non salées!",
-            "Les beurres de noix et le tahini sont pleins de graisses saines! Vous pouvez les utiliser dans le yaourt, comme tartinade pour le pain ou dans les desserts faits maison (par exemple biscuits ou barres de céréales) au lieu de beurre ou de margarine.",
+            "Les beurres de noix regorgent de graisses saines ! Vous pouvez les utiliser dans du yaourt, comme pâte à tartiner sur du pain ou dans des desserts faits maison (par exemple des biscuits ou des barres de céréales) à la place du beurre ou de la margarine.",
             "Les avocats sont délicieux! Vous pouvez les essayer dans des salades ou en purée comme un plongeon ou une propagation pour le pain grillé.",
-            "Assurez-vous de stocker correctement les graisses et les huiles. Le beurre, la margarine et la crème épaisse doivent être stockées dans le réfrigérateur, tandis que les huiles végétales peuvent être stockées à température ambiante mais dans un endroit frais et sombre."
+            "Assurez-vous de conserver correctement les graisses et les huiles. Le beurre, la margarine et la crème doivent être conservés au réfrigérateur, tandis que les huiles végétales peuvent être conservées à température ambiante mais dans un endroit frais et sombre."
           ]
         },
         {
           "id": 5,
           "title": "Effets sur la santé",
-          "description": "Familiarisation avec les effets sur la santé des graisses et des huiles.",
+          "description": "Se familiariser avec les effets des graisses et des huiles sur la santé.",
           "questions": [
             {
               "id": 1,
@@ -7388,38 +6655,8 @@
               ]
             },
             {
-              "id": 4,
-              "question": "Quels lipides peuvent être préjudiciables à la santé lorsqu'ils sont consommés en grande quantité?",
-              "category": {
-                "id": "category-0",
-                "text": "Catégorie non définie"
-              },
-              "answers": [
-                {
-                  "id": 1,
-                  "text": "Saturé",
-                  "correct": true
-                },
-                {
-                  "id": 2,
-                  "text": "Monoinsmaturé",
-                  "correct": false
-                },
-                {
-                  "id": 3,
-                  "text": "Polyinsaturé",
-                  "correct": false
-                },
-                {
-                  "id": 4,
-                  "text": "Tout le précédent",
-                  "correct": false
-                }
-              ]
-            },
-            {
               "id": 5,
-              "question": "Quels lipides sont très préjudiciables à la santé cardiaque?",
+              "question": "Quels lipides sont les plus malsains pour votre cœur ?",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -7427,12 +6664,12 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Monoinsmaturé",
+                  "text": "Insaturé",
                   "correct": false
                 },
                 {
                   "id": 2,
-                  "text": "Oméga-3 polyinsaturés",
+                  "text": "saturé",
                   "correct": false
                 },
                 {
@@ -7446,14 +6683,43 @@
                   "correct": false
                 }
               ]
+            },
+            {
+              "id": 6,
+              "question": "Pour une santé optimale, vous devriez essayer de : ?",
+              "category": {
+                "id": "category-0",
+                "text": "préférer les graisses végétales à celles d’origine animale"
+              },
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Insaturé",
+                  "correct": false
+                },
+                {
+                  "id": 2,
+                  "text": "éviter les collations emballées",
+                  "correct": false
+                },
+                {
+                  "id": 3,
+                  "text": "utiliser les tartinades avec modération",
+                  "correct": true
+                },
+                {
+                  "id": 4,
+                  "text": "Tout le précédent",
+                  "correct": false
+                }
+              ]
             }
           ],
           "messages": [
-            "Les graisses et les huiles sont importantes pour un corps sain et fort, tant qu'ils sont consommés avec modération!",
-            "Les lipides, le principal nutriment trouvé dans les graisses et les huiles, sont essentiels non seulement pour fournir de l'énergie au corps, mais aussi pour la construction de membranes cellulaires, améliorer l'absorption de vitamines solubles en graisse (c'est-à-dire les vitamines A, D, E et K) et soutenir la régulation de la température corporelle.",
-            "Gardez à l'esprit que la modération dans la consommation de graisses et d'huiles est très importante! Les lipides contiennent de nombreuses calories, donc les graisses et les huiles trop cuectient peuvent entraîner une prise de poids excessive à long terme.",
-            "Les lipides saturés, qui se trouvent dans toutes les graisses animales et certaines huiles végétales (palmier et noix de coco), peuvent être préjudiciables à la santé si elles sont consommées en grande quantité. Alors, donnez une priorité aux graisses / huiles saines à base de plantes!",
-            "Essayez d'éviter complètement les lipides trans, si possible, car ils sont très préjudiciables pour le cœur et les navires! Un moyen simple d'y parvenir consiste à hiérarchiser les aliments entiers frais sur des aliments industrialisés transformés."
+            "Les graisses et les huiles sont importantes pour un corps sain et fort, mais la qualité compte !",
+            "Les lipides, le principal nutriment présent dans les graisses et les huiles, sont importants pour fournir de l’énergie au corps, maintenir les cellules fortes, aider votre corps à utiliser certaines vitamines et contrôler la température de votre corps.",
+            "Gardez à l’esprit qu’une consommation modérée de graisses et d’huiles est très importante ! L’industrie alimentaire les utilise largement pour fabriquer des produits très savoureux, mais ils sont également riches en énergie et ont généralement une faible valeur nutritionnelle. La consommation fréquente de ces produits peut entraîner une prise de poids excessive à long terme.",
+            "Essayez d'éviter les lipides trans, car ce sont les lipides les plus malsains pour le cœur ! Un moyen simple d’y parvenir est de manger davantage d’aliments frais entiers et moins d’aliments industriels transformés."
           ]
         }
       ]
@@ -7461,12 +6727,12 @@
     {
       "id": 6,
       "title": "Quiz d'hydratation (HYD)",
-      "description": "Un jeu de quiz visant à accroître les connaissances sur des moyens sains pour une hydratation adéquate, en mettant l'accent sur l'eau et d'autres boissons par l'éducation / la motivation vers leur consommation optimale.",
+      "description": "Augmentez vos connaissances sur l’hydratation ! Répondez aux questions et découvrez l'importance de l'eau et sa supériorité sur les autres boissons pour obtenir une hydratation adéquate et promouvoir votre santé globale.",
       "levels": [
         {
           "id": 1,
           "title": "Connaissance",
-          "description": "Familiarisation avec des moyens d'hydratation sains.",
+          "description": "Se familiariser avec des moyens d'hydratation sains.",
           "questions": [
             {
               "id": 1,
@@ -7638,7 +6904,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Eau au dioxyde de carbone",
+                  "text": "Eau avec des bulles (dioxyde de carbone)",
                   "correct": true
                 },
                 {
@@ -7673,7 +6939,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Eau caféinée",
+                  "text": "Eau avec du chocolat",
                   "correct": false
                 }
               ]
@@ -7801,9 +7067,9 @@
           ],
           "messages": [
             "Bienvenue dans le monde de l'hydratation! Pour rester hydraté, vous pouvez essayer une grande variété de liquides:",
-            "L'eau, qui est la boisson la plus importante de l'alimentation humaine. Savourez votre eau avec des fruits, des herbes ou des légumes ou essayez de l'eau mousseuse / gazéise, pour plus de plaisir!",
+            "L'eau, qui est la boisson la plus importante. Aromatisez votre eau avec des fruits, des herbes ou des légumes ou essayez de l'eau gazeuse/gazeuse, pour plus de plaisir !",
             "Les jus de fruits frais, comme le jus d'orange, qui sont produits en serrant ou en mélangeant des fruits frais.",
-            "Le lait, qui est un produit laitier, et les produits laitiers fermentés / cultivés, tels que le lait aigre et le kéfir, qui sont produits par l'ajout de bactéries ou de champignons dans le lait.",
+            "Le lait, qui est un produit laitier, et les produits laitiers fermentés/cultivés, comme le kéfir",
             "Les perfusions à base de plantes, qui sont fabriquées par des herbes, des épices, des fleurs ou d'autres matériaux végétaux dans l'eau chaude (par exemple, la camomille, la sauge, l'eucalyptus, la menthe poivrée).",
             "Évitez les boissons contenant de la caféine (par exemple le café, le thé noir, les colas, les boissons énergisantes), les sucres ajoutés (par exemple, les nectars des fruits, les boissons gazeuses, les boissons énergisantes et les boissons pour sportifs) ou l'alcool (bière, vin, spiritueux). Ce ne sont pas de bons moyens pour l'hydratation et peut-être aussi nocifs pour votre santé."
           ]
@@ -7811,7 +7077,7 @@
         {
           "id": 2,
           "title": "Valeur nutritionnelle",
-          "description": "Familiarisation avec la valeur nutritionnelle de l'eau et des boissons.",
+          "description": "Se familiariser avec la valeur nutritionnelle de l'eau et des boissons.",
           "questions": [
             {
               "id": 1,
@@ -7845,7 +7111,7 @@
             },
             {
               "id": 2,
-              "question": "Laquelle des boissons suivantes contient de la vitamine C, ce qui est important pour le système immunitaire?",
+              "question": "Laquelle des boissons suivantes contient de la vitamine C, importante pour votre système de défense ?",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -7905,7 +7171,7 @@
             },
             {
               "id": 4,
-              "question": "Laquelle des boissons suivantes contient du calcium, qui est important pour les os et les dents forts?",
+              "question": "Laquelle des boissons suivantes contient du calcium minéral, important pour la solidité des os et des dents ?",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -7935,7 +7201,7 @@
             },
             {
               "id": 5,
-              "question": "Laquelle des boissons suivantes contient des bactéries bénéfiques?",
+              "question": "Parmi les boissons suivantes, laquelle contient des germes bénéfiques ?",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -7953,7 +7219,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Kéfir",
+                  "text": "Lait aigre",
                   "correct": true
                 },
                 {
@@ -7995,7 +7261,7 @@
             },
             {
               "id": 7,
-              "question": "Laquelle des boissons suivantes contient des polyphénols, qui ont des effets antioxydants?",
+              "question": "Laquelle des boissons suivantes contient des composés phytochimiques (des composés spéciaux qui donnent du goût aux plantes) ?",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -8085,7 +7351,7 @@
             },
             {
               "id": 10,
-              "question": "Laquelle des boissons suivantes contient de l'éthanol?",
+              "question": "Parmi les boissons suivantes, laquelle contient de l'alcool ?",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -8119,19 +7385,18 @@
             "L'eau est le meilleur moyen de rester hydraté. Vous pouvez facilement comprendre son importance si vous pensez que jusqu'à 60 à 70% de notre corps est en fait de l'eau! Il ne contient pas de calories ou de vitamines, mais seulement de petites quantités de minéraux, comme le calcium et le magnésium.",
             "D'autres boissons saines contiennent divers nutriments importants:",
             "Le lait est riche en calcium, qui est essentiel pour les os et les dents forts.",
-            "Le lait aigre et le kéfir contiennent de bonnes bactéries appelées «probiotiques», ce qui aide l'intestin à fonctionner correctement.",
+            "Le lait aigre et le kéfir contiennent des germes bénéfiques qui aident l'intestin à fonctionner correctement.",
             "Les jus de fruits frais sont remplis de vitamines importantes (par exemple la vitamine C); Cependant, ils ont moins de fibres alimentaires par rapport aux fruits entiers.",
-            "Les perfusions à base de plantes non caféines contiennent des composés antioxydants appelés phytochimiques.",
             "Mais soyez prudent! Toutes les boissons ne sont pas nutritives.",
-            "Les jus de fruits emballés, les boissons gazeuses, les boissons pour sportifs et les boissons énergisantes sont ultra-traitées et chargées de sucre et d'additifs / conservateurs chimiques, qui ont des effets néfastes sur le corps.",
+            "Les jus de fruits emballés, les boissons gazeuses, les boissons pour sportifs et les boissons énergisantes sont ultra-transformés et chargés de sucre et d'additifs/conservateurs, qui ont des effets néfastes sur le corps.",
             "Le café, le thé noir et les boissons énergisantes contiennent également beaucoup de caféine, ce qui peut provoquer des problèmes d'anxiété, d'irritabilité et de sommeil.",
-            "Les boissons alcoolisées contiennent de l'éthanol, ce qui est préjudiciable à votre développement et à votre santé globale."
+            "L'alcool endommage votre fonctionnement cérébral, votre comportement et votre développement global. Vous devez donc vous abstenir de boire de l'alcool, même rarement."
           ]
         },
         {
           "id": 3,
           "title": "Apport recommandé",
-          "description": "Familiarisation avec la consommation recommandée d'eau et de boissons.",
+          "description": "Se familiariser avec les apports recommandés en eau et en boissons.",
           "questions": [
             {
               "id": 1,
@@ -8346,17 +7611,17 @@
           ],
           "messages": [
             "La consommation quotidienne recommandée d'eau dépend de l'âge et du sexe. C'est:",
-            "1600 ml (~ 6-7 verres) pour les enfants de 4 à 8 ans,",
-            "1900 ml (~ 7-8 verres) pour les filles de 9 à 13 ans ou 2100 ml (~ 8-9 verres) pour les garçons de 9-13 ans,",
-            "2000 ml (~ 8 verres) pour ≥14 ans ou 2500 ml (~ 10 verres) pour les garçons de ≥14 ans.",
+            "(6-7 verres) pour les enfants de 4-8 ans,",
+            "(7-8 verres) pour les filles de 9-13 ans ou (8-9 verres) pour les garçons de 9-13 ans,",
+            "(8 verres) pour les filles ≥14 ans ou (10 verres) pour les garçons ≥14 ans.",
             "Saviez-vous que lorsque la température est élevée (surtout pendant l'été), ou si vous êtes physiquement actif, votre corps a besoin de plus de liquides pour remplacer l'eau perdue par la transpiration et la respiration lourde? D'autres situations dans lesquelles vous avez besoin de plus de liquides sont lorsque vous avez une fièvre élevée, une diarrhée et des vomissements.",
-            "N'oubliez pas: pour un développement optimal et une santé, essayez d'éviter complètement les boissons à haute teneur en sucre (par exemple, les nectars des fruits, les boissons gazeuses et les boissons énergisantes), celles qui contiennent de la caféine (par exemple le café et le thé noir) et les boissons alcoolisées!"
+            "N'oubliez pas : pour un développement et une santé optimaux, essayez d'éviter complètement les boissons transformées riches en sucre (par exemple les nectars de fruits, les boissons gazeuses et les boissons énergisantes), celles qui contiennent de la caféine (par exemple le café et le thé noir) et surtout les boissons contenant de l'alcool !"
           ]
         },
         {
           "id": 4,
           "title": "Pratiques de consommation",
-          "description": "Familiarisation avec les meilleures pratiques pour rester hydraté.",
+          "description": "Se familiariser avec les bonnes pratiques pour rester hydraté.",
           "questions": [
             {
               "id": 1,
@@ -8608,7 +7873,7 @@
         {
           "id": 5,
           "title": "Effets sur la santé",
-          "description": "Familiarisation avec les effets sur la santé de l'eau et des boissons, ainsi que les signes et les conséquences de la déshydratation.",
+          "description": "Se familiariser avec les effets de l’eau et des boissons sur la santé, ainsi que les signes et conséquences de la déshydratation.",
           "questions": [
             {
               "id": 1,
@@ -8630,7 +7895,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Il participe à de nombreuses réactions biochimiques",
+                  "text": "Cela aide votre corps à produire de l’énergie et à grandir",
                   "correct": false
                 },
                 {
@@ -8685,7 +7950,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Vous aider à mieux dormir",
+                  "text": "Vous aider à dormir tôt",
                   "correct": false
                 },
                 {
@@ -8805,12 +8070,12 @@
                 },
                 {
                   "id": 2,
-                  "text": "Fatigue et étourdissements",
+                  "text": "Fatigue",
                   "correct": false
                 },
                 {
                   "id": 3,
-                  "text": "Mal de tête",
+                  "text": "Maux de tête ou vertiges",
                   "correct": false
                 },
                 {
@@ -8882,7 +8147,7 @@
             },
             {
               "id": 10,
-              "question": "La consommation de boissons alcoolisées est préjudiciable à:",
+              "question": "La consommation de boissons alcoolisées est préjudiciable pour :",
               "category": {
                 "id": "category-0",
                 "text": "Catégorie non définie"
@@ -8914,9 +8179,9 @@
           "messages": [
             "Restez hydraté, restez en bonne santé!",
             "Boire suffisamment d'eau est vital pour votre corps. L'eau aide à transporter des substances importantes vers les cellules à travers le sang, à éliminer les substances déchets par l'urine et soutient de nombreuses fonctions clés du corps. Il vous maintient également concentré et énergique et régule votre température corporelle.",
-            "La déshydratation, qui se produit lorsque votre corps perd plus de liquides qu'il ne le prend, peut présenter des signes et des symptômes comme la soif, les étourdissements, les maux de tête, la fatigue, la bouche sèche, la peau non élastique et la mauvaise haleine. Saviez-vous que vous pouvez vérifier votre statut d'hydratation en observant la couleur de votre urine? L'urine jaune foncé est un signe de déshydratation et que vous devriez boire de l'eau.",
+            "La déshydratation, qui survient lorsque votre corps perd plus de liquides qu'il n'en absorbe, peut se manifester par des signes et des symptômes tels que soif, étourdissements, fatigue, bouche sèche, peau non élastique et mauvaise haleine. Saviez-vous que vous pouvez vérifier votre hydratation en observant la couleur de votre urine ? Une urine jaune foncé est un signe de déshydratation et vous devez boire de l'eau. Visez les urines de couleur claire, comme une tisane de camomille de couleur claire.",
             "Évitez les boissons avec de la caféine, car ils peuvent provoquer une surstimulation et perturber votre sommeil.",
-            "Évitez les boissons sucrées au sucre, car une consommation élevée peut augmenter le risque de carie dentaire et de maladies chroniques, telles que l'obésité et le diabète, à long terme.",
+            "Évitez les boissons sucrées, car une consommation élevée peut augmenter le risque de carie dentaire ou d'obésité à long terme.",
             "Il est crucial d'éviter la consommation d'alcool, car il est nocif pour votre foie, vos os, votre santé mentale et globale."
           ]
         }
