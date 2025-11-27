@@ -9,6 +9,12 @@ Digital marketplace and serious games suite of the **BIO-STREAMS** project – a
 
 ---
 
+## Gameplay
+
+![BIO-STREAMS](./public/screenshots/screenshot-2025-11-28-0001.png)
+
+![BIO-STREAMS](./public/screenshots/screenshot-2025-11-28-0002.png)
+
 ## Highlights
 
 - 🎮 Four evidence-based serious games: **Food Ninja, Food Quiz, Let’s Move, Food Treasure**
