@@ -6,7 +6,7 @@
   "actions": {
     "Start": "Starta",
     "Go": "Gå",
-    "Return": "Återvänd",
+    "Return": "Tillbaka",
     "Next": "Nästa"
   },
   "theme_level": {
@@ -17,14 +17,13 @@
     "you_completed_level": "Bra jobbat! Du klarade nivån",
     "you_completed_all_levels": "Grattis! Du klarade alla nivåer!"
   },
-
   "foodninjafreemode": {
     "round_success": "Du vann denna omgång! Går vidare till nästa...",
     "is_a_not_a": "{0} är {1}, inte {2}",
     "Category": "Kategori"
   },
   "foodquiz": {
-    "Food Quiz configuration": "Inställningar för Matquiz",
+    "Food Quiz configuration": "Inställningar för Food Quiz",
     "Number of Questions": "Antal frågor",
     "Go!": "Kör!",
     "Questions": "Frågor",
@@ -33,8 +32,8 @@
     "Correct": "Rätt",
     "Wrong": "Fel",
     "Play again": "Spela igen!",
-    "Return": "Återvänd...",
-    "congrats_title": "Grattis till att du slutförde spelet!",
+    "Return": "Tillbaka...",
+    "congrats_title": "Grattis, du slutförde spelet!",
     "congrats_text": "Varje steg du tar är en möjlighet att lära och växa, och idag tog du ännu ett positivt steg mot att förstå hälsosam mat, vanor och näringsämnen. Kom ihåg att framsteg inte handlar om perfektion – det handlar om att försöka, utforska och samla kunskap som driver din resa mot en hälsosammare livsstil. Fortsätt vara nyfiken och målmedveten, för varje ansträngning för dig närmare en starkare och friskare version av dig själv!",
     "Confirm Answer": "Bekräfta svar",
     "Help (noun)": "Hjälp",
@@ -53,6 +52,6 @@
   "foodtreasure": {
     "Treasure Revealed": "Skatten avslöjad",
     "InvalidQRScan": "Hmm… den här koden hör inte hit. Den riktiga är fortfarande gömd!",
-    "Learn More": "Läs mer"
+    "Learn More": "Lär dig mer"
   }
 }
