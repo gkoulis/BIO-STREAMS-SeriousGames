@@ -1,7 +1,13 @@
 Changelog
 ===
 
-# v0.1.14-SC.1-... Friday 05 December 2025
+# v0.1.15-SC.1-.... Friday 05 December 2025
+
+- Added JS translations
+- Added **new** Food Ninja translations
+- Added **new** Food Quiz translations
+
+# v0.1.14-SC.1-3 Friday 05 December 2025
 
 - Removed `venv`
 - Removed `__pycache__`
