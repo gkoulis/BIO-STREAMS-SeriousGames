@@ -14,12 +14,11 @@
     "Theme": "Tema",
     "Levels": "Ravni",
     "Level": "Raven",
-    "you_completed_level": "Odlično! Uspešno si zaključil raven",
-    "you_completed_all_levels": "Čestitke! Zaključil si vse ravni!"
+    "you_completed_level": "Odlično! Uspešno si zaključil_a raven",
+    "you_completed_all_levels": "Čestitke! Zaključil_a si vse ravni!"
   },
-
   "foodninjafreemode": {
-    "round_success": "Zmagal si v tem krogu! Nadaljujemo v naslednji krog...",
+    "round_success": "Zmagal_a si v tem krogu! Nadaljujemo v naslednji krog...",
     "is_a_not_a": "{0} je {1}, ne {2}",
     "Category": "Kategorija"
   },
