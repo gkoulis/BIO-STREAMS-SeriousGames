@@ -17,7 +17,7 @@
           "id": 2,
           "title": "Jouw taak is om de groenten in plakjes te snijden!",
           "messages": [
-            "Ga met een salade bij uw maaltijden!",
+            "Neem een salade bij jouw maaltijden!",
             "Groenten moeten, net als fruit, dagelijks worden geconsumeerd. Ze kunnen worden geserveerd als salade of zelfs als hoofdgerecht. Om uw dagelijkse doel te bereiken, begeleidt u uw hoofdmaaltijden met groenten!"
           ]
         },
@@ -25,15 +25,15 @@
           "id": 3,
           "title": "Jouw taak is om het fruit en de groenten met rode kleur te snijden!",
           "messages": [
-            "Ontdek het F & V -palet van kleuren!",
-            "Groenten en fruit zijn de meest kleurrijke voedselgroepen. Hun kleuren zijn echter niet alleen een plezier voor je ogen, maar ook voor je lichaam. Achter een kleur bestaan er bepaalde stoffen, die specifiek een systeem van uw lichaam ten goede komen. Met andere woorden, de verschillende kleuren zijn goed voor verschillende systemen van het lichaam. Ontdek ze!"
+            "Ontdek het groenten en fruit -palet van kleuren!",
+            "Groenten en fruit zijn de meest kleurrijke voedselgroepen. Hun kleuren zijn echter niet alleen een plezier voor je ogen, maar ook voor je lichaam. Achter een kleur schuilen er bepaalde stoffen, die een specifiek systeem van je lichaam ten goede komen. Met andere woorden, de verschillende kleuren zijn goed voor verschillende systemen van het lichaam. Ontdek ze!"
           ]
         }
       ]
     },
     {
       "id": 2,
-      "title": "Dairy Products (DP)",
+      "title": "Zuivel Producten (ZP)",
       "description": "Zoek naar de zuivelproducten! Snijd ze in plakjes om punten te verdienen en leer meer over hun belangrijkste voedingsstoffen, hoeveel u er dagelijks moet consumeren, hun portiegrootte en slimme manieren om ze aan uw dieet toe te voegen.",
       "levels": [
         {
@@ -56,8 +56,8 @@
           "id": 3,
           "title": "Het is jouw taak om in stukken te snijden wat telt als één portie van een zuivelproduct.",
           "messages": [
-            "Wat telt als een portie zuivelproducten?",
-            "Hier is een snelle gids: (1) 1 glas (240 ml) melk, (2) 1 pot (150 g) yoghurt en (3) 1 plak (of 30 g) kaas"
+            "Wat telt als een portie zuivelproduct?",
+            "Hier is een snelle tip: (1) 1 glas (240 ml) melk, (2) 1 pot (150 g) yoghurt en (3) 1 plak (of 30 g) kaas"
           ]
         },
         {
@@ -65,8 +65,8 @@
           "title": "Jouw taak is om de belangrijkste voedingsstof in zuivelproducten te snijden! Let op: Ca: calcium, Fe: ijzer, vE: vitamine E.",
           "messages": [
             "Zuivelproducten zijn een van de beste bronnen van calcium, wat helpt bij de opbouw van sterke botten en tanden.",
-            "Zuivelproducten zijn ook belangrijke bronnen van hoogwaardig eiwitten, belangrijk voor uw groei, vitamines en mineralen.",
-            "Likkere zuivelproducten geven u minder calorieën en vet, maar zijn ook goede bronnen van calcium en eiwitten. Kies ze ook!"
+            "Zuivelproducten zijn ook belangrijke bronnen van hoogwaardig eiwitten, die belangrijk zijn voor jouw groei, vitamines en mineralen.",
+            "Halfvolle of magere zuivelproducten geven je minder calorieën en vet, maar zijn ook goede bronnen van calcium en eiwitten. Kies deze ook!"
           ]
         }
       ]
