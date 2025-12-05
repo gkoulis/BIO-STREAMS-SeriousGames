@@ -5,6 +5,7 @@ Changelog
 
 - Removed `venv`
 - Removed `__pycache__`
+- Python .gitignore
 
 # v0.1.13 Sunday 12 October 2025
 
