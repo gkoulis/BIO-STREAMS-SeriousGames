@@ -1,6 +1,10 @@
 Changelog
 ===
 
+# v0.1.16 Friday 05 December 2025
+
+- Fixes
+
 # v0.1.15-SC.1-27 Friday 05 December 2025
 
 - Added JS translations
