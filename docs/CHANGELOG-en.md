@@ -1,7 +1,7 @@
 Changelog
 ===
 
-# v0.1.15-SC.1-.... Friday 05 December 2025
+# v0.1.15-SC.1-27 Friday 05 December 2025
 
 - Added JS translations
 - Added **new** Food Ninja translations
