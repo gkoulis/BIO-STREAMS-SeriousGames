@@ -1,6 +1,10 @@
 Changelog
 ===
 
+# v0.1.14-SC.1-... Friday 05 December 2025
+
+- Removed `venv`
+
 # v0.1.13 Sunday 12 October 2025
 
 Added automated translations.
