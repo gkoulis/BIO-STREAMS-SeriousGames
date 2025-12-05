@@ -9,7 +9,7 @@
           "id": 1,
           "title": "¡Tu tarea es cortar las frutas!",
           "messages": [
-            "¡Dale a Fruit una prioridad!",
+            "¡Dale prioridad a la fruta!",
             "Las frutas se encuentran entre los alimentos que debes consumir a diario. En general, tu objetivo final es 2-3 frutas al día. Seleccionar una fruta como merienda, en el colegio o por la tarde, te ayudará a conseguir tu objetivo diario. Para ello, dale prioridad a la fruta: ¡primero come la fruta y luego cualquier otra cosa!"
           ]
         },
@@ -33,7 +33,7 @@
     },
     {
       "id": 2,
-      "title": "Productos lácteos (DP)",
+      "title": "Productos lácteos (PL)",
       "description": "¡Busca los productos lácteos! Córtelos para ganar puntos y conozca sus nutrientes clave, cuántos debe consumir diariamente, el tamaño de la porción y formas inteligentes de agregarlos a su dieta.",
       "levels": [
         {
@@ -46,7 +46,7 @@
         },
         {
           "id": 2,
-          "title": "¡Tu tarea es reducir el consumo diario recomendado de productos lácteos!",
+          "title": "¡Tu tarea es cortar el consumo diario recomendado de productos lácteos!",
           "messages": [
             "¡Consuma productos lácteos todos los días!",
             "Para alcanzar el objetivo de 3-4 porciones de productos lácteos al día, intente incluir un vaso de leche en el desayuno, yogur como merienda o queso en el almuerzo o la cena. Conviértalo en un hábito: combine sus comidas o refrigerios con una opción de productos lácteos para mantenerse fuerte y saludable."
@@ -57,12 +57,12 @@
           "title": "Tu tarea es cortar lo que cuenta como una porción de un producto lácteo.",
           "messages": [
             "¿Qué cuenta como una porción de lácteos?",
-            "Aquí hay una guía rápida: (1) 1 vaso (240 ml) de leche, (2) 1 olla (150 g) de yogurt y (3) 1 porción (o 30 g) de queso"
+            "Aquí hay una guía rápida: (1) 1 vaso (240 ml) de leche, (2) 1 porción (150 g) de yogurt y (3) 1 porción (o 30 g) de queso"
           ]
         },
         {
           "id": 4,
-          "title": "¡Tu tarea es dividir el nutriente clave que se encuentra en los productos lácteos! Tenga en cuenta que: Ca: calcio, Fe: hierro, vE: vitamina E.",
+          "title": "¡Tu tarea es cortar el nutriente clave que se encuentra en los productos lácteos! Tenga en cuenta que: Ca: calcio, Fe: hierro, vE: vitamina E.",
           "messages": [
             "Los productos lácteos son una de las mejores fuentes de calcio, que ayuda a desarrollar huesos y dientes fuertes.",
             "Los productos lácteos también son fuentes importantes de proteínas de alta calidad, importantes para su crecimiento, vitaminas y minerales.",
