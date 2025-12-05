@@ -3,12 +3,12 @@
     {
       "id": 1,
       "title": "Frutas y verduras (F&V)",
-      "description": "Un juego de cuestionario con el objetivo de aumentar el conocimiento sobre los grupos de alimentos de frutas y verduras y educar/motivar a los usuarios hacia su patrón de consumo óptimo. Los temas educativos clave para ambos grupos de alimentos incluyen alimentos representativos, valor nutricional, consumo recomendado y tamaños de porciones, formas de incorporar en la dieta, las mejores prácticas de manejo/consumo, los efectos de la salud y la importancia de la variedad y la estacionalidad.",
+      "description": "Aumenta tu conocimiento sobre frutas y verduras! Contesta el cuestionario y aprende acerca de su valor nutricional, cuanto es recomendado consumir e ideas ingeniosas para agregarlos en tu dieta.",
       "levels": [
         {
           "id": 1,
           "title": "Conocido",
-          "description": "Familiarizarse con los grupos de alimentos de frutas y verduras.",
+          "description": "Familiarizarse con los grupos de alimentos de las frutas y verduras.",
           "questions": [
             {
               "id": 1,
@@ -938,7 +938,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Con menos pesticidas (químicos utilizados en la finca para proteger las plantas)",
+                  "text": "Con menos pesticidas (químicos utilizados en las fincas para proteger las plantas)",
                   "correct": true
                 },
                 {
@@ -983,7 +983,7 @@
             "¡Hay muchas maneras de incorporar frutas en su dieta! Por nombrar algunos, consumo como bocadillos durante todo el día (elija frutas que sean fáciles de transportar y pelar para un refrigerio saludable en la escuela), úsalos para hacer postres nutritivos (por ejemplo, ensalada de frutas), o exprimirlos/molerlos para disfrutar de refrescantes jugos o batidos frescos.",
             "Da prioridad a las frutas enteras (en lugar de los jugos de frutas) e intenta comerlas con su piel (si no es comestible) después de un lavado exhaustivo, para aprovechar todos sus nutrientes (vitaminas, minerales y fibras).",
             "¡Disfruta de las verduras en cada ocasión! Siempre acompañe sus comidas principales (almuerzo y cena) con ensalada o agregue vegetales en otros alimentos/platos (por ejemplo, sándwiches, pasta, arroz, sopas o platos a base de carne) para que sean más coloridos y sabrosos.",
-            "Su objetivo es comer la mayoría de sus verduras crudas, ya que cocinar puede causar la pérdida de algunas vitaminas importantes. Además, intente consumir verduras con su piel, ya que contienen nutrientes adicionales; Solo asegúrese de lavarlos a fondo para eliminar cualquier suciedad, pesticidas o gérmenes."
+            "Su objetivo es comer la mayoría de sus verduras crudas, ya que cocinar puede causar la pérdida de algunas vitaminas importantes. Además, intente consumir verduras con su piel, ya que contienen nutrientes adicionales; Sólo asegúrese de lavarlos a fondo para eliminar cualquier suciedad, pesticidas o gérmenes."
           ]
         },
         {
@@ -1335,7 +1335,7 @@
             }
           ],
           "messages": [
-            "Al incorporar una variedad de frutas y verduras coloridas en su dieta, y optar por productos estacionales siempre que sea posible, no solo aumentará su salud y crecimiento general, sino que también ayudará a proteger el medio ambiente.",
+            "Al incorporar una variedad de frutas y verduras coloridas en su dieta, y optar por productos estacionales siempre que sea posible, no sólo aumentará su salud y crecimiento general, sino que también ayudará a proteger el medio ambiente.",
             "Comer estacionalmente también le brinda la oportunidad de disfrutar de la comida en su forma más fresca, más sabrosa y densa en nutrientes.",
             "¡Este enfoque lo ayuda a adoptar una dieta saludable, sostenible y ecológica!"
           ]
@@ -1427,7 +1427,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "CCrea agria.",
+                  "text": "Crema agria.",
                   "correct": false
                 },
                 {
@@ -1689,7 +1689,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Todo el anterior.",
+                  "text": "Todo lo anterior.",
                   "correct": false
                 }
               ]
@@ -1786,7 +1786,7 @@
             },
             {
               "id": 12,
-              "question": "¿Cuál de los siguientes nutrientes no generalmente se encuentra en la leche y los productos lácteos?",
+              "question": "¿Cuál de los siguientes nutrientes usualmente no se encuentra en la leche y los productos lácteos?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -2022,12 +2022,12 @@
                 },
                 {
                   "id": 2,
-                  "text": "Leche completa o baja en grasa.",
+                  "text": "Leche entera o desnatada",
                   "correct": true
                 },
                 {
                   "id": 3,
-                  "text": "LECHA VEZ.",
+                  "text": "leche vegetal",
                   "correct": false
                 },
                 {
@@ -2057,7 +2057,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Marca de marca.",
+                  "text": "nombre de la marca",
                   "correct": false
                 },
                 {
@@ -2132,7 +2132,7 @@
             "Debe consumir leche y productos lácteos a diario como parte de una dieta equilibrada, con el objetivo de consumir de 3 a 4 porciones de lácteos al día. Una porción puede ser 1 taza de leche, 1 taza de yogur o 1 rebanada (30 gramos) de queso.",
             "Si no bebes leche, aún puedes obtener la mayoría de sus nutrientes de alimentos como el queso o el yogur.",
             "También es inteligente verificar las etiquetas de yogurt para el azúcar agregado para tomar decisiones más saludables.",
-            "Para los niños mayores de 2 años, la leche y los yogures, tanto enteros como bajos en grasa, son opciones adecuadas, según las necesidades energéticas y la salud general.",
+            "Para los niños mayores de 2 años, la leche y los yogures, tanto enteros como desnatados, son opciones adecuadas, según las necesidades energéticas y la salud general.",
             "Tenga en cuenta que algunas personas pueden tener problemas digestivos al beber leche. Para ellos, existe en el mercado un tipo de leche llamada “sin lactosa”."
           ]
         },
@@ -2361,7 +2361,7 @@
         {
           "id": 5,
           "title": "Prácticas de manejo y almacenamiento",
-          "description": "Familiarizarse con el almacenamiento seguro, la prevención y la contaminación, y comprender las fechas de vencimiento y los signos de deterioro de los productos lácteos.",
+          "description": "Familiarizarse con el almacenamiento seguro, prevención y contaminación, y comprender las fechas de vencimiento y los signos de deterioro de los productos lácteos.",
           "questions": [
             {
               "id": 1,
@@ -2463,7 +2463,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Huele, revise la textura y lea la fecha.",
+                  "text": "Huela, revise la textura y lea la fecha.",
                   "correct": true
                 },
                 {
@@ -2473,7 +2473,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Sacudirlo.",
+                  "text": "Sacudelo.",
                   "correct": false
                 },
                 {
@@ -2545,7 +2545,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Preventan los resfriados.",
+                  "text": "Previenen los resfriados.",
                   "correct": false
                 },
                 {
@@ -2587,7 +2587,7 @@
             },
             {
               "id": 5,
-              "question": "Productos lácteos fermentados como yogurt y kéfir lisos:",
+              "question": "Productos lácteos fermentados como yogurt y kéfir simples:",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -2620,7 +2620,7 @@
             "Los productos lácteos son importantes porque ayudan a su cuerpo a crecer fuerte y mantenerse saludable.",
             "El calcio de los productos lácteos fortalece los huesos y los dientes, mientras que las proteínas favorecen el desarrollo y el crecimiento muscular.",
             "Los expertos recomiendan los productos lácteos no sólo para crecer fuertes, sino también porque ayudan a prevenir enfermedades, como la debilidad del cuerpo en una etapa más avanzada de la vida.",
-            "Elegir productos lácteos fermentados o bajos en grasa puede protegerlo de diversos problemas de salud."
+            "Elegir productos lácteos fermentados o desnatados puede protegerlo de diversos problemas de salud."
           ]
         }
       ]
@@ -2879,7 +2879,7 @@
           "messages": [
             "¡Bienvenido al mundo de los cereales y sus productos! El grupo incluye productos elaborados a partir de plantas como trigo, arroz, avena, cebada, etc. Estos granos se utilizan ampliamente para elaborar productos como pan, pasta, cereales para el desayuno, tortillas y galletas saladas.",
             "También existen otros cereales menos conocidos como el mijo, el trigo sarraceno y la quinoa, que se consideran muy saludables.",
-            "Los cereales son una parte esencial de una dieta equilibrada y están disponibles en muchas formas, que difieren en su valor nutricional. ¡¡Aprender sobre los cereales te ayuda a tomar decisiones más saludables!!"
+            "Los cereales son una parte esencial de una dieta equilibrada y están disponibles en muchas formas, que difieren en su valor nutricional. ¡Aprender sobre los cereales te ayuda a tomar decisiones más saludables!"
           ]
         },
         {
@@ -2992,7 +2992,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Se les quitan algunas partes del grano entero.",
+                  "text": "Se les quitan algunas partes del grano integral.",
                   "correct": true
                 },
                 {
@@ -3009,7 +3009,7 @@
             },
             {
               "id": 4,
-              "question": "¿Qué hace que los granos enteros sean diferentes de los granos refinados?",
+              "question": "¿Qué hace que los granos integrales sean diferentes de los granos refinados?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -3039,7 +3039,7 @@
             },
             {
               "id": 5,
-              "question": "Los granos enteros son una buena fuente de:",
+              "question": "Los granos integrales son una buena fuente de:",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -3129,7 +3129,7 @@
             },
             {
               "id": 9,
-              "question": "El término multigrain en una etiqueta de alimentos significa que el producto es:",
+              "question": "El término multigrano en una etiqueta de alimentos significa que el producto es:",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -3499,7 +3499,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Un croissant con relleno praline.",
+                  "text": "Un croissant con relleno praliné.",
                   "correct": false
                 },
                 {
@@ -3594,7 +3594,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Obas de chocolate.",
+                  "text": "Obleas de chocolate.",
                   "correct": false
                 }
               ]
@@ -3609,7 +3609,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Más fibras.",
+                  "text": "Más fibra.",
                   "correct": false
                 },
                 {
@@ -3662,8 +3662,8 @@
           ],
           "messages": [
             "¡Hay muchas maneras de incorporar granos en su dieta!",
-            "Consume productos de cereales como snacks (elige una tostada con pan integral y queso o galletas saladas con huevo para un snack saludable en el colegio), y agrégalos a tus comidas principales.",
-            "Dar prioridad a los cereales integrales (en lugar de refinados) para aprovechar todos sus nutrientes (fibras, vitaminas y minerales). El pan integral, la avena y el arroz integral son excelentes opciones integrales. Prepárelos de manera sencilla, evitando agregar demasiada grasa, azúcar o sal."
+            "Consume productos de cereales como merienda (elige una tostada con pan integral y queso o galletas saladas con huevo para una merienda saludable en el colegio), y agrégalos a tus comidas principales.",
+            "Dale prioridad a los cereales integrales (en lugar de refinados) para aprovechar todos sus nutrientes (fibras, vitaminas y minerales). El pan integral, la avena y el arroz integral son excelentes opciones integrales. Prepárelos de manera sencilla, evitando agregar demasiada grasa, azúcar o sal."
           ]
         },
         {
@@ -3836,7 +3836,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Tu audiencia.",
+                  "text": "Tu audición",
                   "correct": false
                 },
                 {
@@ -4033,7 +4033,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Se agregó sal y azúcar.",
+                  "text": "Sal y azúcar añadidos.",
                   "correct": true
                 },
                 {
@@ -4334,7 +4334,7 @@
             },
             {
               "id": 9,
-              "question": "¿Qué son los pulsos?",
+              "question": "¿Qué son las legumbres?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -4347,7 +4347,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "La parte externa no edible de las legumbres.",
+                  "text": "La parte externa no comestible de las legumbres.",
                   "correct": false
                 },
                 {
@@ -4377,7 +4377,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Pulsos.",
+                  "text": "Legumbres ",
                   "correct": false
                 },
                 {
@@ -4596,7 +4596,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "El blanco.",
+                  "text": "La clara.",
                   "correct": true
                 },
                 {
@@ -4731,7 +4731,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Carne de res.",
+                  "text": "Carne de ternera.",
                   "correct": false
                 }
               ]
@@ -4761,7 +4761,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Carne de res.",
+                  "text": "Carne de ternera.",
                   "correct": true
                 }
               ]
@@ -5080,7 +5080,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Freing profundo.",
+                  "text": "Freír profundo.",
                   "correct": false
                 },
                 {
@@ -5090,7 +5090,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Parilla.",
+                  "text": "Parrilla.",
                   "correct": false
                 }
               ]
@@ -5218,7 +5218,7 @@
           ],
           "messages": [
             "Para obtener las proteínas necesarias y evitar grandes cantidades de lípidos saturados: coma aves sin piel, elimine la grasa visible de las carnes rojas (normalmente la capa exterior).",
-            "Los huevos son una opción muy nutritiva como tentempié rico en proteínas (por ejemplo, huevo cocido), en lugar de embutidos en sándwiches o wraps, o incluso como comida principal (por ejemplo, tortilla al horno con queso y verduras).",
+            "Los huevos son una opción muy nutritiva como merienda rica en proteínas (por ejemplo, huevo cocido), en lugar de embutidos en sándwiches o wraps, o incluso como comida principal (por ejemplo, tortilla al horno con queso y verduras).",
             "Para mantener tus comidas lo más saludables posible, elige alimentos ricos en proteínas de origen animal, hervidos o asados ​​al horno, y evita los fritos o a la parrilla, especialmente a la parrilla.",
             "¡Hay muchas maneras de incorporar pulsos en su dieta! Por nombrar algunos, puede tenerlos como una comida principal (por ejemplo, sopa de lentejas), incorporarlos en ensaladas, usarlas para hacer hamburguesas vegetarianas o incluso disfrutarlas como propagaciones como hummus."
           ]
@@ -5618,7 +5618,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Una versión baja de mantequilla",
+                  "text": "Una versión baja en grasa de la mantequilla",
                   "correct": false
                 },
                 {
@@ -5633,14 +5633,14 @@
                 },
                 {
                   "id": 4,
-                  "text": "La pasta/propagación hecha de maní",
+                  "text": "La pasta para untar hecha de maní",
                   "correct": false
                 }
               ]
             },
             {
               "id": 11,
-              "question": "¿Cuál de las siguientes pastas/pastas para untar se produce moliendo nueces?",
+              "question": "¿Cuál de las siguientes pastas para untar se produce moliendo nueces?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -5648,7 +5648,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Manteca de cacahuete",
+                  "text": "Mantequ de cacahuete",
                   "correct": false
                 },
                 {
@@ -5738,7 +5738,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Palta",
+                  "text": "Aguacate",
                   "correct": true
                 },
                 {
@@ -5760,7 +5760,7 @@
             }
           ],
           "messages": [
-            "Este grupo incluye ingredientes utilizados principalmente para cocinar, así como salsas o productos para untar. Permiten cocinar los alimentos y dan sabor y sabor a platos y comidas. Su nutriente común son los lípidos.",
+            "Este grupo incluye ingredientes utilizados principalmente para cocinar, así como salsas o productos para untar. Permiten cocinar los alimentos y dan sabor a platos y comidas. Su nutriente común son los lípidos.",
             "Los aceites incluyen cualquier aceite comestible (=que se pueda comer) procedente de plantas (por ejemplo, aceite de oliva, aceite de girasol, aceite de soja).",
             "Las grasas incluyen la forma sólida de lípidos, ya sea provenientes de plantas o animales: a) Fuentes vegetales: productos para untar como margarina y mayonesa, todos los frutos secos y semillas (p. ej., almendras, nueces, maní, sésamo) y sus mantequillas/pastas utilizadas en productos para untar (p. ej., mantequilla de maní, tahini). Además, aceites de oliva y aguacate. b) Fuentes animales: de carnes rojas (p. ej., manteca de cerdo, sebo de res), de leche (mantequilla)."
           ]
@@ -5922,7 +5922,7 @@
             },
             {
               "id": 8,
-              "question": "Además de los lípidos, ¿qué otro nutriente se puede encontrar en los aceites vegetales?",
+              "question": "Además de los lípidos, ¿que otro nutriente se puede encontrar en los aceites vegetales?",
               "category": {
                 "id": "category-0",
                 "text": "Categoría indefinida"
@@ -5995,7 +5995,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Bollería y snacks al horno",
+                  "text": "Bollería y bocadillos al horno",
                   "correct": false
                 },
                 {
@@ -6060,7 +6060,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Manteca",
+                  "text": "Mantequ",
                   "correct": false
                 },
                 {
@@ -6078,7 +6078,7 @@
             "Grasas vegetales, p.e. La oliva, las nueces/semillas, los aceites vegetales y el aguacate contienen principalmente lípidos insaturados, que son beneficiosos para el corazón. Una excepción son los aceites de palma y coco, que son muy ricos en lípidos saturados y conviene evitarlos.",
             "La mayoría de los aceites vegetales son ricos en vitamina E, que mantiene la salud de las células del cuerpo.",
             "Entre los diversos aceites vegetales, el aceite de oliva, especialmente el aceite de oliva virgen extra, se considera una de las opciones más saludables, ya que no está procesado y contiene una amplia gama de componentes saludables.",
-            "¡Pero ten cuidado! Cuando algunos aceites vegetales se convierten en grasas sólidas o se cocinan a fuego muy alto, su estructura cambia, lo que los convierte en los lípidos menos saludables de todos. Se llaman lípidos trans y se pueden encontrar en alimentos procesados ​​como bollería, snacks salados y comida rápida."
+            "¡Pero ten cuidado! Cuando algunos aceites vegetales se convierten en grasas sólidas o se cocinan a fuego muy alto, su estructura cambia, lo que los convierte en los lípidos menos saludables de todos. Se llaman lípidos trans y se pueden encontrar en alimentos procesados ​​como bollería, bocadillos salados y comida rápida."
           ]
         },
         {
@@ -6106,7 +6106,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Nueces/semillas consumidas como snack",
+                  "text": "Nueces/semillas consumidas como merienda",
                   "correct": false
                 },
                 {
@@ -6156,7 +6156,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Prefiere al vapor y hirvir sobre freír",
+                  "text": "Prefiere al vapor y hervir sobre freír",
                   "correct": false
                 },
                 {
@@ -6273,7 +6273,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Úselos solo en forma cruda y no cocida",
+                  "text": "Úselos sólo en forma cruda y no cocida",
                   "correct": false
                 }
               ]
@@ -6669,7 +6669,7 @@
                 },
                 {
                   "id": 2,
-                  "text": "Ssaturado",
+                  "text": "Saturado",
                   "correct": false
                 },
                 {
@@ -6704,7 +6704,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "utilizar spreads con moderación",
+                  "text": "utilizar los untables con moderación",
                   "correct": true
                 },
                 {
@@ -6904,7 +6904,7 @@
                 },
                 {
                   "id": 3,
-                  "text": "Agua con burbujas`(dióxido de carbono)",
+                  "text": "Agua con gas (dióxido de carbono)",
                   "correct": true
                 },
                 {
@@ -7068,7 +7068,7 @@
           "messages": [
             "¡Bienvenido al mundo de la hidratación! Para mantenerse hidratado, puede probar una gran variedad de líquidos:",
             "Agua, que es la bebida más importante. Dale sabor a tu agua con frutas, hierbas o verduras o prueba agua con gas o carbonatada, ¡para divertirte más!",
-            "Los jugos de frutas frescas, como el jugo de naranja, que se producen a través de la exprimencia o la mezcla de frutas frescas.",
+            "Los jugos de frutas frescas, como el jugo de naranja, que se producen a través de la experiencia o la mezcla de frutas frescas.",
             "Leche, que es un producto lácteo, y productos lácteos fermentados/cultivados, como el kéfir.",
             "Infusiones a base de hierbas, que se realizan por hierbas empapadas y empapadas, especias, flores u otros materiales vegetales en agua caliente (por ejemplo, manzanilla, salvia, eucalipto, menta).",
             "Evite las bebidas que contienen cafeína (por ejemplo, café, té negro, colas, bebidas energéticas), azúcares agregados (por ejemplo, néctares de frutas, refrescos, bebidas energéticas y bebidas deportivas) o alcohol (cerveza, vino, licores). No son buenos medios para la hidratación y tal vez también dañinos para su salud."
@@ -7382,13 +7382,13 @@
           ],
           "messages": [
             "Para mantenerse saludable, ¡su cuerpo necesita las bebidas correctas!",
-            "El agua es la mejor manera de mantenerse hidratado. ¡Puede comprender fácilmente su importancia si cree que hasta el 60-70% de nuestro cuerpo es realmente agua! No contiene calorías o vitaminas, sino solo pequeñas cantidades de minerales, como el calcio y el magnesio.",
+            "El agua es la mejor manera de mantenerse hidratado. ¡Puede comprender fácilmente su importancia si cree que hasta el 60-70% de nuestro cuerpo es realmente agua! No contiene calorías o vitaminas, sino sólo pequeñas cantidades de minerales, como el calcio y el magnesio.",
             "Otras bebidas saludables contienen varios nutrientes importantes:",
             "La leche es rica en calcio, que es esencial para huesos y dientes fuertes.",
             "La leche agria y el kéfir contienen gérmenes beneficiosos que ayudan al intestino a funcionar correctamente.",
             "Los jugos de frutas frescas están llenas de vitaminas importantes (por ejemplo, vitamina C); Sin embargo, tienen menos fibras dietéticas en comparación con las frutas enteras.",
             "¡Pero ten cuidado! No todas las bebidas son nutritivas.",
-            "Los zumos de frutas, refrescos, bebidas deportivas y bebidas energéticas envasados ​​son ultraprocesados ​​y cargados de azúcar y aditivos/conservantes, que tienen efectos perjudiciales para el organismo.",
+            "Los zumos de frutas, refrescos, bebidas deportivas y bebidas energéticas envasados ​​son ultra procesados ​​y cargados de azúcar y aditivos/conservantes, que tienen efectos perjudiciales para el organismo.",
             "El café, el té negro y las bebidas energéticas también contienen mucha cafeína, lo que puede causar ansiedad, irritabilidad y problemas de sueño.",
             "El alcohol daña la función cerebral, el comportamiento y el desarrollo general, por lo que debes abstenerte de beber alcohol, aunque sea en raras ocasiones."
           ]
@@ -7558,7 +7558,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Cuando estas enfermo",
+                  "text": "Cuando estás enfermo",
                   "correct": false
                 },
                 {
