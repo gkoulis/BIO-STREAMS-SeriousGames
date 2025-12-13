@@ -3,7 +3,7 @@ Changelog
 
 # v0.1.16 Friday 05 December 2025
 
-- Fixes
+- Fix
 
 # v0.1.15-SC.1-27 Friday 05 December 2025
 
