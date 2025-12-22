@@ -1,6 +1,11 @@
 Changelog
 ===
 
+# v0.1.17 Monday 22 December 2025
+
+- TestView for REST API integration (test/dev).
+- Previous SeriousGames repository (archive).
+
 # v0.1.16 Friday 05 December 2025
 
 - Fix
