@@ -1,6 +1,10 @@
 Changelog
 ===
 
+# v0.1.19 Sunday 25 January 2026
+
+Minor (trivial) fix.
+
 # v0.1.18 Sunday 25 January 2026
 
 - Score tracking for Food Ninja Story Mode

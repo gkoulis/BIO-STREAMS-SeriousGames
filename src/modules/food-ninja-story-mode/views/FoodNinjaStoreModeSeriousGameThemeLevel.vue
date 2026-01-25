@@ -1,6 +1,6 @@
 <script setup>
 import { onMounted, onBeforeUnmount, ref, reactive, defineEmits, defineProps, toRefs } from "vue";
-import { useI18n } from "vue-i18n";
+// import { useI18n } from "vue-i18n";
 import cloneDeep from "lodash/cloneDeep";
 import Phaser from "phaser";
 
@@ -12,7 +12,7 @@ const { level } = toRefs(props); // I do not listen for changes. Parent changes 
 const LEVEL = cloneDeep(level.value);
 const ITEM_LIST = LEVEL.items;
 
-const { t } = useI18n(); // TODO Remove OR comment.
+// const { t } = useI18n();
 
 const emit = defineEmits(["onCompleted"]);
 
