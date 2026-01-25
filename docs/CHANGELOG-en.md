@@ -1,6 +1,10 @@
 Changelog
 ===
 
+# v0.1.20 Sunday 25 January 2026
+
+- Fixed Food Ninja Story Mode bug: wrong incorrect count.
+
 # v0.1.19 Sunday 25 January 2026
 
 Minor (trivial) fix.

@@ -36,7 +36,7 @@ const FOOD_RADIUS = 40; // Avoid overlap radius
 const WIDTH_OFFSET = 0; // TODO Automatic.
 const HEIGHT_OFFSET = 0; // TODO Automatic.
 
-// let hitThisStroke = new WeakSet();
+let hitThisStroke = new WeakSet();
 
 const correctCount = ref(0);
 const wrongCount = ref(0);
@@ -206,7 +206,7 @@ onMounted(async () => {
       if (pointer.leftButtonDown()) {
         // Left-click pressed
         slicing = true;
-        // hitThisStroke = new WeakSet();
+        hitThisStroke = new WeakSet();
         lastPointerPosition = { x: pointer.x, y: pointer.y };
       }
     });
@@ -235,7 +235,7 @@ onMounted(async () => {
 
     this.input.on("pointerup", () => {
       slicing = false;
-      // hitThisStroke = new WeakSet();
+      hitThisStroke = new WeakSet();
       sliceLine.clear();
     });
 
@@ -329,10 +329,10 @@ onMounted(async () => {
       }
 
       // Prevent multiple counts for the same item during the same swipe.
-      // if (hitThisStroke.has(item)) {
-      //   return true;
-      // }
-      // hitThisStroke.add(item);
+      if (hitThisStroke.has(item)) {
+        return true;
+      }
+      hitThisStroke.add(item);
 
       // const itemID = item.getData("id");
       // const itemName = item.getData("name");
