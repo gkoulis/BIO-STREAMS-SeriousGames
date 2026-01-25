@@ -8,6 +8,7 @@ const router = useRouter();
 
 const THEME_ID = route.params.themeId;
 const THEME_REF = ref(null);
+const userIdRef = ref(null);
 
 const LOCAL_DATA_SUFFIX = "food-treasure-data-THEME_BY_ID_REF-";
 const RETURN_VIEW_NAME = "food-treasure-index";
@@ -16,6 +17,7 @@ onBeforeMount(() => {
   THEME_REF.value = null;
 
   const languageCode = localStorage.getItem("languageCode");
+  userIdRef.value = localStorage.getItem("userId") || null;
 
   let key = `${LOCAL_DATA_SUFFIX}${languageCode}`;
   const jsonString = localStorage.getItem(key);
@@ -56,7 +58,7 @@ onBeforeMount(() => {
 
 <template>
   <template v-if="THEME_REF">
-    <FoodTreasureSeriousGameTheme :theme="THEME_REF" />
+    <FoodTreasureSeriousGameTheme :theme="THEME_REF" :user-id="userIdRef" />
   </template>
 </template>
 
