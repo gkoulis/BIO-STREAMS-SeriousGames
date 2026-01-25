@@ -12,11 +12,17 @@ const router = useRouter();
 
 const props = defineProps({
   theme: Object,
+  userId: {
+    type: [String, Number],
+    required: false,
+    default: 0,
+  },
 });
 
-const { theme } = toRefs(props); // I do not listen for changes. Parent changes do not have an effect in here.
+const { theme, userId } = toRefs(props); // I do not listen for changes. Parent changes do not have an effect in here.
 
 const THEME = cloneDeep(theme.value);
+const USER_ID = userId.value;
 const LEVEL_BY_ID = {};
 for (const level of THEME.levels) {
   LEVEL_BY_ID[level.id] = level;
@@ -28,6 +34,48 @@ const activeLevelIdRef = ref(0);
 const activeLevelRef = computed(() => {
   return LEVEL_BY_ID[activeLevelIdRef.value];
 });
+
+const lastLevelStatsRef = ref(null);
+
+async function submitRawScoreToApi({ score, duration, levelId, levelTitle, timestamp }) {
+  if (!USER_ID) {
+    console.warn("No userId provided; skipping score submit.");
+    return;
+  }
+
+  const payload = {
+    UserId: String(USER_ID),
+    Score: score,
+    Timestamp: timestamp || new Date().toISOString(),
+    GameName: "Food Ninja",
+    Level: `Stage ${levelId} - ${levelTitle}`,
+    Duration: duration, // "HH:MM:SS"
+    Source: "Linked",
+  };
+
+  const res = await fetch(
+    "https://activehealth.dev.bio-streams.eu/api/seriousgames/scores/submit-raw-score",
+    {
+      method: "POST",
+      headers: {
+        accept: "*/*",
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        JsonPayload: JSON.stringify(payload),
+      }),
+    }
+  );
+
+  if (!res.ok) {
+    const txt = await res.text().catch(() => "");
+    throw new Error(`Score submit failed (${res.status}): ${txt}`);
+  }
+
+  // Some APIs return empty body; be tolerant
+  const text = await res.text().catch(() => "");
+  return text;
+}
 
 onBeforeMount(() => {
   themeStatusRef.value = "SPLASH";
@@ -42,14 +90,21 @@ const startLevel = () => {
   themeStatusRef.value = "ACTIVE";
 };
 
-const handleOnCompleted = ($event) => {
-  // @future Utilize $event: correct, wrong tries, time, etc.
+const handleOnCompleted = async (stats) => {
+  // stats = { correct, wrong, score, duration, ... }
+  lastLevelStatsRef.value = stats;
+
   themeStatusRef.value = "POST_ACTIVE";
 
   if (winSoundRef.value) {
-    winSoundRef.value.play().catch((err) => {
-      console.warn("Audio play failed:", err);
-    });
+    winSoundRef.value.play().catch((err) => console.warn("Audio play failed:", err));
+  }
+
+  try {
+    await submitRawScoreToApi(stats);
+    console.log("Score submitted:", stats);
+  } catch (e) {
+    console.warn(e);
   }
 };
 
@@ -135,7 +190,7 @@ const returnToIndex = () => {
       ></FoodNinjaStoreModeSeriousGameThemeLevel>
     </template>
 
-    <!-- PRE_ACTIVE: Level is completed. Users see messages. -->
+    <!-- POST_ACTIVE: Level is completed. Users see messages. -->
     <template v-else-if="themeStatusRef === 'POST_ACTIVE'">
       <f-n-s-m-s-g-container>
         <div class="py-6 px-6 text-center">
@@ -149,6 +204,18 @@ const returnToIndex = () => {
             <template v-for="message in activeLevelRef.messages" :key="message">
               <p class="text-lg text-green-950">✔️ {{ message }}</p>
             </template>
+          </div>
+          <div class="h-10"></div>
+          <div v-if="lastLevelStatsRef" class="mt-6 text-sm text-gray-600 space-y-1">
+            <p>
+              ⏱️ Duration: <b>{{ lastLevelStatsRef.duration }}</b>
+            </p>
+            <p>
+              🎯 Score: <b>{{ lastLevelStatsRef.score }}</b>
+            </p>
+            <p>
+              ✅ Correct: {{ lastLevelStatsRef.correct }} | ❌ Wrong: {{ lastLevelStatsRef.wrong }}
+            </p>
           </div>
           <div class="h-10"></div>
           <div class="space-x-2">

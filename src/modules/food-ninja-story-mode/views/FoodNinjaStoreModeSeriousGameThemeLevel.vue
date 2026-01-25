@@ -12,7 +12,7 @@ const { level } = toRefs(props); // I do not listen for changes. Parent changes 
 const LEVEL = cloneDeep(level.value);
 const ITEM_LIST = LEVEL.items;
 
-const { t } = useI18n();
+const { t } = useI18n(); // TODO Remove OR comment.
 
 const emit = defineEmits(["onCompleted"]);
 
@@ -22,13 +22,13 @@ const dynamicStyle = reactive({
 });
 
 function getFoodDisplaySize() {
-  const width = window.innerWidth
+  const width = window.innerWidth;
   if (width < 600) {
     return 60; // phones
   } else if (width < 1024) {
     return 80; // tablets
   } else {
-    return 100 // desktops
+    return 100; // desktops
   }
 }
 const FOOD_DISPLAY_SIZE = getFoodDisplaySize();
@@ -36,9 +36,55 @@ const FOOD_RADIUS = 40; // Avoid overlap radius
 const WIDTH_OFFSET = 0; // TODO Automatic.
 const HEIGHT_OFFSET = 0; // TODO Automatic.
 
+// let hitThisStroke = new WeakSet();
+
 const correctCount = ref(0);
 const wrongCount = ref(0);
 const remainingTargetItemsCountRef = ref(ITEM_LIST.filter((item) => item.target).length);
+
+const levelStartMsRef = ref(null);
+const durationMsRef = ref(0);
+const durationTextRef = ref("00:00:00");
+const scoreRef = ref(0);
+let durationIntervalId = null;
+
+function pad2(n) {
+  return String(n).padStart(2, "0");
+}
+function formatDuration(ms) {
+  const totalSeconds = Math.max(0, Math.floor(ms / 1000));
+  const hours = Math.floor(totalSeconds / 3600);
+  const minutes = Math.floor((totalSeconds % 3600) / 60);
+  const seconds = totalSeconds % 60;
+  return `${pad2(hours)}:${pad2(minutes)}:${pad2(seconds)}`;
+}
+
+const POINTS_PER_CORRECT = 100;
+const PENALTY_PER_WRONG = 50;
+function recomputeScore() {
+  const raw = correctCount.value * POINTS_PER_CORRECT - wrongCount.value * PENALTY_PER_WRONG;
+  scoreRef.value = Math.max(0, raw);
+}
+
+function startDurationTimer() {
+  stopDurationTimer();
+  levelStartMsRef.value = Date.now();
+  durationMsRef.value = 0;
+  durationTextRef.value = "00:00:00";
+
+  durationIntervalId = setInterval(() => {
+    if (!levelStartMsRef.value) return;
+    durationMsRef.value = Date.now() - levelStartMsRef.value;
+    durationTextRef.value = formatDuration(durationMsRef.value);
+  }, 250);
+}
+
+function stopDurationTimer() {
+  if (durationIntervalId) {
+    clearInterval(durationIntervalId);
+    durationIntervalId = null;
+  }
+}
 
 // TODO On Destroy release resources (delete, flush, destroy, clean everything!)
 let GAME = null;
@@ -87,6 +133,7 @@ onMounted(async () => {
   function create() {
     // Reset the game state at the start.
     resetGameState.call(this);
+    startDurationTimer();
 
     this.input.removeAllListeners();
 
@@ -113,6 +160,14 @@ onMounted(async () => {
       font: "20px Arial",
       fill: "#000000",
     });
+
+    // show score + timer in Phaser overlay
+    const hudText = this.add.text(10, 40, "", { font: "16px Arial", fill: "#000000" });
+    const hudInterval = setInterval(() => {
+      hudText.setText(`Score: ${scoreRef.value}  Time: ${durationTextRef.value}`);
+    }, 250);
+    this.events.once("shutdown", () => clearInterval(hudInterval));
+    this.events.once("destroy", () => clearInterval(hudInterval));
 
     // Generate non-overlapping random positions for Items.
     const positions = generateRandomPositions(ITEM_LIST.length);
@@ -151,6 +206,7 @@ onMounted(async () => {
       if (pointer.leftButtonDown()) {
         // Left-click pressed
         slicing = true;
+        // hitThisStroke = new WeakSet();
         lastPointerPosition = { x: pointer.x, y: pointer.y };
       }
     });
@@ -179,6 +235,7 @@ onMounted(async () => {
 
     this.input.on("pointerup", () => {
       slicing = false;
+      // hitThisStroke = new WeakSet();
       sliceLine.clear();
     });
 
@@ -208,6 +265,9 @@ onMounted(async () => {
 
     correctCount.value = 0;
     wrongCount.value = 0;
+    recomputeScore();
+
+    remainingTargetItemsCountRef.value = ITEM_LIST.filter((item) => item.target).length;
 
     this.tweens.killAll();
     this.time.removeAllEvents();
@@ -268,6 +328,12 @@ onMounted(async () => {
         return true; // Include.
       }
 
+      // Prevent multiple counts for the same item during the same swipe.
+      // if (hitThisStroke.has(item)) {
+      //   return true;
+      // }
+      // hitThisStroke.add(item);
+
       // const itemID = item.getData("id");
       // const itemName = item.getData("name");
       const itemTarget = item.getData("target");
@@ -276,6 +342,7 @@ onMounted(async () => {
         this.sound.play("correct");
         correctCount.value++;
         remainingTargetItemsCountRef.value--;
+        recomputeScore();
 
         item.setAlpha(0.5);
         setTimeout(() => item.destroy(), 100);
@@ -287,7 +354,9 @@ onMounted(async () => {
         return false; // Exclude!
       } else {
         this.sound.play("incorrect");
+        console.log("wrong " + new Date().toISOString() + " - " + Date.now());
         wrongCount.value++;
+        recomputeScore();
 
         // In story mode, we do not reset after a wrong slice.
         // resetGameState.call(this);
@@ -301,11 +370,26 @@ onMounted(async () => {
   function handleWin() {
     this.sound.play("nextRoundSuccess");
 
+    stopDurationTimer();
+    const finalDurationMs = levelStartMsRef.value
+      ? Date.now() - levelStartMsRef.value
+      : durationMsRef.value;
+    const finalDurationText = formatDuration(finalDurationMs);
+
     // In story mode, we do not restart the scene.
     // Instead, we emit a signal to parent component to load the next level.
     // this.scene.restart();
 
-    emit("onCompleted");
+    emit("onCompleted", {
+      levelId: LEVEL.id,
+      levelTitle: LEVEL.title,
+      correct: correctCount.value,
+      wrong: wrongCount.value,
+      score: scoreRef.value,
+      duration: finalDurationText, // "HH:MM:SS"
+      durationMs: finalDurationMs, // number
+      timestamp: new Date().toISOString(),
+    });
   }
 
   // Movements
@@ -418,6 +502,7 @@ onMounted(async () => {
 });
 
 onBeforeUnmount(() => {
+  stopDurationTimer();
   if (GAME) {
     GAME.destroy(true); // true = remove canvas & listeners
     GAME = null;

@@ -26,7 +26,7 @@ const PUBLIC_PATH = import.meta.env.BASE_URL;
 
           <div class="text-red-400">
             <small
-            >Food Ninja (free mode) and Food Quiz (free mode) are no longer supported. They remain
+              >Food Ninja (free mode) and Food Quiz (free mode) are no longer supported. They remain
               available for historical and documentation purposes, but no further development is
               planned.</small
             >

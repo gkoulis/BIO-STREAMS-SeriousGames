@@ -36,10 +36,25 @@ const onLanguageSelection = (event) => {
             />
           </div>
           <div>
-            <button v-if="!isAuthenticated" @click="login" type="button" class="flex w-full justify-center rounded-md bg-blue-500 px-3 py-1.5 text-sm/6 font-semibold text-white hover:bg-blue-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-500">Sign in</button>
+            <button
+              v-if="!isAuthenticated"
+              @click="login"
+              type="button"
+              class="flex w-full justify-center rounded-md bg-blue-500 px-3 py-1.5 text-sm/6 font-semibold text-white hover:bg-blue-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-500"
+            >
+              Sign in
+            </button>
             <div v-else>
-              <p class="mb-2">Hi, <span class="font-bold">{{ username }}</span></p>
-              <button @click="logout" type="button" class="flex w-full justify-center rounded-md bg-gray-300 px-3 py-1.5 text-sm/6 font-semibold text-gray-700 hover:bg-gray-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-gray-500">Sign out</button>
+              <p class="mb-2">
+                Hi, <span class="font-bold">{{ username }}</span>
+              </p>
+              <button
+                @click="logout"
+                type="button"
+                class="flex w-full justify-center rounded-md bg-gray-300 px-3 py-1.5 text-sm/6 font-semibold text-gray-700 hover:bg-gray-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-gray-500"
+              >
+                Sign out
+              </button>
             </div>
           </div>
           <router-link to="/marketplace">Marketplace</router-link>
@@ -64,7 +79,7 @@ const onLanguageSelection = (event) => {
           </div>
 
           <div class="text-blue-400">
-            <small><pre>V20251213</pre></small>
+            <small><pre>V20260125</pre></small>
           </div>
         </div>
       </div>

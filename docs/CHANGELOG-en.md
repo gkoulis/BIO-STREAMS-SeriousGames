@@ -1,6 +1,10 @@
 Changelog
 ===
 
+# v0.1.18 Sunday 25 January 2026
+
+- Score tracking for Food Ninja Story Mode
+
 # v0.1.17 Monday 22 December 2025
 
 - TestView for REST API integration (test/dev).

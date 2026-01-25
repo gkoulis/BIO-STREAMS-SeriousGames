@@ -250,7 +250,6 @@ const faqs = [
         </div>
       </div>
     </div>
-
   </main>
 
   <footer class="bg-white">
