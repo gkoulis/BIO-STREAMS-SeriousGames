@@ -1,6 +1,12 @@
 Changelog
 ===
 
+# v0.1.41 Sunday 25 January 2026
+
+- Feature: automatic userId and languageCode.
+- Disabled Keycloak authentication (flag).
+- Display userId (home).
+
 # v0.1.40 Sunday 25 January 2026
 
 Feature: parse userId/lang from URL before app boot and strip query params.

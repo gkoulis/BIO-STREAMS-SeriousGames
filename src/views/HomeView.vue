@@ -3,12 +3,15 @@ import { ref, onBeforeMount } from "vue";
 import { LANGUAGES } from "@/locales/languages.js";
 const PUBLIC_PATH = import.meta.env.BASE_URL;
 import { useAuth } from "@/composables/useAuth.js";
+import { ENABLE_KEYCLOAK } from "@/main";
 
 const { isAuthenticated, login, logout, username, userId } = useAuth();
 
 const selectedLanguageCodeRef = ref("en");
+const userIdRef = ref(null);
 
 onBeforeMount(() => {
+  userIdRef.value = localStorage.getItem("userId") || null;
   const localStorageLanguageCode = localStorage.getItem("languageCode") || "en";
   selectedLanguageCodeRef.value = localStorageLanguageCode;
 });
@@ -36,6 +39,13 @@ const onLanguageSelection = (event) => {
             />
           </div>
           <div>
+            <div>
+              <p class="mb-2 text-purple-500">
+                User ID: <span class="font-bold">{{ userIdRef }}</span>
+              </p>
+            </div>
+          </div>
+          <div v-if="ENABLE_KEYCLOAK">
             <button
               v-if="!isAuthenticated"
               @click="login"
@@ -79,7 +89,7 @@ const onLanguageSelection = (event) => {
           </div>
 
           <div class="text-blue-400">
-            <small><pre>V20260125</pre></small>
+            <small><pre>V20260126</pre></small>
           </div>
         </div>
       </div>

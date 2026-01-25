@@ -89,19 +89,30 @@
           }
         }
 
-        // 4) Clean URL: remove any "?..." (from search and from hash route)
-        // Build a URL with NO search, and hash without query.
-        const cleanHash = hashPath || '';
-        const cleanUrl = loc.origin + loc.pathname + cleanHash;
+        // 4) Clean URL: remove any "?..." (from search and from hash route) using string ops.
+        const href = window.location.href;
 
-        // Only change URL if there actually was a query to strip.
-        if (loc.search || hashQuery) {
+        const hashIndex = href.indexOf('#');
+        const beforeHash = hashIndex >= 0 ? href.slice(0, hashIndex) : href;  // includes origin/path + optional ?...
+        const afterHash  = hashIndex >= 0 ? href.slice(hashIndex) : ''; // "#/route?..." or ""
+
+        // Remove query from both parts (only first '?')
+        const cleanedBeforeHash = beforeHash.split('?')[0];
+        const cleanedAfterHash  = afterHash.split('?')[0];
+
+        const cleanedHref = cleanedBeforeHash + cleanedAfterHash;
+
+        if (cleanedHref !== href) {
           try {
-            // No reload, no hashchange event
-            history.replaceState(null, document.title, cleanUrl);
+            // Use a same-origin relative URL for replaceState
+            const relative = cleanedHref.startsWith(location.origin)
+              ? cleanedHref.slice(location.origin.length)
+              : cleanedHref;
+
+            history.replaceState(null, document.title, relative);
           } catch (e) {
-            // Fallback: full redirect
-            window.location.replace(cleanUrl);
+            // Fallback: still keep the hash route
+            window.location.replace(cleanedHref);
           }
         }
       })();
