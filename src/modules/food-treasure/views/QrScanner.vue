@@ -1,5 +1,6 @@
 <script setup>
-import { ref, defineProps, toRefs, defineEmits } from "vue";
+import cloneDeep from "lodash/cloneDeep";
+import { ref, defineProps, toRefs, defineEmits, onMounted } from "vue";
 import { QrcodeStream } from "vue-qrcode-reader";
 
 const emit = defineEmits(["onCompleted"]);
@@ -13,10 +14,24 @@ const { qrTarget } = toRefs(props); // I do not listen for changes. Parent chang
 const HINTS = qrTarget.value.hints;
 const SECRET_CODE = qrTarget.value.secret_code;
 const IMAGE_URL = qrTarget.value.image_url;
+
+const startedAtMsRef = ref(null); // when scanner became active
+const completedAtMsRef = ref(null); // when correct scan happened
+const gameData = ref({
+  success: false,
+  score: 0,
+  durationMs: 0,
+});
+
 const foundRef = ref(false);
 const showInvalidQrRef = ref(false);
 const scannedRef = ref(null);
 let errorTimeout = null;
+
+onMounted(() => {
+  // Start timing as soon as scanner mounts
+  startedAtMsRef.value = Date.now();
+});
 
 function onError($event) {
   console.warn($event);
@@ -43,6 +58,15 @@ function onDetect($event) {
     foundRef.value = true;
     showInvalidQrRef.value = false;
     clearTimeout(errorTimeout);
+
+    completedAtMsRef.value = Date.now();
+    const durationMs = completedAtMsRef.value - startedAtMsRef.value;
+
+    const score = 1 + durationMs;
+
+    gameData.value.success = true;
+    gameData.value.score = score;
+    gameData.value.durationMs = durationMs;
   } else {
     foundRef.value = false;
     showInvalidQrRef.value = true;
@@ -58,7 +82,7 @@ function onDetect($event) {
 }
 
 function onCompleted() {
-  emit("onCompleted");
+  emit("onCompleted", cloneDeep(gameData.value));
 }
 </script>
 

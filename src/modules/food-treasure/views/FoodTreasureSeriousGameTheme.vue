@@ -9,11 +9,16 @@ const router = useRouter();
 
 const props = defineProps({
   theme: Object,
+  userId: {
+    type: [String, Number],
+    required: false,
+  },
 });
 
-const { theme } = toRefs(props); // I do not listen for changes. Parent changes do not have an effect in here.
+const { theme, userId } = toRefs(props); // I do not listen for changes. Parent changes do not have an effect in here.
 
 const THEME = cloneDeep(theme.value);
+const USER_ID = userId.value;
 const LEVEL_BY_ID = {};
 for (const level of THEME.levels) {
   LEVEL_BY_ID[level.id] = level;
@@ -39,9 +44,57 @@ const startLevel = () => {
   themeStatusRef.value = "ACTIVE";
 };
 
-const handleOnCompleted = ($event) => {
+// TODO Create the same method for all. (composable or something).
+async function submitRawScoreToApi({ score, duration, levelId, levelTitle, timestamp }) {
+  if (!USER_ID) {
+    console.warn("No userId provided; skipping score submit.");
+    return;
+  }
+
+  const payload = {
+    UserId: String(USER_ID),
+    Score: score,
+    Timestamp: timestamp || new Date().toISOString(),
+    GameName: "Food Treasure",
+    Level: `Stage ${levelId} - ${levelTitle}`,
+    Duration: duration, // "HH:MM:SS"
+    Source: "Linked",
+  };
+
+  const res = await fetch(
+    "https://activehealth.dev.bio-streams.eu/api/seriousgames/scores/submit-raw-score",
+    {
+      method: "POST",
+      headers: {
+        accept: "*/*",
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        JsonPayload: JSON.stringify(payload),
+      }),
+    }
+  );
+
+  if (!res.ok) {
+    const txt = await res.text().catch(() => "");
+    throw new Error(`Score submit failed (${res.status}): ${txt}`);
+  }
+
+  // Some APIs return empty body; be tolerant
+  const text = await res.text().catch(() => "");
+  return text;
+}
+
+const handleOnCompleted = async ($event) => {
   // @future Utilize $event: correct, wrong tries, time, etc.
   themeStatusRef.value = "POST_ACTIVE";
+
+  try {
+    await submitRawScoreToApi($event);
+    console.log("Score submitted:", $event);
+  } catch (e) {
+    console.warn(e);
+  }
 };
 
 const goToNextLevelOrCompleteTheme = () => {
