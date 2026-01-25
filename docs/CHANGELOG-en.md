@@ -1,6 +1,10 @@
 Changelog
 ===
 
+# v0.1.25 Sunday 25 January 2026
+
+- Replace Food Ninja Story Mode score submission with `score-api-client.js` (`submitRawScoreToApi`).
+
 # v0.1.24 Sunday 25 January 2026
 
 - Added score-api-client.js (`submitRawScoreToApi`)

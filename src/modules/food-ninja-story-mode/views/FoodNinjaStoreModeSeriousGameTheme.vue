@@ -4,6 +4,7 @@ import { useRouter } from "vue-router";
 import cloneDeep from "lodash/cloneDeep";
 import FoodNinjaStoreModeSeriousGameThemeLevel from "./FoodNinjaStoreModeSeriousGameThemeLevel.vue";
 import FNSMSGContainer from "./FNSMSGContainer.vue";
+import { submitRawScoreToApi } from "@/common/score-api-client";
 
 const PUBLIC_PATH = import.meta.env.BASE_URL;
 const winSoundRef = ref(null);
@@ -36,46 +37,6 @@ const activeLevelRef = computed(() => {
 
 const lastLevelStatsRef = ref(null);
 
-async function submitRawScoreToApi({ score, duration, levelId, levelTitle, timestamp }) {
-  if (!USER_ID) {
-    console.warn("No userId provided; skipping score submit.");
-    return;
-  }
-
-  const payload = {
-    UserId: String(USER_ID),
-    Score: score,
-    Timestamp: timestamp || new Date().toISOString(),
-    GameName: "Food Ninja",
-    Level: `Stage ${levelId} - ${levelTitle}`,
-    Duration: duration, // "HH:MM:SS"
-    Source: "Linked",
-  };
-
-  const res = await fetch(
-    "https://activehealth.dev.bio-streams.eu/api/seriousgames/scores/submit-raw-score",
-    {
-      method: "POST",
-      headers: {
-        accept: "*/*",
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        JsonPayload: JSON.stringify(payload),
-      }),
-    }
-  );
-
-  if (!res.ok) {
-    const txt = await res.text().catch(() => "");
-    throw new Error(`Score submit failed (${res.status}): ${txt}`);
-  }
-
-  // Some APIs return empty body; be tolerant
-  const text = await res.text().catch(() => "");
-  return text;
-}
-
 onBeforeMount(() => {
   themeStatusRef.value = "SPLASH";
 });
@@ -100,7 +61,7 @@ const handleOnCompleted = async (stats) => {
   }
 
   try {
-    await submitRawScoreToApi(stats);
+    await submitRawScoreToApi(USER_ID, stats);
     console.log("Score submitted:", stats);
   } catch (e) {
     console.warn(e);
