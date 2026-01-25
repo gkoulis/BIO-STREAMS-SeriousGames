@@ -1,4 +1,12 @@
-export async function submitRawScoreToApi({ userId, score, timestamp, game, theme, themeLevel, duration }) {
+export async function submitRawScoreToApi({
+  userId,
+  score,
+  timestamp,
+  game,
+  theme,
+  themeLevel,
+  duration,
+}) {
   if (!userId) {
     console.warn("No userId provided; skipping score submit.");
     return;

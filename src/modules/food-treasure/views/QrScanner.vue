@@ -23,7 +23,7 @@ const gameData = ref({
   score: 0,
   durationMs: 0,
   durationText: "00:00:00",
-  timestamp: new Date().toISOString()
+  timestamp: new Date().toISOString(),
 });
 
 const foundRef = ref(false);
