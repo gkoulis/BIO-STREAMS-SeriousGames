@@ -1,6 +1,11 @@
 Changelog
 ===
 
+# v0.1.21 Sunday 25 January 2026
+
+- Score tracking for Food Quiz Story Mode
+- UI improvements (display score and duration)
+
 # v0.1.20 Sunday 25 January 2026
 
 - Fixed Food Ninja Story Mode bug: wrong incorrect count.
@@ -12,6 +17,7 @@ Minor (trivial) fix.
 # v0.1.18 Sunday 25 January 2026
 
 - Score tracking for Food Ninja Story Mode
+- UI improvements (display score and duration)
 
 # v0.1.17 Monday 22 December 2025
 

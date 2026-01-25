@@ -1,5 +1,13 @@
 <script setup>
-import { ref, defineProps, toRefs, defineEmits, computed, onBeforeMount } from "vue";
+import {
+  ref,
+  defineProps,
+  toRefs,
+  defineEmits,
+  computed,
+  onBeforeMount,
+  onBeforeUnmount,
+} from "vue";
 import cloneDeep from "lodash/cloneDeep";
 import Question from "./Question.vue";
 
@@ -24,7 +32,87 @@ const gameData = ref({
   helpsUsed: [], // The IDs of the helps used
   helpsUsedCount: 0,
   helpsRemainingCount: 0,
+  // Scoring + timing fields
+  scorePoints: 0, // final score I will submit
+  startedAtIso: null,
+  endedAtIso: null,
+  durationText: "00:00:00",
+  durationMs: 0,
 });
+
+// Duration tracking helpers.
+const gameStartMsRef = ref(null);
+let durationIntervalId = null;
+
+function pad2(n) {
+  return String(n).padStart(2, "0");
+}
+function formatDuration(ms) {
+  const totalSeconds = Math.max(0, Math.floor(ms / 1000));
+  const hours = Math.floor(totalSeconds / 3600);
+  const minutes = Math.floor((totalSeconds % 3600) / 60);
+  const seconds = totalSeconds % 60;
+  return `${pad2(hours)}:${pad2(minutes)}:${pad2(seconds)}`;
+}
+function stopTimer() {
+  if (durationIntervalId) {
+    clearInterval(durationIntervalId);
+    durationIntervalId = null;
+  }
+}
+function startTimer() {
+  stopTimer();
+  gameStartMsRef.value = Date.now();
+  gameData.value.startedAtIso = new Date().toISOString();
+  gameData.value.endedAtIso = null;
+  gameData.value.durationMs = 0;
+  gameData.value.durationText = "00:00:00";
+
+  durationIntervalId = setInterval(() => {
+    if (!gameStartMsRef.value) return;
+    const ms = Date.now() - gameStartMsRef.value;
+    gameData.value.durationMs = ms;
+    gameData.value.durationText = formatDuration(ms);
+  }, 250);
+}
+
+// Simple scoring formula.
+function calculateScore(gameData, penaltyPerHelp = 2) {
+  const { numberOfQuestions, correctAnswerCount, helpsUsedCount } = gameData;
+
+  if (numberOfQuestions === 0) {
+    return 0;
+  }
+
+  // 1. Percentage of correct answers
+  const percentageCorrect = (correctAnswerCount / numberOfQuestions) * 100;
+
+  // 2. Help penalty
+  const helpPenalty = helpsUsedCount * penaltyPerHelp;
+
+  // 3. Final score (never below 0 or above 100)
+  const finalScore = Math.max(0, Math.min(100, Math.round(percentageCorrect - helpPenalty)));
+
+  return finalScore;
+}
+function recomputeScore() {
+  gameData.value.scorePoints = calculateScore(gameData.value);
+}
+
+// Scoring formula 1.
+/*
+const POINTS_PER_CORRECT = 100;
+const PENALTY_PER_WRONG = 50;
+const PENALTY_PER_HELP = 25;
+function recomputeScore() {
+  const raw =
+    gameData.value.correctAnswerCount * POINTS_PER_CORRECT -
+    gameData.value.wrongAnswerCount * PENALTY_PER_WRONG -
+    gameData.value.helpsUsedCount * PENALTY_PER_HELP;
+
+  gameData.value.scorePoints = Math.max(0, raw);
+}
+*/
 
 const resetGameData = async () => {
   gameData.value.status = "INIT";
@@ -37,6 +125,10 @@ const resetGameData = async () => {
   gameData.value.helpsUsedCount = 0;
   gameData.value.helpsRemainingCount = HELPS.length;
 
+  // Reset score + start timer.
+  gameData.value.scorePoints = 0;
+  startTimer(); // ⏱️🆕
+
   currentQuestion.value = 0;
 
   updateReactivityBaseKey();
@@ -48,6 +140,21 @@ onBeforeMount(async () => {
   await resetGameData();
 });
 
+onBeforeUnmount(() => {
+  stopTimer();
+});
+
+const finalizeGameTiming = () => {
+  stopTimer(); // freeze final duration + end time
+
+  const finalMs = gameStartMsRef.value
+    ? Date.now() - gameStartMsRef.value
+    : gameData.value.durationMs;
+  gameData.value.durationMs = finalMs;
+  gameData.value.durationText = formatDuration(finalMs);
+  gameData.value.endedAtIso = new Date().toISOString();
+};
+
 const checkStatusAndIncrement = (correct) => {
   gameData.value.answersCount++;
   if (correct) {
@@ -55,9 +162,11 @@ const checkStatusAndIncrement = (correct) => {
   } else {
     gameData.value.wrongAnswerCount++;
   }
+  recomputeScore();
   if (gameData.value.answersCount === gameData.value.numberOfQuestions) {
     gameData.value.status = "COMPLETED";
     currentQuestion.value = -1;
+    finalizeGameTiming();
     onCompleted();
     return;
   }
@@ -96,6 +205,7 @@ const handleOnHelp = ($event) => {
   }
   gameData.value.helpsUsedCount++;
   gameData.value.helpsUsed.push($event.id);
+  recomputeScore();
   updateReactivityBaseKey();
 };
 
@@ -151,15 +261,24 @@ const onReturn = () => {
             </p>
           </div>
           <div class="bg-white p-2">
+            <p class="text-sm/6 font-medium">{{ $t("foodquiz.Score") }} 🎯</p>
+            <p class="mt-2 flex items-baseline gap-x-2">
+              <span class="text-4xl font-semibold tracking-tight text-green-500 NumFont1">
+                {{ gameData.scorePoints }}
+              </span>
+              <!--
+              <span class="text-sm text-gray-400"> {{ gameData.durationText }} ⏱️ </span>
+              -->
+            </p>
+            <!--
             <p class="text-sm/6 font-medium">{{ $t("foodquiz.Score") }} ✅</p>
             <p class="mt-2 flex items-baseline gap-x-2">
               <span class="text-4xl font-semibold tracking-tight text-green-500 NumFont1">{{
                 gameData.correctAnswerCount
               }}</span>
-              <!--
               <span class="text-sm text-gray-400">mins</span>
-              -->
             </p>
+            -->
           </div>
           <div class="bg-white p-2">
             <p class="text-sm/6 font-medium">{{ $t("foodquiz.Helps Used") }}</p>
@@ -167,6 +286,32 @@ const onReturn = () => {
               <span class="text-4xl font-semibold tracking-tight text-orange-500 NumFont1"
                 >{{ gameData.helpsUsedCount }} / {{ gameData.helpsTotalCount }}</span
               >
+            </p>
+          </div>
+        </div>
+        <div class="grid grid-cols-3 gap-px bg-red/5">
+          <div class="bg-white p-2">
+            <p class="text-sm/6 font-medium">⏱️</p>
+            <p class="mt-2 flex items-baseline gap-x-2">
+              <span class="text-4xl font-medium tracking-tight text-blue-400 NumFont1">{{
+                gameData.durationText
+              }}</span>
+            </p>
+          </div>
+          <div class="bg-white p-2">
+            <p class="text-sm/6 font-medium">{{ $t("foodquiz.Correct") }} ✅</p>
+            <p class="mt-2 flex items-baseline gap-x-2">
+              <span class="text-4xl font-semibold tracking-tight text-green-500 NumFont1">{{
+                gameData.correctAnswerCount
+              }}</span>
+            </p>
+          </div>
+          <div class="bg-white p-2">
+            <p class="text-sm/6 font-medium">{{ $t("foodquiz.Wrong") }} ❌</p>
+            <p class="mt-2 flex items-baseline gap-x-2">
+              <span class="text-4xl font-semibold tracking-tight text-red-500 NumFont1">
+                {{ gameData.wrongAnswerCount }}
+              </span>
             </p>
           </div>
         </div>

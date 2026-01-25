@@ -30,6 +30,23 @@ const { gameData } = toRefs(props);
         </div>
 
         <div class="bg-white p-4 text-center flex flex-col justify-center items-center">
+          <p class="text-sm font-medium">{{ $t("foodquiz.Score") }}</p>
+          <p class="mt-2 flex items-baseline gap-x-2">
+            <span class="text-4xl font-semibold tracking-tight text-green-500 NumFont1">
+              {{ gameData.scorePoints }}
+            </span>
+          </p>
+        </div>
+        <div class="bg-white p-4 text-center flex flex-col justify-center items-center">
+          <p class="text-sm font-medium">⏱️</p>
+          <p class="mt-2 flex items-baseline gap-x-2">
+            <span class="text-4xl font-medium tracking-tight text-blue-400 NumFont1">
+              {{ gameData.durationText }}
+            </span>
+          </p>
+        </div>
+
+        <div class="bg-white p-4 text-center flex flex-col justify-center items-center">
           <p class="text-sm font-medium">{{ $t("foodquiz.Correct") }} ✅</p>
           <p class="mt-2 flex items-baseline gap-x-2">
             <span class="text-4xl font-semibold tracking-tight text-green-500 NumFont1">
