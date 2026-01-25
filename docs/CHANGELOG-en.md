@@ -1,6 +1,10 @@
 Changelog
 ===
 
+# v0.1.34 Sunday 25 January 2026
+
+- Score tracking for Let's Move
+
 # v0.1.33 Sunday 25 January 2026
 
 - Changed Food Treasure score submission.

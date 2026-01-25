@@ -1,19 +1,47 @@
 <script setup>
 import { ref, onBeforeMount } from "vue";
 import { loadJson } from "@/common/load-json.js";
+import { submitRawScoreToApi } from "@/common/score-api-client";
 
 const PUBLIC_PATH = import.meta.env.BASE_URL;
+const USER_ID = undefined; // TODO Get.
 
 const videoListRef = ref([]);
 
 const selectedVideoRef = ref(null);
+const sendDataToApi = async () => {
+  const videoIdOrName = selectedVideoRef.value?.name;
+  if (!videoIdOrName) {
+    return;
+  }
+  try {
+    const apiData = {
+      userId: USER_ID,
+      score: 1,
+      timestamp: new Date().toISOString(),
+      game: "Let's Move",
+      theme: "default",
+      themeLevel: videoIdOrName,
+      duration: "00:00:00",
+    };
+    await submitRawScoreToApi(apiData);
+    console.log("✅ Let's Move score submitted", apiData);
+  } catch (e) {
+    console.warn("Let's Move score submit failed", e);
+  }
+};
 const selectVideo = (videoObject) => {
   selectedVideoRef.value = videoObject;
+  sendDataToApi()
+    .then(() => void 0)
+    .catch(() => void 0);
 };
-
 const selectRandomVideo = () => {
   const randomIndex = Math.floor(Math.random() * videoListRef.value.length);
   selectedVideoRef.value = videoListRef.value[randomIndex];
+  sendDataToApi()
+    .then(() => void 0)
+    .catch(() => void 0);
 };
 
 // 🧠 Run before mount
