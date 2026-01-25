@@ -27,6 +27,85 @@
         g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
       })();
     </script>
+    <!-- ✅ Runs BEFORE main.js -->
+    <script>
+      (function () {
+        const ALLOWED_LANGS = new Set(['bg', 'da', 'el', 'en', 'es', 'fr', 'nl', 'pt', 'sl', 'sv']);
+
+        const loc = window.location;
+        const rawHash = loc.hash || '';
+
+        // Support URLs like: https://site/#/route?userId=123&lang=el-GR
+        let hashPath = rawHash;
+        let hashQuery = '';
+        if (rawHash.includes('?')) {
+          const parts = rawHash.split('?');
+          hashPath = parts[0]; // "#/route"
+          hashQuery = parts.slice(1).join('?'); // everything after first '?'
+        }
+
+        // Merge query params from normal search + hash query (hash overrides)
+        const merged = new URLSearchParams(loc.search || '');
+        if (hashQuery) {
+          const hp = new URLSearchParams(hashQuery);
+          for (const [k, v] of hp.entries()) merged.set(k, v);
+        }
+
+        // Helper: get param case-insensitively.
+        function getParamCI(name) {
+          const target = String(name).toLowerCase();
+          for (const [k, v] of merged.entries()) {
+            if (String(k).toLowerCase() === target) return v;
+          }
+          return null;
+        }
+
+        // 1) userId handling.
+        const userId = getParamCI('userId');
+        if (userId && String(userId).trim() !== '') {
+          localStorage.setItem('userId', String(userId).trim());
+        } else {
+          // localStorage stores strings; this becomes "null"
+          // localStorage.setItem('userId', null);
+        }
+
+        // 2) lang handling.
+        const lang = getParamCI('lang');
+        if (lang && String(lang).trim() !== '') {
+          const code = String(lang).split('-')[0].toLowerCase();
+          localStorage.setItem('languageCode', ALLOWED_LANGS.has(code) ? code : 'en');
+        }
+
+        // 3) Ensure languageCode exists and is valid
+        const stored = localStorage.getItem('languageCode');
+        if (!stored) {
+          localStorage.setItem('languageCode', 'en');
+        } else {
+          const normalized = String(stored).split('-')[0].toLowerCase();
+          if (!ALLOWED_LANGS.has(normalized)) {
+            localStorage.setItem('languageCode', 'en');
+          } else if (normalized !== stored) {
+            localStorage.setItem('languageCode', normalized);
+          }
+        }
+
+        // 4) Clean URL: remove any "?..." (from search and from hash route)
+        // Build a URL with NO search, and hash without query.
+        const cleanHash = hashPath || '';
+        const cleanUrl = loc.origin + loc.pathname + cleanHash;
+
+        // Only change URL if there actually was a query to strip.
+        if (loc.search || hashQuery) {
+          try {
+            // No reload, no hashchange event
+            history.replaceState(null, document.title, cleanUrl);
+          } catch (e) {
+            // Fallback: full redirect
+            window.location.replace(cleanUrl);
+          }
+        }
+      })();
+    </script>
     <div id="app"></div>
     <script type="module" src="/src/main.js"></script>
   </body>

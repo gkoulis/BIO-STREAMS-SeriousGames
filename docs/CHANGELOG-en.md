@@ -1,6 +1,13 @@
 Changelog
 ===
 
+# v0.1.40 Sunday 25 January 2026
+
+Feature: parse userId/lang from URL before app boot and strip query params.
+
+Adds a pre-boot script that extracts userId and lang from the URL (including hash-route query params), 
+stores them in localStorage with validation/defaults, and then cleans the URL by removing the query string before main.js loads.
+
 # v0.1.39 Sunday 25 January 2026
 
 - Let's Move: get `userId` from browser's local storage.
