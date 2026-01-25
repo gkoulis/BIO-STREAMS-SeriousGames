@@ -1,4 +1,4 @@
-export async function submitRawScoreToApi(userId, { score, duration, levelId, levelTitle, timestamp }) {
+export async function submitRawScoreToApi({ userId, score, timestamp, game, theme, themeLevel, duration }) {
   if (!userId) {
     console.warn("No userId provided; skipping score submit.");
     return;
@@ -8,8 +8,8 @@ export async function submitRawScoreToApi(userId, { score, duration, levelId, le
     UserId: String(userId),
     Score: score,
     Timestamp: timestamp || new Date().toISOString(),
-    GameName: "Food Treasure",
-    Level: `Stage ${levelId} - ${levelTitle}`,
+    GameName: game,
+    Level: `THEME:${theme}|THEME_LEVEL:${themeLevel}`,
     Duration: duration, // "HH:MM:SS"
     Source: "Linked",
   };
