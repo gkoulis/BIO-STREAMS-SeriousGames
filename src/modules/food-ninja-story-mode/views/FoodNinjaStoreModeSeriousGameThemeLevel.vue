@@ -3,6 +3,7 @@ import { onMounted, onBeforeUnmount, ref, reactive, defineEmits, defineProps, to
 // import { useI18n } from "vue-i18n";
 import cloneDeep from "lodash/cloneDeep";
 import Phaser from "phaser";
+import { formatDuration } from "@/common/format-duration";
 
 const props = defineProps({
   level: Object,
@@ -47,17 +48,6 @@ const durationMsRef = ref(0);
 const durationTextRef = ref("00:00:00");
 const scoreRef = ref(0);
 let durationIntervalId = null;
-
-function pad2(n) {
-  return String(n).padStart(2, "0");
-}
-function formatDuration(ms) {
-  const totalSeconds = Math.max(0, Math.floor(ms / 1000));
-  const hours = Math.floor(totalSeconds / 3600);
-  const minutes = Math.floor((totalSeconds % 3600) / 60);
-  const seconds = totalSeconds % 60;
-  return `${pad2(hours)}:${pad2(minutes)}:${pad2(seconds)}`;
-}
 
 const POINTS_PER_CORRECT = 100;
 const PENALTY_PER_WRONG = 50;
