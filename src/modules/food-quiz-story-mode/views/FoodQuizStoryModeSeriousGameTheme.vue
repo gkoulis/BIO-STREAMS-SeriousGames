@@ -5,6 +5,7 @@ import cloneDeep from "lodash/cloneDeep";
 import GameDataGrid from "@/modules/food-quiz-library/GameDataGrid.vue";
 import FoodQuizStoryModeSeriousGameThemeLevel from "./FoodQuizStoryModeSeriousGameThemeLevel.vue";
 import PrivateContainer from "./PrivateContainer.vue";
+import { submitRawScoreToApi } from "@/common/score-api-client";
 
 const router = useRouter();
 
@@ -46,45 +47,6 @@ const startLevel = () => {
   themeStatusRef.value = "ACTIVE";
 };
 
-async function submitRawScoreToApi({ scorePoints, durationText, endedAtIso }) {
-  if (!USER_ID) {
-    console.warn("No userId provided; skipping score submit.");
-    return;
-  }
-  if (!activeLevelRef.value) {
-    return;
-  }
-
-  const payload = {
-    UserId: String(userId.value),
-    Score: Number(scorePoints ?? 0),
-    Timestamp: endedAtIso || new Date().toISOString(),
-    GameName: "Food Quiz",
-    Level: `Stage ${activeLevelRef.value.id} - ${activeLevelRef.value.title}`,
-    Duration: durationText || "00:00:00",
-    Source: "Linked",
-  };
-
-  const res = await fetch(
-    "https://activehealth.dev.bio-streams.eu/api/seriousgames/scores/submit-raw-score",
-    {
-      method: "POST",
-      headers: {
-        accept: "*/*",
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        JsonPayload: JSON.stringify(payload),
-      }),
-    }
-  );
-
-  if (!res.ok) {
-    const txt = await res.text().catch(() => "");
-    throw new Error(`Score submit failed (${res.status}): ${txt}`);
-  }
-}
-
 const handleOnCompleted = async ($event) => {
   lastGameDataRef.value = $event.gameData;
   // @future Utilize $event: correct, wrong tries, time, etc.
@@ -92,8 +54,17 @@ const handleOnCompleted = async ($event) => {
 
   // Try submit score + duration
   try {
-    await submitRawScoreToApi(lastGameDataRef.value);
-    console.log("✅ Food Quiz score submitted", lastGameDataRef.value);
+    const apiData = {
+      userId: USER_ID,
+      score: lastGameDataRef.value.scorePoints,
+      timestamp: lastGameDataRef.value.endedAtIso,
+      game: "Food Quiz Story Mode",
+      theme: THEME.id,
+      themeLevel: activeLevelIdRef.value,
+      duration: lastGameDataRef.value.durationText,
+    };
+    await submitRawScoreToApi(apiData);
+    console.log("✅ Food Quiz score submitted", apiData);
   } catch (e) {
     console.warn("Food Quiz score submit failed", e);
   }

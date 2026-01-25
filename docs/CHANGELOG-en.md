@@ -1,6 +1,10 @@
 Changelog
 ===
 
+# v0.1.28 Sunday 25 January 2026
+
+- Changed Food Quiz Story Mode score submission.
+
 # v0.1.27 Sunday 25 January 2026
 
 - Changed Food Ninja Story Mode score submission.
