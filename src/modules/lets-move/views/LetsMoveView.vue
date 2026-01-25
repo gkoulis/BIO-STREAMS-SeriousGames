@@ -4,8 +4,8 @@ import { loadJson } from "@/common/load-json.js";
 import { submitRawScoreToApi } from "@/common/score-api-client";
 
 const PUBLIC_PATH = import.meta.env.BASE_URL;
-const USER_ID = undefined; // TODO Get.
 
+const userIdRef = ref(null);
 const videoListRef = ref([]);
 
 const selectedVideoRef = ref(null);
@@ -16,7 +16,7 @@ const sendDataToApi = async () => {
   }
   try {
     const apiData = {
-      userId: USER_ID,
+      userId: userIdRef.value,
       score: 1,
       timestamp: new Date().toISOString(),
       game: "Let's Move",
@@ -44,8 +44,8 @@ const selectRandomVideo = () => {
     .catch(() => void 0);
 };
 
-// 🧠 Run before mount
 onBeforeMount(async () => {
+  userIdRef.value = localStorage.getItem("userId") || null;
   const languageCode = localStorage.getItem("languageCode");
   const responseJson = await loadJson(`/sr-letsmove/${languageCode}/content.json`);
   videoListRef.value = responseJson.videoList;

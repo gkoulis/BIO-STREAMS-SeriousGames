@@ -1,6 +1,10 @@
 Changelog
 ===
 
+# v0.1.39 Sunday 25 January 2026
+
+- Let's Move: get `userId` from browser's local storage.
+
 # v0.1.38 Sunday 25 January 2026
 
 - Food Treasure: get `userId` from browser's local storage.
