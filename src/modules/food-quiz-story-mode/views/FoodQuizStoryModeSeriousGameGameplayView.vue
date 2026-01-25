@@ -8,11 +8,13 @@ const router = useRouter();
 
 const THEME_ID = route.params.themeId;
 const THEME_REF = ref(null);
+const userIdRef = ref(null);
 
 onBeforeMount(() => {
   THEME_REF.value = null;
 
   const languageCode = localStorage.getItem("languageCode");
+  userIdRef.value = localStorage.getItem("userId") || null;
 
   let key = `food-quiz-story-mode-data-THEME_BY_ID_REF-${languageCode}`;
   const jsonString = localStorage.getItem(key);
@@ -53,7 +55,7 @@ onBeforeMount(() => {
 
 <template>
   <template v-if="THEME_REF">
-    <FoodQuizStoryModeSeriousGameTheme :theme="THEME_REF" />
+    <FoodQuizStoryModeSeriousGameTheme :theme="THEME_REF" :user-id="userIdRef" />
   </template>
 </template>
 
