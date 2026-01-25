@@ -1,6 +1,10 @@
 Changelog
 ===
 
+# v0.1.23 Sunday 25 January 2026
+
+Minor (trivial) fix.
+
 # v0.1.22 Sunday 25 January 2026
 
 - Score tracking for Food Treasure

@@ -18,7 +18,7 @@ const QR_TARGET = {
   image_url: LEVEL.image_url,
 };
 
-const handleOnReturn = ($event) => {}; // TODO Remove OR Comment.
+// const handleOnReturn = ($event) => {};
 
 const handleOnCompleted = ($event) => {
   emit("onCompleted", $event);

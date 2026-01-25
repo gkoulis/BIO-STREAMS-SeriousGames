@@ -14,7 +14,7 @@ const props = defineProps({
   theme: Object,
   userId: {
     type: [String, Number],
-    required: false
+    required: false,
   },
 });
 
