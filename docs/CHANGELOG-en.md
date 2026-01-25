@@ -1,6 +1,10 @@
 Changelog
 ===
 
+# v0.1.31 Sunday 25 January 2026
+
+- Changed `Game.vue`: `formatDuration(ms)`
+- 
 # v0.1.30 Sunday 25 January 2026
 
 - Changed `FoodNinjaStoreModeSeriousGameThemeLevel.vue`: `formatDuration(ms)`
