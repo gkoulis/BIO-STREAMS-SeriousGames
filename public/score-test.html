@@ -1,0 +1,181 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Submit Raw Score Tester</title>
+  <style>
+      :root { color-scheme: light dark; }
+      body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 24px; max-width: 980px; }
+      h1 { font-size: 20px; margin: 0 0 12px; }
+      .row { display: flex; gap: 12px; flex-wrap: wrap; }
+      .card { border: 1px solid #9995; border-radius: 10px; padding: 14px; margin: 12px 0; }
+      label { display:block; font-size: 12px; opacity: .8; margin: 0 0 6px; }
+      input, textarea, button, select {
+          font: inherit; padding: 10px; border-radius: 8px; border: 1px solid #9995; background: transparent;
+      }
+      textarea { width: 100%; min-height: 190px; resize: vertical; }
+      input[type="text"] { width: min(520px, 100%); }
+      button { cursor: pointer; }
+      button:disabled { opacity: .55; cursor: not-allowed; }
+      pre { white-space: pre-wrap; word-break: break-word; margin: 0; }
+      .hint { font-size: 12px; opacity: .75; margin-top: 6px; }
+      .ok { color: #1a7f37; }
+      .bad { color: #c62828; }
+      .pill { display:inline-block; padding: 2px 8px; border-radius: 999px; border:1px solid #9995; font-size: 12px; }
+  </style>
+</head>
+<body>
+<h1>Serious Games Raw Score Submit Tester</h1>
+
+<div class="card">
+  <div class="row" style="align-items:flex-end;">
+    <div style="flex: 1 1 520px;">
+      <label for="endpoint">Endpoint</label>
+      <input id="endpoint" type="text"
+             value="https://activehealth.dev.bio-streams.eu/api/seriousgames/scores/submit-raw-score" />
+      <div class="hint">If you get a CORS error in the console, the API must allow your server origin, or you’ll need to proxy the request from your server.</div>
+    </div>
+
+    <div>
+      <label for="mode">Payload mode</label>
+      <select id="mode">
+        <option value="nested" selected>Nested JsonPayload string (matches your curl)</option>
+        <option value="direct">Direct object (only if API accepts it)</option>
+      </select>
+    </div>
+
+    <div>
+      <button id="sendBtn">Send request</button>
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <label for="data">Score data (edit me)</label>
+  <textarea id="data"></textarea>
+  <div class="hint">
+    <span class="pill">nested mode</span> sends <code>{"JsonPayload":"{...stringified...}"}</code><br/>
+    <span class="pill">direct mode</span> sends the object as-is.
+  </div>
+</div>
+
+<div class="card">
+  <div class="row" style="justify-content: space-between; align-items:center;">
+    <strong>Result</strong>
+    <span id="statusPill" class="pill">idle</span>
+  </div>
+  <div style="margin-top:10px;">
+    <label>Request body actually sent</label>
+    <pre id="sent"></pre>
+  </div>
+  <div style="margin-top:10px;">
+    <label>Response</label>
+    <pre id="out"></pre>
+  </div>
+</div>
+
+<script>
+  const $ = (id) => document.getElementById(id);
+
+  // Default example matches your curl content.
+  const defaultObj = {
+    UserId: "10481131",
+    Score: 1250,
+    Timestamp: "2023-10-27T14:30:00Z",
+    GameName: "Food Ninja",
+    Level: "Stage 2 - Fruit Master",
+    Duration: "00:15:30",
+    Source: "Linked"
+  };
+
+  // Put pretty JSON into the textarea at load.
+  $("data").value = JSON.stringify(defaultObj, null, 2);
+
+  function setStatus(text, kind) {
+    const el = $("statusPill");
+    el.textContent = text;
+    el.className = "pill " + (kind || "");
+  }
+
+  function safeJsonParse(text) {
+    try { return { ok: true, value: JSON.parse(text) }; }
+    catch (e) { return { ok: false, error: e }; }
+  }
+
+  $("sendBtn").addEventListener("click", async () => {
+    $("out").textContent = "";
+    $("sent").textContent = "";
+    setStatus("sending…", "");
+
+    const endpoint = $("endpoint").value.trim();
+    const mode = $("mode").value;
+
+    const parsed = safeJsonParse($("data").value);
+    if (!parsed.ok) {
+      setStatus("invalid JSON", "bad");
+      $("out").textContent = "Your JSON is invalid:\n" + parsed.error;
+      return;
+    }
+
+    // Build request body:
+    // - nested: { "JsonPayload": "<stringified JSON>" }  (your curl)
+    // - direct: send parsed object directly (only if API supports it)
+    let requestBodyObj;
+    if (mode === "nested") {
+      requestBodyObj = { JsonPayload: JSON.stringify(parsed.value) };
+    } else {
+      requestBodyObj = parsed.value;
+    }
+
+    const requestBody = JSON.stringify(requestBodyObj);
+    $("sent").textContent = requestBody;
+
+    $("sendBtn").disabled = true;
+
+    try {
+      const res = await fetch(endpoint, {
+        method: "POST",
+        headers: {
+          "accept": "*/*",
+          "content-type": "application/json"
+        },
+        body: requestBody
+      });
+
+      const contentType = res.headers.get("content-type") || "";
+      let text;
+      if (contentType.includes("application/json")) {
+        const json = await res.json();
+        text = JSON.stringify(json, null, 2);
+      } else {
+        text = await res.text();
+      }
+
+      if (res.ok) {
+        setStatus("success " + res.status, "ok");
+      } else {
+        setStatus("error " + res.status, "bad");
+      }
+
+      $("out").textContent =
+        "HTTP " + res.status + " " + res.statusText + "\n" +
+        "Content-Type: " + contentType + "\n\n" +
+        text;
+
+    } catch (err) {
+      // Common: CORS, network error, blocked mixed content, etc.
+      setStatus("failed", "bad");
+      $("out").textContent =
+        "Request failed to complete.\n\n" +
+        String(err) + "\n\n" +
+        "If this is a CORS error:\n" +
+        "- The API must allow your website's origin via Access-Control-Allow-Origin, or\n" +
+        "- You need a server-side proxy endpoint on your domain that forwards the request.";
+    } finally {
+      $("sendBtn").disabled = false;
+    }
+  });
+</script>
+</body>
+</html>

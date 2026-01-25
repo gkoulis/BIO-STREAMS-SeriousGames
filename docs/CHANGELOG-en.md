@@ -1,6 +1,10 @@
 Changelog
 ===
 
+# v0.1.35 Sunday 25 January 2026
+
+- Added util `score-test.html` for remote API testing.
+
 # v0.1.34 Sunday 25 January 2026
 
 - Score tracking for Let's Move
