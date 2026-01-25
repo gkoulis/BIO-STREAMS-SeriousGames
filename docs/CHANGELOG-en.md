@@ -1,6 +1,10 @@
 Changelog
 ===
 
+# v0.1.36 Sunday 25 January 2026
+
+- Food Ninja Store Mode: get `userId` from browser's local storage.
+
 # v0.1.35 Sunday 25 January 2026
 
 - Added util `score-test.html` for remote API testing.
