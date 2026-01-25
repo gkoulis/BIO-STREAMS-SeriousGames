@@ -1,9 +1,13 @@
 Changelog
 ===
 
+# v0.1.24 Sunday 25 January 2026
+
+- Added score-api-client.js (`submitRawScoreToApi`)
+
 # v0.1.23 Sunday 25 January 2026
 
-Minor (trivial) fix.
+- Minor (trivial) fix.
 
 # v0.1.22 Sunday 25 January 2026
 
