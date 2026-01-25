@@ -4,6 +4,7 @@ import { useRouter } from "vue-router";
 import cloneDeep from "lodash/cloneDeep";
 import FoodTreasureSeriousGameThemeLevel from "./FoodTreasureSeriousGameThemeLevel.vue";
 import PrivateContainer from "@/components/PrivateContainer.vue";
+import { submitRawScoreToApi } from "@/common/score-api-client";
 
 const router = useRouter();
 
@@ -44,53 +45,20 @@ const startLevel = () => {
   themeStatusRef.value = "ACTIVE";
 };
 
-// TODO Create the same method for all. (composable or something).
-async function submitRawScoreToApi({ score, duration, levelId, levelTitle, timestamp }) {
-  if (!USER_ID) {
-    console.warn("No userId provided; skipping score submit.");
-    return;
-  }
-
-  const payload = {
-    UserId: String(USER_ID),
-    Score: score,
-    Timestamp: timestamp || new Date().toISOString(),
-    GameName: "Food Treasure",
-    Level: `Stage ${levelId} - ${levelTitle}`,
-    Duration: duration, // "HH:MM:SS"
-    Source: "Linked",
-  };
-
-  const res = await fetch(
-    "https://activehealth.dev.bio-streams.eu/api/seriousgames/scores/submit-raw-score",
-    {
-      method: "POST",
-      headers: {
-        accept: "*/*",
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        JsonPayload: JSON.stringify(payload),
-      }),
-    }
-  );
-
-  if (!res.ok) {
-    const txt = await res.text().catch(() => "");
-    throw new Error(`Score submit failed (${res.status}): ${txt}`);
-  }
-
-  // Some APIs return empty body; be tolerant
-  const text = await res.text().catch(() => "");
-  return text;
-}
-
 const handleOnCompleted = async ($event) => {
   // @future Utilize $event: correct, wrong tries, time, etc.
   themeStatusRef.value = "POST_ACTIVE";
-
   try {
-    await submitRawScoreToApi($event);
+    const apiData = {
+      userId: USER_ID,
+      score: $event.score,
+      timestamp: $event.timestamp,
+      game: "Food Treasure",
+      theme: THEME.id,
+      themeLevel: activeLevelIdRef.value,
+      duration: $event.durationText,
+    };
+    await submitRawScoreToApi(apiData);
     console.log("Score submitted:", $event);
   } catch (e) {
     console.warn(e);

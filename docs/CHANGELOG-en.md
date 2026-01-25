@@ -1,6 +1,10 @@
 Changelog
 ===
 
+# v0.1.33 Sunday 25 January 2026
+
+- Changed Food Treasure score submission.
+
 # v0.1.32 Sunday 25 January 2026
 
 - Changed `QrScanner.vue`: added durationText and timestamp.
