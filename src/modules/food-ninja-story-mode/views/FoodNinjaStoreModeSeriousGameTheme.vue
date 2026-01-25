@@ -61,8 +61,17 @@ const handleOnCompleted = async (stats) => {
   }
 
   try {
-    await submitRawScoreToApi(USER_ID, stats);
-    console.log("Score submitted:", stats);
+    const apiData = {
+      userId: USER_ID,
+      score: stats.score,
+      timestamp: stats.timestamp,
+      game: "Food Ninja Story Mode",
+      theme: THEME.id,
+      themeLevel: activeLevelIdRef.value,
+      duration: stats.duration,
+    };
+    await submitRawScoreToApi(apiData);
+    console.log("Score submitted:", apiData);
   } catch (e) {
     console.warn(e);
   }
