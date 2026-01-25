@@ -1,6 +1,10 @@
 Changelog
 ===
 
+# v0.1.32 Sunday 25 January 2026
+
+- Changed `QrScanner.vue`: added durationText and timestamp.
+
 # v0.1.31 Sunday 25 January 2026
 
 - Changed `Game.vue`: `formatDuration(ms)`

@@ -2,6 +2,7 @@
 import cloneDeep from "lodash/cloneDeep";
 import { ref, defineProps, toRefs, defineEmits, onMounted } from "vue";
 import { QrcodeStream } from "vue-qrcode-reader";
+import { formatDuration } from "@/common/format-duration";
 
 const emit = defineEmits(["onCompleted"]);
 
@@ -21,6 +22,8 @@ const gameData = ref({
   success: false,
   score: 0,
   durationMs: 0,
+  durationText: "00:00:00",
+  timestamp: new Date().toISOString()
 });
 
 const foundRef = ref(false);
@@ -67,6 +70,8 @@ function onDetect($event) {
     gameData.value.success = true;
     gameData.value.score = score;
     gameData.value.durationMs = durationMs;
+    gameData.value.durationText = formatDuration(durationMs);
+    gameData.value.timestamp = new Date().toISOString();
   } else {
     foundRef.value = false;
     showInvalidQrRef.value = true;
