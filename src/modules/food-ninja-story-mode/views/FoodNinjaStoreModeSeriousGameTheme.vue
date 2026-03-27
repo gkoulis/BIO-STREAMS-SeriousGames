@@ -177,13 +177,13 @@ const returnToIndex = () => {
           <div class="h-10"></div>
           <div v-if="lastLevelStatsRef" class="mt-6 text-sm text-gray-600 space-y-1">
             <p>
-              ⏱️ Duration: <b>{{ lastLevelStatsRef.duration }}</b>
+              ⏱️ <b>{{ lastLevelStatsRef.duration }}</b>
             </p>
             <p>
-              🎯 Score: <b>{{ lastLevelStatsRef.score }}</b>
+              🎯 {{ $t("foodquiz.Score") }}: <b>{{ lastLevelStatsRef.score }}</b>
             </p>
             <p>
-              ✅ Correct: {{ lastLevelStatsRef.correct }} | ❌ Wrong: {{ lastLevelStatsRef.wrong }}
+              ✅ {{ $t("foodquiz.Correct") }}: {{ lastLevelStatsRef.correct }} | ❌ {{ $t("foodquiz.Wrong") }}: {{ lastLevelStatsRef.wrong }}
             </p>
           </div>
           <div class="h-10"></div>

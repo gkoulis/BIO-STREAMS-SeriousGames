@@ -154,7 +154,7 @@ onMounted(async () => {
     // show score + timer in Phaser overlay
     const hudText = this.add.text(10, 40, "", { font: "16px Arial", fill: "#000000" });
     const hudInterval = setInterval(() => {
-      hudText.setText(`Score: ${scoreRef.value}  Time: ${durationTextRef.value}`);
+      hudText.setText(`🎯 ${scoreRef.value}    ⏱️ ${durationTextRef.value}`);
     }, 250);
     this.events.once("shutdown", () => clearInterval(hudInterval));
     this.events.once("destroy", () => clearInterval(hudInterval));

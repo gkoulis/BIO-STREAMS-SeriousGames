@@ -1,6 +1,10 @@
 Changelog
 ===
 
+# v0.1.60 Friday 27 March 2026
+
+- Food Ninja: fixed hardcoded texts (language neutral or translated)
+
 # v0.1.59 Friday 27 March 2026
 
 - sl translation fixes
