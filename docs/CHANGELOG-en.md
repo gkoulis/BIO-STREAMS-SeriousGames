@@ -1,6 +1,10 @@
 Changelog
 ===
 
+# v0.1.55 Friday 27 March 2026
+
+- Let's Move: Removed old translations
+
 # v0.1.54 Friday 27 March 2026
 
 - Let's Move: Removed old (demo) videos
