@@ -80,7 +80,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Apple",
+                  "text": "Jabolko",
                   "correct": false
                 },
                 {
@@ -155,7 +155,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Apple",
+                  "text": "Jabolko",
                   "correct": false
                 }
               ]
@@ -1344,7 +1344,7 @@
     },
     {
       "id": 2,
-      "title": "Kviz mlečnih izdelkov (DP)",
+      "title": "Kviz mlečnih izdelkov (MI)",
       "description": "Izboljšaj svoje znanje o mlečnih izdelkih! Odgovori na vprašanja in ugotovi, kaj je z vidika prehrane mlečni izdelek, kakšna je njihova hranilna vrednost, koliko jih je priporočljivo zaužiti ter praktične nasvete za zadovoljitev tvojih dnevnih potreb ter kako varno ravnati z njimi.",
       "levels": [
         {
@@ -6726,7 +6726,7 @@
     },
     {
       "id": 6,
-      "title": "Kviz hidracije (HYD)",
+      "title": "Kviz hidracije (HID)",
       "description": "Poglobi svoje znanje o hidraciji! Odgovori na vprašanja in spoznaj pomen vode ter njeno prednost pred drugimi pijačami za doseganje ustrezne hidracije in spodbujanje splošnega zdravja.",
       "levels": [
         {

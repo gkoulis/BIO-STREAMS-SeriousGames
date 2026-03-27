@@ -80,7 +80,7 @@
               "answers": [
                 {
                   "id": 1,
-                  "text": "Apple",
+                  "text": "Jabolko",
                   "correct": false
                 },
                 {
@@ -155,7 +155,7 @@
                 },
                 {
                   "id": 4,
-                  "text": "Apple",
+                  "text": "Jabolko",
                   "correct": false
                 }
               ]
