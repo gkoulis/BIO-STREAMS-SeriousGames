@@ -1,6 +1,10 @@
 Changelog
 ===
 
+# v0.1.58 Friday 27 March 2026
+
+- Let's Move: JSON Content to Excel (for review)
+
 # v0.1.57 Friday 27 March 2026
 
 - Food Treasure: JSON Content to Excel (for review)
