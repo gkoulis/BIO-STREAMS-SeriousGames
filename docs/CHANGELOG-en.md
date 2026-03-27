@@ -1,6 +1,10 @@
 Changelog
 ===
 
+# v0.1.45 Friday 27 March 2026
+
+- Let's Move: Added Video 0002
+- 
 # v0.1.44 Friday 27 March 2026
 
 - Let's Move: Added Video 0001
