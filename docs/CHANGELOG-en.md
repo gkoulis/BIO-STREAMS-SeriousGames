@@ -1,6 +1,10 @@
 Changelog
 ===
 
+# v0.1.56 Friday 27 March 2026
+
+- Let's Move: content automated translations
+
 # v0.1.55 Friday 27 March 2026
 
 - Let's Move: Removed old translations
