@@ -70,6 +70,9 @@ onBeforeMount(async () => {
                 :src="`${selectedVideoRef.videoSrc}`"
                 controls
                 autoplay
+                loop
+                muted
+                playsinline
                 class="video-player"
                 style="width: 100%"
               >

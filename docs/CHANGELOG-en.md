@@ -1,6 +1,10 @@
 Changelog
 ===
 
+# v0.1.43 Friday 27 March 2026
+
+- Let's Move: Added loop autoplay functionality
+
 # v0.1.42 Friday 27 March 2026
 
 - Added Food Treasure automated translations.
