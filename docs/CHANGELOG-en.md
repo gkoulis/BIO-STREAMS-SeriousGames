@@ -1,6 +1,10 @@
 Changelog
 ===
 
+# v0.1.61 Friday 27 March 2026
+
+Trivial: code format + new version in homepage.
+
 # v0.1.60 Friday 27 March 2026
 
 - Food Ninja: fixed hardcoded texts (language neutral or translated)

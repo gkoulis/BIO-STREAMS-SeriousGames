@@ -183,7 +183,8 @@ const returnToIndex = () => {
               🎯 {{ $t("foodquiz.Score") }}: <b>{{ lastLevelStatsRef.score }}</b>
             </p>
             <p>
-              ✅ {{ $t("foodquiz.Correct") }}: {{ lastLevelStatsRef.correct }} | ❌ {{ $t("foodquiz.Wrong") }}: {{ lastLevelStatsRef.wrong }}
+              ✅ {{ $t("foodquiz.Correct") }}: {{ lastLevelStatsRef.correct }} | ❌
+              {{ $t("foodquiz.Wrong") }}: {{ lastLevelStatsRef.wrong }}
             </p>
           </div>
           <div class="h-10"></div>
