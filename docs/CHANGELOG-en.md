@@ -1,6 +1,10 @@
 Changelog
 ===
 
+# v0.1.44 Friday 27 March 2026
+
+- Let's Move: Added Video 0001
+
 # v0.1.43 Friday 27 March 2026
 
 - Let's Move: Added loop autoplay functionality
