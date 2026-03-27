@@ -2,19 +2,19 @@
   "themes": [
     {
       "id": 1,
-      "title": "Descubre las Frutas",
-      "description": "¡Explora tu entorno para descubrir dónde se esconden los secretos frutales! Sigue las pistas y escanea los códigos QR en el orden correcto para completar tu misión frutal.",
+      "title": "Descubre las frutas",
+      "description": "¡Explora tus alrededores para descubrir dónde se esconden los secretos frutales! Sigue las pistas y escanea los códigos QR en el orden correcto para completar tu búsqueda frutal.",
       "levels": [
         {
           "id": 1,
-          "title": "El Snack Favorito del Maestro",
-          "title_post": "Encuentra la Manzana",
+          "title": "El refrigerio favorito del maestro",
+          "title_post": "Encuentra la manzana",
           "description": "",
           "hints": [
-            "Soy roja o verde y a menudo se me ve en manos de maestros. Busca donde los libros están ordenados en filas — tal vez esté allí también."
+            "Soy rojo o verde y a menudo se me ve en manos de los profesores. Mire dónde se encuentran los libros en filas ordenadas: es posible que yo también esté allí."
           ],
           "messages": [
-            "¡Buen trabajo! La manzana ha sido mordida."
+            "¡Buen hallazgo! La manzana ha sido triturada."
           ],
           "secret_code": "red-green-apple",
           "image": "apple.png",
@@ -22,14 +22,14 @@
         },
         {
           "id": 2,
-          "title": "Misterio Cítrico",
-          "title_post": "Encuentra la Naranja",
+          "title": "Misterio de los cítricos",
+          "title_post": "Encuentra la naranja",
           "description": "",
           "hints": [
-            "Pela las capas de tu mente. Soy jugosa y redonda — escondida donde la gente sacia su sed."
+            "Quita las capas de tu mente. Soy jugosa y redonda, escondida donde la gente calma su sed."
           ],
           "messages": [
-            "¡Qué jugoso movimiento! Has descubierto la naranja."
+            "¡Movimiento picante! Has descubierto la naranja."
           ],
           "secret_code": "juicy-orange",
           "image": "orange.png",
@@ -37,14 +37,14 @@
         },
         {
           "id": 3,
-          "title": "Sorpresa de Verano",
-          "title_post": "Encuentra la Sandía",
+          "title": "Sorpresa de verano",
+          "title_post": "Encuentra la sandía",
           "description": "",
           "hints": [
-            "Grande, verde y llena de sorpresas rosadas. Encuéntrame donde brilla el sol y juegan los niños — tal vez cerca del banco de picnic."
+            "Grande, verde y lleno de sorpresas rosas. Encuéntrame donde brilla el sol y los niños corren, tal vez cerca del banco de picnic."
           ],
           "messages": [
-            "¡Lo lograste! La sandía es tuya. ¡Misión frutal completada!"
+            "¡Lo hiciste! La sandía es tuya. ¡Misión frutal completada!"
           ],
           "secret_code": "big-green-pink-watermelon",
           "image": "watermelon.png",

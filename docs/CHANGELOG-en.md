@@ -1,6 +1,10 @@
 Changelog
 ===
 
+# v0.1.42 Friday 27 March 2026
+
+- Added Food Treasure automated translations.
+
 # v0.1.41 Sunday 25 January 2026
 
 - Feature: automatic userId and languageCode.

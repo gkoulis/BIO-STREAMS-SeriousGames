@@ -2,19 +2,19 @@
   "themes": [
     {
       "id": 1,
-      "title": "Upptäck Frukterna",
-      "description": "Utforska din omgivning för att upptäcka var de fruktiga hemligheterna gömmer sig! Följ ledtrådarna och skanna QR-koderna i rätt ordning för att slutföra ditt fruktuppdrag.",
+      "title": "Upptäck frukter",
+      "description": "Utforska din omgivning för att upptäcka var fruktiga hemligheter är gömda! Följ ledtrådarna och skanna QR-koderna i rätt ordning för att slutföra ditt fruktiga uppdrag.",
       "levels": [
         {
           "id": 1,
-          "title": "Lärarens Favoritsnack",
-          "title_post": "Hitta Äpplet",
+          "title": "Lärarens favoritmellanmål",
+          "title_post": "Hitta Apple",
           "description": "",
           "hints": [
-            "Jag är röd eller grön och syns ofta i lärares händer. Leta där böcker står uppradade — jag kan vara där också."
+            "Jag är röd eller grön och ses ofta i lärares händer. Titta var böcker står i prydliga rader - jag kanske också är där."
           ],
           "messages": [
-            "Bra jobbat! Äpplet har hittats."
+            "Trevligt fynd! Äpplet har blivit knäckt."
           ],
           "secret_code": "red-green-apple",
           "image": "apple.png",
@@ -22,14 +22,14 @@
         },
         {
           "id": 2,
-          "title": "Citrusmysteriet",
-          "title_post": "Hitta Apelsinen",
+          "title": "Citrusmysterium",
+          "title_post": "Hitta apelsinen",
           "description": "",
           "hints": [
-            "Skala lagren i ditt sinne. Jag är saftig och rund — gömd där folk släcker sin törst."
+            "Dra tillbaka lagren av ditt sinne. Jag är saftig och rund — gömmer mig där folk släcker törsten."
           ],
           "messages": [
-            "Fruktigt avslöjande! Du har hittat apelsinen."
+            "Snyggt drag! Du har avslöjat apelsinen."
           ],
           "secret_code": "juicy-orange",
           "image": "orange.png",
@@ -37,14 +37,14 @@
         },
         {
           "id": 3,
-          "title": "Sommarskräll",
-          "title_post": "Hitta Vattenmelonen",
+          "title": "Sommaröverraskning",
+          "title_post": "Hitta vattenmelonen",
           "description": "",
           "hints": [
-            "Stor, grön och full av rosa överraskningar. Hitta mig där solen skiner och barnen leker — kanske nära picknickbordet."
+            "Stora, gröna och fulla av rosa överraskningar. Hitta mig där solen skiner och barn springer runt - kanske nära picknickbänken."
           ],
           "messages": [
-            "Du klarade det! Vattenmelonen är din. Fruktuppdraget är slutfört!"
+            "Du gjorde det! Vattenmelonen är din. Fruktigt uppdrag klart!"
           ],
           "secret_code": "big-green-pink-watermelon",
           "image": "watermelon.png",

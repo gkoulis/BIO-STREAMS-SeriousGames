@@ -2,19 +2,19 @@
   "themes": [
     {
       "id": 1,
-      "title": "Découvre les Fruits",
-      "description": "Explore ton environnement pour découvrir où se cachent les secrets fruités ! Suis les indices et scanne les QR codes dans le bon ordre pour compléter ta quête fruitée.",
+      "title": "Découvrez les fruits",
+      "description": "Explorez votre environnement pour découvrir où se cachent les secrets fruités ! Suivez les indices et scannez les codes QR dans le bon ordre pour terminer votre quête fruitée.",
       "levels": [
         {
           "id": 1,
-          "title": "Le Snack Préféré du Professeur",
-          "title_post": "Trouve la Pomme",
+          "title": "La collation préférée du professeur",
+          "title_post": "Trouver la pomme",
           "description": "",
           "hints": [
-            "Je suis rouge ou verte et souvent vue dans les mains des professeurs. Cherche là où les livres sont bien rangés en lignes — je pourrais y être aussi."
+            "Je suis rouge ou vert et on me voit souvent entre les mains des enseignants. Regardez où les livres sont bien rangés – je pourrais être là aussi."
           ],
           "messages": [
-            "Bien joué ! La pomme a été croquée."
+            "Belle trouvaille ! La pomme a été croquée."
           ],
           "secret_code": "red-green-apple",
           "image": "apple.png",
@@ -22,14 +22,14 @@
         },
         {
           "id": 2,
-          "title": "Mystère d’Agrume",
-          "title_post": "Trouve l’Orange",
+          "title": "Mystère des agrumes",
+          "title_post": "Trouvez l'Orange",
           "description": "",
           "hints": [
-            "Épluche les couches de ton esprit. Je suis juteuse et ronde — cachée là où les gens étanchent leur soif."
+            "Décollez les couches de votre esprit. Je suis juteuse et ronde, je me cache là où les gens étanchent leur soif."
           ],
           "messages": [
-            "Mouvement acidulé ! Tu as trouvé l’orange."
+            "Un geste piquant ! Vous avez découvert l’orange."
           ],
           "secret_code": "juicy-orange",
           "image": "orange.png",
@@ -37,14 +37,14 @@
         },
         {
           "id": 3,
-          "title": "Surprise d’Été",
-          "title_post": "Trouve la Pastèque",
+          "title": "Surprise d'été",
+          "title_post": "Trouver la pastèque",
           "description": "",
           "hints": [
-            "Gros, vert et rempli de surprises roses. Trouve-moi là où brille le soleil et où les enfants jouent — peut-être près du banc de pique-nique."
+            "Grand, vert et plein de surprises roses. Trouvez-moi là où le soleil brille et où les enfants courent – ​​peut-être près du banc de pique-nique."
           ],
           "messages": [
-            "Tu l’as fait ! La pastèque est à toi. Mission fruitée accomplie !"
+            "Vous l'avez fait ! La pastèque est à vous. Mission fruitée terminée !"
           ],
           "secret_code": "big-green-pink-watermelon",
           "image": "watermelon.png",

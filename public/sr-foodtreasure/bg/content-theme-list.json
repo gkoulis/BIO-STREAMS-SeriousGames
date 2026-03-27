@@ -2,19 +2,19 @@
   "themes": [
     {
       "id": 1,
-      "title": "Discover Fruits",
-      "description": "Explore your surroundings to discover where fruity secrets are hidden! Follow the clues and scan the QR codes in the correct order to complete your fruity quest.",
+      "title": "Открийте плодове",
+      "description": "Изследвайте заобикалящата ви среда, за да откриете къде са скрити плодовите тайни! Следвайте уликите и сканирайте QR кодовете в правилния ред, за да завършите вашето плодово търсене.",
       "levels": [
         {
           "id": 1,
-          "title": "Teacher’s Favorite Snack",
-          "title_post": "Find the Apple",
+          "title": "Любимата закуска на учителя",
+          "title_post": "Намерете ябълката",
           "description": "",
           "hints": [
-            "I’m red or green and often seen in teachers’ hands. Look where books stand in neat rows — I might be there too."
+            "Аз съм червен или зелен и често се виждам в ръцете на учителите. Вижте къде книгите стоят в спретнати редици — може и аз да съм там."
           ],
           "messages": [
-            "Nice find! The apple has been crunched."
+            "Хубава находка! Ябълката е хрускана."
           ],
           "secret_code": "red-green-apple",
           "image": "apple.png",
@@ -22,14 +22,14 @@
         },
         {
           "id": 2,
-          "title": "Citrus Mystery",
-          "title_post": "Find the Orange",
+          "title": "Цитрусовата мистерия",
+          "title_post": "Намерете портокала",
           "description": "",
           "hints": [
-            "Peel back the layers of your mind. I'm juicy and round — hiding where people quench their thirst."
+            "Отлепете слоевете на ума си. Аз съм сочен и кръгъл — крия се там, където хората утоляват жаждата си."
           ],
           "messages": [
-            "Zesty move! You’ve uncovered the orange. "
+            "Пикантен ход! Вие разкрихте портокала."
           ],
           "secret_code": "juicy-orange",
           "image": "orange.png",
@@ -37,14 +37,14 @@
         },
         {
           "id": 3,
-          "title": "Summer Surprise",
-          "title_post": "Find the Watermelon",
+          "title": "Лятна изненада",
+          "title_post": "Намерете динята",
           "description": "",
           "hints": [
-            "Big, green, and full of pink surprises. Find me where the sun shines and kids run around — maybe near the picnic bench."
+            "Големи, зелени и пълни с розови изненади. Намерете ме там, където слънцето грее и децата тичат наоколо — може би близо до пейката за пикник."
           ],
           "messages": [
-            "You did it! The watermelon is yours. Fruity mission complete!"
+            "Ти го направи! Динята е твоя. Плодовата мисия завършена!"
           ],
           "secret_code": "big-green-pink-watermelon",
           "image": "watermelon.png",

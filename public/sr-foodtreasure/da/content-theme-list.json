@@ -2,19 +2,19 @@
   "themes": [
     {
       "id": 1,
-      "title": "Discover Fruits",
-      "description": "Explore your surroundings to discover where fruity secrets are hidden! Follow the clues and scan the QR codes in the correct order to complete your fruity quest.",
+      "title": "Oplev frugter",
+      "description": "Udforsk dine omgivelser for at opdage, hvor frugtige hemmeligheder er gemt! Følg sporene, og scan QR-koderne i den rigtige rækkefølge for at fuldføre din frugtige søgen.",
       "levels": [
         {
           "id": 1,
-          "title": "Teacher’s Favorite Snack",
-          "title_post": "Find the Apple",
+          "title": "Lærerens yndlingssnack",
+          "title_post": "Find æblet",
           "description": "",
           "hints": [
-            "I’m red or green and often seen in teachers’ hands. Look where books stand in neat rows — I might be there too."
+            "Jeg er rød eller grøn og ses ofte i lærernes hænder. Se, hvor bøger står i pæne rækker - jeg er der måske også."
           ],
           "messages": [
-            "Nice find! The apple has been crunched."
+            "Dejligt fund! Æblet er blevet knust."
           ],
           "secret_code": "red-green-apple",
           "image": "apple.png",
@@ -22,14 +22,14 @@
         },
         {
           "id": 2,
-          "title": "Citrus Mystery",
-          "title_post": "Find the Orange",
+          "title": "Citrus mysterium",
+          "title_post": "Find appelsinen",
           "description": "",
           "hints": [
-            "Peel back the layers of your mind. I'm juicy and round — hiding where people quench their thirst."
+            "Skræl lagene af dit sind tilbage. Jeg er saftig og rund - gemmer mig, hvor folk slukker deres tørst."
           ],
           "messages": [
-            "Zesty move! You’ve uncovered the orange. "
+            "Sjovt træk! Du har afsløret appelsinen."
           ],
           "secret_code": "juicy-orange",
           "image": "orange.png",
@@ -37,14 +37,14 @@
         },
         {
           "id": 3,
-          "title": "Summer Surprise",
-          "title_post": "Find the Watermelon",
+          "title": "Sommer overraskelse",
+          "title_post": "Find vandmelonen",
           "description": "",
           "hints": [
-            "Big, green, and full of pink surprises. Find me where the sun shines and kids run around — maybe near the picnic bench."
+            "Stor, grøn og fuld af lyserøde overraskelser. Find mig, hvor solen skinner, og børnene løber rundt - måske i nærheden af ​​picnicbænken."
           ],
           "messages": [
-            "You did it! The watermelon is yours. Fruity mission complete!"
+            "Du gjorde det! Vandmelonen er din. Frugtfuld mission fuldført!"
           ],
           "secret_code": "big-green-pink-watermelon",
           "image": "watermelon.png",

@@ -2,19 +2,19 @@
   "themes": [
     {
       "id": 1,
-      "title": "Discover Fruits",
-      "description": "Explore your surroundings to discover where fruity secrets are hidden! Follow the clues and scan the QR codes in the correct order to complete your fruity quest.",
+      "title": "Descubra frutas",
+      "description": "Explore os arredores para descobrir onde os segredos frutados estão escondidos! Siga as pistas e escaneie os códigos QR na ordem correta para completar sua missão frutada.",
       "levels": [
         {
           "id": 1,
-          "title": "Teacher’s Favorite Snack",
-          "title_post": "Find the Apple",
+          "title": "Lanche favorito do professor",
+          "title_post": "Encontre a maçã",
           "description": "",
           "hints": [
-            "I’m red or green and often seen in teachers’ hands. Look where books stand in neat rows — I might be there too."
+            "Sou vermelho ou verde e frequentemente visto nas mãos dos professores. Veja onde os livros estão em fileiras organizadas - talvez eu também esteja lá."
           ],
           "messages": [
-            "Nice find! The apple has been crunched."
+            "Belo achado! A maçã foi esmagada."
           ],
           "secret_code": "red-green-apple",
           "image": "apple.png",
@@ -22,14 +22,14 @@
         },
         {
           "id": 2,
-          "title": "Citrus Mystery",
-          "title_post": "Find the Orange",
+          "title": "Mistério cítrico",
+          "title_post": "Encontre a laranja",
           "description": "",
           "hints": [
-            "Peel back the layers of your mind. I'm juicy and round — hiding where people quench their thirst."
+            "Retire as camadas da sua mente. Sou suculento e redondo - me escondendo onde as pessoas saciam a sede."
           ],
           "messages": [
-            "Zesty move! You’ve uncovered the orange. "
+            "Movimento picante! Você descobriu a laranja."
           ],
           "secret_code": "juicy-orange",
           "image": "orange.png",
@@ -37,14 +37,14 @@
         },
         {
           "id": 3,
-          "title": "Summer Surprise",
-          "title_post": "Find the Watermelon",
+          "title": "Surpresa de verão",
+          "title_post": "Encontre a melancia",
           "description": "",
           "hints": [
-            "Big, green, and full of pink surprises. Find me where the sun shines and kids run around — maybe near the picnic bench."
+            "Grande, verde e cheio de surpresas rosa. Encontre-me onde o sol brilha e as crianças correm – talvez perto do banco de piquenique."
           ],
           "messages": [
-            "You did it! The watermelon is yours. Fruity mission complete!"
+            "Você conseguiu! A melancia é sua. Missão frutada concluída!"
           ],
           "secret_code": "big-green-pink-watermelon",
           "image": "watermelon.png",
